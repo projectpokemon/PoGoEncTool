@@ -3,6 +3,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Windows.Forms;
 using PKHeX.Core;
+using PKHeX.Drawing;
 
 namespace PoGoEncTool
 {
@@ -114,6 +115,7 @@ namespace PoGoEncTool
         {
             var entry = Entries.GetDetails(species, form);
             LoadPoke(entry);
+            PB_Poke.Image = SpriteUtil.GetSprite(species, form, 0, 0, 0, false, false);
         }
 
         private void LoadPoke(PogoPoke poke)
