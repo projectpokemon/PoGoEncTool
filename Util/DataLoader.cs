@@ -32,7 +32,10 @@ namespace PoGoEncTool
             File.WriteAllText(jsonPath, contents);
 
             var data = PogoPickler.WritePickle(entries);
-            File.WriteAllBytes(Path.Combine(exePath, "pgo_home.pkl"), data);
+            File.WriteAllBytes(Path.Combine(exePath, "encounter_go_home.pkl"), data);
+
+            var lgpe = PogoPickler.WritePickleLGPE(entries);
+            File.WriteAllBytes(Path.Combine(exePath, "encounter_go_lgpe.pkl"), lgpe);
         }
     }
 }
