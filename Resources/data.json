@@ -733,9 +733,14 @@
       "Form": 1,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -2039,12 +2044,12 @@
         {
           "Shiny": 1,
           "Type": 2,
-          "Comment": "Initial: Egg Only"
+          "Comment": "Crown Tundra Tie-In"
         },
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Purified"
+          "Comment": "Crown Tundra Tie-In"
         }
       ]
     },
@@ -3106,11 +3111,6 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 2,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Eggs that can be shiny"
@@ -3132,11 +3132,6 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 2,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Eggs that can be shiny"
@@ -3156,11 +3151,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
-        },
-        {
-          "Shiny": 2,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
         },
         {
           "Shiny": 0,
@@ -3536,9 +3526,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -3547,9 +3542,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -3558,9 +3558,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -3632,9 +3637,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Special Research (Can be Shiny)"
         }
       ]
     },
@@ -4073,11 +4083,6 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 2,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Eggs that can be shiny"
@@ -4085,7 +4090,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Purified"
+          "Comment": "Initial: Raid"
         }
       ]
     },
@@ -5662,9 +5667,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -5673,9 +5683,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -5684,9 +5699,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -5758,9 +5778,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -5769,9 +5794,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -8146,9 +8176,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -8157,9 +8192,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -8168,9 +8208,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -8179,9 +8224,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -8190,9 +8240,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -8201,9 +8256,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -8212,9 +8272,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -8223,7 +8288,7 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
         }
@@ -8245,7 +8310,7 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 11,
           "Comment": "Initial: Raid 20 Only"
         }
@@ -8612,7 +8677,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Purified"
+          "Comment": "Initial: Raid"
         }
       ]
     },
@@ -8628,7 +8693,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Purified"
+          "Comment": "Initial: Raid"
         }
       ]
     },
@@ -8644,7 +8709,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Purified"
+          "Comment": "Initial: Raid"
         }
       ]
     },
@@ -9350,8 +9415,8 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
-          "Type": 10,
+          "Shiny": 0,
+          "Type": 20,
           "Comment": "Initial: Raid 15 Only"
         }
       ]
@@ -9789,11 +9854,6 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 2,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Eggs that can be shiny"
@@ -9815,11 +9875,6 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 2,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Eggs that can be shiny"
@@ -9839,11 +9894,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
-        },
-        {
-          "Shiny": 2,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
         },
         {
           "Shiny": 0,
@@ -10242,6 +10292,11 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "A Colossal Discovery"
         }
       ]
     },
@@ -10250,25 +10305,9 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
-        }
-      ]
-    },
-    {
-      "Species": 487,
-      "Form": 1,
-      "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
-        {
-          "Shiny": 2,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
         }
       ]
     },
@@ -10277,7 +10316,7 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
         }
@@ -10288,7 +10327,7 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 11,
           "Comment": "Initial: Raid 20 Only"
         }
@@ -10298,11 +10337,6 @@
       "Species": 494,
       "Form": 0,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
-        },
         {
           "Shiny": 1,
           "Type": 20,
@@ -11235,7 +11269,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Purified"
+          "Comment": "Initial: Raid"
         }
       ]
     },
@@ -11262,7 +11296,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Purified"
+          "Comment": "Initial: Raid"
         }
       ]
     },
@@ -11390,7 +11424,7 @@
       "Data": [
         {
           "Shiny": 1,
-          "Type": 10,
+          "Type": 20,
           "Comment": "Initial: Raid 15 Only"
         }
       ]
@@ -11809,7 +11843,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Purified"
+          "Comment": "Initial: Raid"
         }
       ]
     },
@@ -11825,7 +11859,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Purified"
+          "Comment": "Initial: Raid"
         }
       ]
     },
@@ -11841,7 +11875,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Purified"
+          "Comment": "Initial: Raid"
         }
       ]
     },
@@ -12249,7 +12283,7 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
         }
@@ -12260,7 +12294,7 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
         }
@@ -12271,7 +12305,7 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Initial: Raid 15 Only"
         }
@@ -12396,9 +12430,14 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Shiny": 0,
+          "Type": 11,
+          "Comment": "(EX) Raid Boss"
+        },
+        {
+          "Shiny": 0,
           "Type": 20,
-          "Comment": "Initial: Field Research 15 Only"
+          "Comment": "Throwback Challenge Champion / A Drive to Investigate"
         }
       ]
     },
@@ -12471,14 +12510,44 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 1,
+          "Start": {
+            "Y": 2019,
+            "M": 4,
+            "D": 24
+          },
+          "End": {
+            "Y": 2019,
+            "M": 5,
+            "D": 5
+          },
+          "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "Shiny Meltan (Event 2)"
         },
         {
-          "Shiny": 2,
+          "Start": {
+            "Y": 2019,
+            "M": 2,
+            "D": 5
+          },
+          "End": {
+            "Y": 2019,
+            "M": 3,
+            "D": 4
+          },
+          "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Shiny Meltan (Event 1)"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "LGPE Launch (Mystery Box)"
         }
       ]
     },
@@ -12537,7 +12606,7 @@
       "Data": [
         {
           "Shiny": 1,
-          "Type": 10,
+          "Type": 20,
           "Comment": "Initial: Raid 15 Only"
         }
       ]
