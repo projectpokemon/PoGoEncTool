@@ -52,7 +52,7 @@ namespace PoGoEncTool
 
         private static void SaveData(PogoEncounterList entries, string path)
         {
-            DataLoader.SaveData(entries, path);
+            DataLoader.SaveData(Application.StartupPath, entries, path);
             System.Media.SystemSounds.Asterisk.Play();
         }
 

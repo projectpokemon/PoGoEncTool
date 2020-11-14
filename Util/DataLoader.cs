@@ -23,16 +23,16 @@ namespace PoGoEncTool
             return JsonConvert.DeserializeObject<PogoEncounterList?>(str) ?? new PogoEncounterList();
         }
 
-        public static void SaveData(PogoEncounterList entries, string path)
+        public static void SaveData(string exePath, PogoEncounterList entries, string jsonPath)
         {
             var clone = JsonConvert.DeserializeObject<PogoEncounterList>(JsonConvert.SerializeObject(entries));
             clone.Clean();
             var settings = new JsonSerializerSettings { Formatting = Formatting.Indented, NullValueHandling = NullValueHandling.Ignore };
-            var str = JsonConvert.SerializeObject(clone, settings);
-            File.WriteAllText(path, str);
+            var contents = JsonConvert.SerializeObject(clone, settings);
+            File.WriteAllText(jsonPath, contents);
 
             var data = PogoPickler.WritePickle(entries);
-            File.WriteAllBytes("pgo_home.pkl", data);
+            File.WriteAllBytes(Path.Combine(exePath, "pgo_home.pkl"), data);
         }
     }
 }
