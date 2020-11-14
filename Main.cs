@@ -197,5 +197,16 @@ namespace PoGoEncTool
             };
             Process.Start(psi);
         }
+
+        private void L_PGFandom_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            var url = $"https://pokemongo.fandom.com/wiki/{(Species)CurrentSpecies}#Availability";
+            var psi = new ProcessStartInfo
+            {
+                FileName = url,
+                UseShellExecute = true
+            };
+            Process.Start(psi);
+        }
     }
 }
