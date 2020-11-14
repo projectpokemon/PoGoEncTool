@@ -735,7 +735,7 @@ namespace PoGoEncTool
             const int start = 1;
             var speciesList = Enumerable.Range(start, maxSpecies - start + 1).Concat(extras);
             var pt8 = PersonalTable.SWSH;
-
+            var pt7 = PersonalTable.USUM;
             foreach (var specform in speciesList)
             {
                 var species = specform & 0x7FF;
@@ -743,7 +743,8 @@ namespace PoGoEncTool
                     continue;
 
                 var pi8 = (PersonalInfoSWSH)pt8[species];
-                for (int f = 0; f < pi8.FormeCount; f++)
+                int count = pi8.IsPresentInGame ? pi8.FormeCount : pt7[species].FormeCount;
+                for (int f = 0; f < count; f++)
                 {
                     var sf = species | (f << 11);
                     if (banlist.Contains(sf))
