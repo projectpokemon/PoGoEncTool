@@ -26,7 +26,7 @@ namespace PoGoEncTool
         {
             var clone = JsonConvert.DeserializeObject<PogoEncounterList>(JsonConvert.SerializeObject(entries));
             clone.Clean();
-            var settings = new JsonSerializerSettings { Formatting = Formatting.Indented };
+            var settings = new JsonSerializerSettings { Formatting = Formatting.Indented, NullValueHandling = NullValueHandling.Ignore };
             var str = JsonConvert.SerializeObject(clone, settings);
             File.WriteAllText(path, str);
 

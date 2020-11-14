@@ -104,7 +104,7 @@ namespace PoGoEncTool
         private void LoadPoke(PogoPoke poke)
         {
             LB_Appearances.Items.Clear();
-            LB_Appearances.Items.AddRange(poke.ToArray());
+            LB_Appearances.Items.AddRange(poke.Data.ToArray());
             CurrentPoke = poke;
             ChangeRowCount(0);
         }
@@ -139,7 +139,7 @@ namespace PoGoEncTool
             foreach (var entry in selected)
             {
                 entry.Type = PogoType.None;
-                CurrentPoke.Remove(entry);
+                CurrentPoke.Data.Remove(entry);
                 LB_Appearances.Items.Remove(entry);
             }
         }

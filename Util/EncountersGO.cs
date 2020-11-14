@@ -780,7 +780,7 @@ namespace PoGoEncTool
             }
 
             // If no encounters yielded, was wild
-            if (result.Count == 0)
+            if (result.Data.Count == 0)
             {
                 result.Add(new PogoEntry { Type = PogoType.Wild, Comment = "Initial: Can exist in wild" });
                 if (!UnavailableShiny.Contains(sf))

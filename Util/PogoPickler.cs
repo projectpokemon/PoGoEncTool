@@ -36,7 +36,7 @@ namespace PoGoEncTool
 
         public static byte[] WritePickle(PogoEncounterList entries)
         {
-            var data = GetEntries(entries);
+            var data = GetEntries(entries.Data);
             return BinLinker.Pack(data, identifier);
         }
 
@@ -54,7 +54,7 @@ namespace PoGoEncTool
             using var bw = new BinaryWriter(ms);
 
             bw.Write(entry.Species | (entry.Form << 11));
-            foreach (var a in entry)
+            foreach (var a in entry.Data)
                 Write(a, bw);
 
             return ms.ToArray();

@@ -2,27 +2,31 @@
 
 namespace PoGoEncTool
 {
-    public class PogoEncounterList : List<PogoPoke>
+    public class PogoEncounterList
     {
+        public List<PogoPoke> Data { get; set; } = new List<PogoPoke>();
+        public PogoPoke this[int index] { get => Data[index]; set => Data[index] = value; }
+        public void Add(PogoPoke entry) => Data.Add(entry);
+
         public PogoEncounterList() { }
-        public PogoEncounterList(IEnumerable<PogoPoke> seed) => AddRange(seed);
+        public PogoEncounterList(IEnumerable<PogoPoke> seed) => Data.AddRange(seed);
 
         public PogoPoke GetDetails(int species, int form)
         {
-            var exist = Find(z => z.Species == species && z.Form == form);
+            var exist = Data.Find(z => z.Species == species && z.Form == form);
             if (exist != null)
                 return exist;
 
             var created = PogoPoke.CreateNew(species, form);
-            Add(created);
+            Data.Add(created);
             return created;
         }
 
         public void Clean()
         {
-            foreach (var d in this)
+            foreach (var d in Data)
                 d.Clean();
-            RemoveAll(z => z.Count == 0);
+            Data.RemoveAll(z => z.Data.Count == 0);
         }
     }
 }
