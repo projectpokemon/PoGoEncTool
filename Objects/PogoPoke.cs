@@ -1,8 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace PoGoEncTool
 {
-    public class PogoPoke
+    public class PogoPoke : IComparable
     {
         public int Species { get; set; }
         public int Form { get; set; }
@@ -17,6 +18,30 @@ namespace PoGoEncTool
             Form = form,
         };
 
-        public void Clean() => Data.RemoveAll(z => z.Type == 0);
+        public void Clean()
+        {
+            Data.RemoveAll(z => z.Type == 0);
+            Data.Sort((x, y) => x.CompareTo(y));
+        }
+
+        public int CompareTo(PogoPoke p)
+        {
+            if (Species < p.Species)
+                return -1;
+            if (Species > p.Species)
+                return 1;
+            if (Form < p.Form)
+                return -1;
+            if (Form > p.Form)
+                return 1;
+            throw new Exception("Invalid sort index -- duplicate object detected"); // Shouldn't ever hit this.
+        }
+
+        public int CompareTo(object? obj)
+        {
+            if (!(obj is PogoPoke p))
+                return 1;
+            return CompareTo(p);
+        }
     }
 }

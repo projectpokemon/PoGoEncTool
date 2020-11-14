@@ -788,11 +788,11 @@ namespace PoGoEncTool
             }
 
             if (RequireLevelIV_EggShiny1_1.Contains(sf))
-                result.Add(new PogoEntry { Type = PogoType.Egg, Shiny = true, Comment = "Initial: Eggs that can be shiny" });
+                result.Add(new PogoEntry { Type = PogoType.Egg, Shiny = PogoShiny.Always, Comment = "Initial: Eggs that can be shiny" });
             if (AvailableAsRaids.Contains(sf) && !restrictedRaid)
                 result.Add(new PogoEntry { Type = PogoType.Raid15, Comment = "Initial: Purified" });
             if (PurifiedShiny.Contains(sf))
-                result.Add(new PogoEntry { Type = PogoType.Raid15, Shiny = true, Comment = "Initial: Purified Shiny" });
+                result.Add(new PogoEntry { Type = PogoType.Raid15, Shiny = PogoShiny.Always, Comment = "Initial: Purified Shiny" });
 
             return result;
         }

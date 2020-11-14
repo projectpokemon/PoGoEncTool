@@ -113,6 +113,7 @@ namespace PoGoEncTool
             this.CHK_Shiny.Size = new System.Drawing.Size(55, 19);
             this.CHK_Shiny.TabIndex = 6;
             this.CHK_Shiny.Text = "Shiny";
+            this.CHK_Shiny.ThreeState = true;
             this.CHK_Shiny.UseVisualStyleBackColor = true;
             // 
             // TB_Comment

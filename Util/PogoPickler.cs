@@ -71,7 +71,7 @@ namespace PoGoEncTool
 
             return new PogoEntry
             {
-                Shiny = shiny == 1,
+                Shiny = (PogoShiny)shiny,
                 Type = (PogoType) type,
                 Start = start == 0 ? null : new PogoDate(start),
                 End = end == 0 ? null : new PogoDate(end),
@@ -82,7 +82,7 @@ namespace PoGoEncTool
         {
             bw.Write(entry.Start?.Write() ?? 0);
             bw.Write(entry.End?.Write() ?? 0);
-            bw.Write((byte)(entry.Shiny ? 1 : 0));
+            bw.Write((byte)entry.Shiny);
             bw.Write((byte)entry.Type);
         }
     }

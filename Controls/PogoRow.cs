@@ -21,7 +21,12 @@ namespace PoGoEncTool
 
         public void LoadEntry(PogoEntry entry)
         {
-            CHK_Shiny.Checked = entry.Shiny;
+            CHK_Shiny.CheckState = entry.Shiny switch
+            {
+                PogoShiny.Always => CheckState.Checked,
+                PogoShiny.Random => CheckState.Indeterminate,
+                _ => CheckState.Unchecked
+            };
 
             DT_Start.Value = GetDateTime(entry.Start);
             DT_Start.Checked = entry.Start != null;
@@ -37,7 +42,12 @@ namespace PoGoEncTool
 
         public void SaveEntry(PogoEntry entry)
         {
-            entry.Shiny = CHK_Shiny.Checked;
+            entry.Shiny = CHK_Shiny.CheckState switch
+            {
+                CheckState.Checked => PogoShiny.Always,
+                CheckState.Indeterminate => PogoShiny.Random,
+                _ => PogoShiny.Never,
+            };
 
             entry.Start = !DT_Start.Checked ? null : new PogoDate(DT_Start.Value);
             entry.End = !DT_End.Checked ? null : new PogoDate(DT_End.Value);

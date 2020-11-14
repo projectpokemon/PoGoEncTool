@@ -2,7 +2,7 @@
 
 namespace PoGoEncTool
 {
-    public class PogoDate
+    public class PogoDate : IComparable
     {
         public int Y { get; set; }
         public int M { get; set; }
@@ -31,6 +31,16 @@ namespace PoGoEncTool
         }
 
         public override string ToString() => $"{Y:0000}.{M:00}.{D:00}";
+
         public int Write() => (Y << 16) | (M << 8) | D;
+
+        public int CompareTo(PogoDate p) => Write().CompareTo(p.Write());
+
+        public int CompareTo(object? obj)
+        {
+            if (!(obj is PogoDate p))
+                return 1;
+            return CompareTo(p);
+        }
     }
 }

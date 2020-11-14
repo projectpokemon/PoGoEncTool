@@ -27,6 +27,7 @@ namespace PoGoEncTool
             foreach (var d in Data)
                 d.Clean();
             Data.RemoveAll(z => z.Data.Count == 0);
+            Data.Sort((x, y) => x.CompareTo(y));
         }
     }
 }
