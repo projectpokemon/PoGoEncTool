@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Linq;
 using System.Windows.Forms;
+using PKHeX.Core;
 
 namespace PoGoEncTool
 {
@@ -8,7 +10,13 @@ namespace PoGoEncTool
         public PogoRow()
         {
             InitializeComponent();
-            CB_Type.Items.AddRange(Enum.GetNames<PogoType>());
+
+            var names = Enum.GetNames<PogoType>();
+            var values = Enum.GetValues<PogoType>();
+            var ds = names.Select((z, i) => new ComboItem(z, (int) values[i]));
+            CB_Type.DisplayMember = nameof(ComboItem.Text);
+            CB_Type.ValueMember = nameof(ComboItem.Value);
+            CB_Type.DataSource = new BindingSource(ds, null);
         }
 
         public void LoadEntry(PogoEntry entry)
@@ -20,7 +28,7 @@ namespace PoGoEncTool
             DT_End.Value = GetDateTime(entry.End);
             DT_End.Checked = entry.End != null;
 
-            CB_Type.SelectedIndex = (int)entry.Type;
+            CB_Type.SelectedValue = (int)entry.Type;
 
             TB_Comment.Text = entry.Comment;
         }
@@ -34,7 +42,7 @@ namespace PoGoEncTool
             entry.Start = !DT_Start.Checked ? null : new PogoDate(DT_Start.Value);
             entry.End = !DT_End.Checked ? null : new PogoDate(DT_End.Value);
 
-            entry.Type = (PogoType)CB_Type.SelectedIndex;
+            entry.Type = (PogoType)(int)CB_Type.SelectedValue;
 
             entry.Comment = TB_Comment.Text;
         }
