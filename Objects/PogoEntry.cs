@@ -18,7 +18,7 @@ namespace PoGoEncTool
             Type = PogoType.Wild,
         };
 
-        public override string ToString() => $"[{Start?.ToString() ?? "X"}-{End?.ToString() ?? "X"}]: {{{Shiny}}}{Type} - {Comment}";
+        public override string ToString() => $"[{Start?.ToString() ?? "X"}-{End?.ToString() ?? "X"}]: {Type}{{{Shiny}}} - {Comment}";
 
         public int CompareTo(PogoEntry p)
         {
@@ -39,10 +39,13 @@ namespace PoGoEncTool
                     return date;
             }
 
+            if (Type != p.Type)
+                return Type.CompareTo(p.Type);
+
             if (Shiny != p.Shiny)
                 return Shiny.CompareTo(p.Shiny);
 
-            return Type.CompareTo(p.Type);
+            return 0;
         }
 
         public int CompareTo(object? obj)
