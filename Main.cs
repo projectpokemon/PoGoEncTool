@@ -102,7 +102,7 @@ namespace PoGoEncTool
         private void LoadPoke(PogoPoke poke)
         {
             LB_Appearances.Items.Clear();
-            LB_Appearances.Items.AddRange(poke.Available.ToArray());
+            LB_Appearances.Items.AddRange(poke.ToArray());
             CurrentPoke = poke;
             ChangeRowCount(0);
         }
@@ -126,7 +126,7 @@ namespace PoGoEncTool
         private void B_AddNew_Click(object sender, EventArgs e)
         {
             var entry = PogoEntry.CreateNew();
-            CurrentPoke.Available.Add(entry);
+            CurrentPoke.Add(entry);
             LB_Appearances.Items.Add(entry);
             LB_Appearances.SelectedIndex = LB_Appearances.Items.Count - 1;
         }
@@ -137,7 +137,7 @@ namespace PoGoEncTool
             foreach (var entry in selected)
             {
                 entry.Type = PogoType.None;
-                CurrentPoke.Available.Remove(entry);
+                CurrentPoke.Remove(entry);
                 LB_Appearances.Items.Remove(entry);
             }
         }
@@ -157,7 +157,7 @@ namespace PoGoEncTool
 
             pogoRow1.Visible = true;
             SaveEntry(CurrentEntry);
-            LoadEntry(CurrentPoke.Available[index]);
+            LoadEntry(CurrentPoke[index]);
 
             RefreshAppearanceText();
         }

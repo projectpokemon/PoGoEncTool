@@ -30,7 +30,7 @@ namespace PoGoEncTool
             var str = JsonConvert.SerializeObject(clone, settings);
             File.WriteAllText(path, str);
 
-            var data = PogoPickler.GetPickle(entries);
+            var data = PogoPickler.WritePickle(entries);
             File.WriteAllBytes("pgo_home.pkl", data);
         }
     }

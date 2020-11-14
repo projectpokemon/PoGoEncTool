@@ -23,6 +23,13 @@ namespace PoGoEncTool
             D = value.Day;
         }
 
+        public PogoDate(in int value)
+        {
+            Y = value >> 16;
+            M = ((value >> 8) & 0xFF);
+            D = value & 0xFF;
+        }
+
         public override string ToString() => $"{Y:0000}.{M:00}.{D:00}";
         public int Write() => (Y << 16) | (M << 8) | D;
     }

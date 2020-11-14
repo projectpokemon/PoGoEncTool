@@ -1,17 +1,18 @@
-﻿namespace PoGoEncTool
+﻿using System.Collections.Generic;
+
+namespace PoGoEncTool
 {
-    public class PogoPoke
+    public class PogoPoke : List<PogoEntry>
     {
         public int Species { get; set; }
         public int Form { get; set; }
-
-        public PogoAppearanceList Available { get; set; } = new PogoAppearanceList();
 
         public static PogoPoke CreateNew(int species, int form) => new PogoPoke
         {
             Species = species,
             Form = form,
-            Available = new PogoAppearanceList(),
         };
+
+        public void Clean() => RemoveAll(z => z.Type == 0);
     }
 }

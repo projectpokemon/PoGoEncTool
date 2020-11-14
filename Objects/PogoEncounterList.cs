@@ -18,8 +18,8 @@ namespace PoGoEncTool
         public void Clean()
         {
             foreach (var d in this)
-                d.Available.Clean();
-            RemoveAll(z => z.Available.Count == 0);
+                d.Clean();
+            RemoveAll(z => z.Count == 0);
         }
     }
 }
