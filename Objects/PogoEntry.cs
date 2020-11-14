@@ -18,7 +18,7 @@ namespace PoGoEncTool
             Type = PogoType.Wild,
         };
 
-        public override string ToString() => $"[{Start?.ToString() ?? "X"}-{End?.ToString() ?? "X"}]: {Type}{{{Shiny}}} - {Comment}";
+        public override string ToString() => $"[{Start?.ToString() ?? "X"}-{End?.ToString() ?? "X"}]: {Type} {{{Shiny}}} - {Comment}";
 
         public int CompareTo(PogoEntry p)
         {

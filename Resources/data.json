@@ -21,6 +21,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -44,6 +49,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -73,6 +83,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -96,6 +111,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -125,6 +145,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -148,6 +173,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -177,6 +207,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -200,6 +235,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -229,6 +269,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -252,6 +297,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -281,6 +331,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -304,6 +359,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -385,6 +445,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -450,6 +515,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -595,6 +665,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -623,6 +698,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -661,6 +741,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -693,136 +778,13 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
-        }
-      ]
-    },
-    {
-      "Species": 25,
-      "Form": 1,
-      "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 25,
-      "Form": 2,
-      "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 25,
-      "Form": 3,
-      "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 25,
-      "Form": 4,
-      "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 25,
-      "Form": 5,
-      "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 25,
-      "Form": 6,
-      "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 25,
-      "Form": 7,
-      "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 25,
-      "Form": 9,
-      "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
         }
       ]
     },
@@ -844,6 +806,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -859,7 +826,7 @@
         {
           "Shiny": 0,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -886,6 +853,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -928,6 +900,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -1025,6 +1002,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1048,6 +1030,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -1077,6 +1064,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1100,6 +1092,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -1129,6 +1126,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1155,6 +1157,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1186,6 +1193,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1204,6 +1216,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -1238,6 +1255,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1256,6 +1278,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -1285,6 +1312,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1308,6 +1340,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -1337,6 +1374,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1360,6 +1402,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -1415,6 +1462,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1438,6 +1490,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -1499,6 +1556,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1525,6 +1587,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1614,6 +1681,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1637,6 +1709,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -1663,6 +1740,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -1700,6 +1782,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -1760,6 +1847,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1791,6 +1883,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1814,6 +1911,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -1843,6 +1945,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1866,6 +1973,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -1897,6 +2009,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -1931,6 +2048,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1957,6 +2079,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -1980,6 +2107,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -2029,6 +2161,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2072,6 +2209,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -2121,6 +2263,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2144,6 +2291,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -2173,6 +2325,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2196,6 +2353,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -2292,6 +2454,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2339,6 +2506,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2365,6 +2537,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2386,8 +2563,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -2412,6 +2589,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2433,8 +2615,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -2459,6 +2641,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2480,8 +2667,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -2503,6 +2690,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -2548,6 +2740,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2560,12 +2757,12 @@
         {
           "Shiny": 1,
           "Type": 2,
-          "Comment": "Initial: Egg Only"
+          "Comment": "Crown Tundra Tie-In"
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Crown Tundra Tie-In"
         }
       ]
     },
@@ -2582,6 +2779,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -2603,6 +2805,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -2632,6 +2839,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2655,6 +2867,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -2763,6 +2980,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2789,6 +3011,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -2812,6 +3039,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -2841,8 +3073,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -2864,6 +3096,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -2893,8 +3130,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -2916,6 +3153,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -2942,6 +3184,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -2992,6 +3239,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3015,6 +3267,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3044,6 +3301,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3067,6 +3329,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -3098,6 +3365,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -3132,6 +3404,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3155,6 +3432,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3184,6 +3466,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3207,6 +3494,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3262,6 +3554,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3283,8 +3580,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -3309,6 +3606,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3332,6 +3634,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3356,8 +3663,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -3374,6 +3681,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3395,6 +3707,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3421,6 +3738,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3454,6 +3776,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -3490,6 +3817,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -3508,7 +3840,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -3554,6 +3886,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3580,6 +3917,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3603,6 +3945,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3658,6 +4005,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3681,6 +4033,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3742,6 +4099,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3765,6 +4127,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3819,6 +4186,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -3851,6 +4223,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3860,6 +4237,16 @@
       "Species": 125,
       "Form": 0,
       "Data": [
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 11,
+            "D": 15
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Electabuzz Community Day"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -3874,6 +4261,11 @@
           "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Eggs that can be shiny"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -3903,6 +4295,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -3926,6 +4323,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -3986,6 +4388,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -4012,6 +4419,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -4035,6 +4447,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -4085,6 +4502,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -4108,6 +4530,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -4137,6 +4564,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -4160,6 +4592,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -4189,6 +4626,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -4212,6 +4654,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -4243,6 +4690,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -4277,6 +4729,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -4300,6 +4757,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -4329,6 +4791,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -4347,6 +4814,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -4739,6 +5211,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -4765,6 +5242,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -4788,6 +5270,11 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -4959,6 +5446,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -4977,6 +5469,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5001,6 +5498,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5019,6 +5521,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5043,6 +5550,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5061,6 +5573,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5085,6 +5602,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5103,6 +5625,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5127,6 +5654,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5148,6 +5680,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5166,6 +5703,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5193,6 +5735,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5271,6 +5818,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5305,6 +5857,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5375,6 +5932,11 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Initial: Raid"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -5426,6 +5988,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5444,6 +6011,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5468,6 +6040,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5486,6 +6063,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5526,6 +6108,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5547,6 +6134,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5565,6 +6157,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5637,6 +6234,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5655,6 +6257,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5679,6 +6286,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5697,6 +6309,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5743,6 +6360,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5764,6 +6386,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5782,6 +6409,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -5822,6 +6454,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -5840,6 +6477,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -5976,6 +6618,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -6057,6 +6704,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -6089,6 +6741,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -6105,6 +6762,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -6216,6 +6878,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6229,6 +6896,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -6250,6 +6922,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -6276,6 +6953,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -6321,6 +7003,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6339,6 +7026,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -6363,6 +7055,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6381,6 +7078,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -6405,6 +7107,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6423,6 +7130,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -6449,6 +7161,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -6481,6 +7198,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -6531,6 +7253,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6558,6 +7285,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6579,6 +7311,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6597,6 +7334,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -6638,6 +7380,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6659,6 +7406,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6672,6 +7424,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -6696,6 +7453,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6714,6 +7476,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -6738,6 +7505,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6756,6 +7528,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -6786,6 +7563,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6804,6 +7586,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -6871,6 +7658,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6920,6 +7712,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -6938,6 +7735,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7055,6 +7857,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7076,6 +7883,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7094,6 +7906,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7261,8 +8078,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -7282,8 +8099,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -7303,8 +8120,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -7324,8 +8141,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -7345,8 +8162,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -7366,8 +8183,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -7384,6 +8201,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7408,6 +8230,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7426,6 +8253,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7463,6 +8295,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7541,6 +8378,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7559,6 +8401,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7583,6 +8430,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7601,6 +8453,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7625,6 +8482,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7643,6 +8505,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7667,6 +8534,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7685,6 +8557,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7730,6 +8607,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7748,6 +8630,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7788,6 +8675,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7806,6 +8698,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7830,6 +8727,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7848,6 +8750,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7872,6 +8779,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7890,6 +8802,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7920,6 +8837,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7947,6 +8869,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -7965,6 +8892,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -7989,6 +8921,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8007,6 +8944,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8047,6 +8989,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8058,7 +9005,7 @@
       "Data": [
         {
           "Shiny": 1,
-          "Type": 10,
+          "Type": 20,
           "Comment": "Initial: Raid 15 Only"
         }
       ]
@@ -8112,6 +9059,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8130,6 +9082,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8157,6 +9114,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8213,6 +9175,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8231,6 +9198,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -8260,6 +9232,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8278,6 +9255,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8302,6 +9284,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8323,6 +9310,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8341,6 +9333,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8381,6 +9378,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8402,6 +9404,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8420,6 +9427,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8476,6 +9488,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8503,6 +9520,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8521,6 +9543,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8545,6 +9572,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8566,6 +9598,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8584,6 +9621,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8641,6 +9683,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8659,6 +9706,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8683,6 +9735,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8701,6 +9758,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8725,6 +9787,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8741,6 +9808,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8754,6 +9826,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8778,6 +9855,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8796,6 +9878,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8852,6 +9939,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8870,6 +9962,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8910,6 +10007,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8937,6 +10039,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8955,6 +10062,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -8979,6 +10091,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -8997,6 +10114,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -9021,6 +10143,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9039,6 +10166,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -9063,6 +10195,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9084,6 +10221,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9102,6 +10244,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -9142,6 +10289,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9160,6 +10312,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -9184,6 +10341,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9202,6 +10364,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -9247,6 +10414,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -9285,6 +10457,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9303,6 +10480,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -9344,6 +10526,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9362,6 +10549,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -9386,6 +10578,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9404,6 +10601,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -9439,6 +10641,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9457,6 +10664,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -9485,6 +10697,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -9509,6 +10726,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -9537,6 +10759,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -9561,6 +10788,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -9589,6 +10821,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -9607,7 +10844,7 @@
         {
           "Shiny": 0,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -9623,7 +10860,7 @@
         {
           "Shiny": 0,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -9639,7 +10876,7 @@
         {
           "Shiny": 0,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -9653,9 +10890,9 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 0,
+          "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -9669,9 +10906,9 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 0,
+          "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -9685,9 +10922,9 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 0,
+          "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -9701,9 +10938,9 @@
       "Form": 0,
       "Data": [
         {
-          "Shiny": 0,
+          "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -9809,6 +11046,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9827,6 +11069,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -9851,6 +11098,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -9872,8 +11124,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -9893,8 +11145,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -9914,8 +11166,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -9935,8 +11187,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -9956,8 +11208,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -9977,8 +11229,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -10015,6 +11267,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10031,6 +11288,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10044,6 +11306,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10068,6 +11335,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10089,6 +11361,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10106,7 +11383,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -10122,7 +11399,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -10138,7 +11415,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -10169,6 +11446,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10182,6 +11464,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10201,6 +11488,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10214,6 +11506,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10233,6 +11530,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10251,6 +11553,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10275,6 +11582,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10293,6 +11605,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10317,6 +11634,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10338,6 +11660,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10356,6 +11683,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10396,6 +11728,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10409,6 +11746,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10439,6 +11781,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10452,6 +11799,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10542,6 +11894,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10560,6 +11917,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10584,6 +11946,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10605,6 +11972,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10623,6 +11995,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10665,6 +12042,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10743,6 +12125,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10764,6 +12151,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10782,6 +12174,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10866,6 +12263,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10887,6 +12289,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10905,6 +12312,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -10962,6 +12374,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -10980,6 +12397,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11004,6 +12426,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11022,6 +12449,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11046,6 +12478,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11064,6 +12501,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11102,6 +12544,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11158,6 +12605,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11176,6 +12628,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 0,
@@ -11205,6 +12662,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11223,6 +12685,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11247,6 +12714,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11268,6 +12740,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11278,6 +12755,16 @@
       "Form": 0,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 11,
+            "D": 14
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Electabuzz Community Day"
+        },
+        {
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -11286,6 +12773,11 @@
           "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Eggs that can be shiny"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11310,6 +12802,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11328,6 +12825,11 @@
           "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Eggs that can be shiny"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11352,6 +12854,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11370,6 +12877,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11394,6 +12906,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11412,6 +12929,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11436,6 +12958,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11454,6 +12981,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11478,6 +13010,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11491,6 +13028,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11515,6 +13057,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11533,6 +13080,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11643,8 +13195,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11659,8 +13211,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11675,8 +13227,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11687,7 +13239,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11698,7 +13250,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11724,7 +13276,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11735,7 +13287,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -11766,7 +13318,7 @@
         {
           "Shiny": 0,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11792,7 +13344,7 @@
         {
           "Shiny": 0,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11803,7 +13355,7 @@
         {
           "Shiny": 0,
           "Type": 11,
-          "Comment": "Initial: Raid 20 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11829,8 +13381,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11845,8 +13397,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11861,8 +13413,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11877,8 +13429,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11893,8 +13445,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11909,8 +13461,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11925,8 +13477,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11941,8 +13493,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11957,8 +13509,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11978,8 +13530,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -11999,8 +13551,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -12020,8 +13572,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -12041,8 +13593,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -12062,8 +13614,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -12089,8 +13641,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -12176,6 +13728,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12194,6 +13751,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12218,6 +13780,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12234,6 +13801,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12247,6 +13819,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12271,6 +13848,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12289,6 +13871,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12313,6 +13900,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12334,6 +13926,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12352,6 +13949,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12379,6 +13981,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12414,6 +14021,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12432,6 +14044,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12456,6 +14073,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12469,6 +14091,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12488,6 +14115,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12501,6 +14133,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12575,6 +14212,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12588,6 +14230,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12607,6 +14254,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12620,6 +14272,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12639,6 +14296,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12655,6 +14317,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12668,6 +14335,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12737,13 +14409,18 @@
       "Data": [
         {
           "Shiny": 1,
+          "Type": 1,
+          "Comment": ""
+        },
+        {
+          "Shiny": 1,
           "Type": 2,
           "Comment": "Initial: Egg Only"
         },
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -12771,6 +14448,11 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Initial: Raid"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -12812,6 +14494,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12830,6 +14517,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12887,6 +14579,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12916,6 +14613,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -12979,6 +14681,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -12992,6 +14699,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13016,6 +14728,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13037,6 +14754,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13050,6 +14772,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13069,6 +14796,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13082,6 +14814,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13101,6 +14838,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13117,6 +14859,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13130,6 +14877,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13247,6 +14999,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13274,6 +15031,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13287,6 +15049,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13311,6 +15078,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13329,6 +15101,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13352,9 +15129,14 @@
           "Comment": "A Unova Unveiling"
         },
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Egg Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13373,9 +15155,14 @@
           "Comment": "A Unova Unveiling"
         },
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Egg Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13394,9 +15181,14 @@
           "Comment": "A Unova Unveiling"
         },
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 2,
           "Comment": "Initial: Egg Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13408,6 +15200,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13427,6 +15224,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13440,6 +15242,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13459,6 +15266,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13472,6 +15284,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13524,6 +15341,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13540,6 +15362,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13553,6 +15380,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13594,6 +15426,11 @@
         },
         {
           "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -13610,8 +15447,8 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13634,6 +15471,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         },
         {
           "Shiny": 1,
@@ -13806,7 +15648,7 @@
         {
           "Shiny": 0,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13817,7 +15659,7 @@
         {
           "Shiny": 0,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13828,7 +15670,7 @@
         {
           "Shiny": 0,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13839,7 +15681,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13866,7 +15708,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13893,7 +15735,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13904,7 +15746,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13915,7 +15757,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -13942,7 +15784,7 @@
         {
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
+          "Comment": "Raid Boss"
         }
       ]
     },
