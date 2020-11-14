@@ -8,14 +8,15 @@ namespace PoGoEncTool
     {
         private const string SettingsPath = "settings.json";
 
-        public static PogoEncounterList GetData(out ProgramSettings settings)
+        public static PogoEncounterList GetData(string exePath, out ProgramSettings settings)
         {
-            settings = File.Exists(SettingsPath) ? JsonConvert.DeserializeObject<ProgramSettings>(File.ReadAllText(SettingsPath)) : new ProgramSettings();
+            var settingsPath = Path.Combine(exePath, SettingsPath);
+            settings = File.Exists(SettingsPath) ? JsonConvert.DeserializeObject<ProgramSettings>(File.ReadAllText(settingsPath)) : new ProgramSettings();
             var args = Environment.GetCommandLineArgs();
 
             if (args.Length > 1)
                 settings.DataPath = args[1];
-            File.WriteAllText(SettingsPath, JsonConvert.SerializeObject(settings));
+            File.WriteAllText(settingsPath, JsonConvert.SerializeObject(settings));
 
             var fn = settings.DataPath;
             var str = File.Exists(fn) ? File.ReadAllText(fn) : string.Empty;
