@@ -21,6 +21,8 @@ namespace PoGoEncTool
 
             Entries = DataLoader.GetData(Application.StartupPath, out Settings);
             // Entries = new PogoEncounterList(EncountersGO.CreateSeed());
+            // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = PogoType.Shadow);
+
             LoadEntries();
             InitializeDataSources();
         }

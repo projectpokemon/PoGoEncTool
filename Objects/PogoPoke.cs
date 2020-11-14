@@ -43,5 +43,14 @@ namespace PoGoEncTool
                 return 1;
             return CompareTo(p);
         }
+
+        public void ModifyAll(Func<PogoEntry, bool> condition, Action<PogoEntry> action)
+        {
+            foreach (var appear in Data)
+            {
+                if (condition(appear))
+                    action(appear);
+            }
+        }
     }
 }

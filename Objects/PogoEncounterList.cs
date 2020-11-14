@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace PoGoEncTool
 {
@@ -28,6 +29,12 @@ namespace PoGoEncTool
                 d.Clean();
             Data.RemoveAll(z => z.Data.Count == 0);
             Data.Sort((x, y) => x.CompareTo(y));
+        }
+
+        public void ModifyAll(Func<PogoEntry, bool> condition, Action<PogoEntry> action)
+        {
+            foreach (var entry in Data)
+                entry.ModifyAll(condition, action);
         }
     }
 }
