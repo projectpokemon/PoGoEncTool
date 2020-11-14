@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.Linq;
 using System.Windows.Forms;
 using PKHeX.Core;
@@ -15,6 +16,7 @@ namespace PoGoEncTool
 
         private bool ChangingFields = true;
         private DateTime LastSaved = DateTime.Now;
+        private int CurrentSpecies = 1;
 
         public Main()
         {
@@ -95,6 +97,7 @@ namespace PoGoEncTool
             CB_Form.Items.AddRange(forms);
             CB_Form.SelectedIndex = 0;
             CB_Form.Enabled = forms.Length > 1;
+            CurrentSpecies = species;
         }
 
         private void CB_Form_SelectedIndexChanged(object sender, EventArgs e)
@@ -180,6 +183,17 @@ namespace PoGoEncTool
         {
             LB_Appearances.DrawMode = DrawMode.OwnerDrawFixed;
             LB_Appearances.DrawMode = DrawMode.Normal;
+        }
+
+        private void L_Serebii_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            var url = $"https://www.serebii.net/pokemongo/pokemon/{CurrentSpecies:000}.shtml";
+            var psi = new ProcessStartInfo
+            {
+                FileName = url,
+                UseShellExecute = true
+            };
+            Process.Start(psi);
         }
     }
 }

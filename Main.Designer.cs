@@ -40,6 +40,7 @@ namespace PoGoEncTool
             this.B_Down = new System.Windows.Forms.Button();
             this.B_Up = new System.Windows.Forms.Button();
             this.B_Save = new System.Windows.Forms.Button();
+            this.L_Serebii = new System.Windows.Forms.LinkLabel();
             ((System.ComponentModel.ISupportInitialize)(this.PB_Poke)).BeginInit();
             this.SuspendLayout();
             // 
@@ -100,7 +101,7 @@ namespace PoGoEncTool
             // 
             // PB_Poke
             // 
-            this.PB_Poke.Location = new System.Drawing.Point(142, 42);
+            this.PB_Poke.Location = new System.Drawing.Point(142, 51);
             this.PB_Poke.Name = "PB_Poke";
             this.PB_Poke.Size = new System.Drawing.Size(68, 56);
             this.PB_Poke.TabIndex = 6;
@@ -158,11 +159,23 @@ namespace PoGoEncTool
             this.B_Save.UseVisualStyleBackColor = true;
             this.B_Save.Click += new System.EventHandler(this.B_Save_Click);
             // 
+            // L_Serebii
+            // 
+            this.L_Serebii.AutoSize = true;
+            this.L_Serebii.Location = new System.Drawing.Point(142, 42);
+            this.L_Serebii.Name = "L_Serebii";
+            this.L_Serebii.Size = new System.Drawing.Size(42, 15);
+            this.L_Serebii.TabIndex = 14;
+            this.L_Serebii.TabStop = true;
+            this.L_Serebii.Text = "Serebii";
+            this.L_Serebii.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.L_Serebii_LinkClicked);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(745, 346);
+            this.Controls.Add(this.L_Serebii);
             this.Controls.Add(this.B_Save);
             this.Controls.Add(this.B_Up);
             this.Controls.Add(this.B_Down);
@@ -181,6 +194,7 @@ namespace PoGoEncTool
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Main_FormClosing);
             ((System.ComponentModel.ISupportInitialize)(this.PB_Poke)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -196,6 +210,7 @@ namespace PoGoEncTool
         private System.Windows.Forms.Button B_Down;
         private System.Windows.Forms.Button B_Up;
         private System.Windows.Forms.Button B_Save;
+        private System.Windows.Forms.LinkLabel L_Serebii;
     }
 }
 
