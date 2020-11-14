@@ -14,6 +14,7 @@ namespace PoGoEncTool
         private PogoEntry CurrentEntry = PogoEntry.CreateNew();
 
         private bool ChangingFields = true;
+        private DateTime LastSaved = DateTime.Now;
 
         public Main()
         {
@@ -44,16 +45,25 @@ namespace PoGoEncTool
             LB_Species.Items.AddRange(entries);
         }
 
+        private void Main_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            var now = DateTime.Now;
+            var delta = now.Subtract(LastSaved);
+            if (delta <= TimeSpan.FromSeconds(10))
+                return;
+
+            System.Media.SystemSounds.Asterisk.Play();
+            var prompt = MessageBox.Show($"Changes were last saved {delta:g} ago. Are you sure you want to exit?", "Prompt", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+            if (prompt != DialogResult.Yes)
+                e.Cancel = true;
+        }
+
         private void B_Save_Click(object sender, EventArgs e)
         {
             SaveEntry(CurrentEntry);
-            SaveData(Entries, Settings.DataPath);
-        }
-
-        private static void SaveData(PogoEncounterList entries, string path)
-        {
-            DataLoader.SaveData(Application.StartupPath, entries, path);
+            DataLoader.SaveData(Application.StartupPath, Entries, Settings.DataPath);
             System.Media.SystemSounds.Asterisk.Play();
+            LastSaved = DateTime.Now;
         }
 
         private void CB_Species_SelectedValueChanged(object sender, EventArgs e)
