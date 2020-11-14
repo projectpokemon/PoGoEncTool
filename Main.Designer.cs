@@ -37,8 +37,6 @@ namespace PoGoEncTool
             this.PB_Poke = new System.Windows.Forms.PictureBox();
             this.B_AddNew = new System.Windows.Forms.Button();
             this.B_DeleteSelected = new System.Windows.Forms.Button();
-            this.B_Down = new System.Windows.Forms.Button();
-            this.B_Up = new System.Windows.Forms.Button();
             this.B_Save = new System.Windows.Forms.Button();
             this.L_Serebii = new System.Windows.Forms.LinkLabel();
             ((System.ComponentModel.ISupportInitialize)(this.PB_Poke)).BeginInit();
@@ -128,26 +126,6 @@ namespace PoGoEncTool
             this.B_DeleteSelected.UseVisualStyleBackColor = true;
             this.B_DeleteSelected.Click += new System.EventHandler(this.B_DeleteSelected_Click);
             // 
-            // B_Down
-            // 
-            this.B_Down.Enabled = false;
-            this.B_Down.Location = new System.Drawing.Point(142, 207);
-            this.B_Down.Name = "B_Down";
-            this.B_Down.Size = new System.Drawing.Size(57, 23);
-            this.B_Down.TabIndex = 11;
-            this.B_Down.Text = "Down";
-            this.B_Down.UseVisualStyleBackColor = true;
-            // 
-            // B_Up
-            // 
-            this.B_Up.Enabled = false;
-            this.B_Up.Location = new System.Drawing.Point(142, 178);
-            this.B_Up.Name = "B_Up";
-            this.B_Up.Size = new System.Drawing.Size(57, 23);
-            this.B_Up.TabIndex = 12;
-            this.B_Up.Text = "Up";
-            this.B_Up.UseVisualStyleBackColor = true;
-            // 
             // B_Save
             // 
             this.B_Save.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -177,8 +155,6 @@ namespace PoGoEncTool
             this.ClientSize = new System.Drawing.Size(745, 346);
             this.Controls.Add(this.L_Serebii);
             this.Controls.Add(this.B_Save);
-            this.Controls.Add(this.B_Up);
-            this.Controls.Add(this.B_Down);
             this.Controls.Add(this.B_DeleteSelected);
             this.Controls.Add(this.B_AddNew);
             this.Controls.Add(this.PB_Poke);
@@ -207,8 +183,6 @@ namespace PoGoEncTool
         private System.Windows.Forms.PictureBox PB_Poke;
         private System.Windows.Forms.Button B_AddNew;
         private System.Windows.Forms.Button B_DeleteSelected;
-        private System.Windows.Forms.Button B_Down;
-        private System.Windows.Forms.Button B_Up;
         private System.Windows.Forms.Button B_Save;
         private System.Windows.Forms.LinkLabel L_Serebii;
     }
