@@ -18,7 +18,9 @@ namespace PoGoEncTool
         public Main()
         {
             InitializeComponent();
+            
             Entries = DataLoader.GetData(out Settings);
+            Entries = new PogoEncounterList(EncountersGO.CreateSeed());
             LoadEntries();
             InitializeDataSources();
         }

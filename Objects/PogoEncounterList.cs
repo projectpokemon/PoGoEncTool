@@ -4,6 +4,9 @@ namespace PoGoEncTool
 {
     public class PogoEncounterList : List<PogoPoke>
     {
+        public PogoEncounterList() { }
+        public PogoEncounterList(IEnumerable<PogoPoke> seed) => AddRange(seed);
+
         public PogoPoke GetDetails(int species, int form)
         {
             var exist = Find(z => z.Species == species && z.Form == form);
