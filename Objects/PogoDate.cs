@@ -24,5 +24,6 @@ namespace PoGoEncTool
         }
 
         public override string ToString() => $"{Y:0000}.{M:00}.{D:00}";
+        public int Write() => (Y << 16) | (M << 8) | D;
     }
 }

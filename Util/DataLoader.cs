@@ -29,6 +29,9 @@ namespace PoGoEncTool
             var settings = new JsonSerializerSettings { Formatting = Formatting.Indented };
             var str = JsonConvert.SerializeObject(clone, settings);
             File.WriteAllText(path, str);
+
+            var data = PogoPickler.GetPickle(entries);
+            File.WriteAllBytes("pgo_home.pkl", data);
         }
     }
 }
