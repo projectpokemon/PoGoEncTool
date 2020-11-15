@@ -95,6 +95,8 @@ namespace PoGoEncTool
         private void LoadSpecies(in int species)
         {
             var forms = FormConverter.GetFormList(species, GameInfo.Strings.Types, GameInfo.Strings.forms, GameInfo.GenderSymbolASCII, PKX.Generation);
+            if (species == (int) Species.Raticate)
+                forms = new[] {"Normal", "Alolan"};
             CB_Form.Items.Clear();
             CB_Form.Items.AddRange(forms);
             CB_Form.SelectedIndex = 0;
