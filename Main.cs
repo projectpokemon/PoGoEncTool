@@ -192,7 +192,7 @@ namespace PoGoEncTool
         }
 
         private void L_Serebii_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) => OpenWebpage($"https://www.serebii.net/pokemongo/pokemon/{CurrentSpecies:000}.shtml");
-        private void L_PGFandom_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) => OpenWebpage($"https://pokemongo.fandom.com/wiki/{(Species)CurrentSpecies}#Availability");
+        private void L_PGFandom_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) => OpenWebpage($"https://pokemongo.fandom.com/wiki/{GetSpeciesNameURL()}#Availability");
 
         private static void OpenWebpage(string url)
         {
@@ -202,6 +202,13 @@ namespace PoGoEncTool
                 UseShellExecute = true
             };
             Process.Start(psi);
+        }
+
+        private string GetSpeciesNameURL()
+        {
+            var species = GameInfo.Strings.Species;
+            var current = species[CurrentSpecies];
+            return current.Replace("’", "\'"); // Farfetch’d and Sirfetch’d
         }
 
         private void B_CopyTo_Click(object sender, EventArgs e)
