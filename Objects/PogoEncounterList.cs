@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace PoGoEncTool
 {
@@ -25,6 +26,7 @@ namespace PoGoEncTool
 
         public void Clean()
         {
+            // CleanDuplicatesForEvolutions();
             foreach (var d in Data)
                 d.Clean();
             Data.RemoveAll(z => !z.Available);
@@ -43,6 +45,51 @@ namespace PoGoEncTool
             {
                 if (condition(entry))
                     action(entry);
+            }
+        }
+
+        private void CleanDuplicatesForEvolutions()
+        {
+            foreach (var entry in Data)
+            {
+                var evos = EvoUtil.GetEvoSpecForms(entry.Species, entry.Form);
+                foreach (var evo in evos)
+                {
+                    var s = evo & 0x7FF;
+                    var f = evo >> 11;
+                    if (!EvoUtil.IsAllowedEvolution(entry.Species, entry.Form, s, f))
+                        continue;
+
+                    var dest = Data.Find(z => z.Species == s && z.Form == f);
+                    if (dest?.Available != true)
+                        continue;
+
+                    // Remove any duplicate entry in the future evolutions
+                    int count = dest.Data.RemoveAll(z => !entry.Data.TrueForAll(p => p.CompareTo(z) != 0));
+                    if (count != 0)
+                        Debug.WriteLine($"Removed {count} entries from {(PKHeX.Core.Species)dest.Species}-{dest.Form}");
+                }
+            }
+        }
+
+        public void Propagate()
+        {
+            foreach (var entry in Data)
+            {
+                var evos = EvoUtil.GetEvoSpecForms(entry.Species, entry.Form);
+                foreach (var evo in evos)
+                {
+                    var s = evo & 0x7FF;
+                    var f = evo >> 11;
+                    if (!EvoUtil.IsAllowedEvolution(entry.Species, entry.Form, s, f))
+                        continue;
+
+                    var dest = Data.Find(z => z.Species == s && z.Form == f);
+                    if (dest?.Available != true)
+                        continue;
+
+                    dest.Data.AddRange(entry.Data);
+                }
             }
         }
     }

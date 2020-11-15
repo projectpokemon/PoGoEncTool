@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using PKHeX.Core;
+using static PKHeX.Core.Species;
 
 namespace PoGoEncTool
 {
@@ -51,6 +52,21 @@ namespace PoGoEncTool
                 foreach (var next in nextEvolutions)
                     yield return next;
             }
+        }
+
+        public static bool IsAllowedEvolution(in int species, in int form, in int s, in int destForm)
+        {
+            // Alolan/Galar split-evolutions are not available.
+            var destSpecies = (Species) s;
+            return (Species)species switch
+            {
+                Pikachu when destSpecies == Raichu && destForm == 1 => false,
+                Koffing when destSpecies == Weezing && destForm == 1 => false,
+                MimeJr when destSpecies == MrMime && destForm == 1 => false,
+                Exeggcute when destSpecies == Exeggutor && destForm == 1 => false,
+                Cubone when destSpecies == Marowak && destForm == 1 => false,
+                _ => true
+            };
         }
     }
 }

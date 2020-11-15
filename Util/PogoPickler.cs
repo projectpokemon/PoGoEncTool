@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using PKHeX.Core;
 using static PKHeX.Core.Species;
 
 namespace PoGoEncTool
@@ -124,37 +123,6 @@ namespace PoGoEncTool
             written.Add(us);
             bw.Write((byte)PogoToHex(entry.Shiny));
             bw.Write((byte)entry.Type);
-        }
-
-        public static void PropagatePickle(PogoEncounterList entries)
-        {
-            foreach (var entry in entries.Data)
-            {
-                var evos = EvoUtil.GetEvoSpecForms(entry.Species, entry.Form);
-                foreach (var evo in evos)
-                {
-                    var s = evo & 0x7FF;
-                    var f = evo >> 11;
-                    if (IsBannedEvolution((Species)entry.Species, entry.Form, (Species)s, f))
-                        continue;
-
-                    var dest = entries.Data.Find(z => z.Species == s && z.Form == f);
-                    if (dest?.Available != true)
-                        continue;
-
-                    entry.Data.CopyTo(dest.Data);
-                }
-            }
-        }
-
-        private static bool IsBannedEvolution(in Species entrySpecies, in int form, in Species s, in int f)
-        {
-            return entrySpecies switch
-            {
-                Pikachu when s == Raichu && f == 1 => false,
-                Koffing when s == Weezing && f == 1 => false,
-                _ => true
-            };
         }
     }
 }

@@ -45,7 +45,7 @@ namespace PoGoEncTool
             if (Shiny != p.Shiny)
                 return Shiny.CompareTo(p.Shiny);
 
-            return 0;
+            return string.Compare(Comment, p.Comment, StringComparison.OrdinalIgnoreCase);
         }
 
         public int CompareTo(object? obj)
