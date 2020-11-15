@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using PKHeX.Core;
 using static PKHeX.Core.Species;
 
 namespace PoGoEncTool
@@ -9,33 +10,6 @@ namespace PoGoEncTool
     public static class PogoPickler
     {
         private const string identifier = "go";
-
-        public static PogoEncounterList ReadPickle(byte[] pickle)
-        {
-            var data = BinLinker.Unpack(pickle, identifier);
-            var result = new PogoEncounterList();
-            foreach (var entry in data)
-                result.Add(GetPogoPoke(entry));
-            return result;
-        }
-
-        private static PogoPoke GetPogoPoke(byte[] entry)
-        {
-            using var ms = new MemoryStream(entry);
-            using var br = new BinaryReader(ms);
-
-            var sf = br.ReadInt16();
-            var result = new PogoPoke
-            {
-                Species = sf & 0x7FFF,
-                Form = sf >> 11,
-            };
-
-            var count = (entry.Length - 2) / WriteSize;
-            for (int i = 0; i < count; i++)
-                result.Add(ReadAppearance(br));
-            return result;
-        }
 
         public static byte[] WritePickle(PogoEncounterList entries)
         {
@@ -64,24 +38,6 @@ namespace PoGoEncTool
             return ms.ToArray();
         }
 
-        private const int WriteSize = (2 * sizeof(int)) + 2;
-
-        private static PogoEntry ReadAppearance(BinaryReader br)
-        {
-            var start = br.ReadInt32();
-            var end = br.ReadInt32();
-            var shiny = HexToPogo(br.ReadByte());
-            var type = br.ReadByte();
-
-            return new PogoEntry
-            {
-                Shiny = shiny,
-                Type = (PogoType)type,
-                Start = start == 0 ? null : new PogoDate(start),
-                End = end == 0 ? null : new PogoDate(end),
-            };
-        }
-
         private static void Write(PogoEntry entry, BinaryWriter bw)
         {
             bw.Write(entry.Start?.Write() ?? 0);
@@ -98,17 +54,6 @@ namespace PoGoEncTool
                 PogoShiny.Random => 1,
                 PogoShiny.Always => 2,
                 PogoShiny.Never => 3,
-                _ => throw new ArgumentOutOfRangeException(nameof(type))
-            };
-        }
-
-        private static PogoShiny HexToPogo(byte type)
-        {
-            return type switch
-            {
-                1 => PogoShiny.Random,
-                2 => PogoShiny.Always,
-                3 => PogoShiny.Never,
                 _ => throw new ArgumentOutOfRangeException(nameof(type))
             };
         }
@@ -179,6 +124,37 @@ namespace PoGoEncTool
             written.Add(us);
             bw.Write((byte)PogoToHex(entry.Shiny));
             bw.Write((byte)entry.Type);
+        }
+
+        public static void PropagatePickle(PogoEncounterList entries)
+        {
+            foreach (var entry in entries.Data)
+            {
+                var evos = EvoUtil.GetEvoSpecForms(entry.Species, entry.Form);
+                foreach (var evo in evos)
+                {
+                    var s = evo & 0x7FF;
+                    var f = evo >> 11;
+                    if (IsBannedEvolution((Species)entry.Species, entry.Form, (Species)s, f))
+                        continue;
+
+                    var dest = entries.Data.Find(z => z.Species == s && z.Form == f);
+                    if (dest?.Available != true)
+                        continue;
+
+                    entry.Data.CopyTo(dest.Data);
+                }
+            }
+        }
+
+        private static bool IsBannedEvolution(in Species entrySpecies, in int form, in Species s, in int f)
+        {
+            return entrySpecies switch
+            {
+                Pikachu when s == Raichu && f == 1 => false,
+                Koffing when s == Weezing && f == 1 => false,
+                _ => true
+            };
         }
     }
 }

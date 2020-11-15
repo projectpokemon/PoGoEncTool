@@ -31,6 +31,8 @@ namespace PoGoEncTool
             var contents = JsonConvert.SerializeObject(clone, settings);
             File.WriteAllText(jsonPath, contents);
 
+            PogoPickler.PropagatePickle(entries);
+
             var data = PogoPickler.WritePickle(entries);
             File.WriteAllBytes(Path.Combine(exePath, "encounter_go_home.pkl"), data);
 
