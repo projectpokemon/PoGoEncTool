@@ -31,12 +31,12 @@ namespace PoGoEncTool
             var contents = JsonConvert.SerializeObject(clone, settings);
             File.WriteAllText(jsonPath, contents);
 
-            entries.Propagate();
+            clone.Propagate();
 
-            var data = PogoPickler.WritePickle(entries);
+            var data = PogoPickler.WritePickle(clone);
             File.WriteAllBytes(Path.Combine(exePath, "encounter_go_home.pkl"), data);
 
-            var lgpe = PogoPickler.WritePickleLGPE(entries);
+            var lgpe = PogoPickler.WritePickleLGPE(clone);
             File.WriteAllBytes(Path.Combine(exePath, "encounter_go_lgpe.pkl"), lgpe);
         }
     }
