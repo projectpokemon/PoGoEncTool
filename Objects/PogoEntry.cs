@@ -26,7 +26,7 @@ namespace PoGoEncTool
             {
                 if (End == null)
                     return 1;
-                var date = p.End.CompareTo(End);
+                var date = End.CompareTo(p.End);
                 if (date != 0)
                     return date;
             }
@@ -34,7 +34,7 @@ namespace PoGoEncTool
             {
                 if (Start == null)
                     return 1;
-                var date = p.Start.CompareTo(Start);
+                var date = Start.CompareTo(p.Start);
                 if (date != 0)
                     return date;
             }
