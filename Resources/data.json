@@ -7,6 +7,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2018,
+            "M": 3,
+            "D": 25
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -16,16 +26,16 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -39,6 +49,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2018,
+            "M": 3,
+            "D": 25
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day {Bulbasaur}"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -48,16 +68,16 @@
           "Comment": "Initial: Can exist in wild {Bulbasaur}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Bulbasaur}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Bulbasaur}"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified {Bulbasaur}"
@@ -71,6 +91,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2018,
+            "M": 3,
+            "D": 25
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day {Bulbasaur} {Ivysaur}"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -80,16 +110,16 @@
           "Comment": "Initial: Can exist in wild {Bulbasaur} {Ivysaur}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Bulbasaur} {Ivysaur}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Bulbasaur} {Ivysaur}"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified {Bulbasaur} {Ivysaur}"
@@ -103,6 +133,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2018,
+            "M": 5,
+            "D": 19
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -112,16 +152,16 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -135,6 +175,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2018,
+            "M": 5,
+            "D": 19
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day {Charmander}"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -144,16 +194,16 @@
           "Comment": "Initial: Can exist in wild {Charmander}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Charmander}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Charmander}"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified {Charmander}"
@@ -167,6 +217,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2018,
+            "M": 5,
+            "D": 19
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day {Charmander} {Charmeleon}"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -176,16 +236,16 @@
           "Comment": "Initial: Can exist in wild {Charmander} {Charmeleon}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Charmander} {Charmeleon}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Charmander} {Charmeleon}"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified {Charmander} {Charmeleon}"
@@ -199,6 +259,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2018,
+            "M": 7,
+            "D": 8
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -208,16 +278,16 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -231,6 +301,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2018,
+            "M": 7,
+            "D": 8
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day {Squirtle}"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -240,16 +320,16 @@
           "Comment": "Initial: Can exist in wild {Squirtle}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Squirtle}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Squirtle}"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified {Squirtle}"
@@ -263,6 +343,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2018,
+            "M": 7,
+            "D": 8
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day {Squirtle} {Wartortle}"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -272,16 +362,16 @@
           "Comment": "Initial: Can exist in wild {Squirtle} {Wartortle}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Squirtle} {Wartortle}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Squirtle} {Wartortle}"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified {Squirtle} {Wartortle}"
@@ -295,6 +385,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 1
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -304,19 +404,9 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -325,6 +415,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 1
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild {Caterpie}"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -336,19 +436,9 @@
           "Comment": "Initial: Can exist in wild {Caterpie}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Caterpie}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Caterpie}"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified {Caterpie}"
         }
       ]
     },
@@ -357,6 +447,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 1
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild {Caterpie} {Metapod}"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -368,19 +468,9 @@
           "Comment": "Initial: Can exist in wild {Caterpie} {Metapod}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Caterpie} {Metapod}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Caterpie} {Metapod}"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified {Caterpie} {Metapod}"
         }
       ]
     },
@@ -390,9 +480,24 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 20
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 10,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         },
         {
           "Start": {
@@ -403,11 +508,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -417,9 +517,24 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 20
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Weedle}"
+          "Comment": "Community Day {Weedle}"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 10,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified {Weedle}"
         },
         {
           "Start": {
@@ -430,11 +545,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild {Weedle}"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified {Weedle}"
         }
       ]
     },
@@ -443,6 +553,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 20
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day {Weedle} {Kakuna}"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -454,16 +574,16 @@
           "Comment": "Initial: Can exist in wild {Weedle} {Kakuna}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Weedle} {Kakuna}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 10,
+            "D": 17
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified {Weedle} {Kakuna}"
@@ -476,9 +596,14 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 2,
+            "D": 26
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Pokemon Day 2019"
         },
         {
           "Start": {
@@ -498,9 +623,14 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 2,
+            "D": 26
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Pidgey}"
+          "Comment": "Pokemon Day 2019 {Pidgey}"
         },
         {
           "Start": {
@@ -530,11 +660,6 @@
           "Comment": "Initial: Can exist in wild {Pidgey} {Pidgeotto}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Pidgey} {Pidgeotto}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
@@ -555,9 +680,24 @@
           "Comment": "GBL Season 3, Season 4"
         },
         {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Start": {
+            "Y": 2020,
+            "M": 9,
+            "D": 18
+          },
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Mega Pidgeot"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 2,
+            "D": 26
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Pokemon Day 2019 {Pidgey} {Pidgeotto}"
         }
       ]
     },
@@ -567,9 +707,24 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 2,
+            "D": 26
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Pokemon Day 2019"
         },
         {
           "Start": {
@@ -580,11 +735,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -594,11 +744,21 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 28
+          },
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
         },
         {
+          "Start": {
+            "Y": 2018,
+            "M": 7,
+            "D": 23
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -611,9 +771,24 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified {Rattata}"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 2,
+            "D": 26
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Rattata}"
+          "Comment": "Pokemon Day 2019 {Rattata}"
         },
         {
           "Start": {
@@ -624,11 +799,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild {Rattata}"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified {Rattata}"
         }
       ]
     },
@@ -707,11 +877,6 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -746,12 +911,12 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 9
+          },
           "Shiny": 0,
-          "Type": 30,
-          "Comment": "Initial: Purified"
-        },
-        {
-          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -788,12 +953,12 @@
           "Comment": "Raid Boss {Ekans}"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 9
+          },
           "Shiny": 0,
-          "Type": 30,
-          "Comment": "Initial: Purified {Ekans}"
-        },
-        {
-          "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified {Ekans}"
         }
@@ -806,6 +971,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2017,
+            "M": 8,
+            "D": 9
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Pokemon GO Park"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -815,19 +990,9 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -836,6 +1001,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 8,
+            "D": 9
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Pokemon GO Park {Pikachu}"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -847,19 +1022,9 @@
           "Comment": "Initial: Can exist in wild {Pikachu}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Pikachu}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Pikachu}"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified {Pikachu}"
         }
       ]
     },
@@ -869,14 +1034,34 @@
       "Available": true,
       "Data": [
         {
-          "Shiny": 0,
-          "Type": 10,
-          "Comment": "Raid Boss"
-        },
-        {
+          "Start": {
+            "Y": 2020,
+            "M": 9,
+            "D": 1
+          },
           "Shiny": 0,
           "Type": 20,
           "Comment": "Research Breakthrough (Can be Shiny)"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 23
+          },
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Let's Go Celebration"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 7,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -885,6 +1070,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 12,
+            "D": 6
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Tottori Festival"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -896,16 +1091,16 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 11,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -918,14 +1113,69 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Ultra Bonus Week 2"
         },
         {
-          "Shiny": 1,
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 28
+          },
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Shiny Release"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 22
+          },
+          "End": {
+            "Y": 2019,
+            "M": 6,
+            "D": 22
+          },
+          "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "GO Fest Chicago 2019 Makeup Event"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 13
+          },
+          "End": {
+            "Y": 2019,
+            "M": 6,
+            "D": 16
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "GO Fest Chicago 2019"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 7,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Initial Release"
         }
       ]
     },
@@ -934,6 +1184,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 12,
+            "D": 6
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Tottori Festival {Sandshrew}"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -945,16 +1205,16 @@
           "Comment": "Initial: Can exist in wild {Sandshrew}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Sandshrew}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Sandshrew}"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 11,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified {Sandshrew}"
@@ -967,14 +1227,39 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Sandshrew}"
+          "Comment": "Ultra Bonus Week 2 {Sandshrew}"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 28
+          },
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Shiny Release {Sandshrew}"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 7,
+            "D": 21
+          },
           "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild {Sandshrew}"
+          "Type": 2,
+          "Comment": "Initial Release {Sandshrew}"
         }
       ]
     },
@@ -984,9 +1269,24 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 10,
+            "D": 11
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Female Day"
         },
         {
           "Start": {
@@ -997,11 +1297,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -1011,9 +1306,24 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified {NidoranF}"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 10,
+            "D": 11
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {NidoranF}"
+          "Comment": "Female Day {NidoranF}"
         },
         {
           "Start": {
@@ -1024,11 +1334,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild {NidoranF}"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified {NidoranF}"
         }
       ]
     },
@@ -1037,6 +1342,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 10,
+            "D": 11
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Female Day {NidoranF} {Nidorina}"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -1048,16 +1363,16 @@
           "Comment": "Initial: Can exist in wild {NidoranF} {Nidorina}"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {NidoranF} {Nidorina}"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified {NidoranF} {Nidorina}"
@@ -1267,14 +1582,29 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Ultra Bonus Week 2"
         },
         {
+          "Start": {
+            "Y": 2018,
+            "M": 7,
+            "D": 21
+          },
           "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Type": 2,
+          "Comment": "Initial Release"
         },
         {
           "Shiny": 1,
@@ -1282,9 +1612,54 @@
           "Comment": "Raid Boss"
         },
         {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 19
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Summer Solstice - accidentally shinylocked to start"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 28
+          },
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Shiny Release"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 22
+          },
+          "End": {
+            "Y": 2019,
+            "M": 6,
+            "D": 22
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "GO Fest Chicago 2019 Makeup Event"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 13
+          },
+          "End": {
+            "Y": 2019,
+            "M": 6,
+            "D": 16
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "GO Fest Chicago 2019"
         }
       ]
     },
@@ -1331,14 +1706,39 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild {Vulpix}"
+          "Comment": "Ultra Bonus Week 2 {Vulpix}"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 28
+          },
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Shiny Release {Vulpix}"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 7,
+            "D": 21
+          },
           "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild {Vulpix}"
+          "Type": 2,
+          "Comment": "Initial Release {Vulpix}"
         },
         {
           "Shiny": 1,
@@ -1346,9 +1746,14 @@
           "Comment": "Raid Boss {Vulpix}"
         },
         {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified {Vulpix}"
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 19
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Summer Solstice - accidentally shinylocked to start {Vulpix}"
         }
       ]
     },
@@ -4501,6 +4906,16 @@
       "Data": [
         {
           "Start": {
+            "Y": 2019,
+            "M": 2,
+            "D": 13
+          },
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Valentine's Day 2019 {Smoochum}"
+        },
+        {
+          "Start": {
             "Y": 2016,
             "M": 7,
             "D": 5
@@ -4510,19 +4925,9 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 2,
-          "Comment": "Initial: Eggs that can be shiny"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -5139,21 +5544,6 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2020,
-            "M": 1,
-            "D": 28
-          },
-          "End": {
-            "Y": 2020,
-            "M": 3,
-            "D": 13
-          },
-          "Shiny": 0,
-          "Type": 20,
-          "Comment": "GBL Preseason"
         },
         {
           "Shiny": 1,
@@ -6341,6 +6731,21 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2017,
+            "M": 8,
+            "D": 9
+          },
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Pokemon GO Park"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 12,
+            "D": 12
+          },
           "Shiny": 1,
           "Type": 2,
           "Comment": "Initial: Egg Only"
@@ -8287,6 +8692,21 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 2,
+            "D": 13
+          },
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Valentine's Day 2019"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 12,
+            "D": 12
+          },
           "Shiny": 1,
           "Type": 2,
           "Comment": "Initial: Egg Only"
@@ -8865,16 +9285,6 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Treecko}"
-        },
-        {
-          "Start": {
-            "Y": 2020,
-            "M": 6,
-            "D": 27
-          },
-          "Shiny": 0,
-          "Type": 20,
-          "Comment": "GBL Season 3 onwards"
         }
       ]
     },
@@ -8907,16 +9317,6 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Treecko} {Grovyle}"
-        },
-        {
-          "Start": {
-            "Y": 2020,
-            "M": 6,
-            "D": 27
-          },
-          "Shiny": 0,
-          "Type": 20,
-          "Comment": "GBL Season 3 onwards"
         }
       ]
     },
@@ -8991,16 +9391,6 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Torchic}"
-        },
-        {
-          "Start": {
-            "Y": 2020,
-            "M": 6,
-            "D": 27
-          },
-          "Shiny": 0,
-          "Type": 20,
-          "Comment": "GBL Season 3 onwards"
         }
       ]
     },
@@ -9033,16 +9423,6 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Torchic} {Combusken}"
-        },
-        {
-          "Start": {
-            "Y": 2020,
-            "M": 6,
-            "D": 27
-          },
-          "Shiny": 0,
-          "Type": 20,
-          "Comment": "GBL Season 3 onwards"
         }
       ]
     },
@@ -9130,16 +9510,6 @@
         },
         {
           "Start": {
-            "Y": 2020,
-            "M": 6,
-            "D": 27
-          },
-          "Shiny": 0,
-          "Type": 20,
-          "Comment": "GBL Season 3 onwards"
-        },
-        {
-          "Start": {
             "Y": 2019,
             "M": 7,
             "D": 22
@@ -9179,16 +9549,6 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss {Mudkip} {Marshtomp}"
-        },
-        {
-          "Start": {
-            "Y": 2020,
-            "M": 6,
-            "D": 27
-          },
-          "Shiny": 0,
-          "Type": 20,
-          "Comment": "GBL Season 3 onwards"
         },
         {
           "Start": {
@@ -10221,9 +10581,49 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Ultra Bonus Week 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 22
+          },
+          "End": {
+            "Y": 2019,
+            "M": 6,
+            "D": 22
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "GO Fest Chicago 2019 Makeup Event"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 13
+          },
+          "End": {
+            "Y": 2019,
+            "M": 6,
+            "D": 16
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "GO Fest Chicago 2019"
         },
         {
           "Shiny": 1,
@@ -11529,29 +11929,114 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 10
+          },
+          "End": {
+            "Y": 2020,
+            "M": 7,
+            "D": 15
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Team GO Rocket Event"
         },
         {
-          "Shiny": 1,
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 6
+          },
+          "End": {
+            "Y": 2020,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "Team GO Rocket Global Takeover "
         },
         {
-          "Shiny": 1,
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 12,
+            "D": 24
+          },
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
         },
         {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Ultra Bonus Week 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 22
+          },
+          "End": {
+            "Y": 2019,
+            "M": 6,
+            "D": 22
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "GO Fest Chicago 2019 Makeup Event"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 13
+          },
+          "End": {
+            "Y": 2019,
+            "M": 6,
+            "D": 16
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "GO Fest Chicago 2019"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 15
+          },
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Hoenn Celebration 2019"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Make an Excellent Curveball Throw"
         }
       ]
     },
@@ -18147,16 +18632,6 @@
           "Start": {
             "Y": 2020,
             "M": 6,
-            "D": 27
-          },
-          "Shiny": 1,
-          "Type": 20,
-          "Comment": "GBL Season 3 onwards"
-        },
-        {
-          "Start": {
-            "Y": 2020,
-            "M": 6,
             "D": 3
           },
           "Shiny": 1,
@@ -18211,16 +18686,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Increased Spawns"
-        },
-        {
-          "Start": {
-            "Y": 2020,
-            "M": 6,
-            "D": 27
-          },
-          "Shiny": 1,
-          "Type": 20,
-          "Comment": "GBL Season 3 onwards"
         },
         {
           "Start": {
