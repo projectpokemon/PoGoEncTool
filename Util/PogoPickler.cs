@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using PKHeX.Core;
 using static PKHeX.Core.Species;
 
 namespace PoGoEncTool
