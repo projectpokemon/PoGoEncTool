@@ -14,10 +14,12 @@
 
         /// <summary> Field Research, requires Lv. 15 and IV=1 </summary>
         Field15 = 20,
-        /// <summary> Field Research, requires Lv. 15 and IV=10 (Mythical) </summary>
+        /// <summary> Field Research, requires Lv. 15 and IV=10 (Mythicals) </summary>
         FieldM,
-        /// <summary> Field Research, requires Lv. 15 and IV=10 (Mythical, Poké Ball only) </summary>
+        /// <summary> Field Research, requires Lv. 15 and IV=10 (Mythicals, Poké Ball only) </summary>
         FieldP,
+        /// <summary> Field Research, requires Lv. 20 and IV=10 (GBL Mythicals) </summary>
+        Field20,
 
         /// <summary> Purified, requires Lv. 8 and IV=1 (Premier Ball) </summary>
         Shadow = 30,
