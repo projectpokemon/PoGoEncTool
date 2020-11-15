@@ -30,6 +30,12 @@ namespace PoGoEncTool
                 if (date != 0)
                     return date;
             }
+            else
+            {
+                if (End != null)
+                    return -1;
+            }
+
             if (p.Start != null)
             {
                 if (Start == null)
@@ -37,6 +43,11 @@ namespace PoGoEncTool
                 var date = Start.CompareTo(p.Start);
                 if (date != 0)
                     return date;
+            }
+            else
+            {
+                if (Start != null)
+                    return -1;
             }
 
             if (Type != p.Type)
