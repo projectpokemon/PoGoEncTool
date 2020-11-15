@@ -5,6 +5,12 @@ namespace PoGoEncTool
 {
     public class FlatConverter<T> : JsonConverter
     {
+        // ReSharper disable once StaticMemberInGenericType
+        private static readonly JsonSerializerSettings Settings = new JsonSerializerSettings
+        {
+            Formatting = Formatting.None, NullValueHandling = NullValueHandling.Ignore
+        };
+
         public override bool CanConvert(Type objectType)
         {
             return objectType == typeof(T);
@@ -17,7 +23,7 @@ namespace PoGoEncTool
 
         public override void WriteJson(JsonWriter writer, object? value, JsonSerializer serializer)
         {
-            writer.WriteRawValue(JsonConvert.SerializeObject(value, Formatting.None));
+            writer.WriteRawValue(JsonConvert.SerializeObject(value, Settings));
         }
     }
 }
