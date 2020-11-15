@@ -26,7 +26,7 @@ namespace PoGoEncTool
 
         public void Clean()
         {
-            // CleanDuplicatesForEvolutions();
+            CleanDuplicatesForEvolutions();
             foreach (var d in Data)
                 d.Clean();
             Data.RemoveAll(z => !z.Available);
@@ -64,10 +64,13 @@ namespace PoGoEncTool
                     if (dest?.Available != true)
                         continue;
 
-                    // Remove any duplicate entry in the future evolutions
-                    int count = dest.Data.RemoveAll(z => !entry.Data.TrueForAll(p => p.CompareTo(z) != 0));
-                    if (count != 0)
-                        Debug.WriteLine($"Removed {count} entries from {(PKHeX.Core.Species)dest.Species}-{dest.Form}");
+                    // Mark any duplicate entry in the future evolutions
+                    foreach (var z in dest.Data)
+                    {
+                        if (entry.Data.TrueForAll(p => p.CompareTo(z) != 0))
+                            continue;
+                        z.Comment += $" {{{(PKHeX.Core.Species)entry.Species}}}";
+                    }
                 }
             }
         }
