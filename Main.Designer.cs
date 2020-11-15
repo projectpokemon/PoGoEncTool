@@ -40,6 +40,7 @@ namespace PoGoEncTool
             this.B_Save = new System.Windows.Forms.Button();
             this.L_Serebii = new System.Windows.Forms.LinkLabel();
             this.L_PGFandom = new System.Windows.Forms.LinkLabel();
+            this.B_CopyTo = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.PB_Poke)).BeginInit();
             this.SuspendLayout();
             // 
@@ -110,7 +111,7 @@ namespace PoGoEncTool
             // 
             this.B_AddNew.Location = new System.Drawing.Point(142, 98);
             this.B_AddNew.Name = "B_AddNew";
-            this.B_AddNew.Size = new System.Drawing.Size(57, 23);
+            this.B_AddNew.Size = new System.Drawing.Size(68, 23);
             this.B_AddNew.TabIndex = 7;
             this.B_AddNew.Text = "Add";
             this.B_AddNew.UseVisualStyleBackColor = true;
@@ -121,7 +122,7 @@ namespace PoGoEncTool
             this.B_DeleteSelected.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.B_DeleteSelected.Location = new System.Drawing.Point(142, 308);
             this.B_DeleteSelected.Name = "B_DeleteSelected";
-            this.B_DeleteSelected.Size = new System.Drawing.Size(57, 23);
+            this.B_DeleteSelected.Size = new System.Drawing.Size(68, 23);
             this.B_DeleteSelected.TabIndex = 10;
             this.B_DeleteSelected.Text = "Delete";
             this.B_DeleteSelected.UseVisualStyleBackColor = true;
@@ -160,11 +161,22 @@ namespace PoGoEncTool
             this.L_PGFandom.Text = "PGFandom";
             this.L_PGFandom.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.L_PGFandom_LinkClicked);
             // 
+            // B_CopyTo
+            // 
+            this.B_CopyTo.Location = new System.Drawing.Point(142, 255);
+            this.B_CopyTo.Name = "B_CopyTo";
+            this.B_CopyTo.Size = new System.Drawing.Size(68, 47);
+            this.B_CopyTo.TabIndex = 16;
+            this.B_CopyTo.Text = "Copy\r\nEvolution";
+            this.B_CopyTo.UseVisualStyleBackColor = true;
+            this.B_CopyTo.Click += new System.EventHandler(this.B_CopyTo_Click);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(745, 346);
+            this.Controls.Add(this.B_CopyTo);
             this.Controls.Add(this.L_PGFandom);
             this.Controls.Add(this.L_Serebii);
             this.Controls.Add(this.B_Save);
@@ -199,6 +211,7 @@ namespace PoGoEncTool
         private System.Windows.Forms.Button B_Save;
         private System.Windows.Forms.LinkLabel L_Serebii;
         private System.Windows.Forms.LinkLabel L_PGFandom;
+        private System.Windows.Forms.Button B_CopyTo;
     }
 }
 

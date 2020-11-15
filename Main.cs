@@ -56,7 +56,7 @@ namespace PoGoEncTool
                 return;
 
             System.Media.SystemSounds.Asterisk.Play();
-            var prompt = MessageBox.Show($"Changes were last saved {delta:g} ago. Are you sure you want to exit?", "Prompt", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+            var prompt = WinFormsUtil.Prompt(MessageBoxButtons.YesNo, $"Changes were last saved {delta:g} ago. Are you sure you want to exit?");
             if (prompt != DialogResult.Yes)
                 e.Cancel = true;
         }
@@ -198,6 +198,30 @@ namespace PoGoEncTool
                 UseShellExecute = true
             };
             Process.Start(psi);
+        }
+
+        private void B_CopyTo_Click(object sender, EventArgs e)
+        {
+            var species = CurrentSpecies;
+            var form = CB_Form.SelectedIndex;
+
+            var evos = EvoUtil.Get(species, form).Select(z => new { Species = z & 0x7FF, Form = z >> 11 }).ToArray();
+            var names = evos.Select(z => $"{SpeciesName.GetSpeciesName(z.Species, 2)}{(z.Form == 0 ? "" : $"-{z.Form}")}");
+            var prompt = string.Join(Environment.NewLine, names);
+
+            var result = WinFormsUtil.Prompt(MessageBoxButtons.YesNo, "Copy the current edit-fields to the following entries as a NEW ENTRY?", prompt);
+            if (result != DialogResult.Yes)
+                return;
+
+            foreach (var evo in evos)
+            {
+                var detail = PogoEntry.CreateNew();
+                pogoRow1.SaveEntry(detail);
+
+                var parent = Entries.GetDetails(evo.Species, evo.Form);
+                parent.Add(detail);
+            }
+            System.Media.SystemSounds.Asterisk.Play();
         }
     }
 }
