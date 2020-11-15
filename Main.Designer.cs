@@ -44,7 +44,7 @@ namespace PoGoEncTool
             this.SuspendLayout();
             // 
             // LB_Species
-            //
+            // 
             this.LB_Species.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.LB_Species.FormattingEnabled = true;
@@ -54,7 +54,7 @@ namespace PoGoEncTool
             this.LB_Species.Size = new System.Drawing.Size(124, 289);
             this.LB_Species.TabIndex = 1;
             this.LB_Species.SelectedIndexChanged += new System.EventHandler(this.LB_Species_SelectedIndexChanged);
-            //
+            // 
             // CB_Species
             // 
             this.CB_Species.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
@@ -100,7 +100,7 @@ namespace PoGoEncTool
             // 
             // PB_Poke
             // 
-            this.PB_Poke.Location = new System.Drawing.Point(142, 70);
+            this.PB_Poke.Location = new System.Drawing.Point(142, 35);
             this.PB_Poke.Name = "PB_Poke";
             this.PB_Poke.Size = new System.Drawing.Size(68, 56);
             this.PB_Poke.TabIndex = 6;
@@ -108,7 +108,7 @@ namespace PoGoEncTool
             // 
             // B_AddNew
             // 
-            this.B_AddNew.Location = new System.Drawing.Point(142, 132);
+            this.B_AddNew.Location = new System.Drawing.Point(142, 98);
             this.B_AddNew.Name = "B_AddNew";
             this.B_AddNew.Size = new System.Drawing.Size(57, 23);
             this.B_AddNew.TabIndex = 7;
@@ -141,7 +141,7 @@ namespace PoGoEncTool
             // L_Serebii
             // 
             this.L_Serebii.AutoSize = true;
-            this.L_Serebii.Location = new System.Drawing.Point(142, 42);
+            this.L_Serebii.Location = new System.Drawing.Point(142, 149);
             this.L_Serebii.Name = "L_Serebii";
             this.L_Serebii.Size = new System.Drawing.Size(42, 15);
             this.L_Serebii.TabIndex = 14;
@@ -150,16 +150,16 @@ namespace PoGoEncTool
             this.L_Serebii.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.L_Serebii_LinkClicked);
             // 
             // L_PGFandom
-            //
+            // 
             this.L_PGFandom.AutoSize = true;
-            this.L_PGFandom.Location = new System.Drawing.Point(142, 61);
+            this.L_PGFandom.Location = new System.Drawing.Point(142, 168);
             this.L_PGFandom.Name = "L_PGFandom";
-            this.L_PGFandom.Size = new System.Drawing.Size(42, 15);
+            this.L_PGFandom.Size = new System.Drawing.Size(66, 15);
             this.L_PGFandom.TabIndex = 15;
             this.L_PGFandom.TabStop = true;
             this.L_PGFandom.Text = "PGFandom";
             this.L_PGFandom.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.L_PGFandom_LinkClicked);
-            //
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);

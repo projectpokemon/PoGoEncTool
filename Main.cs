@@ -187,20 +187,11 @@ namespace PoGoEncTool
             LB_Appearances.DrawMode = DrawMode.Normal;
         }
 
-        private void L_Serebii_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            var url = $"https://www.serebii.net/pokemongo/pokemon/{CurrentSpecies:000}.shtml";
-            var psi = new ProcessStartInfo
-            {
-                FileName = url,
-                UseShellExecute = true
-            };
-            Process.Start(psi);
-        }
+        private void L_Serebii_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) => OpenWebpage($"https://www.serebii.net/pokemongo/pokemon/{CurrentSpecies:000}.shtml");
+        private void L_PGFandom_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e) => OpenWebpage($"https://pokemongo.fandom.com/wiki/{(Species)CurrentSpecies}#Availability");
 
-        private void L_PGFandom_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        private static void OpenWebpage(string url)
         {
-            var url = $"https://pokemongo.fandom.com/wiki/{(Species)CurrentSpecies}#Availability";
             var psi = new ProcessStartInfo
             {
                 FileName = url,
