@@ -3,7 +3,6 @@
     {
       "Species": 1,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -35,7 +34,6 @@
     {
       "Species": 2,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -67,7 +65,6 @@
     {
       "Species": 3,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -99,7 +96,6 @@
     {
       "Species": 4,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -131,7 +127,6 @@
     {
       "Species": 5,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -163,7 +158,6 @@
     {
       "Species": 6,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -195,7 +189,6 @@
     {
       "Species": 7,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -227,7 +220,6 @@
     {
       "Species": 8,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -259,7 +251,6 @@
     {
       "Species": 9,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -291,7 +282,6 @@
     {
       "Species": 10,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -323,7 +313,6 @@
     {
       "Species": 11,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -355,7 +344,6 @@
     {
       "Species": 12,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -387,13 +375,7 @@
     {
       "Species": 13,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -403,6 +385,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         },
         {
           "Shiny": 1,
@@ -414,13 +401,7 @@
     {
       "Species": 14,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -432,6 +413,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -441,7 +427,6 @@
     {
       "Species": 15,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -473,13 +458,7 @@
     {
       "Species": 16,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -489,19 +468,18 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         }
       ]
     },
     {
       "Species": 17,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -511,13 +489,17 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         }
       ]
     },
     {
       "Species": 18,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -540,6 +522,21 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "End": {
+            "Y": 2020,
+            "M": 11,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Season 3, Season 4"
+        },
+        {
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -549,13 +546,7 @@
     {
       "Species": 19,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -567,6 +558,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -576,7 +572,6 @@
     {
       "Species": 19,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -593,13 +588,7 @@
     {
       "Species": 20,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -611,6 +600,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -620,7 +614,6 @@
     {
       "Species": 20,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -642,7 +635,6 @@
     {
       "Species": 20,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -659,7 +651,6 @@
     {
       "Species": 21,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -676,7 +667,6 @@
     {
       "Species": 22,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -703,7 +693,6 @@
     {
       "Species": 23,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -745,7 +734,6 @@
     {
       "Species": 24,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -787,7 +775,6 @@
     {
       "Species": 25,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -819,7 +806,6 @@
     {
       "Species": 26,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -851,7 +837,6 @@
     {
       "Species": 26,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -868,7 +853,6 @@
     {
       "Species": 27,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -900,7 +884,6 @@
     {
       "Species": 27,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -917,7 +900,6 @@
     {
       "Species": 28,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -949,7 +931,6 @@
     {
       "Species": 28,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -966,13 +947,7 @@
     {
       "Species": 29,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -982,6 +957,11 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         },
         {
           "Shiny": 1,
@@ -993,13 +973,7 @@
     {
       "Species": 30,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -1011,6 +985,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -1020,7 +999,6 @@
     {
       "Species": 31,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1052,7 +1030,6 @@
     {
       "Species": 32,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1084,7 +1061,6 @@
     {
       "Species": 33,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1116,7 +1092,6 @@
     {
       "Species": 34,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1148,7 +1123,6 @@
     {
       "Species": 35,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1180,7 +1154,6 @@
     {
       "Species": 36,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1212,7 +1185,6 @@
     {
       "Species": 37,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1249,7 +1221,6 @@
     {
       "Species": 37,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -1276,7 +1247,6 @@
     {
       "Species": 38,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1313,7 +1283,6 @@
     {
       "Species": 38,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -1340,7 +1309,6 @@
     {
       "Species": 39,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1372,7 +1340,6 @@
     {
       "Species": 40,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1404,7 +1371,6 @@
     {
       "Species": 41,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1436,7 +1402,6 @@
     {
       "Species": 42,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1468,13 +1433,7 @@
     {
       "Species": 43,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -1486,6 +1445,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -1495,7 +1459,6 @@
     {
       "Species": 44,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1527,7 +1490,6 @@
     {
       "Species": 45,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1559,7 +1521,6 @@
     {
       "Species": 46,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1576,7 +1537,6 @@
     {
       "Species": 47,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1593,7 +1553,6 @@
     {
       "Species": 48,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1625,7 +1584,6 @@
     {
       "Species": 49,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1657,13 +1615,7 @@
     {
       "Species": 50,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -1675,6 +1627,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -1684,7 +1641,6 @@
     {
       "Species": 50,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -1701,13 +1657,7 @@
     {
       "Species": 51,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -1719,6 +1669,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -1728,7 +1683,6 @@
     {
       "Species": 51,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -1755,7 +1709,6 @@
     {
       "Species": 52,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -1792,7 +1745,6 @@
     {
       "Species": 52,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -1819,7 +1771,6 @@
     {
       "Species": 52,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -1831,7 +1782,6 @@
     {
       "Species": 53,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -1868,7 +1818,6 @@
     {
       "Species": 53,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -1890,7 +1839,6 @@
     {
       "Species": 54,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1927,7 +1875,6 @@
     {
       "Species": 55,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1964,7 +1911,6 @@
     {
       "Species": 56,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -1996,7 +1942,6 @@
     {
       "Species": 57,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2028,7 +1973,6 @@
     {
       "Species": 58,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -2065,7 +2009,6 @@
     {
       "Species": 59,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -2102,7 +2045,6 @@
     {
       "Species": 60,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2134,7 +2076,6 @@
     {
       "Species": 61,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2166,7 +2107,6 @@
     {
       "Species": 62,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2198,7 +2138,6 @@
     {
       "Species": 63,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2250,7 +2189,6 @@
     {
       "Species": 64,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2302,7 +2240,6 @@
     {
       "Species": 65,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2354,8 +2291,17 @@
     {
       "Species": 66,
       "Form": 0,
-      "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 3,
+            "D": 5
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -2367,27 +2313,46 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 30,
-          "Comment": "Initial: Purified"
+          "Comment": "Team GO Rocket Event"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason onwards"
         }
       ]
     },
     {
       "Species": 67,
       "Form": 0,
-      "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 3,
+            "D": 5
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -2399,27 +2364,46 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 30,
-          "Comment": "Initial: Purified"
+          "Comment": "Team GO Rocket Event"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason onwards"
         }
       ]
     },
     {
       "Species": 68,
       "Form": 0,
-      "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 3,
+            "D": 5
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -2431,26 +2415,35 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 30,
-          "Comment": "Initial: Purified"
+          "Comment": "Team GO Rocket Event"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason onwards"
         }
       ]
     },
     {
       "Species": 69,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2482,7 +2475,6 @@
     {
       "Species": 70,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2514,7 +2506,6 @@
     {
       "Species": 71,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2551,13 +2542,7 @@
     {
       "Species": 72,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -2567,13 +2552,17 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         }
       ]
     },
     {
       "Species": 73,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2605,7 +2594,6 @@
     {
       "Species": 74,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2637,7 +2625,6 @@
     {
       "Species": 74,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -2659,7 +2646,6 @@
     {
       "Species": 75,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2691,7 +2677,6 @@
     {
       "Species": 75,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -2713,7 +2698,6 @@
     {
       "Species": 76,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2745,7 +2729,6 @@
     {
       "Species": 76,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -2767,7 +2750,6 @@
     {
       "Species": 77,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2799,7 +2781,6 @@
     {
       "Species": 77,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -2816,7 +2797,6 @@
     {
       "Species": 78,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2848,7 +2828,6 @@
     {
       "Species": 78,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -2865,7 +2844,6 @@
     {
       "Species": 79,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2892,7 +2870,6 @@
     {
       "Species": 80,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2919,7 +2896,6 @@
     {
       "Species": 81,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2951,7 +2927,6 @@
     {
       "Species": 82,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2983,7 +2958,6 @@
     {
       "Species": 83,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -2993,7 +2967,7 @@
           },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "A Unova Unveiling"
+          "Comment": "Initial: Shiny can exist in wild"
         },
         {
           "Start": {
@@ -3010,25 +2984,63 @@
     {
       "Species": 83,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 10,
+            "D": 22
+          },
+          "End": {
+            "Y": 2020,
+            "M": 10,
+            "D": 23
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "Increased Spawns"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 17
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Increased Spawns"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "7 km"
         }
       ]
     },
     {
       "Species": 84,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -3038,19 +3050,18 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         }
       ]
     },
     {
       "Species": 85,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -3060,13 +3071,17 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         }
       ]
     },
     {
       "Species": 86,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3098,7 +3113,6 @@
     {
       "Species": 87,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3130,7 +3144,6 @@
     {
       "Species": 88,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -3167,7 +3180,6 @@
     {
       "Species": 88,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -3189,7 +3201,6 @@
     {
       "Species": 89,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -3226,7 +3237,6 @@
     {
       "Species": 89,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -3248,7 +3258,6 @@
     {
       "Species": 90,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3280,7 +3289,6 @@
     {
       "Species": 91,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3312,13 +3320,7 @@
     {
       "Species": 92,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -3328,13 +3330,17 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         }
       ]
     },
     {
       "Species": 93,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3366,7 +3372,6 @@
     {
       "Species": 94,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3398,7 +3403,6 @@
     {
       "Species": 95,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3430,7 +3434,6 @@
     {
       "Species": 96,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -3467,7 +3470,6 @@
     {
       "Species": 97,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -3504,7 +3506,6 @@
     {
       "Species": 98,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3536,7 +3537,6 @@
     {
       "Species": 99,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3568,7 +3568,6 @@
     {
       "Species": 100,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3600,7 +3599,6 @@
     {
       "Species": 101,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3632,13 +3630,7 @@
     {
       "Species": 102,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -3650,6 +3642,11 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -3659,7 +3656,6 @@
     {
       "Species": 103,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3691,7 +3687,6 @@
     {
       "Species": 103,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -3713,7 +3708,6 @@
     {
       "Species": 104,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3745,7 +3739,6 @@
     {
       "Species": 105,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3777,7 +3770,6 @@
     {
       "Species": 105,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -3799,7 +3791,6 @@
     {
       "Species": 106,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3826,7 +3817,6 @@
     {
       "Species": 107,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3853,7 +3843,6 @@
     {
       "Species": 108,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3885,7 +3874,6 @@
     {
       "Species": 109,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3927,7 +3915,6 @@
     {
       "Species": 110,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -3969,7 +3956,6 @@
     {
       "Species": 110,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -3981,13 +3967,7 @@
     {
       "Species": 111,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -3997,13 +3977,17 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         }
       ]
     },
     {
       "Species": 112,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4035,7 +4019,6 @@
     {
       "Species": 113,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4067,7 +4050,6 @@
     {
       "Species": 114,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4099,7 +4081,6 @@
     {
       "Species": 115,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4126,7 +4107,6 @@
     {
       "Species": 116,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4158,7 +4138,6 @@
     {
       "Species": 117,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4190,7 +4169,6 @@
     {
       "Species": 118,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4207,7 +4185,6 @@
     {
       "Species": 119,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4224,7 +4201,6 @@
     {
       "Species": 120,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4256,7 +4232,6 @@
     {
       "Species": 121,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4288,7 +4263,6 @@
     {
       "Species": 122,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4315,12 +4289,16 @@
     {
       "Species": 123,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 4,
+            "D": 2
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Bug Out 2019"
         },
         {
           "Start": {
@@ -4338,11 +4316,31 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 11,
+            "D": 7
+          },
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 8,
+            "D": 1
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -4352,7 +4350,6 @@
     {
       "Species": 124,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4384,7 +4381,6 @@
     {
       "Species": 125,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4426,7 +4422,6 @@
     {
       "Species": 126,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4458,7 +4453,6 @@
     {
       "Species": 127,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -4495,7 +4489,6 @@
     {
       "Species": 128,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4522,7 +4515,6 @@
     {
       "Species": 129,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4554,7 +4546,6 @@
     {
       "Species": 130,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4586,12 +4577,16 @@
     {
       "Species": 131,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 4,
+            "D": 18
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Safari Zone Sentosa"
         },
         {
           "Start": {
@@ -4609,11 +4604,36 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 11,
+            "D": 10
+          },
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 10,
+            "D": 17
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -4623,7 +4643,6 @@
     {
       "Species": 132,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4640,7 +4659,6 @@
     {
       "Species": 133,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4672,7 +4690,6 @@
     {
       "Species": 134,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4704,7 +4721,6 @@
     {
       "Species": 135,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4736,7 +4752,6 @@
     {
       "Species": 136,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4768,7 +4783,6 @@
     {
       "Species": 137,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4800,7 +4814,6 @@
     {
       "Species": 138,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -4837,7 +4850,6 @@
     {
       "Species": 139,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -4874,7 +4886,6 @@
     {
       "Species": 140,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4906,7 +4917,6 @@
     {
       "Species": 141,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4938,8 +4948,17 @@
     {
       "Species": 142,
       "Form": 0,
-      "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 3,
+            "D": 24
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -4951,14 +4970,24 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 3,
+            "D": 13
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason"
         },
         {
           "Shiny": 1,
@@ -4970,7 +4999,6 @@
     {
       "Species": 143,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -4988,6 +5016,21 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 3,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason"
+        },
+        {
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -4997,7 +5040,6 @@
     {
       "Species": 144,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -5114,7 +5156,6 @@
     {
       "Species": 145,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -5231,7 +5272,6 @@
     {
       "Species": 146,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -5363,8 +5403,17 @@
     {
       "Species": 147,
       "Form": 0,
-      "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 2,
+            "D": 24
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -5376,16 +5425,26 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -5395,8 +5454,17 @@
     {
       "Species": 148,
       "Form": 0,
-      "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 2,
+            "D": 24
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -5408,16 +5476,26 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -5427,8 +5505,17 @@
     {
       "Species": 149,
       "Form": 0,
-      "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 2,
+            "D": 24
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -5440,16 +5527,26 @@
           "Comment": "Initial: Can exist in wild"
         },
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -5459,7 +5556,6 @@
     {
       "Species": 150,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -5591,7 +5687,6 @@
     {
       "Species": 151,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -5608,7 +5703,6 @@
     {
       "Species": 152,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5635,7 +5729,6 @@
     {
       "Species": 153,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5662,7 +5755,6 @@
     {
       "Species": 154,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5689,7 +5781,6 @@
     {
       "Species": 155,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5716,7 +5807,6 @@
     {
       "Species": 156,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5743,7 +5833,6 @@
     {
       "Species": 157,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5770,7 +5859,6 @@
     {
       "Species": 158,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5797,7 +5885,6 @@
     {
       "Species": 159,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5824,7 +5911,6 @@
     {
       "Species": 160,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5851,7 +5937,6 @@
     {
       "Species": 161,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5878,7 +5963,6 @@
     {
       "Species": 162,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5905,7 +5989,6 @@
     {
       "Species": 163,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -5917,7 +6000,6 @@
     {
       "Species": 164,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -5939,7 +6021,6 @@
     {
       "Species": 165,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5956,7 +6037,6 @@
     {
       "Species": 166,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -5973,7 +6053,6 @@
     {
       "Species": 167,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -5985,7 +6064,6 @@
     {
       "Species": 168,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -5997,7 +6075,6 @@
     {
       "Species": 169,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6024,7 +6101,6 @@
     {
       "Species": 170,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6041,7 +6117,6 @@
     {
       "Species": 171,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6068,7 +6143,6 @@
     {
       "Species": 172,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6080,7 +6154,6 @@
     {
       "Species": 173,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6092,7 +6165,6 @@
     {
       "Species": 174,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6104,7 +6176,6 @@
     {
       "Species": 175,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6116,7 +6187,6 @@
     {
       "Species": 176,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6143,7 +6213,6 @@
     {
       "Species": 177,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6160,7 +6229,6 @@
     {
       "Species": 178,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6177,7 +6245,6 @@
     {
       "Species": 179,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6204,7 +6271,6 @@
     {
       "Species": 180,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6231,7 +6297,6 @@
     {
       "Species": 181,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6258,7 +6323,6 @@
     {
       "Species": 182,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6285,7 +6349,6 @@
     {
       "Species": 183,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6302,7 +6365,6 @@
     {
       "Species": 184,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6329,7 +6391,6 @@
     {
       "Species": 185,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6356,7 +6417,6 @@
     {
       "Species": 186,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6383,7 +6443,6 @@
     {
       "Species": 187,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6400,7 +6459,6 @@
     {
       "Species": 188,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6417,7 +6475,6 @@
     {
       "Species": 189,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6434,7 +6491,6 @@
     {
       "Species": 190,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6461,7 +6517,6 @@
     {
       "Species": 191,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6488,7 +6543,6 @@
     {
       "Species": 192,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6515,7 +6569,6 @@
     {
       "Species": 193,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6542,7 +6595,6 @@
     {
       "Species": 194,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6554,7 +6606,6 @@
     {
       "Species": 195,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6566,7 +6617,6 @@
     {
       "Species": 196,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6593,7 +6643,6 @@
     {
       "Species": 197,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6620,7 +6669,6 @@
     {
       "Species": 198,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6647,7 +6695,6 @@
     {
       "Species": 199,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6664,7 +6711,6 @@
     {
       "Species": 200,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6691,7 +6737,6 @@
     {
       "Species": 201,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6713,7 +6758,6 @@
     {
       "Species": 201,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6735,7 +6779,6 @@
     {
       "Species": 201,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6747,7 +6790,6 @@
     {
       "Species": 201,
       "Form": 3,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6759,7 +6801,6 @@
     {
       "Species": 201,
       "Form": 4,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6771,7 +6812,6 @@
     {
       "Species": 201,
       "Form": 5,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6783,7 +6823,6 @@
     {
       "Species": 201,
       "Form": 6,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6795,7 +6834,6 @@
     {
       "Species": 201,
       "Form": 7,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6812,7 +6850,6 @@
     {
       "Species": 201,
       "Form": 8,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6824,7 +6861,6 @@
     {
       "Species": 201,
       "Form": 9,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6836,7 +6872,6 @@
     {
       "Species": 201,
       "Form": 10,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6848,7 +6883,6 @@
     {
       "Species": 201,
       "Form": 11,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6865,7 +6899,6 @@
     {
       "Species": 201,
       "Form": 12,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6887,7 +6920,6 @@
     {
       "Species": 201,
       "Form": 13,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6899,7 +6931,6 @@
     {
       "Species": 201,
       "Form": 14,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6911,7 +6942,6 @@
     {
       "Species": 201,
       "Form": 15,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6928,7 +6958,6 @@
     {
       "Species": 201,
       "Form": 16,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6940,7 +6969,6 @@
     {
       "Species": 201,
       "Form": 17,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6957,7 +6985,6 @@
     {
       "Species": 201,
       "Form": 18,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -6979,7 +7006,6 @@
     {
       "Species": 201,
       "Form": 19,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -6996,7 +7022,6 @@
     {
       "Species": 201,
       "Form": 20,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7023,7 +7048,6 @@
     {
       "Species": 201,
       "Form": 21,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7045,7 +7069,6 @@
     {
       "Species": 201,
       "Form": 22,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7057,7 +7080,6 @@
     {
       "Species": 201,
       "Form": 23,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7069,7 +7091,6 @@
     {
       "Species": 201,
       "Form": 24,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7081,7 +7102,6 @@
     {
       "Species": 201,
       "Form": 25,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7093,7 +7113,6 @@
     {
       "Species": 201,
       "Form": 26,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7105,7 +7124,6 @@
     {
       "Species": 201,
       "Form": 27,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7117,7 +7135,6 @@
     {
       "Species": 202,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7144,7 +7161,6 @@
     {
       "Species": 203,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7166,7 +7182,6 @@
     {
       "Species": 204,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7198,7 +7213,6 @@
     {
       "Species": 205,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7230,7 +7244,6 @@
     {
       "Species": 206,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7247,7 +7260,6 @@
     {
       "Species": 207,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7274,7 +7286,6 @@
     {
       "Species": 208,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7301,7 +7312,6 @@
     {
       "Species": 209,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7328,7 +7338,6 @@
     {
       "Species": 210,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7355,7 +7364,6 @@
     {
       "Species": 211,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7382,14 +7390,23 @@
     {
       "Species": 212,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 4,
+            "D": 2
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Bug Out 2019"
         },
         {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -7400,11 +7417,31 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 11,
+            "D": 7
+          },
           "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 8,
+            "D": 1
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -7414,7 +7451,6 @@
     {
       "Species": 213,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7441,7 +7477,6 @@
     {
       "Species": 214,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7453,7 +7488,6 @@
     {
       "Species": 215,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7485,7 +7519,6 @@
     {
       "Species": 216,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7507,7 +7540,6 @@
     {
       "Species": 217,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7534,7 +7566,6 @@
     {
       "Species": 218,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7546,7 +7577,6 @@
     {
       "Species": 219,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7568,7 +7598,6 @@
     {
       "Species": 220,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7595,7 +7624,6 @@
     {
       "Species": 221,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7622,7 +7650,6 @@
     {
       "Species": 222,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7634,7 +7661,6 @@
     {
       "Species": 223,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7646,7 +7672,6 @@
     {
       "Species": 224,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7668,7 +7693,6 @@
     {
       "Species": 225,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7695,7 +7719,6 @@
     {
       "Species": 226,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7717,14 +7740,23 @@
     {
       "Species": 227,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 11,
+            "D": 1
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "A Colossal Discovery"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 2,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -7733,6 +7765,21 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 25
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
         },
         {
           "Shiny": 1,
@@ -7744,7 +7791,6 @@
     {
       "Species": 228,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7771,7 +7817,6 @@
     {
       "Species": 229,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7798,7 +7843,6 @@
     {
       "Species": 230,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7825,7 +7869,6 @@
     {
       "Species": 231,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7837,7 +7880,6 @@
     {
       "Species": 232,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7859,7 +7901,6 @@
     {
       "Species": 233,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7886,7 +7927,6 @@
     {
       "Species": 234,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -7913,7 +7953,6 @@
     {
       "Species": 235,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7925,7 +7964,6 @@
     {
       "Species": 236,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7937,7 +7975,6 @@
     {
       "Species": 237,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7959,7 +7996,6 @@
     {
       "Species": 238,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7971,7 +8007,6 @@
     {
       "Species": 239,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7983,7 +8018,6 @@
     {
       "Species": 240,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -7995,7 +8029,6 @@
     {
       "Species": 241,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -8017,7 +8050,6 @@
     {
       "Species": 242,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8044,8 +8076,17 @@
     {
       "Species": 243,
       "Form": 0,
-      "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
+        },
         {
           "Start": {
             "Y": 2020,
@@ -8060,7 +8101,13 @@
           "Shiny": 1,
           "Type": 30,
           "Comment": "Looming in the Shadows"
-        },
+        }
+      ]
+    },
+    {
+      "Species": 244,
+      "Form": 0,
+      "Data": [
         {
           "Shiny": 0,
           "Type": 10,
@@ -8070,14 +8117,7 @@
           "Shiny": 0,
           "Type": 20,
           "Comment": "Research Breakthrough (Can be Shiny)"
-        }
-      ]
-    },
-    {
-      "Species": 244,
-      "Form": 0,
-      "Available": true,
-      "Data": [
+        },
         {
           "Start": {
             "Y": 2020,
@@ -8092,7 +8132,13 @@
           "Shiny": 1,
           "Type": 30,
           "Comment": "Looming in the Shadows"
-        },
+        }
+      ]
+    },
+    {
+      "Species": 245,
+      "Form": 0,
+      "Data": [
         {
           "Shiny": 0,
           "Type": 10,
@@ -8102,14 +8148,7 @@
           "Shiny": 0,
           "Type": 20,
           "Comment": "Research Breakthrough (Can be Shiny)"
-        }
-      ]
-    },
-    {
-      "Species": 245,
-      "Form": 0,
-      "Available": true,
-      "Data": [
+        },
         {
           "Start": {
             "Y": 2020,
@@ -8118,36 +8157,35 @@
           },
           "End": {
             "Y": 2020,
-            "M": 7,
-            "D": 26
+            "M": 10,
+            "D": 12
           },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Team GO Rocket Event"
-        },
-        {
-          "Shiny": 0,
-          "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
-        },
-        {
-          "Shiny": 0,
-          "Type": 20,
-          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
     {
       "Species": 246,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2018,
+            "M": 6,
+            "D": 16
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Community Day"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 2,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8158,6 +8196,26 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 5
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -8167,14 +8225,23 @@
     {
       "Species": 247,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2018,
+            "M": 6,
+            "D": 16
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Community Day"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 2,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8185,6 +8252,26 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 5
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -8194,14 +8281,23 @@
     {
       "Species": 248,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2018,
+            "M": 6,
+            "D": 16
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Community Day"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 2,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8212,6 +8308,26 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 5
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -8221,7 +8337,6 @@
     {
       "Species": 249,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -8237,6 +8352,21 @@
           "Shiny": 0,
           "Type": 20,
           "Comment": "Animation Week 2020"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 11,
+            "D": 24
+          },
+          "End": {
+            "Y": 2020,
+            "M": 5,
+            "D": 1
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Special Reward"
         },
         {
           "Start": {
@@ -8331,14 +8461,13 @@
           },
           "Shiny": 0,
           "Type": 20,
-          "Comment": "GO Battle League"
+          "Comment": "GBL Special Reward"
         }
       ]
     },
     {
       "Species": 250,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8355,7 +8484,6 @@
     {
       "Species": 251,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -8367,14 +8495,33 @@
     {
       "Species": 252,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "GBL Season 3 onwards"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 3,
+            "D": 23
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8389,14 +8536,33 @@
     {
       "Species": 253,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "GBL Season 3 onwards"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 3,
+            "D": 23
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8411,14 +8577,33 @@
     {
       "Species": 254,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "GBL Season 3 onwards"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 3,
+            "D": 23
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8433,17 +8618,36 @@
     {
       "Species": 255,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 5,
+            "D": 19
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         },
         {
           "Shiny": 1,
@@ -8455,17 +8659,36 @@
     {
       "Species": 256,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 5,
+            "D": 19
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         },
         {
           "Shiny": 1,
@@ -8477,17 +8700,36 @@
     {
       "Species": 257,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
-        },
-        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 5,
+            "D": 19
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
         },
         {
           "Shiny": 1,
@@ -8499,14 +8741,33 @@
     {
       "Species": 258,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 21
+          },
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8517,6 +8778,11 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -8526,14 +8792,33 @@
     {
       "Species": 259,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 21
+          },
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8544,6 +8829,11 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -8553,14 +8843,33 @@
     {
       "Species": 260,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 21
+          },
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8571,6 +8880,11 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 30,
           "Comment": "Initial: Purified"
@@ -8580,7 +8894,6 @@
     {
       "Species": 261,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8597,7 +8910,6 @@
     {
       "Species": 262,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8624,14 +8936,23 @@
     {
       "Species": 263,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 15
+          },
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8641,9 +8962,23 @@
     {
       "Species": 263,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 3
+          },
           "Shiny": 1,
           "Type": 2,
           "Comment": "Initial: Egg Only"
@@ -8653,14 +8988,23 @@
     {
       "Species": 264,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 15
+          },
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -8670,9 +9014,23 @@
     {
       "Species": 264,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 3
+          },
           "Shiny": 1,
           "Type": 2,
           "Comment": "Initial: Egg Only"
@@ -8682,7 +9040,6 @@
     {
       "Species": 265,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8709,7 +9066,6 @@
     {
       "Species": 266,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8736,7 +9092,6 @@
     {
       "Species": 267,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8763,7 +9118,6 @@
     {
       "Species": 268,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8790,7 +9144,6 @@
     {
       "Species": 269,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8817,7 +9170,6 @@
     {
       "Species": 270,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8844,7 +9196,6 @@
     {
       "Species": 271,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8871,7 +9222,6 @@
     {
       "Species": 272,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8898,7 +9248,6 @@
     {
       "Species": 273,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8920,7 +9269,6 @@
     {
       "Species": 274,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8947,7 +9295,6 @@
     {
       "Species": 275,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8974,7 +9321,6 @@
     {
       "Species": 276,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -8991,7 +9337,6 @@
     {
       "Species": 277,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9018,7 +9363,6 @@
     {
       "Species": 278,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9045,7 +9389,6 @@
     {
       "Species": 279,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9072,7 +9415,6 @@
     {
       "Species": 280,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9099,7 +9441,6 @@
     {
       "Species": 281,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9126,7 +9467,6 @@
     {
       "Species": 282,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9153,7 +9493,6 @@
     {
       "Species": 283,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9165,7 +9504,6 @@
     {
       "Species": 284,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9187,7 +9525,6 @@
     {
       "Species": 285,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9199,7 +9536,6 @@
     {
       "Species": 286,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9221,7 +9557,6 @@
     {
       "Species": 287,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9248,7 +9583,6 @@
     {
       "Species": 288,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9275,7 +9609,6 @@
     {
       "Species": 289,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9302,7 +9635,6 @@
     {
       "Species": 290,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9319,7 +9651,6 @@
     {
       "Species": 291,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9346,7 +9677,6 @@
     {
       "Species": 292,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9358,7 +9688,6 @@
     {
       "Species": 293,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9370,7 +9699,6 @@
     {
       "Species": 294,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9382,7 +9710,6 @@
     {
       "Species": 295,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9394,7 +9721,6 @@
     {
       "Species": 296,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9421,7 +9747,6 @@
     {
       "Species": 297,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9448,7 +9773,6 @@
     {
       "Species": 298,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9460,7 +9784,6 @@
     {
       "Species": 299,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9482,7 +9805,6 @@
     {
       "Species": 300,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9499,7 +9821,6 @@
     {
       "Species": 301,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9516,7 +9837,6 @@
     {
       "Species": 302,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9543,7 +9863,6 @@
     {
       "Species": 303,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9575,7 +9894,6 @@
     {
       "Species": 304,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9602,7 +9920,6 @@
     {
       "Species": 305,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9629,7 +9946,6 @@
     {
       "Species": 306,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9656,14 +9972,23 @@
     {
       "Species": 307,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2018,
+            "M": 5,
+            "D": 1
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Battle Showdown 2018"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -9674,23 +9999,42 @@
           "Comment": "Raid Boss"
         },
         {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 3,
+            "D": 13
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason"
         }
       ]
     },
     {
       "Species": 308,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2018,
+            "M": 5,
+            "D": 1
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Battle Showdown 2018"
         },
         {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -9701,16 +10045,25 @@
           "Comment": "Raid Boss"
         },
         {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 3,
+            "D": 13
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Preseason (evolved)"
         }
       ]
     },
     {
       "Species": 309,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9727,7 +10080,6 @@
     {
       "Species": 310,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9754,7 +10106,6 @@
     {
       "Species": 311,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9781,7 +10132,6 @@
     {
       "Species": 312,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9808,7 +10158,6 @@
     {
       "Species": 313,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9825,7 +10174,6 @@
     {
       "Species": 314,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9842,7 +10190,6 @@
     {
       "Species": 315,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9869,7 +10216,6 @@
     {
       "Species": 316,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9881,7 +10227,6 @@
     {
       "Species": 317,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -9903,7 +10248,6 @@
     {
       "Species": 318,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9930,7 +10274,6 @@
     {
       "Species": 319,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9957,7 +10300,6 @@
     {
       "Species": 320,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -9984,7 +10326,6 @@
     {
       "Species": 321,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10011,7 +10352,6 @@
     {
       "Species": 322,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10023,7 +10363,6 @@
     {
       "Species": 323,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10035,7 +10374,6 @@
     {
       "Species": 324,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10047,7 +10385,6 @@
     {
       "Species": 325,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10074,7 +10411,6 @@
     {
       "Species": 326,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10101,7 +10437,6 @@
     {
       "Species": 328,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10128,7 +10463,6 @@
     {
       "Species": 329,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10155,7 +10489,6 @@
     {
       "Species": 330,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10182,7 +10515,6 @@
     {
       "Species": 331,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10204,7 +10536,6 @@
     {
       "Species": 332,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10226,7 +10557,6 @@
     {
       "Species": 333,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10253,7 +10583,6 @@
     {
       "Species": 334,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10280,7 +10609,6 @@
     {
       "Species": 335,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10297,7 +10625,6 @@
     {
       "Species": 336,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10314,7 +10641,6 @@
     {
       "Species": 337,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10341,7 +10667,6 @@
     {
       "Species": 338,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10368,7 +10693,6 @@
     {
       "Species": 339,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10385,7 +10709,6 @@
     {
       "Species": 340,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10412,7 +10735,6 @@
     {
       "Species": 341,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10424,7 +10746,6 @@
     {
       "Species": 342,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10446,7 +10767,6 @@
     {
       "Species": 343,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10473,7 +10793,6 @@
     {
       "Species": 344,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10500,7 +10819,6 @@
     {
       "Species": 345,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10527,7 +10845,6 @@
     {
       "Species": 346,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10554,7 +10871,6 @@
     {
       "Species": 347,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10581,7 +10897,6 @@
     {
       "Species": 348,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10608,7 +10923,6 @@
     {
       "Species": 349,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10635,7 +10949,6 @@
     {
       "Species": 350,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10662,7 +10975,6 @@
     {
       "Species": 351,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10679,7 +10991,6 @@
     {
       "Species": 353,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10706,7 +11017,6 @@
     {
       "Species": 354,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10733,7 +11043,6 @@
     {
       "Species": 355,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10760,7 +11069,6 @@
     {
       "Species": 356,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10787,7 +11095,6 @@
     {
       "Species": 357,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10799,7 +11106,6 @@
     {
       "Species": 358,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10811,7 +11117,6 @@
     {
       "Species": 359,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10843,7 +11148,6 @@
     {
       "Species": 360,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10855,7 +11159,6 @@
     {
       "Species": 361,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10882,7 +11185,6 @@
     {
       "Species": 362,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10909,7 +11211,6 @@
     {
       "Species": 363,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10921,7 +11222,6 @@
     {
       "Species": 364,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10933,7 +11233,6 @@
     {
       "Species": 365,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -10955,7 +11254,6 @@
     {
       "Species": 366,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -10982,7 +11280,6 @@
     {
       "Species": 367,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11009,7 +11306,6 @@
     {
       "Species": 368,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11036,7 +11332,6 @@
     {
       "Species": 369,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11048,7 +11343,6 @@
     {
       "Species": 370,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11075,7 +11369,6 @@
     {
       "Species": 371,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11107,7 +11400,6 @@
     {
       "Species": 372,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11139,7 +11431,6 @@
     {
       "Species": 373,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11171,14 +11462,23 @@
     {
       "Species": 374,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2018,
+            "M": 10,
+            "D": 21
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Community Day"
         },
         {
+          "Start": {
+            "Y": 2018,
+            "M": 2,
+            "D": 9
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -11189,12 +11489,27 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 13
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 0,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 20,
+          "Comment": "GBL Season 1, Season 2"
         },
         {
-          "Shiny": 1,
+          "Start": {
+            "Y": 2020,
+            "M": 2,
+            "D": 3
+          },
+          "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11203,14 +11518,23 @@
     {
       "Species": 375,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2018,
+            "M": 10,
+            "D": 21
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Community Day"
         },
         {
+          "Start": {
+            "Y": 2018,
+            "M": 2,
+            "D": 9
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -11221,12 +11545,27 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 13
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 0,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 20,
+          "Comment": "GBL Season 1, Season 2"
         },
         {
-          "Shiny": 1,
+          "Start": {
+            "Y": 2020,
+            "M": 2,
+            "D": 3
+          },
+          "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11235,14 +11574,23 @@
     {
       "Species": 376,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2018,
+            "M": 10,
+            "D": 21
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Community Day"
         },
         {
+          "Start": {
+            "Y": 2018,
+            "M": 2,
+            "D": 9
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -11253,12 +11601,27 @@
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 13
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 0,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 20,
+          "Comment": "GBL Season 1, Season 2"
         },
         {
-          "Shiny": 1,
+          "Start": {
+            "Y": 2020,
+            "M": 2,
+            "D": 3
+          },
+          "Shiny": 0,
           "Type": 30,
           "Comment": "Initial: Purified"
         }
@@ -11267,7 +11630,6 @@
     {
       "Species": 377,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11284,7 +11646,6 @@
     {
       "Species": 378,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11301,7 +11662,6 @@
     {
       "Species": 379,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11318,7 +11678,6 @@
     {
       "Species": 380,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11335,7 +11694,6 @@
     {
       "Species": 381,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11352,7 +11710,6 @@
     {
       "Species": 382,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11369,7 +11726,6 @@
     {
       "Species": 383,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11386,7 +11742,6 @@
     {
       "Species": 384,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11398,7 +11753,6 @@
     {
       "Species": 385,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11410,7 +11764,6 @@
     {
       "Species": 386,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11422,7 +11775,6 @@
     {
       "Species": 386,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11439,7 +11791,6 @@
     {
       "Species": 386,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11456,7 +11807,6 @@
     {
       "Species": 386,
       "Form": 3,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11473,7 +11823,6 @@
     {
       "Species": 387,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11500,7 +11849,6 @@
     {
       "Species": 388,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11527,7 +11875,6 @@
     {
       "Species": 389,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11554,7 +11901,6 @@
     {
       "Species": 390,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11576,7 +11922,6 @@
     {
       "Species": 391,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11598,7 +11943,6 @@
     {
       "Species": 392,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11620,7 +11964,6 @@
     {
       "Species": 393,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11642,7 +11985,6 @@
     {
       "Species": 394,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11664,7 +12006,6 @@
     {
       "Species": 395,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11686,7 +12027,6 @@
     {
       "Species": 396,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11698,7 +12038,6 @@
     {
       "Species": 397,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11710,7 +12049,6 @@
     {
       "Species": 398,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11732,7 +12070,6 @@
     {
       "Species": 399,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11754,7 +12091,6 @@
     {
       "Species": 400,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11776,7 +12112,6 @@
     {
       "Species": 401,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11803,7 +12138,6 @@
     {
       "Species": 402,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11830,7 +12164,6 @@
     {
       "Species": 403,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11847,7 +12180,6 @@
     {
       "Species": 404,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11864,7 +12196,6 @@
     {
       "Species": 405,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11881,7 +12212,6 @@
     {
       "Species": 406,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11893,7 +12223,6 @@
     {
       "Species": 407,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -11920,7 +12249,6 @@
     {
       "Species": 408,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11942,7 +12270,6 @@
     {
       "Species": 409,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -11964,51 +12291,78 @@
     {
       "Species": 410,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
         }
       ]
     },
     {
       "Species": 411,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
         }
       ]
     },
     {
       "Species": 412,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12035,7 +12389,6 @@
     {
       "Species": 412,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12062,7 +12415,6 @@
     {
       "Species": 412,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12089,7 +12441,6 @@
     {
       "Species": 413,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12116,7 +12467,6 @@
     {
       "Species": 413,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12143,7 +12493,6 @@
     {
       "Species": 413,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12170,7 +12519,6 @@
     {
       "Species": 414,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12192,7 +12540,6 @@
     {
       "Species": 415,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12214,7 +12561,6 @@
     {
       "Species": 416,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12236,7 +12582,6 @@
     {
       "Species": 417,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12248,7 +12593,6 @@
     {
       "Species": 418,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12270,7 +12614,6 @@
     {
       "Species": 419,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12292,7 +12635,6 @@
     {
       "Species": 420,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12304,7 +12646,6 @@
     {
       "Species": 421,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12316,7 +12657,6 @@
     {
       "Species": 422,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12328,7 +12668,6 @@
     {
       "Species": 422,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12340,7 +12679,6 @@
     {
       "Species": 423,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12352,7 +12690,6 @@
     {
       "Species": 423,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12364,7 +12701,6 @@
     {
       "Species": 424,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12391,7 +12727,6 @@
     {
       "Species": 425,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12418,7 +12753,6 @@
     {
       "Species": 426,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12445,7 +12779,6 @@
     {
       "Species": 427,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12472,7 +12805,6 @@
     {
       "Species": 428,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12499,7 +12831,6 @@
     {
       "Species": 429,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12521,7 +12852,6 @@
     {
       "Species": 430,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12548,7 +12878,6 @@
     {
       "Species": 431,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12565,7 +12894,6 @@
     {
       "Species": 432,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12582,7 +12910,6 @@
     {
       "Species": 433,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12594,7 +12921,6 @@
     {
       "Species": 434,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12611,7 +12937,6 @@
     {
       "Species": 435,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12633,7 +12958,6 @@
     {
       "Species": 436,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12660,7 +12984,6 @@
     {
       "Species": 437,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12687,7 +13010,6 @@
     {
       "Species": 438,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12699,7 +13021,6 @@
     {
       "Species": 439,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12716,7 +13037,6 @@
     {
       "Species": 440,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12728,7 +13048,6 @@
     {
       "Species": 441,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12740,7 +13059,6 @@
     {
       "Species": 442,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12752,7 +13070,6 @@
     {
       "Species": 443,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12779,7 +13096,6 @@
     {
       "Species": 444,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12806,7 +13122,6 @@
     {
       "Species": 445,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12833,7 +13148,6 @@
     {
       "Species": 446,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12845,7 +13159,6 @@
     {
       "Species": 447,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12857,7 +13170,6 @@
     {
       "Species": 448,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -12869,7 +13181,6 @@
     {
       "Species": 449,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12896,7 +13207,6 @@
     {
       "Species": 450,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12923,7 +13233,6 @@
     {
       "Species": 451,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12950,7 +13259,6 @@
     {
       "Species": 452,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -12977,7 +13285,6 @@
     {
       "Species": 453,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13004,7 +13311,6 @@
     {
       "Species": 454,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13031,7 +13337,6 @@
     {
       "Species": 455,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13043,7 +13348,6 @@
     {
       "Species": 456,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13055,7 +13359,6 @@
     {
       "Species": 457,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13077,7 +13380,6 @@
     {
       "Species": 458,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13089,7 +13391,6 @@
     {
       "Species": 459,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13111,7 +13412,6 @@
     {
       "Species": 460,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13138,7 +13438,6 @@
     {
       "Species": 461,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13170,7 +13469,6 @@
     {
       "Species": 462,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13197,7 +13495,6 @@
     {
       "Species": 463,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13224,7 +13521,6 @@
     {
       "Species": 464,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13251,7 +13547,6 @@
     {
       "Species": 465,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13278,7 +13573,6 @@
     {
       "Species": 466,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -13315,7 +13609,6 @@
     {
       "Species": 467,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13342,7 +13635,6 @@
     {
       "Species": 468,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13369,7 +13661,6 @@
     {
       "Species": 469,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13396,7 +13687,6 @@
     {
       "Species": 470,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13423,7 +13713,6 @@
     {
       "Species": 471,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13450,7 +13739,6 @@
     {
       "Species": 472,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13477,7 +13765,6 @@
     {
       "Species": 473,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13504,7 +13791,6 @@
     {
       "Species": 474,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13531,7 +13817,6 @@
     {
       "Species": 475,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13558,7 +13843,6 @@
     {
       "Species": 476,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13580,7 +13864,6 @@
     {
       "Species": 477,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13607,7 +13890,6 @@
     {
       "Species": 478,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13634,7 +13916,6 @@
     {
       "Species": 479,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13646,7 +13927,6 @@
     {
       "Species": 479,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13663,7 +13943,6 @@
     {
       "Species": 479,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13680,7 +13959,6 @@
     {
       "Species": 479,
       "Form": 3,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13697,7 +13975,6 @@
     {
       "Species": 479,
       "Form": 4,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13714,7 +13991,6 @@
     {
       "Species": 479,
       "Form": 5,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -13731,7 +14007,6 @@
     {
       "Species": 480,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13748,7 +14023,6 @@
     {
       "Species": 481,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13765,7 +14039,6 @@
     {
       "Species": 482,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13782,7 +14055,6 @@
     {
       "Species": 483,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13794,7 +14066,6 @@
     {
       "Species": 484,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13806,7 +14077,6 @@
     {
       "Species": 485,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -13833,7 +14103,6 @@
     {
       "Species": 486,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13850,7 +14119,6 @@
     {
       "Species": 487,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -13868,16 +14136,115 @@
           "Comment": "https://pokemongolive.com/post/oct2020-events/"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 26
+          },
+          "End": {
+            "Y": 2020,
+            "M": 7,
+            "D": 26
+          },
           "Shiny": 0,
           "Type": 10,
-          "Comment": "Raid Boss"
+          "Comment": "GO Fest 2020"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 5,
+            "D": 5
+          },
+          "End": {
+            "Y": 2020,
+            "M": 5,
+            "D": 12
+          },
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": ""
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 13
+          },
+          "End": {
+            "Y": 2020,
+            "M": 5,
+            "D": 1
+          },
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Special Reward"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2019,
+            "M": 10,
+            "D": 17
+          },
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Shiny Altered Forme Released"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 4,
+            "D": 2
+          },
+          "End": {
+            "Y": 2019,
+            "M": 4,
+            "D": 29
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Origin Forme Released"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2019,
+            "M": 4,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": ""
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 10,
+            "D": 23
+          },
+          "End": {
+            "Y": 2018,
+            "M": 11,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Halloween 2018 - Altered Forme Released"
         }
       ]
     },
     {
       "Species": 488,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -13904,19 +14271,72 @@
     {
       "Species": 491,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 10,
+            "D": 23
+          },
+          "End": {
+            "Y": 2020,
+            "M": 11,
+            "D": 5
+          },
           "Shiny": 0,
           "Type": 11,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 4,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 5,
+            "D": 5
+          },
+          "Shiny": 0,
+          "Type": 11,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 6
+          },
+          "End": {
+            "Y": 2020,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 0,
+          "Type": 11,
+          "Comment": "Special Raid Weekend"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 10,
+            "D": 17
+          },
+          "End": {
+            "Y": 2019,
+            "M": 11,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 11,
+          "Comment": "Halloween 2019"
         }
       ]
     },
     {
       "Species": 494,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -13928,160 +14348,330 @@
     {
       "Species": 495,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "An Unova Unveiling"
         }
       ]
     },
     {
       "Species": 496,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "An Unova Unveiling"
         }
       ]
     },
     {
       "Species": 497,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "An Unova Unveiling"
         }
       ]
     },
     {
       "Species": 498,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "An Unova Unveiling"
         }
       ]
     },
     {
       "Species": 499,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "An Unova Unveiling"
         }
       ]
     },
     {
       "Species": 500,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "An Unova Unveiling"
         }
       ]
     },
     {
       "Species": 501,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "An Unova Unveiling"
         }
       ]
     },
     {
       "Species": 502,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "An Unova Unveiling"
         }
       ]
     },
     {
       "Species": 503,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "An Unova Unveiling"
         }
       ]
     },
     {
       "Species": 504,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -14091,7 +14681,7 @@
           },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "An Unova Unveiling"
         },
         {
           "Shiny": 1,
@@ -14103,7 +14693,6 @@
     {
       "Species": 505,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -14113,7 +14702,7 @@
           },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "An Unova Unveiling"
         },
         {
           "Shiny": 1,
@@ -14125,7 +14714,6 @@
     {
       "Species": 506,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -14135,7 +14723,7 @@
           },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "An Unova Unveiling"
         },
         {
           "Shiny": 1,
@@ -14147,7 +14735,6 @@
     {
       "Species": 507,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -14157,7 +14744,7 @@
           },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "An Unova Unveiling"
         },
         {
           "Shiny": 1,
@@ -14169,7 +14756,6 @@
     {
       "Species": 508,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -14179,7 +14765,7 @@
           },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "An Unova Unveiling"
         },
         {
           "Shiny": 1,
@@ -14191,24 +14777,32 @@
     {
       "Species": 509,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "An Unova Unveiling"
         }
       ]
     },
     {
       "Species": 510,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "An Unova Unveiling"
         },
         {
           "Shiny": 1,
@@ -14220,7 +14814,6 @@
     {
       "Species": 511,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14232,7 +14825,6 @@
     {
       "Species": 512,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14244,7 +14836,6 @@
     {
       "Species": 513,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14256,7 +14847,6 @@
     {
       "Species": 514,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14268,7 +14858,6 @@
     {
       "Species": 515,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14280,7 +14869,6 @@
     {
       "Species": 516,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14292,7 +14880,6 @@
     {
       "Species": 519,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14319,7 +14906,6 @@
     {
       "Species": 520,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14346,7 +14932,6 @@
     {
       "Species": 521,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14373,7 +14958,6 @@
     {
       "Species": 522,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14395,7 +14979,6 @@
     {
       "Species": 523,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14417,7 +15000,6 @@
     {
       "Species": 524,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14444,7 +15026,6 @@
     {
       "Species": 525,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14471,7 +15052,6 @@
     {
       "Species": 526,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14498,7 +15078,6 @@
     {
       "Species": 527,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14525,7 +15104,6 @@
     {
       "Species": 528,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14552,7 +15130,6 @@
     {
       "Species": 529,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14564,7 +15141,6 @@
     {
       "Species": 530,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14586,7 +15162,6 @@
     {
       "Species": 531,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14598,7 +15173,6 @@
     {
       "Species": 532,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14625,7 +15199,6 @@
     {
       "Species": 533,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14652,7 +15225,6 @@
     {
       "Species": 534,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -14679,7 +15251,6 @@
     {
       "Species": 535,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14701,7 +15272,6 @@
     {
       "Species": 536,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14723,7 +15293,6 @@
     {
       "Species": 537,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14745,7 +15314,6 @@
     {
       "Species": 538,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14757,7 +15325,6 @@
     {
       "Species": 539,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14769,7 +15336,6 @@
     {
       "Species": 540,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14781,7 +15347,6 @@
     {
       "Species": 541,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14793,7 +15358,6 @@
     {
       "Species": 542,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14805,7 +15369,6 @@
     {
       "Species": 543,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14827,7 +15390,6 @@
     {
       "Species": 544,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14849,7 +15411,6 @@
     {
       "Species": 545,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14871,7 +15432,6 @@
     {
       "Species": 546,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14893,7 +15453,6 @@
     {
       "Species": 547,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14915,7 +15474,6 @@
     {
       "Species": 548,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14937,7 +15495,6 @@
     {
       "Species": 549,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14959,7 +15516,6 @@
     {
       "Species": 550,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14971,7 +15527,6 @@
     {
       "Species": 550,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14983,7 +15538,6 @@
     {
       "Species": 551,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -14995,7 +15549,6 @@
     {
       "Species": 552,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15007,7 +15560,6 @@
     {
       "Species": 553,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15019,7 +15571,6 @@
     {
       "Species": 554,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15041,7 +15592,6 @@
     {
       "Species": 554,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15053,7 +15603,6 @@
     {
       "Species": 555,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15075,7 +15624,6 @@
     {
       "Species": 555,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15087,7 +15635,6 @@
     {
       "Species": 556,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15099,7 +15646,6 @@
     {
       "Species": 557,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -15126,7 +15672,6 @@
     {
       "Species": 558,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -15153,43 +15698,118 @@
     {
       "Species": 559,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 8,
+            "D": 1
+          },
+          "End": {
+            "Y": 2020,
+            "M": 8,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Research Breakthrough"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 5,
+            "D": 17
+          },
+          "End": {
+            "Y": 2020,
+            "M": 5,
+            "D": 17
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "Incense Day: Water and Dark Type"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 10,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "12 km"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason onwards"
         }
       ]
     },
     {
       "Species": 560,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 8,
+            "D": 1
+          },
+          "End": {
+            "Y": 2020,
+            "M": 8,
+            "D": 31
+          },
           "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 561,
-      "Form": 0,
-      "Available": true,
-      "Data": [
+          "Type": 20,
+          "Comment": "Research Breakthrough"
+        },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 5,
+            "D": 17
+          },
+          "End": {
+            "Y": 2020,
+            "M": 5,
+            "D": 17
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "Incense Day: Water and Dark Type"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 10,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "12 km"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason onwards"
         }
       ]
     },
     {
       "Species": 562,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -15216,7 +15836,6 @@
     {
       "Species": 562,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15228,7 +15847,6 @@
     {
       "Species": 563,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -15255,7 +15873,6 @@
     {
       "Species": 564,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15267,7 +15884,6 @@
     {
       "Species": 565,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15279,7 +15895,6 @@
     {
       "Species": 566,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15291,7 +15906,6 @@
     {
       "Species": 567,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15303,7 +15917,6 @@
     {
       "Species": 568,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15325,7 +15938,6 @@
     {
       "Species": 569,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15347,7 +15959,6 @@
     {
       "Species": 572,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -15374,7 +15985,6 @@
     {
       "Species": 573,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -15401,7 +16011,6 @@
     {
       "Species": 574,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15423,7 +16032,6 @@
     {
       "Species": 575,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15445,7 +16053,6 @@
     {
       "Species": 576,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15467,7 +16074,6 @@
     {
       "Species": 577,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15489,7 +16095,6 @@
     {
       "Species": 578,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15511,7 +16116,6 @@
     {
       "Species": 579,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15533,7 +16137,6 @@
     {
       "Species": 580,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15545,7 +16148,6 @@
     {
       "Species": 581,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15557,7 +16159,6 @@
     {
       "Species": 585,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -15574,7 +16175,6 @@
     {
       "Species": 586,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -15591,7 +16191,6 @@
     {
       "Species": 587,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15603,7 +16202,6 @@
     {
       "Species": 588,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15615,7 +16213,6 @@
     {
       "Species": 589,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15627,7 +16224,6 @@
     {
       "Species": 590,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15639,7 +16235,6 @@
     {
       "Species": 591,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15661,7 +16256,6 @@
     {
       "Species": 594,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15673,7 +16267,6 @@
     {
       "Species": 595,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15695,7 +16288,6 @@
     {
       "Species": 596,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15717,7 +16309,6 @@
     {
       "Species": 597,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -15744,7 +16335,6 @@
     {
       "Species": 598,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -15771,13 +16361,7 @@
     {
       "Species": 599,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 2,
-          "Comment": "Initial: Egg Only"
-        },
         {
           "Start": {
             "Y": 2019,
@@ -15787,6 +16371,11 @@
           "Shiny": 0,
           "Type": 10,
           "Comment": "A Unova Unveiling"
+        },
+        {
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
         },
         {
           "Shiny": 0,
@@ -15798,13 +16387,7 @@
     {
       "Species": 600,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 2,
-          "Comment": "Initial: Egg Only"
-        },
         {
           "Start": {
             "Y": 2019,
@@ -15817,6 +16400,11 @@
         },
         {
           "Shiny": 0,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        },
+        {
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Raid Boss"
         }
@@ -15825,13 +16413,7 @@
     {
       "Species": 601,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 2,
-          "Comment": "Initial: Egg Only"
-        },
         {
           "Start": {
             "Y": 2016,
@@ -15844,6 +16426,11 @@
         },
         {
           "Shiny": 0,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        },
+        {
+          "Shiny": 0,
           "Type": 10,
           "Comment": "Raid Boss"
         }
@@ -15852,7 +16439,6 @@
     {
       "Species": 605,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15874,7 +16460,6 @@
     {
       "Species": 606,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15896,73 +16481,114 @@
     {
       "Species": 607,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "An Unova Unveiling"
         },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
         }
       ]
     },
     {
       "Species": 608,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "An Unova Unveiling"
         },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
         }
       ]
     },
     {
       "Species": 609,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "An Unova Unveiling"
         },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
-        },
-        {
-          "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
         }
       ]
     },
     {
       "Species": 610,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15974,7 +16600,6 @@
     {
       "Species": 611,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15986,7 +16611,6 @@
     {
       "Species": 612,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -15998,7 +16622,6 @@
     {
       "Species": 613,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16020,7 +16643,6 @@
     {
       "Species": 614,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16042,7 +16664,6 @@
     {
       "Species": 615,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16064,7 +16685,6 @@
     {
       "Species": 616,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16076,7 +16696,6 @@
     {
       "Species": 617,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16088,46 +16707,93 @@
     {
       "Species": 618,
       "Form": 0,
-      "Available": true,
       "Data": [
-        {
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
-        },
         {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 5,
+            "D": 1
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
+          "Type": 20,
+          "Comment": "GBL Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 4,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
         }
       ]
     },
     {
       "Species": 618,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 3
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "Throwback Challenge Champion 2020"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 11,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Throwback Challenge Champion 2020"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Throwback Challenge Champion 2020"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 3
+          },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Raid Boss"
+          "Comment": "Throwback Challenge Champion 2020"
         }
       ]
     },
     {
       "Species": 622,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16139,7 +16805,6 @@
     {
       "Species": 623,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16161,7 +16826,6 @@
     {
       "Species": 624,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16173,7 +16837,6 @@
     {
       "Species": 625,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16185,7 +16848,6 @@
     {
       "Species": 626,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16197,31 +16859,38 @@
     {
       "Species": 627,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 13
+          },
           "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Type": 20,
+          "Comment": "GBL Season 1 onwards"
         }
       ]
     },
     {
       "Species": 628,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 13
+          },
           "Shiny": 1,
-          "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Type": 20,
+          "Comment": "GBL Season 1 onwards"
         }
       ]
     },
     {
       "Species": 629,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16233,7 +16902,6 @@
     {
       "Species": 630,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16245,7 +16913,6 @@
     {
       "Species": 631,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16262,7 +16929,6 @@
     {
       "Species": 632,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16279,14 +16945,38 @@
     {
       "Species": 633,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 31
+          },
           "Shiny": 0,
           "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Comment": "Dragon Week"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -16296,14 +16986,38 @@
     {
       "Species": 634,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 31
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Dragon Week"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -16313,14 +17027,38 @@
     {
       "Species": 635,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
+          "Start": {
+            "Y": 2020,
+            "M": 1,
+            "D": 28
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Preseason, Season 1, Season 2"
         },
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 31
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Dragon Week"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
@@ -16330,10 +17068,49 @@
     {
       "Species": 638,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 17
+          },
+          "End": {
+            "Y": 2020,
+            "M": 5,
+            "D": 1
+          },
           "Shiny": 0,
+          "Type": 20,
+          "Comment": "GBL Special Reward"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 17
+          },
+          "End": {
+            "Y": 2020,
+            "M": 3,
+            "D": 31
+          },
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Shiny Released"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2019,
+            "M": 11,
+            "D": 26
+          },
+          "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         }
@@ -16342,7 +17119,6 @@
     {
       "Species": 639,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16354,7 +17130,6 @@
     {
       "Species": 640,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16366,7 +17141,6 @@
     {
       "Species": 641,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16378,7 +17152,6 @@
     {
       "Species": 641,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16395,19 +17168,42 @@
     {
       "Species": 642,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 9
+          },
+          "End": {
+            "Y": 2020,
+            "M": 5,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Special Reward"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 2
+          },
+          "End": {
+            "Y": 2020,
+            "M": 3,
+            "D": 31
+          },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Raid Boss"
+          "Comment": "Incarnate Forme Released"
         }
       ]
     },
     {
       "Species": 642,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16424,7 +17220,6 @@
     {
       "Species": 643,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16436,7 +17231,6 @@
     {
       "Species": 644,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16448,7 +17242,6 @@
     {
       "Species": 645,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16460,7 +17253,6 @@
     {
       "Species": 645,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16477,7 +17269,6 @@
     {
       "Species": 646,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16489,7 +17280,6 @@
     {
       "Species": 649,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16506,7 +17296,6 @@
     {
       "Species": 649,
       "Form": 1,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16523,7 +17312,6 @@
     {
       "Species": 649,
       "Form": 2,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16540,7 +17328,6 @@
     {
       "Species": 649,
       "Form": 3,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16557,7 +17344,6 @@
     {
       "Species": 649,
       "Form": 4,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16574,7 +17360,6 @@
     {
       "Species": 808,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -16621,7 +17406,6 @@
     {
       "Species": 809,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 0,
@@ -16638,9 +17422,23 @@
     {
       "Species": 862,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 3
+          },
           "Shiny": 1,
           "Type": 2,
           "Comment": "Initial: Egg Only"
@@ -16650,7 +17448,6 @@
     {
       "Species": 863,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
@@ -16662,19 +17459,62 @@
     {
       "Species": 865,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 10,
+            "D": 22
+          },
+          "End": {
+            "Y": 2020,
+            "M": 10,
+            "D": 23
+          },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Initial: Can exist in wild"
+          "Comment": "Increased Spawns"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 17
+          },
+          "End": {
+            "Y": 2020,
+            "M": 6,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Increased Spawns"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "GBL Season 3 onwards"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "7 km"
         }
       ]
     },
     {
       "Species": 867,
       "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Shiny": 1,
