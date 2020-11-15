@@ -7,6 +7,7 @@ namespace PoGoEncTool
     {
         public int Species { get; set; }
         public int Form { get; set; }
+        public bool Available { get; set; }
 
         public List<PogoEntry> Data { get; set; } = new List<PogoEntry>();
         public PogoEntry this[int index]  { get => Data[index]; set => Data[index] = value; }

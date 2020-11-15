@@ -26,6 +26,7 @@ namespace PoGoEncTool
             Entries = DataLoader.GetData(Application.StartupPath, out Settings);
             // Entries = new PogoEncounterList(EncountersGO.CreateSeed());
             // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = PogoType.Shadow);
+            // Entries.ModifyAll(_ => true, e => e.Available = e.Data.Count != 0);
 
             LoadEntries();
             InitializeDataSources();
@@ -123,8 +124,11 @@ namespace PoGoEncTool
             LB_Appearances.Items.Clear();
             LB_Appearances.Items.AddRange(poke.Data.ToArray());
             CurrentPoke = poke;
+            CHK_Available.Checked = poke.Available;
             ChangeRowCount(0);
         }
+
+        private void CHK_Available_CheckedChanged(object sender, EventArgs e) => CurrentPoke.Available = CHK_Available.Checked;
 
         private void ChangeRowCount(int i)
         {
@@ -205,7 +209,7 @@ namespace PoGoEncTool
             var species = CurrentSpecies;
             var form = CB_Form.SelectedIndex;
 
-            var evos = EvoUtil.Get(species, form).Select(z => new { Species = z & 0x7FF, Form = z >> 11 }).ToArray();
+            var evos = EvoUtil.GetEvoSpecForms(species, form).Select(z => new { Species = z & 0x7FF, Form = z >> 11 }).ToArray();
             if (evos.Length == 0)
             {
                 WinFormsUtil.Alert("The current Pokémon cannot evolve into anything; no results found to copy to.");

@@ -41,6 +41,7 @@ namespace PoGoEncTool
             this.L_Serebii = new System.Windows.Forms.LinkLabel();
             this.L_PGFandom = new System.Windows.Forms.LinkLabel();
             this.B_CopyTo = new System.Windows.Forms.Button();
+            this.CHK_Available = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.PB_Poke)).BeginInit();
             this.SuspendLayout();
             // 
@@ -109,7 +110,7 @@ namespace PoGoEncTool
             // 
             // B_AddNew
             // 
-            this.B_AddNew.Location = new System.Drawing.Point(142, 98);
+            this.B_AddNew.Location = new System.Drawing.Point(140, 147);
             this.B_AddNew.Name = "B_AddNew";
             this.B_AddNew.Size = new System.Drawing.Size(68, 23);
             this.B_AddNew.TabIndex = 7;
@@ -142,7 +143,7 @@ namespace PoGoEncTool
             // L_Serebii
             // 
             this.L_Serebii.AutoSize = true;
-            this.L_Serebii.Location = new System.Drawing.Point(142, 149);
+            this.L_Serebii.Location = new System.Drawing.Point(142, 173);
             this.L_Serebii.Name = "L_Serebii";
             this.L_Serebii.Size = new System.Drawing.Size(42, 15);
             this.L_Serebii.TabIndex = 14;
@@ -153,7 +154,7 @@ namespace PoGoEncTool
             // L_PGFandom
             // 
             this.L_PGFandom.AutoSize = true;
-            this.L_PGFandom.Location = new System.Drawing.Point(142, 168);
+            this.L_PGFandom.Location = new System.Drawing.Point(142, 192);
             this.L_PGFandom.Name = "L_PGFandom";
             this.L_PGFandom.Size = new System.Drawing.Size(66, 15);
             this.L_PGFandom.TabIndex = 15;
@@ -163,7 +164,7 @@ namespace PoGoEncTool
             // 
             // B_CopyTo
             // 
-            this.B_CopyTo.Location = new System.Drawing.Point(142, 255);
+            this.B_CopyTo.Location = new System.Drawing.Point(142, 251);
             this.B_CopyTo.Name = "B_CopyTo";
             this.B_CopyTo.Size = new System.Drawing.Size(68, 47);
             this.B_CopyTo.TabIndex = 16;
@@ -171,11 +172,23 @@ namespace PoGoEncTool
             this.B_CopyTo.UseVisualStyleBackColor = true;
             this.B_CopyTo.Click += new System.EventHandler(this.B_CopyTo_Click);
             // 
+            // CHK_Available
+            // 
+            this.CHK_Available.AutoSize = true;
+            this.CHK_Available.Location = new System.Drawing.Point(142, 98);
+            this.CHK_Available.Name = "CHK_Available";
+            this.CHK_Available.Size = new System.Drawing.Size(74, 19);
+            this.CHK_Available.TabIndex = 17;
+            this.CHK_Available.Text = "Available";
+            this.CHK_Available.UseVisualStyleBackColor = true;
+            this.CHK_Available.CheckedChanged += new System.EventHandler(this.CHK_Available_CheckedChanged);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(745, 346);
+            this.Controls.Add(this.CHK_Available);
             this.Controls.Add(this.B_CopyTo);
             this.Controls.Add(this.L_PGFandom);
             this.Controls.Add(this.L_Serebii);
@@ -212,6 +225,7 @@ namespace PoGoEncTool
         private System.Windows.Forms.LinkLabel L_Serebii;
         private System.Windows.Forms.LinkLabel L_PGFandom;
         private System.Windows.Forms.Button B_CopyTo;
+        private System.Windows.Forms.CheckBox CHK_Available;
     }
 }
 

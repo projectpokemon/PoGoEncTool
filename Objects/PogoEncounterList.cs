@@ -27,7 +27,7 @@ namespace PoGoEncTool
         {
             foreach (var d in Data)
                 d.Clean();
-            Data.RemoveAll(z => z.Data.Count == 0);
+            Data.RemoveAll(z => !z.Available);
             Data.Sort((x, y) => x.CompareTo(y));
         }
 
@@ -35,6 +35,15 @@ namespace PoGoEncTool
         {
             foreach (var entry in Data)
                 entry.ModifyAll(condition, action);
+        }
+
+        public void ModifyAll(Func<PogoPoke, bool> condition, Action<PogoPoke> action)
+        {
+            foreach (var entry in Data)
+            {
+                if (condition(entry))
+                    action(entry);
+            }
         }
     }
 }
