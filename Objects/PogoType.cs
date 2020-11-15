@@ -7,14 +7,21 @@
         Wild,
         Egg,
 
-        /// <summary> requires level 15 and IV=1 </summary>
+        /// <summary> Raid Boss, requires Lv. 15 and IV=1 </summary>
         Raid15 = 10,
-        /// <summary> requires level 20 and IV=10 </summary>
+        /// <summary> Raid Boss, requires Lv. 20 and IV=10 </summary>
         Raid20,
 
-        /// <summary> requires level 15 and IV=10 </summary>
+        /// <summary> Field Research, requires Lv. 15 and IV=1 </summary>
         Field15 = 20,
+        /// <summary> Field Research, requires Lv. 15 and IV=10 (Mythical) </summary>
+        FieldM,
+        /// <summary> Field Research, requires Lv. 15 and IV=10 (Mythical, Poké Ball only) </summary>
+        FieldP,
 
+        /// <summary> Purified, requires Lv. 8 and IV=1 (Premier Ball) </summary>
         Shadow = 30,
+        /// <summary> Purified, requires Lv. 8 and IV=1 (No Premier Ball) </summary>
+        ShadowPGU,
     }
 }
