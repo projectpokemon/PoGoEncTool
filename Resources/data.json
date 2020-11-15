@@ -36,13 +36,65 @@
       "Species": 2,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 3,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 4,
@@ -80,13 +132,65 @@
       "Species": 5,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 6,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 7,
@@ -124,13 +228,65 @@
       "Species": 8,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 9,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 10,
@@ -168,16 +324,36 @@
       "Species": 11,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 12,
-      "Form": 0,
-      "Available": true,
-      "Data": []
-    },
-    {
-      "Species": 13,
       "Form": 0,
       "Available": true,
       "Data": [
@@ -195,6 +371,38 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
+    },
+    {
+      "Species": 13,
+      "Form": 0,
+      "Available": true,
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
         },
         {
           "Shiny": 1,
@@ -207,7 +415,28 @@
       "Species": 14,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 15,
@@ -215,9 +444,29 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -227,6 +476,50 @@
       "Available": true,
       "Data": [
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
+    },
+    {
+      "Species": 17,
+      "Form": 0,
+      "Available": true,
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
+    },
+    {
+      "Species": 18,
+      "Form": 0,
+      "Available": true,
+      "Data": [
+        {
           "Start": {
             "Y": 2016,
             "M": 7,
@@ -240,20 +533,7 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 17,
-      "Form": 0,
-      "Available": true,
-      "Data": []
-    },
-    {
-      "Species": 18,
-      "Form": 0,
-      "Available": true,
-      "Data": [
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -272,6 +552,11 @@
       "Available": true,
       "Data": [
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Start": {
             "Y": 2016,
             "M": 7,
@@ -280,11 +565,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
-        },
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
         },
         {
           "Shiny": 1,
@@ -314,13 +594,44 @@
       "Species": 20,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 20,
       "Form": 1,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 30,
@@ -367,6 +678,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -425,7 +746,43 @@
       "Species": 24,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 25
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Team Rocket Go Invasion"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 25,
@@ -463,7 +820,33 @@
       "Species": 26,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 26,
@@ -535,16 +918,107 @@
       "Species": 28,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 28,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 29,
+      "Form": 0,
+      "Available": true,
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
+    },
+    {
+      "Species": 30,
+      "Form": 0,
+      "Available": true,
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
+    },
+    {
+      "Species": 31,
       "Form": 0,
       "Available": true,
       "Data": [
@@ -565,26 +1039,13 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
-        }
-      ]
-    },
-    {
-      "Species": 30,
-      "Form": 0,
-      "Available": true,
-      "Data": []
-    },
-    {
-      "Species": 31,
-      "Form": 0,
-      "Available": true,
-      "Data": [
-        {
-          "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -624,13 +1085,65 @@
       "Species": 33,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 34,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 35,
@@ -668,7 +1181,33 @@
       "Species": 36,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 37,
@@ -738,13 +1277,65 @@
       "Species": 38,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 10,
+            "D": 9
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "The Seasons Change"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 38,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 39,
@@ -782,7 +1373,33 @@
       "Species": 40,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 41,
@@ -820,10 +1437,63 @@
       "Species": 42,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 43,
+      "Form": 0,
+      "Available": true,
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
+    },
+    {
+      "Species": 44,
       "Form": 0,
       "Available": true,
       "Data": [
@@ -844,20 +1514,13 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
-        }
-      ]
-    },
-    {
-      "Species": 44,
-      "Form": 0,
-      "Available": true,
-      "Data": [
-        {
-          "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -865,7 +1528,33 @@
       "Species": 45,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 46,
@@ -888,7 +1577,18 @@
       "Species": 47,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 48,
@@ -926,12 +1626,6 @@
       "Species": 49,
       "Form": 0,
       "Available": true,
-      "Data": []
-    },
-    {
-      "Species": 50,
-      "Form": 0,
-      "Available": true,
       "Data": [
         {
           "Start": {
@@ -947,6 +1641,38 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
+    },
+    {
+      "Species": 50,
+      "Form": 0,
+      "Available": true,
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
         },
         {
           "Shiny": 1,
@@ -976,13 +1702,44 @@
       "Species": 51,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 51,
       "Form": 1,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -1075,13 +1832,60 @@
       "Species": 53,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 53,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 54,
@@ -1124,7 +1928,38 @@
       "Species": 55,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 25
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Safari Zone - Porto Alegre, Brazil"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 56,
@@ -1162,7 +1997,33 @@
       "Species": 57,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 58,
@@ -1205,7 +2066,38 @@
       "Species": 59,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 60,
@@ -1243,13 +2135,65 @@
       "Species": 61,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 62,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 63,
@@ -1307,13 +2251,105 @@
       "Species": 64,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 4,
+            "D": 25
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Abra Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 13
+          },
+          "End": {
+            "Y": 2019,
+            "M": 6,
+            "D": 13
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Accidentally released at Go Fest Chicago"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 65,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 4,
+            "D": 25
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Abra Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 13
+          },
+          "End": {
+            "Y": 2019,
+            "M": 6,
+            "D": 13
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Accidentally released at Go Fest Chicago"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 66,
@@ -1351,13 +2387,65 @@
       "Species": 67,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 68,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 69,
@@ -1395,7 +2483,33 @@
       "Species": 70,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 17
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Summer Event"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 71,
@@ -1403,9 +2517,34 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2020,
+            "M": 7,
+            "D": 17
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Summer Event"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -1415,6 +2554,11 @@
       "Available": true,
       "Data": [
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Start": {
             "Y": 2016,
             "M": 7,
@@ -1423,11 +2567,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
-        },
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
         }
       ]
     },
@@ -1437,6 +2576,21 @@
       "Available": true,
       "Data": [
         {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
@@ -1506,25 +2660,109 @@
       "Species": 75,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 75,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 76,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 76,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 77,
@@ -1579,13 +2817,50 @@
       "Species": 78,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 78,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Crown Tundra Tie-In"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Crown Tundra Tie-In"
+        }
+      ]
     },
     {
       "Species": 79,
@@ -1618,7 +2893,28 @@
       "Species": 80,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 81,
@@ -1656,7 +2952,33 @@
       "Species": 82,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 83,
@@ -1703,6 +3025,11 @@
       "Available": true,
       "Data": [
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
           "Start": {
             "Y": 2016,
             "M": 7,
@@ -1711,11 +3038,6 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Initial: Can exist in wild"
-        },
-        {
-          "Shiny": 0,
-          "Type": 1,
-          "Comment": "Initial: Shiny can exist in wild"
         }
       ]
     },
@@ -1723,7 +3045,23 @@
       "Species": 85,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 86,
@@ -1761,7 +3099,33 @@
       "Species": 87,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 88,
@@ -1826,13 +3190,60 @@
       "Species": 89,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 89,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 90,
@@ -1870,10 +3281,58 @@
       "Species": 91,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 92,
+      "Form": 0,
+      "Available": true,
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
+    },
+    {
+      "Species": 93,
       "Form": 0,
       "Available": true,
       "Data": [
@@ -1891,14 +3350,7 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 93,
-      "Form": 0,
-      "Available": true,
-      "Data": [
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -1915,7 +3367,33 @@
       "Species": 94,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 95,
@@ -1990,7 +3468,38 @@
       "Species": 97,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 98,
@@ -2028,7 +3537,33 @@
       "Species": 99,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 100,
@@ -2066,10 +3601,63 @@
       "Species": 101,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 102,
+      "Form": 0,
+      "Available": true,
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
+    },
+    {
+      "Species": 103,
       "Form": 0,
       "Available": true,
       "Data": [
@@ -2090,20 +3678,13 @@
         },
         {
           "Shiny": 1,
-          "Type": 30,
-          "Comment": "Initial: Purified"
-        }
-      ]
-    },
-    {
-      "Species": 103,
-      "Form": 0,
-      "Available": true,
-      "Data": [
-        {
-          "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -2165,7 +3746,33 @@
       "Species": 105,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 105,
@@ -2321,7 +3928,43 @@
       "Species": 110,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 25
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Team Rocket Go Invasion"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 110,
@@ -2341,6 +3984,28 @@
       "Available": true,
       "Data": [
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
+    },
+    {
+      "Species": 112,
+      "Form": 0,
+      "Available": true,
+      "Data": [
+        {
           "Start": {
             "Y": 2016,
             "M": 7,
@@ -2354,14 +4019,7 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Initial: Shiny can exist in wild"
-        }
-      ]
-    },
-    {
-      "Species": 112,
-      "Form": 0,
-      "Available": true,
-      "Data": [
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -2501,7 +4159,33 @@
       "Species": 117,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 118,
@@ -2524,7 +4208,18 @@
       "Species": 119,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 120,
@@ -2562,7 +4257,33 @@
       "Species": 121,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 122,
@@ -2834,7 +4555,33 @@
       "Species": 130,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 131,
@@ -2926,19 +4673,97 @@
       "Species": 134,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 135,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 136,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 137,
@@ -3013,7 +4838,38 @@
       "Species": 139,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 140,
@@ -3051,7 +4907,33 @@
       "Species": 141,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 142,
@@ -3514,13 +5396,65 @@
       "Species": 148,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 149,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 150,
@@ -3702,13 +5636,55 @@
       "Species": 153,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 154,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 155,
@@ -3741,13 +5717,55 @@
       "Species": 156,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 157,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 158,
@@ -3780,13 +5798,55 @@
       "Species": 159,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 160,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 161,
@@ -3819,7 +5879,28 @@
       "Species": 162,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 163,
@@ -3838,6 +5919,11 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -3871,7 +5957,18 @@
       "Species": 166,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 167,
@@ -3889,13 +5986,40 @@
       "Species": 168,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 169,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 170,
@@ -3919,6 +6043,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -4027,7 +6161,18 @@
       "Species": 178,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 179,
@@ -4060,19 +6205,82 @@
       "Species": 180,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 181,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 182,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 183,
@@ -4096,6 +6304,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -4139,7 +6357,28 @@
       "Species": 186,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 187,
@@ -4162,13 +6401,35 @@
       "Species": 188,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 189,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 190,
@@ -4228,7 +6489,28 @@
       "Species": 192,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 193,
@@ -4273,19 +6555,67 @@
       "Species": 195,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 196,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 197,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 198,
@@ -4318,7 +6648,18 @@
       "Species": 199,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 200,
@@ -4858,7 +7199,33 @@
       "Species": 205,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 206,
@@ -4908,7 +7275,28 @@
       "Species": 208,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 209,
@@ -4941,7 +7329,28 @@
       "Species": 210,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 211,
@@ -4974,7 +7383,33 @@
       "Species": 212,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 213,
@@ -5075,9 +7510,24 @@
       "Available": true,
       "Data": [
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -5098,6 +7548,11 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -5141,7 +7596,28 @@
       "Species": 221,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 222,
@@ -5172,6 +7648,11 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -5291,13 +7772,55 @@
       "Species": 229,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 230,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 231,
@@ -5318,6 +7841,11 @@
       "Data": [
         {
           "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
@@ -5332,7 +7860,28 @@
       "Species": 233,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 234,
@@ -5469,23 +8018,34 @@
       "Species": 242,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 243,
       "Form": 0,
       "Available": true,
       "Data": [
-        {
-          "Shiny": 0,
-          "Type": 10,
-          "Comment": "Initial: Raid 15 Only"
-        },
-        {
-          "Shiny": 0,
-          "Type": 20,
-          "Comment": "Research Breakthrough (Can be Shiny)"
-        },
         {
           "Start": {
             "Y": 2020,
@@ -5500,14 +8060,7 @@
           "Shiny": 1,
           "Type": 30,
           "Comment": "Looming in the Shadows"
-        }
-      ]
-    },
-    {
-      "Species": 244,
-      "Form": 0,
-      "Available": true,
-      "Data": [
+        },
         {
           "Shiny": 0,
           "Type": 10,
@@ -5517,7 +8070,14 @@
           "Shiny": 0,
           "Type": 20,
           "Comment": "Research Breakthrough (Can be Shiny)"
-        },
+        }
+      ]
+    },
+    {
+      "Species": 244,
+      "Form": 0,
+      "Available": true,
+      "Data": [
         {
           "Start": {
             "Y": 2020,
@@ -5532,14 +8092,7 @@
           "Shiny": 1,
           "Type": 30,
           "Comment": "Looming in the Shadows"
-        }
-      ]
-    },
-    {
-      "Species": 245,
-      "Form": 0,
-      "Available": true,
-      "Data": [
+        },
         {
           "Shiny": 0,
           "Type": 10,
@@ -5549,7 +8102,14 @@
           "Shiny": 0,
           "Type": 20,
           "Comment": "Research Breakthrough (Can be Shiny)"
-        },
+        }
+      ]
+    },
+    {
+      "Species": 245,
+      "Form": 0,
+      "Available": true,
+      "Data": [
         {
           "Start": {
             "Y": 2020,
@@ -5564,6 +8124,16 @@
           "Shiny": 1,
           "Type": 30,
           "Comment": "Team GO Rocket Event"
+        },
+        {
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Initial: Raid 15 Only"
+        },
+        {
+          "Shiny": 0,
+          "Type": 20,
+          "Comment": "Research Breakthrough (Can be Shiny)"
         }
       ]
     },
@@ -5598,13 +8168,55 @@
       "Species": 247,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 248,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 249,
@@ -5778,13 +8390,45 @@
       "Species": 253,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 254,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 255,
@@ -5812,13 +8456,45 @@
       "Species": 256,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 257,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 258,
@@ -5851,13 +8527,55 @@
       "Species": 259,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 260,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 261,
@@ -5881,6 +8599,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -5926,13 +8654,30 @@
       "Species": 264,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 264,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        }
+      ]
     },
     {
       "Species": 265,
@@ -5965,25 +8710,109 @@
       "Species": 266,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 267,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 268,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 269,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 270,
@@ -6016,13 +8845,55 @@
       "Species": 271,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 272,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 273,
@@ -6052,9 +8923,24 @@
       "Available": true,
       "Data": [
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -6062,7 +8948,28 @@
       "Species": 275,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 276,
@@ -6086,6 +8993,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -6129,7 +9046,28 @@
       "Species": 279,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 280,
@@ -6162,13 +9100,55 @@
       "Species": 281,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 282,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 283,
@@ -6187,6 +9167,11 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -6216,6 +9201,11 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -6259,13 +9249,55 @@
       "Species": 288,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 289,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 290,
@@ -6289,6 +9321,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -6329,13 +9371,25 @@
       "Species": 294,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 295,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 296,
@@ -6368,7 +9422,28 @@
       "Species": 297,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 298,
@@ -6425,7 +9500,18 @@
       "Species": 301,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 302,
@@ -6517,13 +9603,55 @@
       "Species": 305,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 306,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 307,
@@ -6556,7 +9684,28 @@
       "Species": 308,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 309,
@@ -6580,6 +9729,16 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -6726,6 +9885,11 @@
       "Data": [
         {
           "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
@@ -6767,7 +9931,28 @@
       "Species": 319,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 320,
@@ -6800,7 +9985,28 @@
       "Species": 321,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 322,
@@ -6818,7 +10024,13 @@
       "Species": 323,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 324,
@@ -6863,7 +10075,28 @@
       "Species": 326,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 328,
@@ -6896,13 +10129,55 @@
       "Species": 329,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 330,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 331,
@@ -6930,7 +10205,23 @@
       "Species": 332,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 333,
@@ -6963,7 +10254,28 @@
       "Species": 334,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 335,
@@ -7076,6 +10388,16 @@
       "Available": true,
       "Data": [
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
@@ -7104,6 +10426,11 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -7147,7 +10474,28 @@
       "Species": 344,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 345,
@@ -7180,7 +10528,28 @@
       "Species": 346,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 347,
@@ -7213,7 +10582,28 @@
       "Species": 348,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 349,
@@ -7246,7 +10636,28 @@
       "Species": 350,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 351,
@@ -7296,7 +10707,28 @@
       "Species": 354,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 355,
@@ -7329,7 +10761,28 @@
       "Species": 356,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 357,
@@ -7430,7 +10883,28 @@
       "Species": 362,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 363,
@@ -7448,13 +10922,24 @@
       "Species": 364,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 365,
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -7498,13 +10983,55 @@
       "Species": 367,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 368,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 369,
@@ -7581,13 +11108,65 @@
       "Species": 372,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 373,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 374,
@@ -7625,13 +11204,65 @@
       "Species": 375,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 376,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 377,
@@ -7870,13 +11501,55 @@
       "Species": 388,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 389,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 390,
@@ -7904,13 +11577,45 @@
       "Species": 391,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 392,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 393,
@@ -7938,13 +11643,45 @@
       "Species": 394,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 395,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 396,
@@ -7962,13 +11699,24 @@
       "Species": 397,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 398,
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -8007,7 +11755,23 @@
       "Species": 400,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 401,
@@ -8040,7 +11804,28 @@
       "Species": 402,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 403,
@@ -8063,13 +11848,35 @@
       "Species": 404,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 405,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 406,
@@ -8087,7 +11894,28 @@
       "Species": 407,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 408,
@@ -8115,7 +11943,23 @@
       "Species": 409,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 410,
@@ -8143,7 +11987,23 @@
       "Species": 411,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 412,
@@ -8230,25 +12090,104 @@
       "Species": 413,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 413,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 413,
       "Form": 2,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 414,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 415,
@@ -8276,7 +12215,23 @@
       "Species": 416,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 417,
@@ -8316,7 +12271,23 @@
       "Species": 419,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 420,
@@ -8334,7 +12305,13 @@
       "Species": 421,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 422,
@@ -8364,19 +12341,52 @@
       "Species": 423,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 423,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 424,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 425,
@@ -8409,7 +12419,28 @@
       "Species": 426,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 427,
@@ -8442,19 +12473,77 @@
       "Species": 428,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 429,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 430,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 431,
@@ -8477,7 +12566,18 @@
       "Species": 432,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 433,
@@ -8515,8 +12615,18 @@
       "Data": [
         {
           "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -8551,7 +12661,28 @@
       "Species": 437,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 438,
@@ -8649,13 +12780,55 @@
       "Species": 444,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 445,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 446,
@@ -8685,7 +12858,13 @@
       "Species": 448,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        }
+      ]
     },
     {
       "Species": 449,
@@ -8718,7 +12897,28 @@
       "Species": 450,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 451,
@@ -8751,7 +12951,28 @@
       "Species": 452,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 453,
@@ -8784,7 +13005,28 @@
       "Species": 454,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 455,
@@ -8815,6 +13057,11 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -8867,9 +13114,24 @@
       "Available": true,
       "Data": [
         {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
           "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -8877,31 +13139,141 @@
       "Species": 461,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 0,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 462,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 463,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 464,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 465,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 466,
@@ -8917,6 +13289,26 @@
           "Shiny": 0,
           "Type": 1,
           "Comment": "Electabuzz Community Day"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Initial: Eggs that can be shiny"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
         }
       ]
     },
@@ -8924,13 +13316,49 @@
       "Species": 467,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Initial: Eggs that can be shiny"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 468,
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Initial: Eggs that can be shiny"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
         {
           "Shiny": 1,
           "Type": 30,
@@ -8942,61 +13370,266 @@
       "Species": 469,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 470,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 471,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 472,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 473,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 474,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 475,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 476,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 477,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 478,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 479,
@@ -9313,13 +13946,35 @@
       "Species": 496,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 497,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 498,
@@ -9342,13 +13997,35 @@
       "Species": 499,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 500,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 501,
@@ -9371,13 +14048,35 @@
       "Species": 502,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 503,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 504,
@@ -9405,7 +14104,23 @@
       "Species": 505,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 506,
@@ -9433,13 +14148,45 @@
       "Species": 507,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 508,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 509,
@@ -9458,6 +14205,11 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -9481,7 +14233,13 @@
       "Species": 512,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 513,
@@ -9499,7 +14257,13 @@
       "Species": 514,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 515,
@@ -9517,7 +14281,13 @@
       "Species": 516,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 519,
@@ -9550,13 +14320,55 @@
       "Species": 520,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 521,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 522,
@@ -9584,7 +14396,23 @@
       "Species": 523,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 524,
@@ -9617,13 +14445,55 @@
       "Species": 525,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 526,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 527,
@@ -9656,7 +14526,28 @@
       "Species": 528,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 529,
@@ -9675,6 +14566,11 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -9730,13 +14626,55 @@
       "Species": 533,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 534,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 535,
@@ -9764,13 +14702,45 @@
       "Species": 536,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 537,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 538,
@@ -9812,13 +14782,25 @@
       "Species": 541,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 542,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 543,
@@ -9846,13 +14828,45 @@
       "Species": 544,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 545,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 546,
@@ -9880,7 +14894,23 @@
       "Species": 547,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 548,
@@ -9908,7 +14938,23 @@
       "Species": 549,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 550,
@@ -9950,13 +14996,25 @@
       "Species": 552,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        }
+      ]
     },
     {
       "Species": 553,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        }
+      ]
     },
     {
       "Species": 554,
@@ -9999,8 +15057,18 @@
       "Data": [
         {
           "Shiny": 1,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        },
+        {
+          "Shiny": 1,
           "Type": 10,
           "Comment": "Initial: Raid"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -10059,7 +15127,28 @@
       "Species": 558,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 559,
@@ -10077,7 +15166,13 @@
       "Species": 560,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 561,
@@ -10134,7 +15229,28 @@
       "Species": 563,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 564,
@@ -10152,7 +15268,13 @@
       "Species": 565,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 566,
@@ -10170,7 +15292,13 @@
       "Species": 567,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 568,
@@ -10198,7 +15326,23 @@
       "Species": 569,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 572,
@@ -10231,7 +15375,28 @@
       "Species": 573,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 574,
@@ -10259,13 +15424,45 @@
       "Species": 575,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 576,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 577,
@@ -10293,13 +15490,45 @@
       "Species": 578,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 579,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 580,
@@ -10317,7 +15546,13 @@
       "Species": 581,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 585,
@@ -10340,7 +15575,18 @@
       "Species": 586,
       "Form": 2,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 10,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "The Seasons Change"
+        }
+      ]
     },
     {
       "Species": 587,
@@ -10370,7 +15616,13 @@
       "Species": 589,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 590,
@@ -10389,6 +15641,11 @@
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
         {
           "Shiny": 1,
           "Type": 10,
@@ -10439,7 +15696,23 @@
       "Species": 596,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 597,
@@ -10472,13 +15745,39 @@
       "Species": 598,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 599,
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        },
         {
           "Start": {
             "Y": 2019,
@@ -10491,11 +15790,6 @@
         },
         {
           "Shiny": 0,
-          "Type": 2,
-          "Comment": "Initial: Egg Only"
-        },
-        {
-          "Shiny": 0,
           "Type": 10,
           "Comment": "Raid Boss"
         }
@@ -10505,13 +15799,39 @@
       "Species": 600,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "A Unova Unveiling"
+        },
+        {
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        }
+      ]
     },
     {
       "Species": 601,
       "Form": 0,
       "Available": true,
       "Data": [
+        {
+          "Shiny": 0,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        },
         {
           "Start": {
             "Y": 2016,
@@ -10521,6 +15841,11 @@
           "Shiny": 0,
           "Type": 10,
           "Comment": "A Unova Unveiling"
+        },
+        {
+          "Shiny": 0,
+          "Type": 10,
+          "Comment": "Raid Boss"
         }
       ]
     },
@@ -10550,7 +15875,23 @@
       "Species": 606,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 607,
@@ -10578,13 +15919,45 @@
       "Species": 608,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 609,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 610,
@@ -10602,13 +15975,25 @@
       "Species": 611,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 612,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 613,
@@ -10636,7 +16021,23 @@
       "Species": 614,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Raid Boss"
+        },
+        {
+          "Shiny": 1,
+          "Type": 30,
+          "Comment": "Initial: Purified"
+        }
+      ]
     },
     {
       "Species": 615,
@@ -10676,7 +16077,13 @@
       "Species": 617,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 618,
@@ -10736,6 +16143,11 @@
       "Data": [
         {
           "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        },
+        {
+          "Shiny": 1,
           "Type": 10,
           "Comment": "Raid Boss"
         },
@@ -10762,7 +16174,13 @@
       "Species": 625,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        }
+      ]
     },
     {
       "Species": 626,
@@ -10792,7 +16210,13 @@
       "Species": 628,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 629,
@@ -10810,7 +16234,13 @@
       "Species": 630,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "Initial: Egg Only"
+        }
+      ]
     },
     {
       "Species": 631,
@@ -10867,13 +16297,35 @@
       "Species": 634,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 635,
       "Form": 0,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Shiny": 0,
+          "Type": 1,
+          "Comment": "Initial: Shiny can exist in wild"
+        },
+        {
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Initial: Can exist in wild"
+        }
+      ]
     },
     {
       "Species": 638,
