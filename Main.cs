@@ -218,7 +218,11 @@ namespace PoGoEncTool
             var species = CurrentSpecies;
             var form = CB_Form.SelectedIndex;
 
-            var evos = EvoUtil.GetEvoSpecForms(species, form).Select(z => new { Species = z & 0x7FF, Form = z >> 11 }).ToArray();
+            var evos = EvoUtil.GetEvoSpecForms(species, form)
+                .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
+                .Where(z => EvoUtil.IsAllowedEvolution(species, form, z.Species, z.Form))
+                .Where(z => Entries.GetDetails(z.Species, z.Form).Available)
+                .ToArray();
             if (evos.Length == 0)
             {
                 WinFormsUtil.Alert("The current Pokémon cannot evolve into anything; no results found to copy to.");

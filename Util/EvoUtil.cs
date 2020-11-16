@@ -11,6 +11,9 @@ namespace PoGoEncTool
     {
         public static IEnumerable<int> GetEvoSpecForms(int species, int form)
         {
+            if (species == (int) Meltan)
+                return new[] {(int) Melmetal};
+
             var g8 = Get(PersonalTable.SWSH, 8, species, form);
             var g7 = Get(PersonalTable.USUM, 7, species, form);
             return g8.Concat(g7).Distinct();
@@ -63,6 +66,7 @@ namespace PoGoEncTool
                 Pikachu when destSpecies == Raichu && destForm == 1 => false,
                 Koffing when destSpecies == Weezing && destForm == 1 => false,
                 MimeJr when destSpecies == MrMime && destForm == 1 => false,
+                MimeJr when destSpecies == MrRime && destForm == 0 => false,
                 Exeggcute when destSpecies == Exeggutor && destForm == 1 => false,
                 Cubone when destSpecies == Marowak && destForm == 1 => false,
                 _ => true
