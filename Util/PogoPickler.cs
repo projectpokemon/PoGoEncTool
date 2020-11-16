@@ -96,33 +96,11 @@ namespace PoGoEncTool
             for (var i = 0; i < all.Length; i++)
             {
                 var entry = all[i];
-                result[i] = WriteEntryLGPE(entry);
+                entry.Data.RemoveAll(z => z.Type.IsShadow());
+                result[i] = GetBinary(entry);
             }
 
             return result;
-        }
-
-        private static byte[] WriteEntryLGPE(PogoPoke entry)
-        {
-            var hs = new HashSet<ushort>();
-            using var ms = new MemoryStream();
-            using var bw = new BinaryWriter(ms);
-            var sf = entry.Species | (entry.Form << 11);
-            bw.Write((ushort)sf);
-
-            foreach (var a in entry.Data)
-                WriteLGPE(a, bw, hs);
-            return ms.ToArray();
-        }
-
-        private static void WriteLGPE(PogoEntry entry, BinaryWriter bw, HashSet<ushort> written)
-        {
-            var us = (ushort) ((byte) entry.Shiny | (((byte) entry.Type) << 8));
-            if (written.Contains(us))
-                return;
-            written.Add(us);
-            bw.Write((byte)PogoToHex(entry.Shiny));
-            bw.Write((byte)entry.Type);
         }
     }
 }
