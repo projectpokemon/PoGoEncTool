@@ -343,6 +343,7 @@
         {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Shiny":0,"Type":1,"Comment":"GO Fest Chicago 2019"},
         {"Start":{"Y":2019,"M":6,"D":22},"End":{"Y":2019,"M":6,"D":22},"Shiny":0,"Type":1,"Comment":"GO Fest Chicago 2019 Makeup Event"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":0,"Type":1,"Comment":"Ultra Bonus Event 2019"},
+        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":0,"Type":1,"Comment":"Pokémon HOME Integration Celebration"},
         {"Start":{"Y":2018,"M":7,"D":21},"Shiny":1,"Type":2,"Comment":"Initial Release"},
         {"Start":{"Y":2019,"M":7,"D":28},"Shiny":0,"Type":2,"Comment":"Shiny Release"}
       ]
@@ -365,6 +366,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":0,"Type":1,"Comment":"Ultra Bonus Event 2019 {Sandshrew}"},
+        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":0,"Type":1,"Comment":"Pokémon HOME Integration Celebration {Sandshrew}"},
         {"Start":{"Y":2018,"M":7,"D":21},"Shiny":1,"Type":2,"Comment":"Initial Release {Sandshrew}"},
         {"Start":{"Y":2019,"M":7,"D":28},"Shiny":0,"Type":2,"Comment":"Shiny Release {Sandshrew}"}
       ]
@@ -1057,6 +1059,7 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
+        {"Start":{"Y":2020,"M":11,"D":17},"Shiny":0,"Type":1,"Comment":"Pokémon HOME Integration Celebration"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
     },
@@ -1068,6 +1071,7 @@
         {"Start":{"Y":2018,"M":3,"D":5},"End":{"Y":2018,"M":3,"D":16},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Slowpoke}"},
         {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Slowpoke}"},
+        {"Start":{"Y":2020,"M":11,"D":17},"Shiny":0,"Type":1,"Comment":"Pokémon HOME Integration Celebration {Slowpoke}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Slowpoke}"}
       ]
     },
@@ -2388,7 +2392,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Slowpoke}"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Slowpoke}"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Slowpoke}"},
+        {"Start":{"Y":2020,"M":11,"D":17},"Shiny":0,"Type":1,"Comment":"Pokémon HOME Integration Celebration {Slowpoke}"}
       ]
     },
     {
@@ -7105,6 +7110,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Shiny":0,"Type":1,"Comment":"Shiny Meltan (Event 1)"},
         {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Shiny":0,"Type":1,"Comment":"Shiny Meltan (Event 2)"},
+        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":0,"Type":1,"Comment":"Shiny Meltan (Event 3)"},
         {"Start":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":1,"Comment":"LGPE Launch (Mystery Box)"}
       ]
     },
@@ -7115,6 +7121,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Shiny":0,"Type":1,"Comment":"Shiny Meltan (Event 1) {Meltan}"},
         {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Shiny":0,"Type":1,"Comment":"Shiny Meltan (Event 2) {Meltan}"},
+        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":0,"Type":1,"Comment":"Shiny Meltan (Event 3) {Meltan}"},
         {"Start":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":1,"Comment":"LGPE Launch (Mystery Box) {Meltan}"}
       ]
     },
