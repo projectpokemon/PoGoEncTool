@@ -47,7 +47,7 @@ namespace PoGoEncTool
                 if (s == 0)
                     continue;
                 var f = method.GetDestinationForm(form);
-                yield return s | (form << 11);
+                yield return s | (f << 11);
                 var nextEvolutions = GetEvolutionsInner(pt, entries, s, f);
                 foreach (var next in nextEvolutions)
                     yield return next;
