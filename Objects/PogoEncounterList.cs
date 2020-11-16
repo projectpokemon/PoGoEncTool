@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace PoGoEncTool
 {
@@ -89,8 +90,13 @@ namespace PoGoEncTool
                     var dest = Data.Find(z => z.Species == s && z.Form == f);
                     if (dest?.Available != true)
                         continue;
-
-                    dest.Data.AddRange(entry.Data);
+                    
+                    foreach (var z in entry.Data)
+                    {
+                        if (dest.Data.Any(p => p.Equals(z)))
+                            continue;
+                        dest.Data.Add(z);
+                    }
                 }
             }
         }

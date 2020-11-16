@@ -2,7 +2,7 @@
 
 namespace PoGoEncTool
 {
-    public class PogoEntry : IComparable
+    public class PogoEntry : IComparable<PogoEntry>, IEquatable<PogoEntry>
     {
         public PogoDate? Start { get; set; }
         public PogoDate? End { get; set; }
@@ -20,8 +20,11 @@ namespace PoGoEncTool
 
         public override string ToString() => $"[{Start?.ToString() ?? "X"}-{End?.ToString() ?? "X"}]: {Type} {{{Shiny}}} - {Comment}";
 
-        public int CompareTo(PogoEntry p)
+        public int CompareTo(PogoEntry? p)
         {
+            if (p == null)
+                return 1;
+
             if (p.End != null)
             {
                 if (End == null)
@@ -59,11 +62,24 @@ namespace PoGoEncTool
             return string.Compare(Comment, p.Comment, StringComparison.OrdinalIgnoreCase);
         }
 
-        public int CompareTo(object? obj)
+        public bool Equals(PogoEntry? other)
         {
-            if (!(obj is PogoEntry p))
-                return 1;
-            return CompareTo(p);
+            if (ReferenceEquals(null, other)) return false;
+            if (ReferenceEquals(this, other)) return true;
+            return Equals(Start, other.Start) && Equals(End, other.End) && Shiny == other.Shiny && Type == other.Type && Comment == other.Comment;
+        }
+
+        public override bool Equals(object? obj)
+        {
+            if (ReferenceEquals(null, obj)) return false;
+            if (ReferenceEquals(this, obj)) return true;
+            if (obj.GetType() != this.GetType()) return false;
+            return Equals((PogoEntry) obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Start, End, (int) Shiny, (int) Type, Comment);
         }
     }
 }
