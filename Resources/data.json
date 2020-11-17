@@ -200,7 +200,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":1,"Comment":"Pokemon Day 2019"}
+        {"Start":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":1,"Comment":"Pokémon Day 2019"}
       ]
     },
     {
@@ -209,7 +209,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Pidgey}"},
-        {"Start":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":1,"Comment":"Pokemon Day 2019 {Pidgey}"}
+        {"Start":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":1,"Comment":"Pokémon Day 2019 {Pidgey}"}
       ]
     },
     {
@@ -219,7 +219,7 @@
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":20,"Comment":"GBL Season 3, Season 4"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Pidgey} {Pidgeotto}"},
-        {"Start":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":1,"Comment":"Pokemon Day 2019 {Pidgey} {Pidgeotto}"},
+        {"Start":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":1,"Comment":"Pokémon Day 2019 {Pidgey} {Pidgeotto}"},
         {"Start":{"Y":2020,"M":9,"D":18},"Shiny":0,"Type":10,"Comment":"Mega Pidgeot"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
@@ -230,7 +230,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":1,"Comment":"Pokemon Day 2019"},
+        {"Start":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":1,"Comment":"Pokémon Day 2019"},
         {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified"}
       ]
     },
@@ -249,7 +249,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Rattata}"},
-        {"Start":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":1,"Comment":"Pokemon Day 2019 {Rattata}"},
+        {"Start":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":1,"Comment":"Pokémon Day 2019 {Rattata}"},
         {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Rattata}"}
       ]
     },
@@ -315,9 +315,9 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":0,"Type":10,"Comment":"T4 Raid Boss (Pokemon GO Park)"},
+        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":0,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2017,"M":8,"D":9},"Shiny":0,"Type":1,"Comment":"Pokemon GO Park"},
+        {"Start":{"Y":2017,"M":8,"D":9},"Shiny":0,"Type":1,"Comment":"Pokémon GO Park"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
     },
@@ -326,10 +326,10 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":0,"Type":10,"Comment":"T4 Raid Boss (Pokemon GO Park) {Pikachu}"},
+        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":0,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park) {Pikachu}"},
         {"Start":{"Y":2018,"M":11,"D":23},"End":{"Y":2018,"M":11,"D":27},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Pikachu}"},
-        {"Start":{"Y":2017,"M":8,"D":9},"Shiny":0,"Type":1,"Comment":"Pokemon GO Park {Pikachu}"},
+        {"Start":{"Y":2017,"M":8,"D":9},"Shiny":0,"Type":1,"Comment":"Pokémon GO Park {Pikachu}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Pikachu}"}
       ]
     },
@@ -673,7 +673,7 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokemon GO Fest 2018"},
+        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2018"},
         {"Start":{"Y":2019,"M":6,"D":28},"Shiny":0,"Type":1,"Comment":"3rd Anniversary"}
       ]
     },
@@ -692,7 +692,7 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokemon GO Fest 2018 {Diglett}"},
+        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2018 {Diglett}"},
         {"Start":{"Y":2019,"M":6,"D":28},"Shiny":0,"Type":1,"Comment":"3rd Anniversary {Diglett}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
@@ -702,7 +702,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":5},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokemon GO Park)"},
+        {"Start":{"Y":2017,"M":8,"D":5},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2019,"M":11,"D":7},"Shiny":0,"Type":1,"Comment":"Team GO Rocket Leaders Disruption"},
         {"Start":{"Y":2019,"M":11,"D":7},"Shiny":0,"Type":30,"Comment":"Initial: Purified"},
@@ -718,7 +718,7 @@
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Shiny":0,"Type":1,"Comment":"Team GO Rocket Event"},
         {"Start":{"Y":2018,"M":6,"D":21},"Shiny":1,"Type":2,"Comment":"Initial Release"},
         {"Start":{"Y":2019,"M":6,"D":28},"Shiny":0,"Type":2,"Comment":"Shiny Released"},
-        {"Start":{"Y":2020,"M":2,"D":1},"Shiny":0,"Type":20,"Comment":"Trade a Pokemon"},
+        {"Start":{"Y":2020,"M":2,"D":1},"Shiny":0,"Type":20,"Comment":"Trade a Pokémon"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
     },
@@ -736,7 +736,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokemon GO Park)"},
+        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Meowth}"},
         {"Start":{"Y":2019,"M":11,"D":7},"Shiny":0,"Type":1,"Comment":"Team GO Rocket Leaders Disruption {Meowth}"},
         {"Start":{"Y":2019,"M":11,"D":7},"Shiny":0,"Type":30,"Comment":"Initial: Purified {Meowth}"},
@@ -752,7 +752,7 @@
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Shiny":0,"Type":1,"Comment":"Team GO Rocket Event {Meowth}"},
         {"Start":{"Y":2018,"M":6,"D":21},"Shiny":1,"Type":2,"Comment":"Initial Release {Meowth}"},
         {"Start":{"Y":2019,"M":6,"D":28},"Shiny":0,"Type":2,"Comment":"Shiny Released {Meowth}"},
-        {"Start":{"Y":2020,"M":2,"D":1},"Shiny":0,"Type":20,"Comment":"Trade a Pokemon {Meowth}"}
+        {"Start":{"Y":2020,"M":2,"D":1},"Shiny":0,"Type":20,"Comment":"Trade a Pokémon {Meowth}"}
       ]
     },
     {
@@ -831,7 +831,7 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2019,"M":8,"D":1},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
-        {"Start":{"Y":2019,"M":8,"D":6},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2019 Yokohama"},
+        {"Start":{"Y":2019,"M":8,"D":6},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2019 Yokohama"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
     },
@@ -842,7 +842,7 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Poliwag}"},
         {"Start":{"Y":2019,"M":8,"D":1},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Poliwag}"},
-        {"Start":{"Y":2019,"M":8,"D":6},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2019 Yokohama {Poliwag}"},
+        {"Start":{"Y":2019,"M":8,"D":6},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2019 Yokohama {Poliwag}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Poliwag}"}
       ]
     },
@@ -857,7 +857,7 @@
         {"Start":{"Y":2019,"M":3,"D":27},"End":{"Y":2019,"M":3,"D":28},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Poliwag} {Poliwhirl}"},
         {"Start":{"Y":2019,"M":8,"D":1},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Poliwag} {Poliwhirl}"},
-        {"Start":{"Y":2019,"M":8,"D":6},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2019 Yokohama {Poliwag} {Poliwhirl}"},
+        {"Start":{"Y":2019,"M":8,"D":6},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2019 Yokohama {Poliwag} {Poliwhirl}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Poliwag} {Poliwhirl}"}
       ]
     },
@@ -1017,7 +1017,7 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokemon GO Fest 2018"},
+        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2018"},
         {"Start":{"Y":2019,"M":6,"D":28},"Shiny":0,"Type":1,"Comment":"3rd Anniversary"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
@@ -1040,7 +1040,7 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokemon GO Fest 2018 {Geodude}"},
+        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2018 {Geodude}"},
         {"Start":{"Y":2019,"M":6,"D":28},"Shiny":0,"Type":1,"Comment":"3rd Anniversary {Geodude}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Geodude}"}
       ]
@@ -1050,7 +1050,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokemon GO Park)"},
+        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2018,"M":3,"D":16},"End":{"Y":2018,"M":4,"D":2},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":18},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
@@ -1076,7 +1076,7 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokemon GO Fest 2018 {Geodude} {Graveler}"},
+        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2018 {Geodude} {Graveler}"},
         {"Start":{"Y":2019,"M":6,"D":28},"Shiny":0,"Type":1,"Comment":"3rd Anniversary {Geodude} {Graveler}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Geodude} {Graveler}"}
       ]
@@ -1251,7 +1251,7 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020"},
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020"},
         {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Shiny":0,"Type":1,"Comment":"Halloween 2020"},
         {"Start":{"Y":2018,"M":6,"D":21},"Shiny":1,"Type":2,"Comment":"Initial Release"},
         {"Start":{"Y":2019,"M":6,"D":28},"Shiny":0,"Type":2,"Comment":"3rd Anniversary - Shiny Released"},
@@ -1278,7 +1278,7 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020 {Grimer}"},
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020 {Grimer}"},
         {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Shiny":0,"Type":1,"Comment":"Halloween 2020 {Grimer}"},
         {"Start":{"Y":2018,"M":6,"D":21},"Shiny":1,"Type":2,"Comment":"Initial Release {Grimer}"},
         {"Start":{"Y":2019,"M":6,"D":28},"Shiny":0,"Type":2,"Comment":"3rd Anniversary - Shiny Released {Grimer}"},
@@ -1518,7 +1518,7 @@
         {"Start":{"Y":2018,"M":11,"D":5},"End":{"Y":2018,"M":11,"D":27},"Shiny":0,"Type":10,"Comment":"T4 Raid Boss (Ingress Prime Celebration)"},
         {"Start":{"Y":2018,"M":11,"D":28},"End":{"Y":2019,"M":1,"D":15},"Shiny":0,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":1,"D":29},"End":{"Y":2019,"M":2,"D":13},"Shiny":0,"Type":10,"Comment":"T4 Raid Boss"},
-        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020"},
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020"},
         {"Start":{"Y":2019,"M":2,"D":22},"Shiny":0,"Type":10,"Comment":"T4 Raid Boss"}
       ]
     },
@@ -1591,7 +1591,7 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":11,"D":16},"End":{"Y":2019,"M":11,"D":16},"Shiny":1,"Type":10,"Comment":"Pokemon Sword and Shield Release"}
+        {"Start":{"Y":2019,"M":11,"D":16},"End":{"Y":2019,"M":11,"D":16},"Shiny":1,"Type":10,"Comment":"Pokémon Sword and Shield Release"}
       ]
     },
     {
@@ -1646,7 +1646,7 @@
         {"Start":{"Y":2019,"M":3,"D":19},"End":{"Y":2019,"M":3,"D":27},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2019,"M":6,"D":18},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020"}
       ]
     },
     {
@@ -1664,7 +1664,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2019,"M":7,"D":13},"Shiny":0,"Type":1,"Comment":"Chicago Pokemon GO Fest 2019"},
+        {"Start":{"Y":2019,"M":7,"D":13},"Shiny":0,"Type":1,"Comment":"Chicago Pokémon GO Fest 2019"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
     },
@@ -2138,7 +2138,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokemon GO Park)"},
+        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Shiny":0,"Type":10,"Comment":"T1 Raid Boss {Dratini} {Dragonair}"},
         {"Start":{"Y":2019,"M":1,"D":29},"End":{"Y":2019,"M":2,"D":13},"Shiny":0,"Type":10,"Comment":"T1 Raid Boss {Dratini} {Dragonair}"},
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Shiny":0,"Type":10,"Comment":"T1 Raid Boss {Dratini} {Dragonair}"},
@@ -2160,7 +2160,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Pokemon GO Park/Stadium)"},
+        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Pokémon GO Park/Stadium)"},
         {"Start":{"Y":2017,"M":9,"D":6},"End":{"Y":2018,"M":9,"D":30},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (EX Raid)"},
         {"Start":{"Y":2018,"M":9,"D":20},"End":{"Y":2018,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Ultra Bonus Event 2018)"},
         {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2019,"M":9,"D":23},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss (Shiny Released)"},
@@ -2392,7 +2392,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":12,"D":12},"Shiny":1,"Type":2,"Comment":"Initial: Egg Only"},
-        {"Start":{"Y":2017,"M":8,"D":9},"Shiny":0,"Type":2,"Comment":"Pokemon GO Park"}
+        {"Start":{"Y":2017,"M":8,"D":9},"Shiny":0,"Type":2,"Comment":"Pokémon GO Park"}
       ]
     },
     {
@@ -2539,7 +2539,7 @@
         {"Start":{"Y":2019,"M":6,"D":4},"End":{"Y":2019,"M":6,"D":12},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2019,"M":8,"D":5},"Shiny":0,"Type":2,"Comment":"Gift Event {Bonsly}"},
-        {"Start":{"Y":2020,"M":4,"D":1},"Shiny":0,"Type":1,"Comment":"Tricky Pokemon - Shiny Released in Wild"}
+        {"Start":{"Y":2020,"M":4,"D":1},"Shiny":0,"Type":1,"Comment":"Tricky Pokémon - Shiny Released in Wild"}
       ]
     },
     {
@@ -2549,7 +2549,7 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Poliwag} {Poliwhirl}"},
         {"Start":{"Y":2019,"M":8,"D":1},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Poliwag} {Poliwhirl}"},
-        {"Start":{"Y":2019,"M":8,"D":6},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2019 Yokohama {Poliwag} {Poliwhirl}"},
+        {"Start":{"Y":2019,"M":8,"D":6},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2019 Yokohama {Poliwag} {Poliwhirl}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Poliwag} {Poliwhirl}"}
       ]
     },
@@ -2757,8 +2757,8 @@
       "Form": 6,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020"},
-        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020 Makeup Day"},
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020"},
+        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020 Makeup Day"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
       ]
     },
@@ -2825,8 +2825,8 @@
       "Form": 14,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020"},
-        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020 Makeup Day"},
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020"},
+        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020 Makeup Day"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
       ]
     },
@@ -2937,7 +2937,7 @@
       "Form": 27,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokemon GO Fest 2018"}
+        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2018"}
       ]
     },
     {
@@ -2945,7 +2945,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokemon GO Park)"},
+        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2018,"M":3,"D":22},"Shiny":0,"Type":2,"Comment":"Eggstravaganza 2018 {Wynaut}"},
         {"Start":{"Y":2019,"M":11,"D":7},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
@@ -3064,7 +3064,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":7,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020"},
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
     },
@@ -3151,7 +3151,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokemon GO Park)"},
+        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2018,"M":8,"D":20},"End":{"Y":2018,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":1,"D":29},"End":{"Y":2019,"M":2,"D":13},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
@@ -3193,7 +3193,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokemon GO Park)"},
+        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2018,"M":2,"D":9},"End":{"Y":2018,"M":3,"D":5},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2018,"M":3,"D":16},"End":{"Y":2018,"M":4,"D":10},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2018,"M":4,"D":18},"End":{"Y":2018,"M":5,"D":1},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
@@ -3286,7 +3286,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokemon GO Park)"},
+        {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2018,"M":4,"D":2},"End":{"Y":2018,"M":4,"D":10},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2018,"M":4,"D":18},"End":{"Y":2018,"M":5,"D":1},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2018,"M":5,"D":15},"End":{"Y":2018,"M":5,"D":24},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
@@ -3554,7 +3554,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":22,"Comment":"Pokemon GO Fest 2018 / A Ripple in Time"}
+        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":22,"Comment":"Pokémon GO Fest 2018 / A Ripple in Time"}
       ]
     },
     {
@@ -4267,7 +4267,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Shiny":0,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2018"}
+        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2018"}
       ]
     },
     {
@@ -4277,7 +4277,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Shiny":0,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2018"}
+        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2018"}
       ]
     },
     {
@@ -5080,7 +5080,7 @@
         {"Start":{"Y":2018,"M":6,"D":7},"End":{"Y":2018,"M":6,"D":21},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss (Shiny Released)"},
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss (Hoenn Celebration 2019)"},
         {"Start":{"Y":2019,"M":6,"D":18},"End":{"Y":2019,"M":6,"D":27},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":25},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss (Pokemon GO Fest 2020)"},
+        {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":25},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss (Pokémon GO Fest 2020)"},
         {"Start":{"Y":2019,"M":7,"D":1},"Shiny":0,"Type":20,"Comment":"Research Breakthrough (Can be Shiny)"}
       ]
     },
@@ -5094,7 +5094,7 @@
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss (Hoenn Celebration 2019)"},
         {"Start":{"Y":2019,"M":4,"D":29},"End":{"Y":2019,"M":5,"D":2},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss (Earth Day 2019)"},
         {"Start":{"Y":2019,"M":6,"D":27},"End":{"Y":2019,"M":7,"D":10},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":25},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss (Pokemon GO Fest 2020)"},
+        {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":25},"Shiny":0,"Type":10,"Comment":"T5 Raid Boss (Pokémon GO Fest 2020)"},
         {"Start":{"Y":2019,"M":7,"D":1},"Shiny":0,"Type":20,"Comment":"Research Breakthrough (Can be Shiny)"}
       ]
     },
@@ -5114,7 +5114,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":6,"D":13},"Shiny":1,"Type":22,"Comment":"Pokemon GO Fest 2019 / A Thousand-Year Slumber"}
+        {"Start":{"Y":2019,"M":6,"D":13},"Shiny":1,"Type":22,"Comment":"Pokémon GO Fest 2019 / A Thousand-Year Slumber"}
       ]
     },
     {
@@ -5879,7 +5879,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":1,"Comment":"Holiday 2018"},
-        {"Start":{"Y":2020,"M":4,"D":1},"Shiny":0,"Type":1,"Comment":"Tricky Pokemon"},
+        {"Start":{"Y":2020,"M":4,"D":1},"Shiny":0,"Type":1,"Comment":"Tricky Pokémon"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
     },
@@ -5889,7 +5889,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":1,"Comment":"Holiday 2018 {Croagunk}"},
-        {"Start":{"Y":2020,"M":4,"D":1},"Shiny":0,"Type":1,"Comment":"Tricky Pokemon {Croagunk}"},
+        {"Start":{"Y":2020,"M":4,"D":1},"Shiny":0,"Type":1,"Comment":"Tricky Pokémon {Croagunk}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Croagunk}"}
       ]
     },
@@ -6034,7 +6034,7 @@
         {"Start":{"Y":2019,"M":3,"D":19},"End":{"Y":2019,"M":3,"D":27},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss {Tangela}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Tangela}"},
         {"Start":{"Y":2019,"M":6,"D":18},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss {Tangela}"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020 {Tangela}"},
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020 {Tangela}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Tangela}"}
       ]
     },
@@ -6234,7 +6234,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":1,"Type":1,"Comment":"Pokemon GO Fest 2020 (Wash Form)"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2020 (Wash Form)"}
       ]
     },
     {
@@ -6276,7 +6276,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":3,"D":1},"End":{"Y":2019,"M":3,"D":28},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Pokemon GO Fest 2020)"}
+        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Pokémon GO Fest 2020)"}
       ]
     },
     {
@@ -6285,7 +6285,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":1,"D":29},"End":{"Y":2019,"M":2,"D":28},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Pokemon GO Fest 2020)"}
+        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Pokémon GO Fest 2020)"}
       ]
     },
     {
@@ -6293,7 +6293,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Shiny":0,"Type":10,"Comment":"https://pokemongolive.com/post/sept-content-update/"},
+        {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Shiny":0,"Type":10,"Comment":"https://Pokémongolive.com/post/sept-content-update/"},
         {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"}
       ]
     },
@@ -6351,7 +6351,7 @@
       "Form": 0,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":22,"Comment":"Pokemon GO Fest 2020 / Investigate a Mysterious Energy"}
+        {"Start":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":22,"Comment":"Pokémon GO Fest 2020 / Investigate a Mysterious Energy"}
       ]
     },
     {
@@ -6638,7 +6638,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":2,"D":1},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020"},
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
     },
@@ -6648,7 +6648,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":2,"D":1},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Woobat}"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020 {Woobat}"},
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020 {Woobat}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Woobat}"}
       ]
     },
@@ -7224,7 +7224,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":11,"D":7},"Shiny":0,"Type":1,"Comment":"Pokemon GO Special Weekend"},
+        {"Start":{"Y":2020,"M":11,"D":7},"Shiny":0,"Type":1,"Comment":"Pokémon GO Special Weekend"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
     },
@@ -7234,7 +7234,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Ferroseed}"},
-        {"Start":{"Y":2020,"M":11,"D":7},"Shiny":0,"Type":1,"Comment":"Pokemon GO Special Weekend {Ferroseed}"},
+        {"Start":{"Y":2020,"M":11,"D":7},"Shiny":0,"Type":1,"Comment":"Pokémon GO Special Weekend {Ferroseed}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Ferroseed}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Ferroseed}"}
       ]
@@ -7484,7 +7484,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020"}
       ]
     },
     {
@@ -7493,7 +7493,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokemon GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":0,"Type":1,"Comment":"Pokémon GO Fest 2020"}
       ]
     },
     {
