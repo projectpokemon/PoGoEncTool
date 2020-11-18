@@ -6,9 +6,10 @@
       "Data": [
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":18},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2018,"M":3,"D":25},"Type":1,"Comment":"Community Day"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2018,"M":3,"D":25},"Type":1,"Comment":"Community Day"}
       ]
     },
     {
@@ -18,10 +19,10 @@
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":18},"Type":10,"Comment":"T1 Raid Boss {Bulbasaur}"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Type":10,"Comment":"T1 Raid Boss {Bulbasaur}"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Bulbasaur}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Bulbasaur}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Bulbasaur}"},
-        {"Start":{"Y":2018,"M":3,"D":25},"Type":1,"Comment":"Community Day {Bulbasaur}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Bulbasaur}"},
-        {"Shiny":1,"Type":10,"Comment":"Raid Boss {Bulbasaur}"}
+        {"Start":{"Y":2018,"M":3,"D":25},"Type":1,"Comment":"Community Day {Bulbasaur}"}
       ]
     },
     {
@@ -33,10 +34,10 @@
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":18},"Type":10,"Comment":"T1 Raid Boss {Bulbasaur} {Ivysaur}"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Type":10,"Comment":"T1 Raid Boss {Bulbasaur} {Ivysaur}"},
         {"Start":{"Y":2019,"M":6,"D":18},"End":{"Y":2019,"M":6,"D":27},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Bulbasaur} {Ivysaur}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Bulbasaur} {Ivysaur}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Bulbasaur} {Ivysaur}"},
-        {"Start":{"Y":2018,"M":3,"D":25},"Type":1,"Comment":"Community Day {Bulbasaur} {Ivysaur}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Bulbasaur} {Ivysaur}"},
-        {"Shiny":1,"Type":10,"Comment":"Raid Boss {Bulbasaur} {Ivysaur}"}
+        {"Start":{"Y":2018,"M":3,"D":25},"Type":1,"Comment":"Community Day {Bulbasaur} {Ivysaur}"}
       ]
     },
     {
@@ -46,9 +47,10 @@
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":18},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2018,"M":7,"D":19},"End":{"Y":2018,"M":8,"D":16},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2018,"M":5,"D":19},"Type":1,"Comment":"Community Day"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2018,"M":5,"D":19},"Type":1,"Comment":"Community Day"}
       ]
     },
     {
@@ -59,10 +61,11 @@
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":18},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Charmander}"},
         {"Start":{"Y":2018,"M":7,"D":19},"End":{"Y":2018,"M":8,"D":16},"Type":10,"Comment":"T1 Raid Boss {Charmander}"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Type":10,"Comment":"T1 Raid Boss {Charmander}"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Charmander}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Charmander}"},
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Charmander}"},
         {"Start":{"Y":2018,"M":5,"D":19},"Type":1,"Comment":"Community Day {Charmander}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Charmander}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Charmander}"}
       ]
     },
@@ -77,12 +80,13 @@
         {"Start":{"Y":2018,"M":7,"D":19},"End":{"Y":2018,"M":8,"D":16},"Type":10,"Comment":"T1 Raid Boss {Charmander} {Charmeleon}"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Type":10,"Comment":"T1 Raid Boss {Charmander} {Charmeleon}"},
         {"Start":{"Y":2019,"M":5,"D":7},"End":{"Y":2019,"M":5,"D":18},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Charmander} {Charmeleon}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Charmander} {Charmeleon}"},
         {"Start":{"Y":2019,"M":11,"D":4},"End":{"Y":2019,"M":11,"D":7},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":14},"End":{"Y":2019,"M":11,"D":19},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Charmeleon}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Charmander} {Charmeleon}"},
         {"Start":{"Y":2018,"M":5,"D":19},"Type":1,"Comment":"Community Day {Charmander} {Charmeleon}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Charmander} {Charmeleon}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Charmander} {Charmeleon}"}
       ]
     },
@@ -92,9 +96,10 @@
       "Data": [
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":18},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2018,"M":7,"D":8},"Type":1,"Comment":"Community Day"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2018,"M":7,"D":8},"Type":1,"Comment":"Community Day"}
       ]
     },
     {
@@ -104,9 +109,10 @@
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":18},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Squirtle}"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Type":10,"Comment":"T1 Raid Boss {Squirtle}"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Squirtle}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Squirtle}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Squirtle}"},
         {"Start":{"Y":2018,"M":7,"D":8},"Type":1,"Comment":"Community Day {Squirtle}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Squirtle}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Squirtle}"}
       ]
     },
@@ -118,10 +124,11 @@
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Wartortle}"},
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":18},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Squirtle} {Wartortle}"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Type":10,"Comment":"T1 Raid Boss {Squirtle} {Wartortle}"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Squirtle} {Wartortle}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Squirtle} {Wartortle}"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":31},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Squirtle} {Wartortle}"},
         {"Start":{"Y":2018,"M":7,"D":8},"Type":1,"Comment":"Community Day {Squirtle} {Wartortle}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Squirtle} {Wartortle}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Squirtle} {Wartortle}"}
       ]
     },
@@ -215,9 +222,10 @@
       "Species": 19,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":11,"D":6},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2019,"M":2,"D":26},"Type":1,"Comment":"Pokémon Day 2019"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2019,"M":2,"D":26},"Type":1,"Comment":"Pokémon Day 2019"}
       ]
     },
     {
@@ -233,9 +241,10 @@
       "Species": 20,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Rattata}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":11,"D":6},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Rattata}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Rattata}"},
-        {"Start":{"Y":2019,"M":2,"D":26},"Type":1,"Comment":"Pokémon Day 2019 {Rattata}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Rattata}"}
+        {"Start":{"Y":2019,"M":2,"D":26},"Type":1,"Comment":"Pokémon Day 2019 {Rattata}"}
       ]
     },
     {
@@ -547,22 +556,24 @@
       "Species": 41,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2019,"M":11,"D":14},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
-        {"Start":{"Y":2019,"M":7,"D":25},"Type":1,"Comment":"Team GO Rocket Disruption"}
+        {"Start":{"Y":2019,"M":7,"D":25},"Type":1,"Comment":"Team GO Rocket Disruption"},
+        {"Start":{"Y":2019,"M":7,"D":25},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"}
       ]
     },
     {
       "Species": 42,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Zubat}"},
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Type":10,"Comment":"T1 Raid Boss {Zubat}"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2019,"M":11,"D":14},"Type":10,"Comment":"T1 Raid Boss {Zubat}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Zubat}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Zubat}"},
         {"Start":{"Y":2019,"M":7,"D":25},"Type":1,"Comment":"Team GO Rocket Disruption {Zubat}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Zubat}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Zubat}"}
       ]
     },
@@ -675,9 +686,9 @@
         {"Start":{"Y":2019,"M":6,"D":16},"End":{"Y":2019,"M":6,"D":16},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss (GO Fest Chicago 2019 High Density Raid Test)"},
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2019,"M":11,"D":14},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2019,"M":11,"D":5},"End":{"Y":2019,"M":12,"D":24},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2019,"M":11,"D":7},"Type":1,"Comment":"Team GO Rocket Leaders Disruption"},
-        {"Start":{"Y":2019,"M":11,"D":7},"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2019,"M":11,"D":7},"Type":1,"Comment":"Team GO Rocket Leaders Disruption"}
       ]
     },
     {
@@ -786,7 +797,7 @@
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2018,"M":9,"D":1},"Type":1,"Comment":"Initial: Shiny can exist in wild"},
         {"Start":{"Y":2019,"M":9,"D":5},"Type":30,"Comment":"Initial: Purified"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"Comment":"The Seasons Change"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"}
       ]
     },
     {
@@ -1209,10 +1220,10 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":3,"D":1},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":12},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2018,"M":9,"D":13},"Type":1,"Comment":"Ultra Bonus Event 2018"},
-        {"Start":{"Y":2019,"M":8,"D":1},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
-        {"Start":{"Y":2020,"M":7,"D":10},"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2019,"M":8,"D":1},"Shiny":1,"Type":30,"Comment":"Initial: Purified"}
       ]
     },
     {
@@ -1356,7 +1367,7 @@
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2018,"M":10,"D":5},"Type":1,"Comment":"Psychic Spectacular 2018"},
         {"Start":{"Y":2019,"M":8,"D":1},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Type":30,"Comment":"The Seasons Change"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"}
       ]
     },
     {
@@ -1729,11 +1740,11 @@
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":23},"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"T3 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":13},"Type":10,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2019,"M":11,"D":5},"End":{"Y":2019,"M":12,"D":24},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"},
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2019,"M":4,"D":2},"Type":1,"Comment":"Bug Out 2019"},
         {"Start":{"Y":2019,"M":8,"D":1},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
-        {"Start":{"Y":2019,"M":11,"D":7},"Type":30,"Comment":"Initial: Purified"},
         {"Start":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 3 onwards"}
       ]
     },
@@ -1803,9 +1814,10 @@
         {"Start":{"Y":2018,"M":11,"D":28},"End":{"Y":2018,"M":12,"D":18},"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":10},"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"T3 Raid Boss (Supereffective Week)"},
+        {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":7,"D":10},"Type":30,"Comment":"Team GO Rocket Leader Cliff"},
+        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff (GO Fest 2020)"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Safari Zone Tainan"},
-        {"Start":{"Y":2020,"M":2,"D":3},"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Safari Zone Tainan"}
       ]
     },
     {
@@ -1870,11 +1882,11 @@
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"T4 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Preseason, Season 1, Season 2"},
+        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":12},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2019,"M":4,"D":18},"Type":1,"Comment":"Safari Zone Sentosa"},
         {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
-        {"Start":{"Y":2019,"M":12,"D":24},"Type":10,"Comment":"T4 Raid Boss"},
-        {"Start":{"Y":2020,"M":11,"D":10},"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2019,"M":12,"D":24},"Type":10,"Comment":"T4 Raid Boss"}
       ]
     },
     {
@@ -1964,7 +1976,7 @@
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2018,"M":5,"D":24},"Type":1,"Comment":"Adventure Week 2018"},
         {"Start":{"Y":2020,"M":2,"D":3},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Type":30,"Comment":"The Seasons Change"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"}
       ]
     },
     {
@@ -2039,9 +2051,10 @@
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":1},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":5,"D":7},"End":{"Y":2019,"M":5,"D":18},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
         {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":3,"D":13},"Shiny":1,"Type":20,"Comment":"GBL Preseason"},
-        {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
       ]
     },
     {
@@ -2097,9 +2110,10 @@
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":3,"D":1},"End":{"Y":2019,"M":3,"D":19},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":3,"D":27},"End":{"Y":2019,"M":3,"D":28},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2018,"M":2,"D":24},"Type":1,"Comment":"Community Day"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
         {"Start":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 3 onwards"}
       ]
     },
@@ -2112,11 +2126,11 @@
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Type":10,"Comment":"T1 Raid Boss {Dratini}"},
         {"Start":{"Y":2019,"M":3,"D":1},"End":{"Y":2019,"M":3,"D":19},"Type":10,"Comment":"T1 Raid Boss {Dratini}"},
         {"Start":{"Y":2019,"M":3,"D":27},"End":{"Y":2019,"M":3,"D":28},"Type":10,"Comment":"T1 Raid Boss {Dratini}"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Dratini}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Dratini}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Dratini}"},
         {"Start":{"Y":2018,"M":2,"D":24},"Type":1,"Comment":"Community Day {Dratini}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Dratini}"},
-        {"Start":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 3 onwards {Dratini}"},
-        {"Shiny":1,"Type":10,"Comment":"Raid Boss {Dratini}"}
+        {"Start":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 3 onwards {Dratini}"}
       ]
     },
     {
@@ -2133,15 +2147,15 @@
         {"Start":{"Y":2019,"M":3,"D":28},"End":{"Y":2019,"M":4,"D":2},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":4,"D":10},"End":{"Y":2019,"M":4,"D":29},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":29},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Dratini} {Dragonair}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Dratini} {Dragonair}"},
         {"Start":{"Y":2019,"M":7,"D":31},"End":{"Y":2019,"M":8,"D":23},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":8,"D":31},"End":{"Y":2019,"M":9,"D":2},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":23},"End":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Dratini} {Dragonair}"},
         {"Start":{"Y":2018,"M":2,"D":24},"Type":1,"Comment":"Community Day {Dratini} {Dragonair}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Dratini} {Dragonair}"},
-        {"Start":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 3 onwards {Dratini} {Dragonair}"},
-        {"Shiny":1,"Type":10,"Comment":"Raid Boss {Dratini} {Dragonair}"}
+        {"Start":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 3 onwards {Dratini} {Dragonair}"}
       ]
     },
     {
@@ -2338,11 +2352,12 @@
       "Species": 169,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Zubat} {Golbat}"},
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Type":10,"Comment":"T1 Raid Boss {Zubat} {Golbat}"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2019,"M":11,"D":14},"Type":10,"Comment":"T1 Raid Boss {Zubat} {Golbat}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Zubat} {Golbat}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Zubat} {Golbat}"},
         {"Start":{"Y":2019,"M":7,"D":25},"Type":1,"Comment":"Team GO Rocket Disruption {Zubat} {Golbat}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Zubat} {Golbat}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Zubat} {Golbat}"}
       ]
     },
@@ -2935,9 +2950,9 @@
         {"Start":{"Y":2019,"M":5,"D":18},"End":{"Y":2019,"M":5,"D":21},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":12},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2018,"M":8,"D":20},"Type":1,"Comment":"Johto Festival"},
-        {"Start":{"Y":2020,"M":7,"D":10},"Type":30,"Comment":"Team GO Rocket Event"}
+        {"Start":{"Y":2018,"M":8,"D":20},"Type":1,"Comment":"Johto Festival"}
       ]
     },
     {
@@ -3107,9 +3122,9 @@
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":8,"D":23},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":8,"D":23},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":8,"D":31},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2019,"M":11,"D":5},"End":{"Y":2019,"M":12,"D":24},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2019,"M":7,"D":25},"Type":1,"Comment":"Team GO Rocket Disruption"},
-        {"Start":{"Y":2019,"M":11,"D":7},"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2019,"M":7,"D":25},"Type":1,"Comment":"Team GO Rocket Disruption"}
       ]
     },
     {
@@ -3342,8 +3357,8 @@
       "Species": 234,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":2,"D":3},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2019,"M":12,"D":24},"Type":30,"Comment":"Initial: Purified"},
         {"Start":{"Y":2020,"M":1,"D":1},"Type":1,"Comment":"Holiday 2019 - Originally Released Shiny with Bells"}
       ]
     },
@@ -3607,9 +3622,10 @@
       "Species": 258,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2019,"M":7,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified"},
         {"Start":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 3 onwards"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss"}
       ]
@@ -3620,12 +3636,13 @@
       "Data": [
         {"Start":{"Y":2018,"M":6,"D":7},"End":{"Y":2018,"M":6,"D":21},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Mudkip}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Mudkip}"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":31},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Mudkip}"},
         {"Start":{"Y":2019,"M":7,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Community Day {Mudkip}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Mudkip}"},
         {"Start":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 3 onwards {Mudkip}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Mudkip}"}
       ]
@@ -3636,12 +3653,13 @@
       "Data": [
         {"Start":{"Y":2018,"M":6,"D":7},"End":{"Y":2018,"M":6,"D":21},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Marshtomp}"},
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Marshtomp}"},
+        {"Start":{"Y":2019,"M":7,"D":22},"End":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Mudkip} {Marshtomp}"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Initial: Purified {Mudkip} {Marshtomp}"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":31},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Marshtomp}"},
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Marshtomp}"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Marshtomp}"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Mudkip} {Marshtomp}"},
         {"Start":{"Y":2019,"M":7,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Community Day {Mudkip} {Marshtomp}"},
-        {"Start":{"Y":2019,"M":7,"D":22},"Shiny":1,"Type":30,"Comment":"Initial: Purified {Mudkip} {Marshtomp}"},
         {"Start":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 3 onwards {Mudkip} {Marshtomp}"},
         {"Shiny":1,"Type":10,"Comment":"Raid Boss {Mudkip} {Marshtomp}"}
       ]
@@ -4121,9 +4139,10 @@
         {"Start":{"Y":2019,"M":7,"D":31},"End":{"Y":2019,"M":8,"D":23},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"Ultra Bonus Event 2019"},
         {"Start":{"Y":2019,"M":8,"D":31},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":7,"D":10},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"},
+        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo (GO Fest 2020)"},
         {"Start":{"Y":2019,"M":1,"D":15},"Type":2,"Comment":"Hoenn Celebration 2019"},
         {"Start":{"Y":2019,"M":11,"D":19},"Type":10,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2020,"M":2,"D":3},"Type":30,"Comment":"Initial: Purified"},
         {"Start":{"Y":2020,"M":11,"D":1},"Type":20,"Comment":"Field Research"}
       ]
     },
@@ -4766,11 +4785,11 @@
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":11,"D":19},"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Type":10,"Comment":"T4 Raid Boss"},
+        {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":2,"D":3},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"},
         {"Start":{"Y":2020,"M":3,"D":6},"End":{"Y":2020,"M":3,"D":9},"Type":1,"Comment":"Team GO Rocket Global Takeover "},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Type":1,"Comment":"Team GO Rocket Event"},
         {"Start":{"Y":2018,"M":6,"D":1},"Type":20,"Comment":"Make an Excellent Curveball Throw"},
-        {"Start":{"Y":2019,"M":1,"D":15},"Type":2,"Comment":"Hoenn Celebration 2019"},
-        {"Start":{"Y":2019,"M":12,"D":24},"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2019,"M":1,"D":15},"Type":2,"Comment":"Hoenn Celebration 2019"}
       ]
     },
     {
@@ -4899,9 +4918,9 @@
         {"Start":{"Y":2019,"M":4,"D":13},"End":{"Y":2019,"M":4,"D":29},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":31},"End":{"Y":2019,"M":8,"D":23},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":8,"D":31},"End":{"Y":2019,"M":9,"D":2},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":2,"D":3},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"},
         {"Start":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2019,"M":4,"D":13},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
-        {"Start":{"Y":2019,"M":12,"D":24},"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2019,"M":4,"D":13},"Type":1,"LocalizedStart":true,"Comment":"Community Day"}
       ]
     },
     {
@@ -4941,9 +4960,10 @@
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"T1 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 1, Season 2"},
+        {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":7,"D":10},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"},
+        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra (GO Fest 2020)"},
         {"Start":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2018,"M":10,"D":21},"Type":1,"Comment":"Community Day"},
-        {"Start":{"Y":2020,"M":2,"D":3},"Type":30,"Comment":"Initial: Purified"}
+        {"Start":{"Y":2018,"M":10,"D":21},"Type":1,"Comment":"Community Day"}
       ]
     },
     {
