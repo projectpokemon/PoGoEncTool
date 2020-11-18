@@ -23,12 +23,10 @@
 
         /// <summary> Purified, requires Lv. 8 and IV=1 (Premier Ball) </summary>
         Shadow = 30,
-        /// <summary> Purified, requires Lv. 8 and IV=1 (No Premier Ball) </summary>
-        ShadowPGU,
     }
 
     public static class PogoTypeExtensions
     {
-        public static bool IsShadow(this PogoType t) => t == PogoType.Shadow || t == PogoType.ShadowPGU;
+        public static bool IsShadow(this PogoType t) => t == PogoType.Shadow;
     }
 }

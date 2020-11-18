@@ -710,7 +710,7 @@
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Meowth}"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2019,"M":11,"D":14},"Type":10,"Comment":"T1 Raid Boss {Meowth}"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2019,"M":11,"D":14},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":6,"D":26},"Shiny":1,"Type":30,"Comment":"GO Fest 2020: Rocket Straight to Victory"},
+        {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":6,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Fest 2020: Rocket Straight to Victory"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Meowth}"},
         {"Start":{"Y":2019,"M":11,"D":7},"Type":1,"Comment":"Team GO Rocket Leaders Disruption {Meowth}"},
         {"Start":{"Y":2019,"M":11,"D":7},"Type":30,"Comment":"Initial: Purified {Meowth}"},
@@ -2056,7 +2056,7 @@
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":9,"D":25},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2018,"M":6,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough (Cannot be Shiny)"},
         {"Start":{"Y":2018,"M":12,"D":1},"Type":20,"Comment":"Research Breakthrough (Can be Shiny)"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":1,"Type":31,"Comment":"GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"GO Fest 2020 (Shadow)"}
       ]
     },
     {
@@ -2070,7 +2070,7 @@
         {"Start":{"Y":2020,"M":9,"D":25},"End":{"Y":2020,"M":10,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2018,"M":5,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough (Cannot be Shiny)"},
         {"Start":{"Y":2018,"M":12,"D":1},"Type":20,"Comment":"Research Breakthrough (Can be Shiny)"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":1,"Type":31,"Comment":"GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"GO Fest 2020 (Shadow)"}
       ]
     },
     {
@@ -2085,7 +2085,7 @@
         {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2018,"M":4,"D":5},"Shiny":1,"Type":20,"Comment":"Research Breakthrough (Cannot be Shiny)"},
         {"Start":{"Y":2018,"M":12,"D":1},"Type":1,"Comment":"Research Breakthrough (Can be Shiny)"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":1,"Type":31,"Comment":"GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"GO Fest 2020 (Shadow)"}
       ]
     },
     {
@@ -2155,8 +2155,8 @@
         {"Start":{"Y":2019,"M":10,"D":8},"End":{"Y":2019,"M":10,"D":8},"Type":10,"Comment":"T5 Raid Boss (Mewtwo Raid Hour Makeup Day)"},
         {"Start":{"Y":2019,"M":10,"D":5},"End":{"Y":2019,"M":11,"D":17},"Type":10,"Comment":"T5 Raid Boss (EX Raid)"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Type":20,"Comment":"Throwback Challenge 2020 (Timed)"},
-        {"Start":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"Comment":"GO Fest 2020"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"Comment":"An Inter-egg-sting Development"}
+        {"Start":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"GO Fest 2020 (Shadow)"},
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"An Inter-egg-sting Development"}
       ]
     },
     {
@@ -3420,7 +3420,7 @@
         {"Start":{"Y":2017,"M":8,"D":31},"End":{"Y":2017,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2019,"M":6,"D":29},"End":{"Y":2019,"M":6,"D":29},"Type":10,"Comment":"Raikou Day (Shiny Released)"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"Johto Journey"},
-        {"Start":{"Y":2020,"M":2,"D":1},"End":{"Y":2020,"M":2,"D":29},"Shiny":1,"Type":30,"Comment":"Looming in the Shadows"},
+        {"Start":{"Y":2020,"M":2,"D":1},"End":{"Y":2020,"M":2,"D":29},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Looming in the Shadows"},
         {"Start":{"Y":2018,"M":8,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough (Cannot be Shiny)"}
       ]
     },
@@ -3431,7 +3431,7 @@
         {"Start":{"Y":2017,"M":8,"D":31},"End":{"Y":2017,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":14},"End":{"Y":2019,"M":7,"D":14},"Type":10,"Comment":"Entei Day (Shiny Released)"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"Johto Journey"},
-        {"Start":{"Y":2020,"M":3,"D":1},"End":{"Y":2020,"M":7,"D":10},"Shiny":1,"Type":30,"Comment":"Looming in the Shadows"},
+        {"Start":{"Y":2020,"M":3,"D":1},"End":{"Y":2020,"M":7,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Looming in the Shadows"},
         {"Start":{"Y":2018,"M":9,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough (Cannot be Shiny)"}
       ]
     },
@@ -3441,8 +3441,8 @@
       "Data": [
         {"Start":{"Y":2017,"M":8,"D":31},"End":{"Y":2017,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"Johto Journey"},
-        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Event"},
-        {"Start":{"Y":2019,"M":8,"D":17},"End":{"Y":2020,"M":11,"D":16},"Type":20,"Comment":"Suicune Day (Shiny Released)"},
+        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Event"},
+        {"Start":{"Y":2019,"M":8,"D":17},"End":{"Y":2020,"M":11,"D":16},"Type":10,"Comment":"Suicune Day (Shiny Released)"},
         {"Start":{"Y":2018,"M":10,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough (Cannot be Shiny)"}
       ]
     },
