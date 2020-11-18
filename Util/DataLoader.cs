@@ -8,6 +8,13 @@ namespace PoGoEncTool
     {
         private const string SettingsPath = "settings.json";
 
+        private static JsonSerializerSettings getSettings() => new JsonSerializerSettings
+        {
+            Formatting = Formatting.Indented, 
+            DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate,
+            NullValueHandling = NullValueHandling.Ignore
+        };
+
         public static PogoEncounterList GetData(string exePath, out ProgramSettings settings)
         {
             var settingsPath = Path.Combine(exePath, SettingsPath);
@@ -20,14 +27,14 @@ namespace PoGoEncTool
 
             var fn = settings.DataPath;
             var str = File.Exists(fn) ? File.ReadAllText(fn) : string.Empty;
-            return JsonConvert.DeserializeObject<PogoEncounterList?>(str) ?? new PogoEncounterList();
+            return JsonConvert.DeserializeObject<PogoEncounterList?>(str, getSettings()) ?? new PogoEncounterList();
         }
 
         public static void SaveData(string exePath, PogoEncounterList entries, string jsonPath)
         {
             var clone = JsonConvert.DeserializeObject<PogoEncounterList>(JsonConvert.SerializeObject(entries));
             clone.Clean();
-            var settings = new JsonSerializerSettings { Formatting = Formatting.Indented, DefaultValueHandling = DefaultValueHandling.Ignore, NullValueHandling = NullValueHandling.Ignore };
+            var settings = getSettings();
             settings.Converters.Add(new FlatConverter<PogoEntry>());
             var contents = JsonConvert.SerializeObject(clone, settings);
             File.WriteAllText(jsonPath, contents);
