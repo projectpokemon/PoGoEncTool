@@ -34,6 +34,7 @@ namespace PoGoEncTool
             this.L_Start = new System.Windows.Forms.Label();
             this.FLP_Parent = new System.Windows.Forms.FlowLayoutPanel();
             this.L_End = new System.Windows.Forms.Label();
+            this.CHK_Localized = new System.Windows.Forms.CheckBox();
             this.CB_Type = new System.Windows.Forms.ComboBox();
             this.CHK_Shiny = new System.Windows.Forms.CheckBox();
             this.TB_Comment = new System.Windows.Forms.TextBox();
@@ -76,13 +77,14 @@ namespace PoGoEncTool
             this.FLP_Parent.Controls.Add(this.DT_Start);
             this.FLP_Parent.Controls.Add(this.L_End);
             this.FLP_Parent.Controls.Add(this.DT_End);
+            this.FLP_Parent.Controls.Add(this.CHK_Localized);
             this.FLP_Parent.Controls.Add(this.CB_Type);
             this.FLP_Parent.Controls.Add(this.CHK_Shiny);
             this.FLP_Parent.Controls.Add(this.TB_Comment);
             this.FLP_Parent.Dock = System.Windows.Forms.DockStyle.Fill;
             this.FLP_Parent.Location = new System.Drawing.Point(0, 0);
             this.FLP_Parent.Name = "FLP_Parent";
-            this.FLP_Parent.Size = new System.Drawing.Size(465, 61);
+            this.FLP_Parent.Size = new System.Drawing.Size(381, 89);
             this.FLP_Parent.TabIndex = 3;
             // 
             // L_End
@@ -95,11 +97,23 @@ namespace PoGoEncTool
             this.L_End.TabIndex = 3;
             this.L_End.Text = "End:";
             // 
+            // CHK_Localized
+            // 
+            this.CHK_Localized.AutoSize = true;
+            this.CHK_Localized.Location = new System.Drawing.Point(3, 34);
+            this.CHK_Localized.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            this.CHK_Localized.Name = "CHK_Localized";
+            this.CHK_Localized.Size = new System.Drawing.Size(102, 19);
+            this.CHK_Localized.TabIndex = 8;
+            this.CHK_Localized.Text = "Localized Start";
+            this.CHK_Localized.ThreeState = true;
+            this.CHK_Localized.UseVisualStyleBackColor = true;
+            // 
             // CB_Type
             // 
             this.CB_Type.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CB_Type.FormattingEnabled = true;
-            this.CB_Type.Location = new System.Drawing.Point(295, 3);
+            this.CB_Type.Location = new System.Drawing.Point(111, 32);
             this.CB_Type.Name = "CB_Type";
             this.CB_Type.Size = new System.Drawing.Size(86, 23);
             this.CB_Type.TabIndex = 5;
@@ -107,7 +121,7 @@ namespace PoGoEncTool
             // CHK_Shiny
             // 
             this.CHK_Shiny.AutoSize = true;
-            this.CHK_Shiny.Location = new System.Drawing.Point(387, 5);
+            this.CHK_Shiny.Location = new System.Drawing.Point(203, 34);
             this.CHK_Shiny.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
             this.CHK_Shiny.Name = "CHK_Shiny";
             this.CHK_Shiny.Size = new System.Drawing.Size(55, 19);
@@ -118,9 +132,11 @@ namespace PoGoEncTool
             // 
             // TB_Comment
             // 
-            this.TB_Comment.Location = new System.Drawing.Point(3, 32);
+            this.TB_Comment.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.TB_Comment.Location = new System.Drawing.Point(3, 61);
             this.TB_Comment.Name = "TB_Comment";
-            this.TB_Comment.Size = new System.Drawing.Size(439, 23);
+            this.TB_Comment.Size = new System.Drawing.Size(378, 23);
             this.TB_Comment.TabIndex = 7;
             // 
             // PogoRow
@@ -129,7 +145,7 @@ namespace PoGoEncTool
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.FLP_Parent);
             this.Name = "PogoRow";
-            this.Size = new System.Drawing.Size(465, 61);
+            this.Size = new System.Drawing.Size(381, 89);
             this.FLP_Parent.ResumeLayout(false);
             this.FLP_Parent.PerformLayout();
             this.ResumeLayout(false);
@@ -146,5 +162,6 @@ namespace PoGoEncTool
         private System.Windows.Forms.ComboBox CB_Type;
         private System.Windows.Forms.CheckBox CHK_Shiny;
         private System.Windows.Forms.TextBox TB_Comment;
+        private System.Windows.Forms.CheckBox CHK_Localized;
     }
 }

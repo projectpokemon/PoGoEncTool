@@ -33,6 +33,8 @@ namespace PoGoEncTool
             DT_End.Value = GetDateTime(entry.End);
             DT_End.Checked = entry.End != null;
 
+            CHK_Localized.Checked = entry.LocalizedStart;
+
             CB_Type.SelectedValue = (int)entry.Type;
 
             TB_Comment.Text = entry.Comment;
@@ -53,6 +55,8 @@ namespace PoGoEncTool
             entry.End = !DT_End.Checked ? null : new PogoDate(DT_End.Value);
 
             entry.Type = (PogoType)(int)CB_Type.SelectedValue;
+
+            entry.LocalizedStart = CHK_Localized.Checked;
 
             entry.Comment = TB_Comment.Text;
         }

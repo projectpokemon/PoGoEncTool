@@ -8,6 +8,7 @@ namespace PoGoEncTool
         public PogoDate? End { get; set; }
         public PogoShiny Shiny { get; set; } = PogoShiny.Never;
         public PogoType Type { get; set; }
+        public bool LocalizedStart { get; set; }
         public string Comment { get; set; } = string.Empty;
 
         public static PogoEntry CreateNew() => new PogoEntry

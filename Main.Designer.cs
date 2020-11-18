@@ -84,7 +84,7 @@ namespace PoGoEncTool
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pogoRow1.Location = new System.Drawing.Point(216, 12);
             this.pogoRow1.Name = "pogoRow1";
-            this.pogoRow1.Size = new System.Drawing.Size(517, 61);
+            this.pogoRow1.Size = new System.Drawing.Size(381, 84);
             this.pogoRow1.TabIndex = 4;
             // 
             // LB_Appearances
@@ -94,9 +94,9 @@ namespace PoGoEncTool
             | System.Windows.Forms.AnchorStyles.Right)));
             this.LB_Appearances.FormattingEnabled = true;
             this.LB_Appearances.ItemHeight = 15;
-            this.LB_Appearances.Location = new System.Drawing.Point(216, 72);
+            this.LB_Appearances.Location = new System.Drawing.Point(216, 102);
             this.LB_Appearances.Name = "LB_Appearances";
-            this.LB_Appearances.Size = new System.Drawing.Size(517, 259);
+            this.LB_Appearances.Size = new System.Drawing.Size(439, 229);
             this.LB_Appearances.TabIndex = 5;
             this.LB_Appearances.SelectedIndexChanged += new System.EventHandler(this.LB_Appearances_SelectedIndexChanged);
             // 
@@ -132,7 +132,7 @@ namespace PoGoEncTool
             // B_Save
             // 
             this.B_Save.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.B_Save.Location = new System.Drawing.Point(675, 12);
+            this.B_Save.Location = new System.Drawing.Point(597, 12);
             this.B_Save.Name = "B_Save";
             this.B_Save.Size = new System.Drawing.Size(58, 44);
             this.B_Save.TabIndex = 13;
@@ -187,7 +187,7 @@ namespace PoGoEncTool
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(745, 346);
+            this.ClientSize = new System.Drawing.Size(667, 346);
             this.Controls.Add(this.CHK_Available);
             this.Controls.Add(this.B_CopyTo);
             this.Controls.Add(this.L_PGFandom);
