@@ -12,7 +12,10 @@ namespace PoGoEncTool
 
         public static byte[] WritePickle(PogoEncounterList entries)
         {
-            var data = GetEntries(entries.Data);
+            // Wurmple EC mismatches; defer them to the end so that we return Cascoon/Silcoon+ before Wurmple.
+            var reordered = entries.Data.OrderBy(z => z.Species == (int)Wurmple).ToArray();
+            var data = GetEntries(reordered);
+
             return BinLinker.Pack(data, identifier);
         }
 
