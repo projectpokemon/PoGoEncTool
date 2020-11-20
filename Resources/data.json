@@ -3122,6 +3122,7 @@
       "Form": 2,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2020,"M":11,"D":22},"End":{"Y":2020,"M":11,"D":22},"Type":1,"LocalizedStart":true,"Comment":"City Spotlight"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
       ]
     },
