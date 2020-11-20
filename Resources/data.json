@@ -1873,7 +1873,7 @@
         {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change: Part 1)"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"Comment":"GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"}
       ]
     },
     {
@@ -3154,8 +3154,8 @@
       "Form": 6,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"Comment":"GO Fest 2020"},
-        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"Comment":"GO Fest 2020 Makeup Day"},
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"},
+        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020 Makeup Day"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
       ]
     },
@@ -3222,8 +3222,8 @@
       "Form": 14,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"Comment":"GO Fest 2020"},
-        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"Comment":"GO Fest 2020 Makeup Day"},
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"},
+        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020 Makeup Day"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
       ]
     },
@@ -3489,7 +3489,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":31},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2017,"M":7,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"Comment":"GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"}
       ]
     },
     {
@@ -6890,7 +6890,7 @@
         {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss {Tangela}"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change: Part 1) {Tangela}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Tangela}"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"Comment":"GO Fest 2020 {Tangela}"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020 {Tangela}"}
       ]
     },
     {
@@ -7160,7 +7160,7 @@
       "Species": 479,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":25},"Shiny":1,"Type":1,"Comment":"GO Fest 2020 (Wash Form)"}
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020 (Wash Form)"}
       ]
     },
     {
@@ -7267,7 +7267,7 @@
       "Species": 494,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":22,"Comment":"GO Fest 2020 / Investigate a Mysterious Energy"}
+        {"Start":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":22,"LocalizedStart":true,"Comment":"GO Fest 2020 / Investigate a Mysterious Energy"}
       ]
     },
     {
@@ -7566,7 +7566,7 @@
       "Data": [
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2020,"M":2,"D":1},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"Comment":"GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"}
       ]
     },
     {
@@ -7575,7 +7575,7 @@
       "Data": [
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (4th Anniversary) {Woobat}"},
         {"Start":{"Y":2020,"M":2,"D":1},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Woobat}"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"Comment":"GO Fest 2020 {Woobat}"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020 {Woobat}"}
       ]
     },
     {
@@ -8492,7 +8492,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"Comment":"GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"}
       ]
     },
     {
@@ -8500,7 +8500,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"Comment":"GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"}
       ]
     },
     {
