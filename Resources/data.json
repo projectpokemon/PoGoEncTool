@@ -170,7 +170,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":10},"Type":10,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Initial: Shiny can exist in wild"}
       ]
@@ -181,7 +181,7 @@
       "Data": [
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":10},"Type":10,"Comment":"T1 Raid Boss {Caterpie}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T1 Raid Boss {Caterpie}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Caterpie}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Caterpie}"},
         {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Initial: Shiny can exist in wild {Caterpie}"}
       ]
@@ -192,7 +192,7 @@
       "Data": [
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Metapod}"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":10},"Type":10,"Comment":"T1 Raid Boss {Caterpie} {Metapod}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T1 Raid Boss {Caterpie} {Metapod}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Caterpie} {Metapod}"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Caterpie} {Metapod}"},
         {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Initial: Shiny can exist in wild {Caterpie} {Metapod}"}
@@ -220,7 +220,7 @@
       "Species": 15,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Weedle} {Kakuna}"},
         {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Grunt {Weedle} {Kakuna}"},
         {"Start":{"Y":2020,"M":6,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Community Day {Weedle} {Kakuna}"}
@@ -722,7 +722,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":18},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Bug Out 2020) {Venonat}"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2020,"M":7,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Grunt {Venonat}"},
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Fest 2020 {Venonat}"},
@@ -961,7 +961,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally released at GO Fest Chicago 2019"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2019,"M":9,"D":5},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":4,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Community Day"}
@@ -972,7 +972,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally released at GO Fest Chicago 2019 {Abra}"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"Comment":"T1 Raid Boss {Abra}"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020) {Abra}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Abra}"},
         {"Start":{"Y":2019,"M":9,"D":5},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Grunt {Abra}"},
         {"Start":{"Y":2020,"M":4,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Community Day {Abra}"}
@@ -991,7 +991,7 @@
         {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally released at GO Fest Chicago 2019 {Abra} {Kadabra}"},
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"Comment":"T1 Raid Boss {Abra} {Kadabra}"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020) {Abra} {Kadabra}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Abra} {Kadabra}"},
         {"Start":{"Y":2019,"M":9,"D":5},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Grunt {Abra} {Kadabra}"},
         {"Start":{"Y":2020,"M":4,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Community Day {Abra} {Kadabra}"}
@@ -1250,7 +1250,7 @@
       "Species": 79,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Pokémon HOME Event)"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Grunt"},
@@ -1264,7 +1264,7 @@
         {"Start":{"Y":2018,"M":3,"D":5},"End":{"Y":2018,"M":3,"D":16},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2018,"M":10,"D":1},"End":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":22},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Slowpoke}"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020) {Slowpoke}"},
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Pokémon HOME Event) {Slowpoke}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Slowpoke}"},
@@ -1623,7 +1623,7 @@
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":31},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020)"},
         {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Grunt {Exeggcute}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Exeggcute}"},
@@ -1981,7 +1981,7 @@
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":7},"End":{"Y":2020,"M":3,"D":7},"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Leader Arlo (Team GO Rocket Global Take Over)"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Bug Out 2020)"},
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (4th Anniversary)"},
@@ -2069,7 +2069,7 @@
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":10},"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"T3 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Type":10,"Comment":"T2 Raid Boss (Previously T3)"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020)"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Bug Out 2020, Previously T3)"},
         {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":7,"D":10},"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Leader Cliff"},
@@ -3000,7 +3000,7 @@
       "Data": [
         {"Start":{"Y":2018,"M":8,"D":20},"End":{"Y":2018,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":13},"Type":10,"Comment":"T2 Raid Boss (Previously T1)"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Bug Out 2020)"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2019,"M":9,"D":20},"Type":1,"Comment":"Safari Zone Montreal"}
@@ -3027,7 +3027,7 @@
         {"Start":{"Y":2018,"M":11,"D":23},"End":{"Y":2018,"M":11,"D":27},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":28},"Type":10,"Comment":"T1 Raid Boss {Eevee}"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020)"},
         {"Start":{"Y":2020,"M":9,"D":10},"End":{"Y":2020,"M":9,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
@@ -3064,7 +3064,7 @@
       "Species": 199,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Slowpoke}"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020) {Slowpoke}"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Pokémon HOME Event) {Slowpoke}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Slowpoke}"},
         {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Grunt {Slowpoke}"},
@@ -3355,7 +3355,7 @@
       "Species": 203,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
       ]
     },
@@ -3369,7 +3369,7 @@
         {"Start":{"Y":2019,"M":5,"D":18},"End":{"Y":2019,"M":5,"D":21},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":12},"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Leader Arlo"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change)"},
@@ -3387,7 +3387,7 @@
         {"Start":{"Y":2019,"M":5,"D":18},"End":{"Y":2019,"M":5,"D":21},"Type":10,"Comment":"T2 Raid Boss {Pineco}"},
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"T2 Raid Boss {Pineco}"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T2 Raid Boss {Pineco}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T2 Raid Boss {Pineco}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate) {Pineco}"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020) {Pineco}"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Bug Out 2020)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":12},"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Leader Arlo {Pineco}"},
@@ -3518,7 +3518,7 @@
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Type":10,"Comment":"T3 Raid Boss {Scyther}"},
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Type":10,"Comment":"T3 Raid Boss {Scyther}"},
         {"Start":{"Y":2020,"M":3,"D":7},"End":{"Y":2020,"M":3,"D":7},"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Leader Arlo (Team GO Rocket Global Take Over) {Scyther}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T3 Raid Boss {Scyther}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (A Drive to Investigate) {Scyther}"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss {Scyther}"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Bug Out 2020) {Scyther}"},
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (4th Anniversary) {Scyther}"},
@@ -3745,7 +3745,7 @@
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2020,"M":1,"D":7},"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (GBL Preparation)"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020)"},
         {"Start":{"Y":2020,"M":1,"D":25},"End":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Preseason, Season 1, Season 2"},
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (4th Anniversary)"},
@@ -4261,7 +4261,7 @@
       "Species": 265,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2020,"M":1,"D":16},"Type":1,"Comment":"Hatchathon 2020 (End of Event)"}
       ]
@@ -4270,7 +4270,7 @@
       "Species": 266,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T1 Raid Boss {Wurmple}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Wurmple}"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Wurmple}"},
         {"Start":{"Y":2020,"M":1,"D":16},"Type":1,"Comment":"Hatchathon 2020 (End of Event) {Wurmple}"}
       ]
@@ -4280,7 +4280,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T1 Raid Boss {Wurmple} {Silcoon}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Wurmple} {Silcoon}"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Wurmple} {Silcoon}"},
         {"Start":{"Y":2020,"M":1,"D":16},"Type":1,"Comment":"Hatchathon 2020 (End of Event) {Wurmple} {Silcoon}"}
       ]
@@ -4289,7 +4289,7 @@
       "Species": 268,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T1 Raid Boss {Wurmple}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Wurmple}"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Wurmple}"},
         {"Start":{"Y":2020,"M":1,"D":16},"Type":1,"Comment":"Hatchathon 2020 (End of Event) {Wurmple}"}
       ]
@@ -4298,7 +4298,7 @@
       "Species": 269,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T1 Raid Boss {Wurmple} {Cascoon}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Wurmple} {Cascoon}"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Wurmple} {Cascoon}"},
         {"Start":{"Y":2020,"M":1,"D":16},"Type":1,"Comment":"Hatchathon 2020 (End of Event) {Wurmple} {Cascoon}"}
       ]
@@ -4454,7 +4454,7 @@
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Type":10,"Comment":"T1 Raid Boss {Ralts}"},
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Type":10,"Comment":"T1 Raid Boss {Ralts}"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (GBL Preparation)"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020)"},
         {"Start":{"Y":2020,"M":6,"D":16},"End":{"Y":2020,"M":6,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
@@ -4484,7 +4484,7 @@
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Type":10,"Comment":"T1 Raid Boss {Ralts} {Kirlia}"},
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Type":10,"Comment":"T1 Raid Boss {Ralts} {Kirlia}"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (GBL Preparation) {Kirlia}"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Kirlia}"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Psychic Spectacular 2020) {Kirlia}"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss {Kirlia}"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020) {Kirlia}"},
         {"Start":{"Y":2020,"M":6,"D":16},"End":{"Y":2020,"M":6,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss {Kirlia}"},
@@ -4576,12 +4576,12 @@
       "Species": 290,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":1,"Comment":"A Drive to Investigate (Shiny Released)"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":1,"LocalizedStart":true,"Comment":"A Drive to Investigate (Shiny Released)"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":6,"D":27},"Type":1,"Comment":"Bug Out 2020"},
         {"Start":{"Y":2018,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research (Cannot be Shiny)"},
         {"Start":{"Y":2019,"M":1,"D":15},"Shiny":1,"Type":2,"Comment":"Hoenn Celebration 2019"},
-        {"Start":{"Y":2020,"M":3,"D":20},"Type":2,"Comment":"A Drive to Investigate (Shiny Released)"},
-        {"Start":{"Y":2020,"M":3,"D":20},"Type":20,"Comment":"Field Research (Can be Shiny)"}
+        {"Start":{"Y":2020,"M":3,"D":20},"Type":2,"LocalizedStart":true,"Comment":"A Drive to Investigate (Shiny Released)"},
+        {"Start":{"Y":2020,"M":3,"D":20},"Type":20,"LocalizedStart":true,"Comment":"A Drive to Investigate"}
       ]
     },
     {
@@ -4589,12 +4589,12 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":10},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":1,"Comment":"A Drive to Investigate (Shiny Released) {Nincada}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":1,"LocalizedStart":true,"Comment":"A Drive to Investigate (Shiny Released) {Nincada}"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":6,"D":27},"Type":1,"Comment":"Bug Out 2020 {Nincada}"},
         {"Start":{"Y":2018,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research (Cannot be Shiny) {Nincada}"},
         {"Start":{"Y":2019,"M":1,"D":15},"Shiny":1,"Type":2,"Comment":"Hoenn Celebration 2019 {Nincada}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"Type":2,"Comment":"A Drive to Investigate (Shiny Released) {Nincada}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"Type":20,"Comment":"Field Research (Can be Shiny) {Nincada}"}
+        {"Start":{"Y":2020,"M":3,"D":20},"Type":2,"LocalizedStart":true,"Comment":"A Drive to Investigate (Shiny Released) {Nincada}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"Type":20,"LocalizedStart":true,"Comment":"A Drive to Investigate {Nincada}"}
       ]
     },
     {
@@ -4827,7 +4827,7 @@
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":3,"D":13},"Type":20,"Comment":"GBL Preseason"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":7,"D":9},"End":{"Y":2020,"M":7,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":16},"End":{"Y":2020,"M":7,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":23},"End":{"Y":2020,"M":7,"D":25},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
@@ -4853,7 +4853,7 @@
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Type":10,"Comment":"T1 Raid Boss {Meditite}"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Type":10,"Comment":"T1 Raid Boss {Meditite}"},
         {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":3,"D":13},"Type":20,"Comment":"GBL Preseason (evolved)"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"Comment":"T1 Raid Boss {Meditite}"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020) {Meditite}"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020)"},
         {"Start":{"Y":2020,"M":7,"D":9},"End":{"Y":2020,"M":7,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Meditite}"},
@@ -5075,7 +5075,7 @@
       "Species": 325,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
         {"Start":{"Y":2019,"M":2,"D":4},"Type":1,"Comment":"Lunar New Year 2019"}
       ]
@@ -5086,7 +5086,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"Comment":"T1 Raid Boss {Spoink}"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020) {Spoink}"},
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Spoink}"},
         {"Start":{"Y":2019,"M":2,"D":4},"Type":1,"Comment":"Lunar New Year 2019 {Spoink}"}
       ]
@@ -5276,9 +5276,9 @@
       "Species": 343,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2018,"M":1,"D":23},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
-        {"Start":{"Y":2020,"M":3,"D":27},"Type":1,"Comment":"Psychic Spectacular 2020"}
+        {"Start":{"Y":2020,"M":3,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2020"}
       ]
     },
     {
@@ -5292,13 +5292,13 @@
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":1,"D":7},"End":{"Y":2020,"M":2,"D":4},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"Comment":"T1 Raid Boss {Baltoy}"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020) {Baltoy}"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020)"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Enigma Week)"},
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2018,"M":1,"D":23},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Baltoy}"},
-        {"Start":{"Y":2020,"M":3,"D":27},"Type":1,"Comment":"Psychic Spectacular 2020 {Baltoy}"}
+        {"Start":{"Y":2020,"M":3,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2020 {Baltoy}"}
       ]
     },
     {
@@ -5744,8 +5744,8 @@
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":29},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T1 Raid Boss {Beldum} {Metang}"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"T1 Raid Boss (Supereffective Week) {Beldum} {Metang}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (A Drive to Investigate)"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020)"},
         {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":6,"D":27},"Type":20,"Comment":"GBL Season 1, Season 2 {Beldum} {Metang}"},
         {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":7,"D":10},"Type":30,"LocalizedStart":true,"Comment":"GO Rocket Leader Sierra {Beldum} {Metang}"},
@@ -6531,7 +6531,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":29},"Type":10,"Comment":"T1 Raid Boss {Bronzor}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020, Previously T3)"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Enigma Week)"},
         {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":1,"Comment":"Holiday 2018 {Bronzor}"},
@@ -6971,7 +6971,7 @@
       "Data": [
         {"Start":{"Y":2018,"M":8,"D":20},"End":{"Y":2018,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Yanma}"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":13},"Type":10,"Comment":"T2 Raid Boss (Previously T1) {Yanma}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"Comment":"T2 Raid Boss {Yanma}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate) {Yanma}"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Bug Out 2020) {Yanma}"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Yanma}"},
         {"Start":{"Y":2019,"M":9,"D":20},"Type":1,"Comment":"Safari Zone Montreal {Yanma}"}
@@ -7079,7 +7079,7 @@
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Type":10,"Comment":"T1 Raid Boss {Ralts} {Kirlia}"},
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Type":10,"Comment":"T1 Raid Boss {Ralts} {Kirlia}"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (GBL Preparation) {Kirlia}"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Kirlia}"},
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Psychic Spectacular 2020) {Kirlia}"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss {Kirlia}"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020) {Kirlia}"},
         {"Start":{"Y":2020,"M":6,"D":16},"End":{"Y":2020,"M":6,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss {Kirlia}"},
@@ -7592,7 +7592,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":13},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":1,"D":7},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":5,"D":29},"End":{"Y":2020,"M":6,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":2},"End":{"Y":2020,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
@@ -7746,7 +7746,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":1,"D":24},"End":{"Y":2020,"M":2,"D":3},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge Champion 2020)"},
         {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
@@ -7757,7 +7757,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":1,"D":24},"End":{"Y":2020,"M":2,"D":3},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Venipede}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Venipede}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Venipede}"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Venipede}"},
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge Champion 2020) {Venipede}"},
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Unova Week)"},
@@ -7769,7 +7769,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":1,"D":24},"End":{"Y":2020,"M":2,"D":3},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Venipede} {Whirlipede}"},
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Venipede} {Whirlipede}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Venipede} {Whirlipede}"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Venipede} {Whirlipede}"},
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge Champion 2020) {Venipede} {Whirlipede}"},
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Unova Week) {Whirlipede}"},
@@ -8040,7 +8040,7 @@
         {"Start":{"Y":2020,"M":9,"D":10},"End":{"Y":2020,"M":9,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week)"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"Comment":"Psychic Spectacular 2020"}
+        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2020"}
       ]
     },
     {
@@ -8052,7 +8052,7 @@
         {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week) {Gothita}"},
         {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Fashion Week)"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Gothita}"},
-        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"Comment":"Psychic Spectacular 2020 {Gothita}"}
+        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2020 {Gothita}"}
       ]
     },
     {
@@ -8064,7 +8064,7 @@
         {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week) {Gothita} {Gothorita}"},
         {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Fashion Week) {Gothorita}"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Gothita} {Gothorita}"},
-        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"Comment":"Psychic Spectacular 2020 {Gothita} {Gothorita}"}
+        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2020 {Gothita} {Gothorita}"}
       ]
     },
     {
@@ -8072,7 +8072,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Enigma Week)"},
-        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"Comment":"Psychic Spectacular 2020"}
+        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2020"}
       ]
     },
     {
@@ -8080,7 +8080,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Enigma Week) {Solosis}"},
-        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"Comment":"Psychic Spectacular 2020 {Solosis}"}
+        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2020 {Solosis}"}
       ]
     },
     {
@@ -8088,7 +8088,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Enigma Week) {Solosis} {Duosion}"},
-        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"Comment":"Psychic Spectacular 2020 {Solosis} {Duosion}"}
+        {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2020 {Solosis} {Duosion}"}
       ]
     },
     {
@@ -8170,7 +8170,7 @@
       "Species": 595,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":28},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
       ]
@@ -8179,7 +8179,7 @@
       "Species": 596,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Joltik}"},
+        {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Joltik}"},
         {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":28},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Joltik}"},
         {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Joltik}"}
       ]
