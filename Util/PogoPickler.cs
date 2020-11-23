@@ -42,8 +42,8 @@ namespace PoGoEncTool
 
         private static void Write(PogoEntry entry, BinaryWriter bw)
         {
-            bw.Write(entry.Start?.Write() ?? 0);
-            bw.Write(entry.End?.Write() ?? 0);
+            bw.Write(entry.Start?.Write(entry.LocalizedStart ? -1 : 0) ?? 0);
+            bw.Write(entry.End?.Write(!entry.NoEndTolerance ? 1 : 0) ?? 0);
 
             bw.Write((byte)PogoToHex(entry.Shiny));
             bw.Write((byte)entry.Type);

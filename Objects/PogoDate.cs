@@ -34,6 +34,17 @@ namespace PoGoEncTool
 
         public int Write() => (Y << 16) | (M << 8) | D;
 
+        public int Write(int delta)
+        {
+            if (delta == 0)
+                return Write();
+
+            var date = new DateTime(Y, M, D);
+            var update = date.AddDays(delta);
+            var obj = new PogoDate(update);
+            return obj.Write();
+        }
+
         public int CompareTo(PogoDate p) => Write().CompareTo(p.Write());
 
         public int CompareTo(object? obj)
