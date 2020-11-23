@@ -1917,7 +1917,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Available at launch"},
-        {"Start":{"Y":2020,"M":11,"D":24},"Type":1,"Comment":"Initial: Shiny can exist in wild"}
+        {"Start":{"Y":2020,"M":11,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Lake Legends Event"}
       ]
     },
     {
@@ -1925,7 +1925,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Available at launch {Goldeen}"},
-        {"Start":{"Y":2020,"M":11,"D":24},"Type":1,"Comment":"Initial: Shiny can exist in wild {Goldeen}"}
+        {"Start":{"Y":2020,"M":11,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Lake Legends Event {Goldeen}"}
       ]
     },
     {
@@ -7181,8 +7181,8 @@
       "Data": [
         {"Start":{"Y":2019,"M":5,"D":2},"End":{"Y":2019,"M":5,"D":27},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2019,"M":8,"D":28},"End":{"Y":2019,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Water Festival 2019 Legendary Raid Hour)"},
-        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2019,"M":4,"D":29},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
+        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Lake Legends Event)"},
+        {"Start":{"Y":2019,"M":4,"D":29},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"}
       ]
     },
     {
@@ -7191,8 +7191,8 @@
       "Data": [
         {"Start":{"Y":2019,"M":5,"D":2},"End":{"Y":2019,"M":5,"D":27},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2019,"M":8,"D":28},"End":{"Y":2019,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Water Festival 2019 Legendary Raid Hour)"},
-        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2019,"M":4,"D":29},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
+        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Lake Legends Event)"},
+        {"Start":{"Y":2019,"M":4,"D":29},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"}
       ]
     },
     {
@@ -7201,8 +7201,8 @@
       "Data": [
         {"Start":{"Y":2019,"M":5,"D":2},"End":{"Y":2019,"M":5,"D":27},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2019,"M":8,"D":28},"End":{"Y":2019,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Water Festival 2019 Legendary Raid Hour)"},
-        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2019,"M":4,"D":29},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
+        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Lake Legends Event)"},
+        {"Start":{"Y":2019,"M":4,"D":29},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"}
       ]
     },
     {
