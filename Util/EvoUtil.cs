@@ -63,6 +63,7 @@ namespace PoGoEncTool
             var destSpecies = (Species) s;
             return (Species)species switch
             {
+                Pichu when destSpecies == Raichu && destForm == 1 => false,
                 Pikachu when destSpecies == Raichu && destForm == 1 => false,
                 Koffing when destSpecies == Weezing && destForm == 1 => false,
                 MimeJr when destSpecies == MrMime && destForm == 1 => false,
