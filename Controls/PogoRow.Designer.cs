@@ -35,10 +35,10 @@ namespace PoGoEncTool
             this.FLP_Parent = new System.Windows.Forms.FlowLayoutPanel();
             this.L_End = new System.Windows.Forms.Label();
             this.CHK_Localized = new System.Windows.Forms.CheckBox();
+            this.CHK_NoEndTolerance = new System.Windows.Forms.CheckBox();
             this.CB_Type = new System.Windows.Forms.ComboBox();
             this.CHK_Shiny = new System.Windows.Forms.CheckBox();
             this.TB_Comment = new System.Windows.Forms.TextBox();
-            this.CHK_NoEndTolerance = new System.Windows.Forms.CheckBox();
             this.FLP_Parent.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -111,6 +111,18 @@ namespace PoGoEncTool
             this.CHK_Localized.ThreeState = true;
             this.CHK_Localized.UseVisualStyleBackColor = true;
             // 
+            // CHK_NoEndTolerance
+            // 
+            this.CHK_NoEndTolerance.AutoSize = true;
+            this.CHK_NoEndTolerance.Location = new System.Drawing.Point(111, 34);
+            this.CHK_NoEndTolerance.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            this.CHK_NoEndTolerance.Name = "CHK_NoEndTolerance";
+            this.CHK_NoEndTolerance.Size = new System.Drawing.Size(118, 19);
+            this.CHK_NoEndTolerance.TabIndex = 9;
+            this.CHK_NoEndTolerance.Text = "No End Tolerance";
+            this.CHK_NoEndTolerance.ThreeState = true;
+            this.CHK_NoEndTolerance.UseVisualStyleBackColor = true;
+            // 
             // CB_Type
             // 
             this.CB_Type.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
@@ -140,18 +152,6 @@ namespace PoGoEncTool
             this.TB_Comment.Name = "TB_Comment";
             this.TB_Comment.Size = new System.Drawing.Size(378, 23);
             this.TB_Comment.TabIndex = 7;
-            // 
-            // CHK_NoEndTolerance
-            // 
-            this.CHK_NoEndTolerance.AutoSize = true;
-            this.CHK_NoEndTolerance.Location = new System.Drawing.Point(111, 34);
-            this.CHK_NoEndTolerance.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
-            this.CHK_NoEndTolerance.Name = "CHK_NoEndTolerance";
-            this.CHK_NoEndTolerance.Size = new System.Drawing.Size(118, 19);
-            this.CHK_NoEndTolerance.TabIndex = 9;
-            this.CHK_NoEndTolerance.Text = "No End Tolerance";
-            this.CHK_NoEndTolerance.ThreeState = true;
-            this.CHK_NoEndTolerance.UseVisualStyleBackColor = true;
             // 
             // PogoRow
             // 

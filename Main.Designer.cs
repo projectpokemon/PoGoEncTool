@@ -53,7 +53,7 @@ namespace PoGoEncTool
             this.LB_Species.ItemHeight = 15;
             this.LB_Species.Location = new System.Drawing.Point(12, 42);
             this.LB_Species.Name = "LB_Species";
-            this.LB_Species.Size = new System.Drawing.Size(124, 289);
+            this.LB_Species.Size = new System.Drawing.Size(124, 604);
             this.LB_Species.TabIndex = 1;
             this.LB_Species.SelectedIndexChanged += new System.EventHandler(this.LB_Species_SelectedIndexChanged);
             // 
@@ -84,7 +84,7 @@ namespace PoGoEncTool
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pogoRow1.Location = new System.Drawing.Point(216, 12);
             this.pogoRow1.Name = "pogoRow1";
-            this.pogoRow1.Size = new System.Drawing.Size(381, 84);
+            this.pogoRow1.Size = new System.Drawing.Size(677, 84);
             this.pogoRow1.TabIndex = 4;
             // 
             // LB_Appearances
@@ -96,7 +96,7 @@ namespace PoGoEncTool
             this.LB_Appearances.ItemHeight = 15;
             this.LB_Appearances.Location = new System.Drawing.Point(216, 102);
             this.LB_Appearances.Name = "LB_Appearances";
-            this.LB_Appearances.Size = new System.Drawing.Size(439, 229);
+            this.LB_Appearances.Size = new System.Drawing.Size(735, 544);
             this.LB_Appearances.TabIndex = 5;
             this.LB_Appearances.SelectedIndexChanged += new System.EventHandler(this.LB_Appearances_SelectedIndexChanged);
             // 
@@ -121,7 +121,7 @@ namespace PoGoEncTool
             // B_DeleteSelected
             // 
             this.B_DeleteSelected.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.B_DeleteSelected.Location = new System.Drawing.Point(142, 308);
+            this.B_DeleteSelected.Location = new System.Drawing.Point(142, 624);
             this.B_DeleteSelected.Name = "B_DeleteSelected";
             this.B_DeleteSelected.Size = new System.Drawing.Size(68, 23);
             this.B_DeleteSelected.TabIndex = 10;
@@ -132,7 +132,7 @@ namespace PoGoEncTool
             // B_Save
             // 
             this.B_Save.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.B_Save.Location = new System.Drawing.Point(597, 12);
+            this.B_Save.Location = new System.Drawing.Point(893, 12);
             this.B_Save.Name = "B_Save";
             this.B_Save.Size = new System.Drawing.Size(58, 44);
             this.B_Save.TabIndex = 13;
@@ -187,7 +187,7 @@ namespace PoGoEncTool
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(667, 346);
+            this.ClientSize = new System.Drawing.Size(963, 662);
             this.Controls.Add(this.CHK_Available);
             this.Controls.Add(this.B_CopyTo);
             this.Controls.Add(this.L_PGFandom);
