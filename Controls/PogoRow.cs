@@ -28,9 +28,9 @@ namespace PoGoEncTool
                 _ => CheckState.Unchecked
             };
 
-            DT_Start.Value = GetDateTime(entry.Start);
+            DT_Start.Value = PogoDate.GetDateTime(entry.Start);
             DT_Start.Checked = entry.Start != null;
-            DT_End.Value = GetDateTime(entry.End);
+            DT_End.Value = PogoDate.GetDateTime(entry.End);
             DT_End.Checked = entry.End != null;
 
             CHK_Localized.Checked = entry.LocalizedStart;
@@ -40,8 +40,6 @@ namespace PoGoEncTool
 
             TB_Comment.Text = entry.Comment;
         }
-
-        private static DateTime GetDateTime(PogoDate? date) => date == null ? DateTime.Now : new DateTime(date.Y, date.M, date.D);
 
         public void SaveEntry(PogoEntry entry)
         {

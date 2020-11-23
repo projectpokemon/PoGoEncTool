@@ -32,6 +32,8 @@ namespace PoGoEncTool
 
         public override string ToString() => $"{Y:0000}.{M:00}.{D:00}";
 
+        private static DateTime GetDateTime(PogoDate? date) => date == null ? DateTime.Now : new DateTime(date.Y, date.M, date.D);
+
         public int Write() => (Y << 16) | (M << 8) | D;
 
         public int Write(int delta)
@@ -39,7 +41,7 @@ namespace PoGoEncTool
             if (delta == 0)
                 return Write();
 
-            var date = new DateTime(Y, M, D);
+            var date = GetDateTime(this);
             var update = date.AddDays(delta);
             var obj = new PogoDate(update);
             return obj.Write();
