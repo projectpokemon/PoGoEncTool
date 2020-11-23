@@ -38,6 +38,7 @@ namespace PoGoEncTool
             this.CB_Type = new System.Windows.Forms.ComboBox();
             this.CHK_Shiny = new System.Windows.Forms.CheckBox();
             this.TB_Comment = new System.Windows.Forms.TextBox();
+            this.CHK_NoEndTolerance = new System.Windows.Forms.CheckBox();
             this.FLP_Parent.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -78,6 +79,7 @@ namespace PoGoEncTool
             this.FLP_Parent.Controls.Add(this.L_End);
             this.FLP_Parent.Controls.Add(this.DT_End);
             this.FLP_Parent.Controls.Add(this.CHK_Localized);
+            this.FLP_Parent.Controls.Add(this.CHK_NoEndTolerance);
             this.FLP_Parent.Controls.Add(this.CB_Type);
             this.FLP_Parent.Controls.Add(this.CHK_Shiny);
             this.FLP_Parent.Controls.Add(this.TB_Comment);
@@ -113,7 +115,7 @@ namespace PoGoEncTool
             // 
             this.CB_Type.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CB_Type.FormattingEnabled = true;
-            this.CB_Type.Location = new System.Drawing.Point(111, 32);
+            this.CB_Type.Location = new System.Drawing.Point(235, 32);
             this.CB_Type.Name = "CB_Type";
             this.CB_Type.Size = new System.Drawing.Size(86, 23);
             this.CB_Type.TabIndex = 5;
@@ -121,7 +123,7 @@ namespace PoGoEncTool
             // CHK_Shiny
             // 
             this.CHK_Shiny.AutoSize = true;
-            this.CHK_Shiny.Location = new System.Drawing.Point(203, 34);
+            this.CHK_Shiny.Location = new System.Drawing.Point(3, 63);
             this.CHK_Shiny.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
             this.CHK_Shiny.Name = "CHK_Shiny";
             this.CHK_Shiny.Size = new System.Drawing.Size(55, 19);
@@ -134,10 +136,22 @@ namespace PoGoEncTool
             // 
             this.TB_Comment.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.TB_Comment.Location = new System.Drawing.Point(3, 61);
+            this.TB_Comment.Location = new System.Drawing.Point(3, 88);
             this.TB_Comment.Name = "TB_Comment";
             this.TB_Comment.Size = new System.Drawing.Size(378, 23);
             this.TB_Comment.TabIndex = 7;
+            // 
+            // CHK_NoEndTolerance
+            // 
+            this.CHK_NoEndTolerance.AutoSize = true;
+            this.CHK_NoEndTolerance.Location = new System.Drawing.Point(111, 34);
+            this.CHK_NoEndTolerance.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            this.CHK_NoEndTolerance.Name = "CHK_NoEndTolerance";
+            this.CHK_NoEndTolerance.Size = new System.Drawing.Size(118, 19);
+            this.CHK_NoEndTolerance.TabIndex = 9;
+            this.CHK_NoEndTolerance.Text = "No End Tolerance";
+            this.CHK_NoEndTolerance.ThreeState = true;
+            this.CHK_NoEndTolerance.UseVisualStyleBackColor = true;
             // 
             // PogoRow
             // 
@@ -163,5 +177,6 @@ namespace PoGoEncTool
         private System.Windows.Forms.CheckBox CHK_Shiny;
         private System.Windows.Forms.TextBox TB_Comment;
         private System.Windows.Forms.CheckBox CHK_Localized;
+        private System.Windows.Forms.CheckBox CHK_NoEndTolerance;
     }
 }
