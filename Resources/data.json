@@ -1730,7 +1730,8 @@
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"},
-        {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2020,"M":11,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Halloween 2020: Day of the Dead"}
       ]
     },
     {
@@ -4051,14 +4052,14 @@
       "Species": 249,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":7,"D":22},"End":{"Y":2017,"M":8,"D":31},"Shiny":1,"Type":10,"Comment":"GO Fest 2017"},
-        {"Start":{"Y":2018,"M":3,"D":16},"End":{"Y":2018,"M":4,"D":2},"Type":10,"Comment":"Shiny Released"},
+        {"Start":{"Y":2017,"M":7,"D":22},"End":{"Y":2017,"M":8,"D":31},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (GO Fest 2017)"},
+        {"Start":{"Y":2018,"M":3,"D":16},"End":{"Y":2018,"M":4,"D":2},"Type":10,"Comment":"T5 Raid Boss (Shiny Released)"},
         {"Start":{"Y":2018,"M":5,"D":14},"End":{"Y":2018,"M":5,"D":14},"Type":10,"Comment":"T5 Raid Boss (Accidental Rerelease)"},
-        {"Start":{"Y":2018,"M":7,"D":14},"End":{"Y":2018,"M":7,"D":16},"Type":10,"Comment":"GO Fest 2018"},
-        {"Start":{"Y":2018,"M":12,"D":14},"End":{"Y":2018,"M":12,"D":17},"Type":10,"Comment":"Special Raid Weekend"},
-        {"Start":{"Y":2019,"M":12,"D":20},"End":{"Y":2019,"M":12,"D":23},"Type":10,"Comment":"Special Raid Weekend"},
+        {"Start":{"Y":2018,"M":7,"D":14},"End":{"Y":2018,"M":7,"D":16},"Type":10,"Comment":"T5 Raid Boss (GO Fest 2018)"},
+        {"Start":{"Y":2018,"M":12,"D":14},"End":{"Y":2018,"M":12,"D":17},"Type":10,"Comment":"T5 Raid Boss (Special Raid Weekend)"},
+        {"Start":{"Y":2019,"M":12,"D":20},"End":{"Y":2019,"M":12,"D":23},"Type":10,"Comment":"T5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":5,"D":1},"Type":20,"Comment":"GBL Special Reward"},
-        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":20,"Comment":"Animation Week 2020"},
+        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":20,"Comment":"T5 Raid Boss (Animation Week 2020)"},
         {"Start":{"Y":2020,"M":11,"D":9},"End":{"Y":2020,"M":11,"D":30},"Type":20,"Comment":"GBL Special Reward"},
         {"Start":{"Y":2019,"M":1,"D":1},"Type":20,"Comment":"Research Breakthrough (Can be Shiny)"}
       ]
@@ -4067,12 +4068,12 @@
       "Species": 250,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":11,"D":27},"End":{"Y":2017,"M":12,"D":12},"Shiny":1,"Type":10,"Comment":"Post-Global Catch Challenge"},
-        {"Start":{"Y":2018,"M":5,"D":19},"End":{"Y":2018,"M":6,"D":7},"Type":10,"Comment":"Shiny Released"},
-        {"Start":{"Y":2018,"M":8,"D":25},"End":{"Y":2018,"M":8,"D":28},"Type":10,"Comment":"Johto Festival"},
-        {"Start":{"Y":2018,"M":12,"D":14},"End":{"Y":2018,"M":12,"D":17},"Type":10,"Comment":"Special Raid Weekend"},
-        {"Start":{"Y":2019,"M":12,"D":20},"End":{"Y":2019,"M":12,"D":23},"Type":10,"Comment":"Special Raid Weekend"},
-        {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"4th Anniversary"},
+        {"Start":{"Y":2017,"M":11,"D":27},"End":{"Y":2017,"M":12,"D":12},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Post-Global Catch Challenge)"},
+        {"Start":{"Y":2018,"M":5,"D":19},"End":{"Y":2018,"M":6,"D":7},"Type":10,"Comment":"T5 Raid Boss (Shiny Released)"},
+        {"Start":{"Y":2018,"M":8,"D":25},"End":{"Y":2018,"M":8,"D":28},"Type":10,"Comment":"T5 Raid Boss (Johto Festival)"},
+        {"Start":{"Y":2018,"M":12,"D":14},"End":{"Y":2018,"M":12,"D":17},"Type":10,"Comment":"T5 Raid Boss (Special Raid Weekend)"},
+        {"Start":{"Y":2019,"M":12,"D":20},"End":{"Y":2019,"M":12,"D":23},"Type":10,"Comment":"T5 Raid Boss (Special Raid Weekend)"},
+        {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2019,"M":1,"D":1},"Type":20,"Comment":"Research Breakthrough (Can be Shiny)"}
       ]
     },
@@ -8783,7 +8784,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Type":1,"Comment":"Shiny Meltan (Event 1)"},
         {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Type":1,"Comment":"Shiny Meltan (Event 2)"},
-        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Shiny Meltan (Event 3)"},
+        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Shiny Meltan (Pokémon HOME Event)"},
         {"Start":{"Y":2018,"M":11,"D":15},"Shiny":1,"Type":1,"Comment":"LGPE Launch (Mystery Box)"},
         {"Start":{"Y":2019,"M":2,"D":5},"Type":20,"Comment":"Let's GO, Meltan"}
       ]
@@ -8794,7 +8795,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Type":1,"Comment":"Shiny Meltan (Event 1) {Meltan}"},
         {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Type":1,"Comment":"Shiny Meltan (Event 2) {Meltan}"},
-        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Shiny Meltan (Event 3) {Meltan}"},
+        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Shiny Meltan (Pokémon HOME Event) {Meltan}"},
         {"Start":{"Y":2018,"M":11,"D":15},"Shiny":1,"Type":1,"Comment":"LGPE Launch (Mystery Box) {Meltan}"},
         {"Start":{"Y":2019,"M":2,"D":5},"Type":20,"Comment":"Let's GO, Meltan {Meltan}"}
       ]
