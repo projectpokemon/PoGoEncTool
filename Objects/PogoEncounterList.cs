@@ -69,10 +69,28 @@ namespace PoGoEncTool
                     {
                         if (entry.Data.TrueForAll(p => p.CompareTo(z) != 0))
                             continue;
-                        z.Comment += $" {{{(PKHeX.Core.Species)entry.Species}}}";
+                        var add = ((PKHeX.Core.Species)entry.Species).ToString();
+                        if (entry.Form != 0)
+                            add += $"-{entry.Form}";
+                        z.Comment += $" {{{add}}}";
                     }
                 }
             }
+        }
+
+        public void ReapplyDuplicates()
+        {
+            foreach (var entry in Data)
+            {
+                foreach (var appearance in entry.Data)
+                {
+                    var index = appearance.Comment.IndexOf('{');
+                    if (index < 0)
+                        continue;
+                    appearance.Comment = appearance.Comment.Substring(0, index - 1);
+                }
+            }
+            CleanDuplicatesForEvolutions();
         }
 
         public void Propagate()
@@ -90,7 +108,7 @@ namespace PoGoEncTool
                     var dest = Data.Find(z => z.Species == s && z.Form == f);
                     if (dest?.Available != true)
                         continue;
-                    
+
                     foreach (var z in entry.Data)
                     {
                         if (dest.Data.Any(p => p.Equals(z)))

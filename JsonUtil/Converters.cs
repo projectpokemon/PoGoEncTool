@@ -18,7 +18,7 @@ namespace PoGoEncTool
 
         public override object ReadJson(JsonReader reader, Type objectType, object? existingValue, JsonSerializer serializer)
         {
-            throw new NotImplementedException();
+            throw new Exception();
         }
 
         public override void WriteJson(JsonWriter writer, object? value, JsonSerializer serializer)

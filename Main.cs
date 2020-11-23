@@ -27,6 +27,7 @@ namespace PoGoEncTool
             // Entries = new PogoEncounterList(EncountersGO.CreateSeed());
             // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = PogoType.Shadow);
             // Entries.ModifyAll(_ => true, e => e.Available = e.Data.Count != 0);
+            // Entries.ReapplyDuplicates();
 
             LoadEntries();
             InitializeDataSources();
@@ -220,8 +221,8 @@ namespace PoGoEncTool
 
             var evos = EvoUtil.GetEvoSpecForms(species, form)
                 .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
-                .Where(z => EvoUtil.IsAllowedEvolution(species, form, z.Species, z.Form))
-                .Where(z => Entries.GetDetails(z.Species, z.Form).Available)
+                .Where(z => EvoUtil.IsAllowedEvolution(species, form, z.Species, z.Form)
+                            && Entries.GetDetails(z.Species, z.Form).Available)
                 .ToArray();
             if (evos.Length == 0)
             {
