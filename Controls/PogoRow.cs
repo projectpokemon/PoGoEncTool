@@ -34,8 +34,7 @@ namespace PoGoEncTool
             DT_End.Checked = entry.End != null;
 
             CHK_Localized.Checked = entry.LocalizedStart;
-
-            CHK_NoEndTolerance.Checked = entry.NoEndTolerance;
+            CHK_EndTolerance.Checked = !entry.NoEndTolerance;
 
             CB_Type.SelectedValue = (int)entry.Type;
 
@@ -59,8 +58,7 @@ namespace PoGoEncTool
             entry.Type = (PogoType)(int)CB_Type.SelectedValue;
 
             entry.LocalizedStart = CHK_Localized.Checked;
-
-            entry.NoEndTolerance = CHK_NoEndTolerance.Checked;
+            entry.NoEndTolerance = !CHK_EndTolerance.Checked;
 
             entry.Comment = TB_Comment.Text;
         }
