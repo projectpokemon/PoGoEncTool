@@ -1670,7 +1670,7 @@
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":3},"End":{"Y":2020,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"},
-        {"Start":{"Y":2018,"M":5,"D":29},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
+        {"Start":{"Y":2018,"M":5,"D":29},"Shiny":1,"Type":1,"Comment":"LGPE Reveal Celebration"},
         {"Start":{"Y":2019,"M":6,"D":28},"Type":1,"Comment":"3rd Anniversary"}
       ]
     },
@@ -1731,7 +1731,7 @@
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":11,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Halloween 2020: Day of the Dead"}
+        {"Start":{"Y":2020,"M":11,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Day of the Dead (Field Research Task)"}
       ]
     },
     {
@@ -4325,7 +4325,7 @@
         {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"T1 Raid Boss (GO Fest Yokohama 2019)"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"T1 Raid Boss (Water Festival 2019)"},
         {"Start":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Aquatic Theme)"},
-        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Limited Research"}
+        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Timed Research"}
       ]
     },
     {
@@ -4338,7 +4338,7 @@
         {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"T1 Raid Boss (GO Fest Yokohama 2019) {Lotad}"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"T1 Raid Boss (Water Festival 2019) {Lotad}"},
         {"Start":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Aquatic Theme) {Lotad}"},
-        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Limited Research {Lotad}"}
+        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Timed Research {Lotad}"}
       ]
     },
     {
@@ -4352,7 +4352,7 @@
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"T1 Raid Boss (Water Festival 2019) {Lotad} {Lombre}"},
         {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":27},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Buddy Up)"},
         {"Start":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Aquatic Theme) {Lotad} {Lombre}"},
-        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Limited Research {Lotad} {Lombre}"}
+        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Timed Research {Lotad} {Lombre}"}
       ]
     },
     {
@@ -5376,7 +5376,7 @@
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Aquatic Theme)"},
-        {"Start":{"Y":2019,"M":1,"D":19},"Type":1,"Comment":"Limited Research"}
+        {"Start":{"Y":2019,"M":1,"D":19},"Type":1,"Comment":"Timed Research"}
       ]
     },
     {
@@ -5394,7 +5394,7 @@
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (4th Anniversary) {Feebas}"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Feebas}"},
         {"Start":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Aquatic Theme) {Feebas}"},
-        {"Start":{"Y":2019,"M":1,"D":19},"Type":1,"Comment":"Limited Research {Feebas}"}
+        {"Start":{"Y":2019,"M":1,"D":19},"Type":1,"Comment":"Timed Research {Feebas}"}
       ]
     },
     {
@@ -5402,7 +5402,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Sky Theme)"},
-        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Limited Research"}
+        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Timed Research"}
       ]
     },
     {
@@ -5631,7 +5631,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Type":10,"Comment":"T2 Raid Boss (Extraordinary Raid Week)"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"T2 Raid Boss (Water Festival 2019)"},
-        {"Start":{"Y":2019,"M":2,"D":23},"Type":1,"Comment":"Limited Research"}
+        {"Start":{"Y":2019,"M":2,"D":23},"Type":1,"Comment":"Timed Research"}
       ]
     },
     {
@@ -5640,7 +5640,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Type":10,"Comment":"T2 Raid Boss (Extraordinary Raid Week) {Clamperl}"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"T2 Raid Boss (Water Festival 2019) {Clamperl}"},
-        {"Start":{"Y":2019,"M":2,"D":23},"Type":1,"Comment":"Limited Research {Clamperl}"}
+        {"Start":{"Y":2019,"M":2,"D":23},"Type":1,"Comment":"Timed Research {Clamperl}"}
       ]
     },
     {
@@ -5649,7 +5649,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Type":10,"Comment":"T2 Raid Boss (Extraordinary Raid Week) {Clamperl}"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"T2 Raid Boss (Water Festival 2019) {Clamperl}"},
-        {"Start":{"Y":2019,"M":2,"D":23},"Type":1,"Comment":"Limited Research {Clamperl}"}
+        {"Start":{"Y":2019,"M":2,"D":23},"Type":1,"Comment":"Timed Research {Clamperl}"}
       ]
     },
     {
@@ -7481,7 +7481,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
         {"Start":{"Y":2020,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"4th Anniversary"}
       ]
     },
@@ -7492,7 +7492,7 @@
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Pidove}"},
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Pidove}"},
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge Champion 2020)"},
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Pidove}"},
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling {Pidove}"},
         {"Start":{"Y":2020,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"4th Anniversary {Pidove}"}
       ]
     },
@@ -7503,7 +7503,7 @@
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Pidove} {Tranquill}"},
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Pidove} {Tranquill}"},
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge Champion 2020) {Tranquill}"},
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Pidove} {Tranquill}"},
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling {Pidove} {Tranquill}"},
         {"Start":{"Y":2020,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"4th Anniversary {Pidove} {Tranquill}"}
       ]
     },
@@ -7513,7 +7513,7 @@
       "Data": [
         {"Start":{"Y":2020,"M":2,"D":4},"End":{"Y":2020,"M":2,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":2,"D":11},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"}
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"}
       ]
     },
     {
@@ -7522,7 +7522,7 @@
       "Data": [
         {"Start":{"Y":2020,"M":2,"D":4},"End":{"Y":2020,"M":2,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Blitzle}"},
         {"Start":{"Y":2020,"M":2,"D":11},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Blitzle}"},
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Blitzle}"}
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling {Blitzle}"}
       ]
     },
     {
@@ -7578,7 +7578,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (4th Anniversary)"},
-        {"Start":{"Y":2020,"M":2,"D":1},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild"},
+        {"Start":{"Y":2020,"M":2,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
+        {"Start":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
         {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"}
       ]
     },
@@ -7587,7 +7588,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (4th Anniversary) {Woobat}"},
-        {"Start":{"Y":2020,"M":2,"D":1},"Shiny":1,"Type":1,"Comment":"Initial: Can exist in wild {Woobat}"},
+        {"Start":{"Y":2020,"M":2,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough {Woobat}"},
+        {"Start":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild {Woobat}"},
         {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020 {Woobat}"}
       ]
     },
@@ -8039,7 +8041,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge Champion 2020)"},
-        {"Start":{"Y":2020,"M":2,"D":2},"Type":1,"Comment":"Limited Research"}
+        {"Start":{"Y":2020,"M":2,"D":2},"Type":1,"Comment":"Timed Research"}
       ]
     },
     {
@@ -8048,7 +8050,7 @@
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge Champion 2020) {Minccino}"},
         {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Fashion Week)"},
-        {"Start":{"Y":2020,"M":2,"D":2},"Type":1,"Comment":"Limited Research {Minccino}"}
+        {"Start":{"Y":2020,"M":2,"D":2},"Type":1,"Comment":"Timed Research {Minccino}"}
       ]
     },
     {
