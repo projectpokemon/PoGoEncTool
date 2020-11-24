@@ -285,7 +285,8 @@
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2020,"M":7,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Rattata}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Available at launch {Rattata}"},
-        {"Start":{"Y":2019,"M":2,"D":26},"Type":1,"Comment":"Pokémon Day 2019 {Rattata}"}
+        {"Start":{"Y":2019,"M":2,"D":26},"Type":1,"Comment":"Pokémon Day 2019 {Rattata}"},
+        {"Start":{"Y":2019,"M":11,"D":7},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"}
       ]
     },
     {
@@ -1058,8 +1059,8 @@
       "Species": 69,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Available at launch"},
+        {"Start":{"Y":2019,"M":11,"D":7},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"},
         {"Start":{"Y":2020,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Summer Event"}
       ]
     },
@@ -1067,10 +1068,9 @@
       "Species": 70,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Bellsprout}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Available at launch {Bellsprout}"},
-        {"Start":{"Y":2020,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Summer Event {Bellsprout}"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"}
+        {"Start":{"Y":2019,"M":11,"D":7},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Bellsprout}"},
+        {"Start":{"Y":2020,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Summer Event {Bellsprout}"}
       ]
     },
     {
@@ -1081,10 +1081,9 @@
         {"Start":{"Y":2019,"M":3,"D":19},"End":{"Y":2019,"M":3,"D":26},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Equinox 2019)"},
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (TGR Disruption)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (TGR Event)"},
-        {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Bellsprout} {Weepinbell}"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Available at launch {Bellsprout} {Weepinbell}"},
-        {"Start":{"Y":2020,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Summer Event {Bellsprout} {Weepinbell}"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Weepinbell}"}
+        {"Start":{"Y":2019,"M":11,"D":7},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Bellsprout} {Weepinbell}"},
+        {"Start":{"Y":2020,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Summer Event {Bellsprout} {Weepinbell}"}
       ]
     },
     {
