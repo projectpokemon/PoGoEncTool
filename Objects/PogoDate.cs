@@ -32,7 +32,7 @@ namespace PoGoEncTool
 
         public override string ToString() => $"{Y:0000}.{M:00}.{D:00}";
 
-        private static DateTime GetDateTime(PogoDate? date) => date == null ? DateTime.Now : new DateTime(date.Y, date.M, date.D);
+        public static DateTime GetDateTime(PogoDate? date) => date == null ? DateTime.Now : new DateTime(date.Y, date.M, date.D);
 
         public int Write() => (Y << 16) | (M << 8) | D;
 
