@@ -8498,14 +8498,16 @@
       "Species": 627,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":13},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1 onwards"}
+        {"Start":{"Y":2020,"M":3,"D":13},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1 onwards"},
+        {"Start":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs"}
       ]
     },
     {
       "Species": 628,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":13},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1 onwards {Rufflet}"}
+        {"Start":{"Y":2020,"M":3,"D":13},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1 onwards {Rufflet}"},
+        {"Start":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs {Rufflet}"}
       ]
     },
     {
