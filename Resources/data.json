@@ -3946,8 +3946,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":8,"D":31},"End":{"Y":2017,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2019,"M":6,"D":29},"End":{"Y":2019,"M":6,"D":29},"Type":10,"Comment":"Raikou Day (Shiny Released)"},
-        {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"Johto Journey"},
+        {"Start":{"Y":2019,"M":6,"D":29},"End":{"Y":2019,"M":6,"D":29},"Type":10,"Comment":"T5 Raid Boss (Raikou Day, Shiny Released)"},
+        {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T5 Raid Boss (Johto Journey)"},
         {"Start":{"Y":2020,"M":2,"D":1},"End":{"Y":2020,"M":2,"D":29},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Looming in the Shadows"},
         {"Start":{"Y":2018,"M":8,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough (Cannot be Shiny)"}
       ]
@@ -3957,8 +3957,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":8,"D":31},"End":{"Y":2017,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2019,"M":7,"D":14},"End":{"Y":2019,"M":7,"D":14},"Type":10,"Comment":"Entei Day (Shiny Released)"},
-        {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"Johto Journey"},
+        {"Start":{"Y":2019,"M":7,"D":14},"End":{"Y":2019,"M":7,"D":14},"Type":10,"Comment":"T5 Raid Boss (Entei Day, Shiny Released)"},
+        {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T5 Raid Boss (Johto Journey)"},
         {"Start":{"Y":2020,"M":3,"D":1},"End":{"Y":2020,"M":7,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Looming in the Shadows"},
         {"Start":{"Y":2018,"M":9,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough (Cannot be Shiny)"}
       ]
@@ -3968,9 +3968,9 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":8,"D":31},"End":{"Y":2017,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"Johto Journey"},
+        {"Start":{"Y":2019,"M":8,"D":17},"End":{"Y":2019,"M":8,"D":17},"Type":10,"Comment":"T5 Raid Boss (Suicune Day, Shiny Released)"},
+        {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T5 Raid Boss (Johto Journey)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Event"},
-        {"Start":{"Y":2019,"M":8,"D":17},"End":{"Y":2020,"M":11,"D":16},"Type":10,"Comment":"Suicune Day (Shiny Released)"},
         {"Start":{"Y":2018,"M":10,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough (Cannot be Shiny)"}
       ]
     },
@@ -5779,7 +5779,7 @@
       "Data": [
         {"Start":{"Y":2018,"M":8,"D":16},"End":{"Y":2018,"M":8,"D":25},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2018,"M":8,"D":28},"End":{"Y":2018,"M":9,"D":20},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"A Colossal Discovery (Shiny Released)"},
+        {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T5 Raid Boss (A Colossal Discovery, Shiny Released)"},
         {"Start":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"}
       ]
     },
@@ -5789,7 +5789,7 @@
       "Data": [
         {"Start":{"Y":2018,"M":6,"D":21},"End":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2018,"M":7,"D":16},"End":{"Y":2018,"M":7,"D":19},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"A Colossal Discovery (Shiny Released)"},
+        {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T5 Raid Boss (A Colossal Discovery, Shiny Released)"},
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":1},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Holiday 2019)"},
         {"Start":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"}
       ]
@@ -5799,7 +5799,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":7,"D":19},"End":{"Y":2018,"M":8,"D":16},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"A Colossal Discovery (Shiny Released)"},
+        {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T5 Raid Boss (A Colossal Discovery, Shiny Released)"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (GBL Preparation)"},
         {"Start":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"}
       ]
@@ -6084,7 +6084,7 @@
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2018,"M":10,"D":16},"Type":2,"Comment":"Initial Sinnoh Release"},
         {"Start":{"Y":2020,"M":5,"D":1},"Type":20,"Comment":"Research Breakthrough"},
-        {"Start":{"Y":2020,"M":11,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2020,"M":11,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current)"}
       ]
     },
     {
@@ -6112,7 +6112,7 @@
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Shinx}"},
         {"Start":{"Y":2018,"M":10,"D":16},"Type":2,"Comment":"Initial Sinnoh Release {Shinx}"},
         {"Start":{"Y":2020,"M":5,"D":1},"Type":20,"Comment":"Research Breakthrough {Shinx}"},
-        {"Start":{"Y":2020,"M":11,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Shinx}"}
+        {"Start":{"Y":2020,"M":11,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current) {Shinx}"}
       ]
     },
     {
@@ -6140,7 +6140,7 @@
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Shinx} {Luxio}"},
         {"Start":{"Y":2018,"M":10,"D":16},"Type":2,"Comment":"Initial Sinnoh Release {Shinx} {Luxio}"},
         {"Start":{"Y":2020,"M":5,"D":1},"Type":20,"Comment":"Research Breakthrough {Shinx} {Luxio}"},
-        {"Start":{"Y":2020,"M":11,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Shinx} {Luxio}"}
+        {"Start":{"Y":2020,"M":11,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current) {Shinx} {Luxio}"}
       ]
     },
     {
