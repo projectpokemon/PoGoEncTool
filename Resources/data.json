@@ -160,9 +160,9 @@
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Kanto) {Squirtle} {Wartortle}"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (GO Fest 2020)"},
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Fest 2020 {Squirtle} {Wartortle}"},
+        {"Start":{"Y":2020,"M":8,"D":27},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Also Available in Wild)"},
         {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Available at launch {Squirtle} {Wartortle}"},
-        {"Start":{"Y":2018,"M":7,"D":8},"Type":1,"Comment":"Community Day {Squirtle} {Wartortle}"},
-        {"Start":{"Y":2020,"M":8,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Also Available in Wild)"}
+        {"Start":{"Y":2018,"M":7,"D":8},"Type":1,"Comment":"Community Day {Squirtle} {Wartortle}"}
       ]
     },
     {
@@ -6794,7 +6794,8 @@
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Sinnoh, Previously T3)"},
         {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":1,"Comment":"Holiday 2018 {Snover}"},
         {"Start":{"Y":2019,"M":12,"D":24},"Type":1,"Comment":"Holiday 2019 {Snover}"},
-        {"Start":{"Y":2020,"M":7,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Snover}"}
+        {"Start":{"Y":2020,"M":7,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Snover}"},
+        {"Start":{"Y":2020,"M":12,"D":1},"Type":10,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Also Available in Wild)"}
       ]
     },
     {
@@ -8642,7 +8643,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":11,"D":27},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":11,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":11,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":1,"D":1},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
