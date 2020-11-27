@@ -13,11 +13,19 @@ namespace PoGoEncTool
         public static byte[] WritePickle(PogoEncounterList entries)
         {
             // Wurmple EC mismatches; defer them to the end so that we return Cascoon/Silcoon+ before Wurmple.
-            var reordered = entries.Data.OrderBy(z => z.Species == (int)Wurmple).ToArray();
+            var reordered = entries.Data.OrderBy(IsStrategicDeferral).ToArray();
             var data = GetEntries(reordered);
 
             return BinLinker.Pack(data, identifier);
         }
+
+        private static bool IsStrategicDeferral(PogoPoke p) => p.Species switch
+        {
+            (int) Wurmple => true,
+            (int) Yamask when p.Form == 1 => true,
+            (int) Milcery => true,
+            _ => false
+        };
 
         private static byte[][] GetEntries(IReadOnlyList<PogoPoke> entries)
         {
