@@ -778,7 +778,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":8,"D":5},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
-        {"Start":{"Y":2019,"M":6,"D":16},"End":{"Y":2019,"M":6,"D":16},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss (GO Fest Chicago 2019 High Density Raid Test)"},
+        {"Start":{"Y":2019,"M":6,"D":17},"End":{"Y":2019,"M":6,"D":17},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (GO Fest Chicago 2019 High Density Raid Test - 1AM UTC)"},
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (TGR Disruption)"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2019,"M":11,"D":14},"Type":10,"Comment":"T1 Raid Boss (TGR Leaders Disruption)"},
         {"Start":{"Y":2019,"M":11,"D":5},"End":{"Y":2019,"M":12,"D":25},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Cliff"},
@@ -1226,8 +1226,8 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Crown Tundra Tie-In)"},
-        {"Start":{"Y":2020,"M":10,"D":22},"Shiny":1,"Type":2,"Comment":"Crown Tundra Tie-In"}
+        {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Crown Tundra Tie-In - 2AM UTC)"},
+        {"Start":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":2,"Comment":"Crown Tundra Tie-In - 2AM UTC"}
       ]
     },
     {
