@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
 using PKHeX.Core;
 using static PKHeX.Core.Species;
 
@@ -25,36 +24,8 @@ namespace PoGoEncTool
                 return Array.Empty<int>();
             if (form >= table[species].FormeCount)
                 return Array.Empty<int>();
-            return GetEntriesAndEvolutions(table, species, form, gen);
-        }
-
-        private static IEnumerable<int> GetEntriesAndEvolutions(PersonalTable pt, in int species, in int form, in int gen)
-        {
-            var method = typeof(EvolutionTree).GetMethods(BindingFlags.Static | BindingFlags.NonPublic)
-                .First(z => z.Name == "GetEvolutionTree" && z.GetParameters().Length == 1);
-            var tree = (EvolutionTree) method.Invoke(null, new object[] {gen})!;
-
-            var evoMethod = typeof(EvolutionTree).GetField("Entries", BindingFlags.Instance | BindingFlags.NonPublic)!;
-            var entries = (IReadOnlyList<EvolutionMethod[]>)evoMethod.GetValue(tree)!;
-
-            return GetEvolutionsInner(pt, entries, species, form);
-        }
-
-        private static IEnumerable<int> GetEvolutionsInner(PersonalTable pt, IReadOnlyList<EvolutionMethod[]> entries, int species, int form)
-        {
-            int index = pt.GetFormeIndex(species, form);
-            var evos = entries[index];
-            foreach (var method in evos)
-            {
-                var s = method.Species;
-                if (s == 0)
-                    continue;
-                var f = method.GetDestinationForm(form);
-                yield return s | (f << 11);
-                var nextEvolutions = GetEvolutionsInner(pt, entries, s, f);
-                foreach (var next in nextEvolutions)
-                    yield return next;
-            }
+            var t = EvolutionTree.GetEvolutionTree(gen);
+            return t.GetEvolutions(species, form);
         }
 
         public static bool IsAllowedEvolution(in int species, in int form, in int s, in int destForm)
