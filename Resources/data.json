@@ -3759,11 +3759,11 @@
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (GBL Preparation)"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Johto)"},
-        {"Start":{"Y":2020,"M":1,"D":25},"End":{"Y":2020,"M":6,"D":27},"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason, Season 1, Season 2"},
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (GO Fest 2020)"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2019,"M":11,"D":1},"Type":1,"Comment":"A Colossal Discovery"},
+        {"Start":{"Y":2020,"M":1,"D":25},"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason onwards"},
         {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"}
       ]
     },
@@ -8333,7 +8333,7 @@
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Pokémon Day 2020)"},
-        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason, Season 1, Season 2"},
+        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason onwards"},
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"}
       ]
     },
@@ -8344,7 +8344,7 @@
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Litwick}"},
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Litwick}"},
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Pokémon Day 2020) {Litwick}"},
-        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason, Season 1, Season 2 {Litwick}"},
+        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason onwards {Litwick}"},
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling {Litwick}"}
       ]
     },
@@ -8355,7 +8355,7 @@
         {"Start":{"Y":2019,"M":12,"D":17},"End":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Litwick} {Lampent}"},
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Litwick} {Lampent}"},
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Pokémon Day 2020) {Litwick} {Lampent}"},
-        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason, Season 1, Season 2 {Litwick} {Lampent}"},
+        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason onwards {Litwick} {Lampent}"},
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling {Litwick} {Lampent}"}
       ]
     },
@@ -8547,8 +8547,8 @@
       "Species": 633,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason, Season 1, Season 2"},
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
+        {"Start":{"Y":2020,"M":1,"D":28},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason onwards"},
         {"Start":{"Y":2020,"M":7,"D":31},"Type":1,"Comment":"Dragon Week"}
       ]
     },
@@ -8556,8 +8556,8 @@
       "Species": 634,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason, Season 1, Season 2 {Deino}"},
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling {Deino}"},
+        {"Start":{"Y":2020,"M":1,"D":28},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason onwards {Deino}"},
         {"Start":{"Y":2020,"M":7,"D":31},"Type":1,"Comment":"Dragon Week {Deino}"}
       ]
     },
@@ -8565,8 +8565,8 @@
       "Species": 635,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason, Season 1, Season 2 {Deino} {Zweilous}"},
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling {Deino} {Zweilous}"},
+        {"Start":{"Y":2020,"M":1,"D":28},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason onwards {Deino} {Zweilous}"},
         {"Start":{"Y":2020,"M":7,"D":31},"Type":1,"Comment":"Dragon Week {Deino} {Zweilous}"}
       ]
     },
