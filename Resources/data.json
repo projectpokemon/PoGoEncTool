@@ -8642,8 +8642,8 @@
       "Species": 646,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":11,"D":27},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":11,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2020,"M":7,"D":27},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":1,"D":1},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
