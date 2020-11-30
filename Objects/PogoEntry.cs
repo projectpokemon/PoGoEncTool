@@ -27,20 +27,6 @@ namespace PoGoEncTool
             if (p == null)
                 return 1;
 
-            if (p.End != null)
-            {
-                if (End == null)
-                    return 1;
-                var date = End.CompareTo(p.End);
-                if (date != 0)
-                    return date;
-            }
-            else
-            {
-                if (End != null)
-                    return -1;
-            }
-
             if (p.Start != null)
             {
                 if (Start == null)
@@ -52,6 +38,20 @@ namespace PoGoEncTool
             else
             {
                 if (Start != null)
+                    return -1;
+            }
+
+            if (p.End != null)
+            {
+                if (End == null)
+                    return 1;
+                var date = End.CompareTo(p.End);
+                if (date != 0)
+                    return date;
+            }
+            else
+            {
+                if (End != null)
                     return -1;
             }
 
