@@ -118,5 +118,14 @@ namespace PoGoEncTool
                 }
             }
         }
+
+        public IEnumerable<string> SanityCheck()
+        {
+            foreach (var entry in Data)
+            {
+                foreach (var error in entry.SanityCheck())
+                    yield return error;
+            }
+        }
     }
 }

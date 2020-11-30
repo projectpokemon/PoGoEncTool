@@ -66,6 +66,14 @@ namespace PoGoEncTool
         private void B_Save_Click(object sender, EventArgs e)
         {
             SaveEntry(CurrentEntry);
+
+            var errors = Entries.SanityCheck().ToList();
+            if (errors.Count > 0)
+            {
+                WinFormsUtil.Alert("Errors found, canceling save request.", string.Join(Environment.NewLine, errors));
+                return;
+            }
+
             DataLoader.SaveData(Application.StartupPath, Entries, Settings.DataPath);
             System.Media.SystemSounds.Asterisk.Play();
             LastSaved = DateTime.Now;

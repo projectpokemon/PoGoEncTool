@@ -53,5 +53,24 @@ namespace PoGoEncTool
                     action(appear);
             }
         }
+
+        public IEnumerable<string> SanityCheck()
+        {
+            for (var i = 0; i < Data.Count; i++)
+            {
+                var app = Data[i];
+                string fail(string msg) => $"{msg}: {(PKHeX.Core.Species) Species}-{Form} -- appear[{i}] {app}";
+                if (app.Start == null)
+                {
+                    yield return fail("No Start Date");
+                    continue;
+                }
+
+                if (app.End != null && app.End.CompareTo(app.Start) == -1)
+                {
+                    yield return fail("End Date before Start Date");
+                }
+            }
+        }
     }
 }
