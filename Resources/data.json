@@ -8146,10 +8146,34 @@
     },
     {
       "Species": 585,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":1,"Comment":"Season of Celebration (Southern Hemisphere)"}
+      ]
+    },
+    {
+      "Species": 585,
       "Form": 2,
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":1,"Comment":"The Seasons Change"}
+      ]
+    },
+    {
+      "Species": 585,
+      "Form": 3,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":1,"Comment":"Season of Celebration (Northern Hemisphere)"}
+      ]
+    },
+    {
+      "Species": 586,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":1,"Comment":"Season of Celebration (Southern Hemisphere) {Deerling-1}"}
       ]
     },
     {
@@ -8158,6 +8182,14 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":1,"Comment":"The Seasons Change {Deerling-2}"}
+      ]
+    },
+    {
+      "Species": 586,
+      "Form": 3,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":1,"Comment":"Season of Celebration (Northern Hemisphere) {Deerling-3}"}
       ]
     },
     {
