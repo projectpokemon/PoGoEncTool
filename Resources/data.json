@@ -8136,7 +8136,8 @@
       "Form": 2,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":1,"Comment":"The Seasons Change"}
+        {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"The Seasons Change"},
+        {"Start":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":20,"Comment":"The Seasons Change"}
       ]
     },
     {
@@ -8160,7 +8161,8 @@
       "Form": 2,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":1,"Comment":"The Seasons Change {Deerling-2}"}
+        {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"The Seasons Change {Deerling-2}"},
+        {"Start":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":20,"Comment":"The Seasons Change {Deerling-2}"}
       ]
     },
     {
