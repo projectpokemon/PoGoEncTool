@@ -1393,7 +1393,8 @@
         {"Start":{"Y":2020,"M":3,"D":6},"End":{"Y":2020,"M":3,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (TGR Global Take Over, Continued after Event)"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"Comment":"GO Fest 2020"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change: Part 2)"},
-        {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Type":1,"Comment":"Halloween 2020"}
+        {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Type":1,"Comment":"Halloween 2020"},
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":2,"D":28},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Celebration"}
       ]
     },
     {
@@ -1424,7 +1425,8 @@
         {"Start":{"Y":2020,"M":4,"D":1},"End":{"Y":2020,"M":4,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Tricky Pokémon)"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"Comment":"GO Fest 2020 {Grimer-1}"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change: Part 2) {Grimer-1}"},
-        {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Type":1,"Comment":"Halloween 2020 {Grimer-1}"}
+        {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Type":1,"Comment":"Halloween 2020 {Grimer-1}"},
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":2,"D":28},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Celebration {Grimer-1}"}
       ]
     },
     {
