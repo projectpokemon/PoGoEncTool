@@ -7842,21 +7842,24 @@
       "Species": 551,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change"},
+        {"Start":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":20,"Comment":"Level 45 Challenge"}
       ]
     },
     {
       "Species": 552,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Sandile}"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Sandile}"},
+        {"Start":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":20,"Comment":"Level 45 Challenge {Sandile}"}
       ]
     },
     {
       "Species": 553,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Sandile} {Krokorok}"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Sandile} {Krokorok}"},
+        {"Start":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":20,"Comment":"Level 45 Challenge {Sandile} {Krokorok}"}
       ]
     },
     {
@@ -8493,14 +8496,16 @@
       "Species": 624,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change"},
+        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"Comment":"Level 43 Challenge"}
       ]
     },
     {
       "Species": 625,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Pawniard}"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Pawniard}"},
+        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"Comment":"Level 43 Challenge {Pawniard}"}
       ]
     },
     {
