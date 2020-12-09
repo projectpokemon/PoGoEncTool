@@ -3657,7 +3657,8 @@
         {"Start":{"Y":2019,"M":2,"D":16},"Type":1,"Comment":"Community Day"},
         {"Start":{"Y":2019,"M":4,"D":29},"End":{"Y":2019,"M":5,"D":2},"Type":10,"Comment":"T1 Raid Boss (Earth Day 2019)"},
         {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":10,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":12,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current)"}
       ]
     },
     {
@@ -3696,7 +3697,8 @@
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Dragon Week)"},
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":9,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":10,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Swinub}"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss {Swinub}"}
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss {Swinub}"},
+        {"Start":{"Y":2020,"M":12,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current) {Swinub}"}
       ]
     },
     {
@@ -5559,7 +5561,8 @@
         {"Start":{"Y":2019,"M":8,"D":31},"End":{"Y":2019,"M":9,"D":2},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T1 Raid Boss (A Colossal Discovery)"},
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":1},"Type":10,"Comment":"T1 Raid Boss (Holiday 2019)"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":12,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current)"}
       ]
     },
     {
@@ -5580,7 +5583,8 @@
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":1},"Type":10,"Comment":"T1 Raid Boss (Holiday 2019) {Snorunt}"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"}
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
+        {"Start":{"Y":2020,"M":12,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current) {Snorunt}"}
       ]
     },
     {
@@ -7058,7 +7062,8 @@
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Dragon Week) {Piloswine}"},
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":9,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss {Piloswine}"},
         {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":10,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Swinub} {Piloswine}"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss {Swinub} {Piloswine}"}
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss {Swinub} {Piloswine}"},
+        {"Start":{"Y":2020,"M":12,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current) {Swinub} {Piloswine}"}
       ]
     },
     {
@@ -7167,7 +7172,8 @@
         {"Start":{"Y":2019,"M":8,"D":31},"End":{"Y":2019,"M":9,"D":2},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T1 Raid Boss (A Colossal Discovery) {Snorunt}"},
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":1},"Type":10,"Comment":"T1 Raid Boss (Holiday 2019) {Snorunt}"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"}
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
+        {"Start":{"Y":2020,"M":12,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current) {Snorunt}"}
       ]
     },
     {
@@ -8412,7 +8418,8 @@
         {"Start":{"Y":2020,"M":6,"D":16},"End":{"Y":2020,"M":6,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":2},"End":{"Y":2020,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":12,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current)"}
       ]
     },
     {
@@ -8432,7 +8439,8 @@
         {"Start":{"Y":2020,"M":6,"D":16},"End":{"Y":2020,"M":6,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Cubchoo}"},
         {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Cubchoo}"},
         {"Start":{"Y":2020,"M":7,"D":2},"End":{"Y":2020,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Cubchoo}"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Cubchoo}"}
+        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Cubchoo}"},
+        {"Start":{"Y":2020,"M":12,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current) {Cubchoo}"}
       ]
     },
     {
@@ -8779,40 +8787,40 @@
       "Species": 661,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"},
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kalos Celebration Event, Current)"}
+        {"Start":{"Y":2020,"M":12,"D":2},"End":{"Y":2020,"M":12,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kalos Celebration Event)"},
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"}
       ]
     },
     {
       "Species": 662,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Fletchling}"},
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kalos Celebration Event, Current) {Fletchling}"}
+        {"Start":{"Y":2020,"M":12,"D":2},"End":{"Y":2020,"M":12,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kalos Celebration Event) {Fletchling}"},
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Fletchling}"}
       ]
     },
     {
       "Species": 663,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Fletchling} {Fletchinder}"},
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kalos Celebration Event, Current) {Fletchling} {Fletchinder}"}
+        {"Start":{"Y":2020,"M":12,"D":2},"End":{"Y":2020,"M":12,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kalos Celebration Event) {Fletchling} {Fletchinder}"},
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Fletchling} {Fletchinder}"}
       ]
     },
     {
       "Species": 667,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"},
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kalos Celebration Event, Current)"}
+        {"Start":{"Y":2020,"M":12,"D":2},"End":{"Y":2020,"M":12,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kalos Celebration Event)"},
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"}
       ]
     },
     {
       "Species": 668,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Litleo}"},
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kalos Celebration Event, Current) {Litleo}"}
+        {"Start":{"Y":2020,"M":12,"D":2},"End":{"Y":2020,"M":12,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kalos Celebration Event) {Litleo}"},
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Litleo}"}
       ]
     },
     {
