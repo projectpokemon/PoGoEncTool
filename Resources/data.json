@@ -3045,14 +3045,18 @@
       "Species": 194,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2020,"M":12,"D":11},"Type":1,"Comment":"Wooper Watch"},
+        {"Start":{"Y":2020,"M":12,"D":11},"Shiny":1,"Type":30,"Comment":"Wooper Watch"}
       ]
     },
     {
       "Species": 195,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release {Wooper}"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release {Wooper}"},
+        {"Start":{"Y":2020,"M":12,"D":11},"Type":1,"Comment":"Wooper Watch {Wooper}"},
+        {"Start":{"Y":2020,"M":12,"D":11},"Shiny":1,"Type":30,"Comment":"Wooper Watch {Wooper}"}
       ]
     },
     {
