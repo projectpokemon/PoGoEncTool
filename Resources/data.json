@@ -1979,6 +1979,14 @@
       ]
     },
     {
+      "Species": 122,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2020,"M":12,"D":19},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Tap... Tap... Tappity-Tap..."}
+      ]
+    },
+    {
       "Species": 123,
       "Available": true,
       "Data": [
@@ -8494,7 +8502,9 @@
         {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":2},"End":{"Y":2020,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":12,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current)"}
+        {"Start":{"Y":2020,"M":12,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current)"},
+        {"Start":{"Y":2020,"M":12,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Tap... Tap... Tappity-Tap..."},
+        {"Start":{"Y":2020,"M":12,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current)"}
       ]
     },
     {
@@ -8515,7 +8525,9 @@
         {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Cubchoo}"},
         {"Start":{"Y":2020,"M":7,"D":2},"End":{"Y":2020,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Cubchoo}"},
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Cubchoo}"},
-        {"Start":{"Y":2020,"M":12,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current) {Cubchoo}"}
+        {"Start":{"Y":2020,"M":12,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current) {Cubchoo}"},
+        {"Start":{"Y":2020,"M":12,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Tap... Tap... Tappity-Tap... {Cubchoo}"},
+        {"Start":{"Y":2020,"M":12,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current) {Cubchoo}"}
       ]
     },
     {
@@ -8990,6 +9002,13 @@
         {"Start":{"Y":2020,"M":6,"D":17},"Shiny":1,"Type":2,"Comment":"Isle of Armor Tie-In {Farfetchd-1}"},
         {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 3, Season 4, Season 5 {Farfetchd-1}"},
         {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Increased Spawns {Farfetchd-1}"}
+      ]
+    },
+    {
+      "Species": 866,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2020,"M":12,"D":19},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Tap... Tap... Tappity-Tap... {MrMime-1}"}
       ]
     },
     {
