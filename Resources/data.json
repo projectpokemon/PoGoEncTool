@@ -8631,8 +8631,10 @@
       "Data": [
         {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1, Season 2, Season 3, Season 4, Season 5"},
         {"Start":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs"},
-        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"Legacy 40 Challenge"},
-        {"Start":{"Y":2020,"M":12,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current, Secrets of the Jungle Event)"}
+        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"Legacy 40 Challenge (Cannot be Shiny)"},
+        {"Start":{"Y":2020,"M":12,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event"},
+        {"Start":{"Y":2020,"M":12,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current, Secrets of the Jungle Event)"},
+        {"Start":{"Y":2020,"M":12,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Legacy 40 Challenge (Can be Shiny)"}
       ]
     },
     {
@@ -8641,8 +8643,10 @@
       "Data": [
         {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1, Season 2, Season 3, Season 4, Season 5 {Rufflet}"},
         {"Start":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs {Rufflet}"},
-        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"Legacy 40 Challenge {Rufflet}"},
-        {"Start":{"Y":2020,"M":12,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current, Secrets of the Jungle Event) {Rufflet}"}
+        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"Legacy 40 Challenge (Cannot be Shiny) {Rufflet}"},
+        {"Start":{"Y":2020,"M":12,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event {Rufflet}"},
+        {"Start":{"Y":2020,"M":12,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current, Secrets of the Jungle Event) {Rufflet}"},
+        {"Start":{"Y":2020,"M":12,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Legacy 40 Challenge (Can be Shiny) {Rufflet}"}
       ]
     },
     {
