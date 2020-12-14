@@ -2046,7 +2046,8 @@
         {"Start":{"Y":2020,"M":3,"D":2},"End":{"Y":2020,"M":3,"D":6},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":17},"End":{"Y":2020,"M":3,"D":20},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Kanto)"}
+        {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Kanto)"},
+        {"Start":{"Y":2020,"M":12,"D":22},"Type":1,"LocalizedStart":true,"Comment":"Holiday 2020"}
       ]
     },
     {
@@ -4135,7 +4136,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":22,"Comment":"GO Fest 2018 / A Ripple in Time"},
-        {"Start":{"Y":2020,"M":12,"D":14},"Shiny":2,"Type":22,"LocalizedStart":true,"Comment":"Distracted by Something Shiny"}
+        {"Start":{"Y":2020,"M":12,"D":14},"Shiny":2,"Type":22,"Comment":"Distracted by Something Shiny"}
       ]
     },
     {
@@ -8239,6 +8240,27 @@
       "Data": [
         {"Start":{"Y":2020,"M":7,"D":3},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"4th Anniversary {Ducklett}"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Ducklett}"}
+      ]
+    },
+    {
+      "Species": 582,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2020,"M":12,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Holiday 2020"}
+      ]
+    },
+    {
+      "Species": 583,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2020,"M":12,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Holiday 2020 {Vanillite}"}
+      ]
+    },
+    {
+      "Species": 584,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2020,"M":12,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Holiday 2020 {Vanillite} {Vanillish}"}
       ]
     },
     {
