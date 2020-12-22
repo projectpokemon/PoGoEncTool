@@ -55,7 +55,8 @@
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Fest 2020 {Bulbasaur} {Ivysaur}"},
         {"Start":{"Y":2020,"M":8,"D":27},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Also Available in Wild)"},
         {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Bulbasaur} {Ivysaur}"},
-        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Animation Week) {Ivysaur}"}
+        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Animation Week) {Ivysaur}"},
+        {"Start":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Also Available in Wild)"}
       ]
     },
     {
@@ -171,7 +172,8 @@
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Kanto) {Squirtle} {Wartortle}"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (GO Fest 2020)"},
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Fest 2020 {Squirtle} {Wartortle}"},
-        {"Start":{"Y":2020,"M":8,"D":27},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Also Available in Wild)"}
+        {"Start":{"Y":2020,"M":8,"D":27},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Also Available in Wild)"},
+        {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Type":10,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Also Available in Wild)"}
       ]
     },
     {
@@ -3870,7 +3872,8 @@
         {"Start":{"Y":2019,"M":11,"D":4},"End":{"Y":2019,"M":11,"D":7},"Type":10,"Comment":"T1 Raid Boss {Houndour}"},
         {"Start":{"Y":2019,"M":11,"D":14},"End":{"Y":2019,"M":11,"D":19},"Type":10,"Comment":"T1 Raid Boss {Houndour}"},
         {"Start":{"Y":2020,"M":6,"D":19},"End":{"Y":2020,"M":6,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Summer Solstice)"},
-        {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Mega September, Also Available in Wild)"}
+        {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Mega September, Also Available in Wild)"},
+        {"Start":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Also Available in Wild)"}
       ]
     },
     {
@@ -4139,7 +4142,8 @@
         {"Start":{"Y":2018,"M":12,"D":14},"End":{"Y":2018,"M":12,"D":17},"Type":10,"Comment":"T5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2019,"M":1,"D":1},"Type":20,"Comment":"Research Breakthrough (Can be Shiny)"},
         {"Start":{"Y":2019,"M":12,"D":20},"End":{"Y":2019,"M":12,"D":23},"Type":10,"Comment":"T5 Raid Boss (Special Raid Weekend)"},
-        {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (4th Anniversary)"}
+        {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (4th Anniversary)"},
+        {"Start":{"Y":2021,"M":1,"D":1},"End":{"Y":2021,"M":1,"D":5},"Type":10,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -5934,7 +5938,8 @@
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"T5 Raid Boss (Hoenn Celebration 2019)"},
         {"Start":{"Y":2019,"M":6,"D":18},"End":{"Y":2019,"M":6,"D":27},"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":1},"Type":20,"Comment":"Research Breakthrough (Can be Shiny)"},
-        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":25},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (GO Fest 2020)"}
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":25},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (GO Fest 2020)"},
+        {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -5947,7 +5952,8 @@
         {"Start":{"Y":2019,"M":4,"D":29},"End":{"Y":2019,"M":5,"D":2},"Type":10,"Comment":"T5 Raid Boss (Earth Day 2019)"},
         {"Start":{"Y":2019,"M":6,"D":27},"End":{"Y":2019,"M":7,"D":10},"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":1},"Type":20,"Comment":"Research Breakthrough (Can be Shiny)"},
-        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":25},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (GO Fest 2020)"}
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":25},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (GO Fest 2020)"},
+        {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -7358,7 +7364,8 @@
       "Data": [
         {"Start":{"Y":2018,"M":12,"D":18},"End":{"Y":2019,"M":1,"D":15},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":1,"D":7},"End":{"Y":2020,"M":2,"D":4},"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -8869,7 +8876,8 @@
       "Data": [
         {"Start":{"Y":2020,"M":3,"D":20},"Shiny":1,"Type":21,"LocalizedStart":true,"Comment":"A Drive to Investigate"},
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Type":11,"LocalizedStart":true,"Comment":"T5 Raid Boss (Unova Week)"},
-        {"Start":{"Y":2020,"M":8,"D":14},"Type":21,"LocalizedStart":true,"Comment":"A Drive to Investigate"}
+        {"Start":{"Y":2020,"M":8,"D":14},"Type":21,"LocalizedStart":true,"Comment":"A Drive to Investigate"},
+        {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":11,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss (Burn Drive)"}
       ]
     },
     {
