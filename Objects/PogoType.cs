@@ -7,21 +7,24 @@
         Wild,
         Egg,
 
-        /// <summary> Raid Boss, requires Lv. 15 and IV=1 </summary>
-        Raid15 = 10,
-        /// <summary> Raid Boss, requires Lv. 20 and IV=10 </summary>
-        Raid20,
+        /// <summary> Raid Boss, requires Lv. 20 and IV = 1 </summary>
+        Raid = 10,
+        /// <summary> Raid Boss (Mythical), requires Lv. 20 and IV = 10 </summary>
+        RaidM,
 
-        /// <summary> Field Research, requires Lv. 15 and IV=1 </summary>
-        Field15 = 20,
-        /// <summary> Field Research, requires Lv. 15 and IV=10 (Mythicals) </summary>
-        FieldM,
-        /// <summary> Field Research, requires Lv. 15 and IV=10 (Mythicals, Poké Ball only) </summary>
-        FieldP,
-        /// <summary> Field Research, requires Lv. 20 and IV=10 (GBL Mythicals) </summary>
-        Field20,
+        /// <summary> Field Research Reward, requires Lv. 15 and IV = 1 </summary>
+        Research = 20,
+        /// <summary> Field Research Reward (Mythical), requires Lv. 15 and IV = 10 </summary>
+        ResearchM,
+        /// <summary> Field Research Reward, requires Lv. 15 and IV = 10 (Poké Ball only) </summary>
+        ResearchP,
 
-        /// <summary> Purified, requires Lv. 8 and IV=1 (Premier Ball) </summary>
+        /// <summary> GO Battle League Reward, requires Lv. 20 and IV = 1 </summary>
+        GBL,
+        /// <summary> GO Battle League Reward (Mythical), requires Lv. 20 and IV = 10 </summary>
+        GBLM,
+
+        /// <summary> Purified, requires Lv. 8 and IV = 1 (Premier Ball only) </summary>
         Shadow = 30,
     }
 

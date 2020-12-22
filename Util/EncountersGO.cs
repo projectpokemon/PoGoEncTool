@@ -764,18 +764,18 @@ namespace PoGoEncTool
 
             // Check restrictions (non-wild)
             if (RequireLevelIV_Field15_10.Contains(sf))
-                result.Add(new PogoEntry{Type = PogoType.Field15, Comment = "Initial: Field Research 15 Only"});
+                result.Add(new PogoEntry{Type = PogoType.Research, Comment = "Initial: Field Research 15 Only"});
             if (RequireLevelIV_Egg1_1.Contains(sf))
                 result.Add(new PogoEntry{Type = PogoType.Egg, Comment = "Initial: Egg Only" });
 
             if (RequireLevelIV_Raid20_10.Contains(sf))
             {
-                result.Add(new PogoEntry { Type = PogoType.Raid20, Comment = "Initial: Raid 20 Only" });
+                result.Add(new PogoEntry { Type = PogoType.RaidM, Comment = "Initial: Raid 20 Only" });
                 restrictedRaid = true;
             }
             if (RequireLevelIV_Raid15_1.Contains(sf))
             {
-                result.Add(new PogoEntry { Type = PogoType.Raid15, Comment = "Initial: Raid 15 Only" });
+                result.Add(new PogoEntry { Type = PogoType.Raid, Comment = "Initial: Raid 15 Only" });
                 restrictedRaid = true;
             }
 
@@ -790,9 +790,9 @@ namespace PoGoEncTool
             if (RequireLevelIV_EggShiny1_1.Contains(sf))
                 result.Add(new PogoEntry { Type = PogoType.Egg, Shiny = PogoShiny.Always, Comment = "Initial: Eggs that can be shiny" });
             if (AvailableAsRaids.Contains(sf) && !restrictedRaid)
-                result.Add(new PogoEntry { Type = PogoType.Raid15, Comment = "Initial: Purified" });
+                result.Add(new PogoEntry { Type = PogoType.Raid, Comment = "Initial: Purified" });
             if (PurifiedShiny.Contains(sf))
-                result.Add(new PogoEntry { Type = PogoType.Raid15, Shiny = PogoShiny.Always, Comment = "Initial: Purified Shiny" });
+                result.Add(new PogoEntry { Type = PogoType.Raid, Shiny = PogoShiny.Always, Comment = "Initial: Purified Shiny" });
 
             return result;
         }
