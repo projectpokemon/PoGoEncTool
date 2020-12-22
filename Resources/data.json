@@ -1334,8 +1334,10 @@
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":17},"End":{"Y":2020,"M":6,"D":18},"Shiny":1,"Type":1,"Comment":"Increased Spawns"},
         {"Start":{"Y":2020,"M":6,"D":17},"Shiny":1,"Type":2,"Comment":"Isle of Armor Tie-In"},
-        {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 3, Season 4, Season 5"},
-        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Increased Spawns"}
+        {"Start":{"Y":2020,"M":6,"D":28},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 3"},
+        {"Start":{"Y":2020,"M":9,"D":16},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 4"},
+        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Increased Spawns"},
+        {"Start":{"Y":2020,"M":11,"D":10},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 5"}
       ]
     },
     {
@@ -2194,7 +2196,6 @@
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T4 Raid Boss (A Colossal Discovery)"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"T4 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":1},"Type":10,"Comment":"T4 Raid Boss (Holiday 2019)"},
-        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":6,"D":27},"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason, Season 1, Season 2"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":27},"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":16},"End":{"Y":2020,"M":6,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
@@ -8064,20 +8065,30 @@
       "Species": 559,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason, Season 1, Season 2, Season 3, Season 4, Season 5"},
+        {"Start":{"Y":2020,"M":1,"D":29},"End":{"Y":2020,"M":3,"D":13},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason"},
+        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":5,"D":11},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1"},
+        {"Start":{"Y":2020,"M":5,"D":13},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 2"},
         {"Start":{"Y":2020,"M":5,"D":17},"End":{"Y":2020,"M":5,"D":17},"Shiny":1,"Type":1,"Comment":"Incense Day: Water and Dark Type"},
+        {"Start":{"Y":2020,"M":6,"D":29},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 3"},
         {"Start":{"Y":2020,"M":8,"D":1},"End":{"Y":2020,"M":8,"D":31},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change"}
+        {"Start":{"Y":2020,"M":9,"D":23},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 4"},
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change"},
+        {"Start":{"Y":2020,"M":11,"D":11},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 5"}
       ]
     },
     {
       "Species": 560,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":28},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason, Season 1, Season 2, Season 3, Season 4, Season 5 {Scraggy}"},
+        {"Start":{"Y":2020,"M":1,"D":29},"End":{"Y":2020,"M":3,"D":13},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Preseason {Scraggy}"},
+        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":5,"D":11},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1 {Scraggy}"},
+        {"Start":{"Y":2020,"M":5,"D":13},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 2 {Scraggy}"},
         {"Start":{"Y":2020,"M":5,"D":17},"End":{"Y":2020,"M":5,"D":17},"Shiny":1,"Type":1,"Comment":"Incense Day: Water and Dark Type {Scraggy}"},
+        {"Start":{"Y":2020,"M":6,"D":29},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 3 {Scraggy}"},
         {"Start":{"Y":2020,"M":8,"D":1},"End":{"Y":2020,"M":8,"D":31},"Shiny":1,"Type":20,"Comment":"Research Breakthrough {Scraggy}"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Scraggy}"}
+        {"Start":{"Y":2020,"M":9,"D":23},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 4 {Scraggy}"},
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Scraggy}"},
+        {"Start":{"Y":2020,"M":11,"D":11},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 5 {Scraggy}"}
       ]
     },
     {
@@ -8679,8 +8690,12 @@
       "Species": 627,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1, Season 2, Season 3, Season 4, Season 5"},
+        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1"},
+        {"Start":{"Y":2020,"M":5,"D":13},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 2"},
+        {"Start":{"Y":2020,"M":6,"D":29},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 3"},
+        {"Start":{"Y":2020,"M":9,"D":19},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 4"},
         {"Start":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs"},
+        {"Start":{"Y":2020,"M":11,"D":10},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 5"},
         {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"Legacy 40 Challenge (Cannot be Shiny)"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event)"},
         {"Start":{"Y":2020,"M":12,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event"},
@@ -8691,8 +8706,12 @@
       "Species": 628,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1, Season 2, Season 3, Season 4, Season 5 {Rufflet}"},
+        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 1 {Rufflet}"},
+        {"Start":{"Y":2020,"M":5,"D":13},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 2 {Rufflet}"},
+        {"Start":{"Y":2020,"M":6,"D":29},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 3 {Rufflet}"},
+        {"Start":{"Y":2020,"M":9,"D":19},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 4 {Rufflet}"},
         {"Start":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs {Rufflet}"},
+        {"Start":{"Y":2020,"M":11,"D":10},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 5 {Rufflet}"},
         {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"Legacy 40 Challenge (Cannot be Shiny) {Rufflet}"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event) {Rufflet}"},
         {"Start":{"Y":2020,"M":12,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event {Rufflet}"},
@@ -8829,7 +8848,7 @@
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":27},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":1,"D":1},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":1,"D":1},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Special Reward"}
+        {"Start":{"Y":2020,"M":12,"D":8},"End":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Special Reward"}
       ]
     },
     {
@@ -9078,8 +9097,10 @@
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":17},"End":{"Y":2020,"M":6,"D":18},"Shiny":1,"Type":1,"Comment":"Increased Spawns {Farfetchd-1}"},
         {"Start":{"Y":2020,"M":6,"D":17},"Shiny":1,"Type":2,"Comment":"Isle of Armor Tie-In {Farfetchd-1}"},
-        {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"NoEndTolerance":true,"Comment":"GBL Season 3, Season 4, Season 5 {Farfetchd-1}"},
-        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Increased Spawns {Farfetchd-1}"}
+        {"Start":{"Y":2020,"M":6,"D":28},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 3 {Farfetchd-1}"},
+        {"Start":{"Y":2020,"M":9,"D":16},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 4 {Farfetchd-1}"},
+        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Increased Spawns {Farfetchd-1}"},
+        {"Start":{"Y":2020,"M":11,"D":10},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GBL Season 5 {Farfetchd-1}"}
       ]
     },
     {
