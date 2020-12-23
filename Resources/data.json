@@ -2040,7 +2040,7 @@
       "Species": 124,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":5},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Smoochum on Dec. 12, 2016)"},
+        {"Start":{"Y":2016,"M":7,"D":5},"End":{"Y":2020,"M":12,"D":22},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Available at launch (And as Smoochum on Dec. 12, 2016)"},
         {"Start":{"Y":2018,"M":2,"D":9},"End":{"Y":2018,"M":3,"D":5},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2018,"M":3,"D":16},"End":{"Y":2018,"M":4,"D":10},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2018,"M":4,"D":18},"End":{"Y":2018,"M":5,"D":1},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
@@ -2057,7 +2057,6 @@
         {"Start":{"Y":2020,"M":3,"D":17},"End":{"Y":2020,"M":3,"D":20},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Kanto)"},
-        {"Start":{"Y":2020,"M":12,"D":22},"Type":1,"LocalizedStart":true,"Comment":"Holiday 2020"},
         {"Start":{"Y":2020,"M":12,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Current, Holiday 2020)"}
       ]
     },
@@ -8420,24 +8419,24 @@
       "Species": 597,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
+        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"A Unova Unveiling"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge Champion 2020)"},
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Unova Week, Previously T3)"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change: Part 1)"},
-        {"Start":{"Y":2020,"M":11,"D":7},"Type":1,"Comment":"Pokémon GO Special Weekend"}
+        {"Start":{"Y":2020,"M":11,"D":7},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Pokémon GO Special Weekend"}
       ]
     },
     {
       "Species": 598,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling {Ferroseed}"},
+        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"A Unova Unveiling {Ferroseed}"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Supereffective Week) {Ferroseed}"},
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge Champion 2020) {Ferroseed}"},
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Unova Week, Previously T3) {Ferroseed}"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change: Part 1) {Ferroseed}"},
-        {"Start":{"Y":2020,"M":11,"D":7},"Type":1,"Comment":"Pokémon GO Special Weekend {Ferroseed}"}
+        {"Start":{"Y":2020,"M":11,"D":7},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Pokémon GO Special Weekend {Ferroseed}"}
       ]
     },
     {
