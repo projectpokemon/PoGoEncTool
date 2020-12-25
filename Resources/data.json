@@ -422,6 +422,7 @@
         {"Start":{"Y":2019,"M":6,"D":22},"End":{"Y":2019,"M":6,"D":22},"Type":1,"Comment":"GO Fest Chicago 2019 Makeup Event"},
         {"Start":{"Y":2019,"M":7,"D":28},"Type":2,"Comment":"Shiny Released"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"Global Challenge, Global Hatches"},
+        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Safari Zone in Philadelphia 2020"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"Comment":"Pokémon HOME Event"},
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Celebration (Northern Hemisphere)"},
         {"Start":{"Y":2020,"M":12,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current, Holiday 2020)"}
@@ -455,6 +456,7 @@
         {"Start":{"Y":2018,"M":7,"D":21},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs {Sandshrew-1}"},
         {"Start":{"Y":2019,"M":7,"D":28},"Type":2,"Comment":"Shiny Released {Sandshrew-1}"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"Global Challenge, Global Hatches {Sandshrew-1}"},
+        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Safari Zone in Philadelphia 2020 {Sandshrew-1}"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"Comment":"Pokémon HOME Event {Sandshrew-1}"},
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Celebration (Northern Hemisphere) {Sandshrew-1}"},
         {"Start":{"Y":2020,"M":12,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Current, Holiday 2020) {Sandshrew-1}"}
@@ -590,6 +592,7 @@
         {"Start":{"Y":2020,"M":1,"D":21},"Type":20,"Comment":"Shiny Lock Fixed"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":28},"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Safari Zone in Philadelphia 2020"},
         {"Start":{"Y":2020,"M":6,"D":19},"End":{"Y":2020,"M":6,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Summer Solstice)"},
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":9,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Pokémon HOME Event)"},
@@ -626,6 +629,7 @@
         {"Start":{"Y":2020,"M":1,"D":21},"Type":20,"Comment":"Shiny Lock Fixed {Vulpix-1}"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Type":10,"Comment":"T1 Raid Boss {Vulpix-1}"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":28},"Type":10,"Comment":"T1 Raid Boss {Vulpix-1}"},
+        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Safari Zone in Philadelphia 2020 {Vulpix-1}"},
         {"Start":{"Y":2020,"M":6,"D":19},"End":{"Y":2020,"M":6,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Summer Solstice) {Vulpix-1}"},
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":9,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Vulpix-1}"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Pokémon HOME Event) {Vulpix-1}"},
@@ -8737,6 +8741,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 1"},
+        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Safari Zone in Philadelphia 2020"},
         {"Start":{"Y":2020,"M":5,"D":13},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 2"},
         {"Start":{"Y":2020,"M":6,"D":29},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 3"},
         {"Start":{"Y":2020,"M":9,"D":19},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 4"},
@@ -8753,6 +8758,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 1 {Rufflet}"},
+        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Safari Zone in Philadelphia 2020 {Rufflet}"},
         {"Start":{"Y":2020,"M":5,"D":13},"End":{"Y":2020,"M":6,"D":27},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 2 {Rufflet}"},
         {"Start":{"Y":2020,"M":6,"D":29},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 3 {Rufflet}"},
         {"Start":{"Y":2020,"M":9,"D":19},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 4 {Rufflet}"},
