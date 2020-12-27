@@ -17,9 +17,9 @@ namespace PoGoEncTool
             return BinLinker.Pack(data, identifier);
         }
 
-        private static byte[][] GetEntries(IReadOnlyList<PogoPoke> entries)
+        private static ReadOnlyMemory<byte>[] GetEntries(IReadOnlyList<PogoPoke> entries)
         {
-            var result = new byte[entries.Count][];
+            var result = new ReadOnlyMemory<byte>[entries.Count];
             for (int i = 0; i < entries.Count; i++)
                 result[i] = GetBinary(entries[i]);
             return result;
@@ -64,7 +64,7 @@ namespace PoGoEncTool
             return BinLinker.Pack(data, identifier);
         }
 
-        private static byte[][] GetPickleLGPE(PogoEncounterList entries)
+        private static ReadOnlyMemory<byte>[] GetPickleLGPE(PogoEncounterList entries)
         {
             var noForm = Enumerable.Range(1, 150).Concat(Enumerable.Range(808, 2)); // count : 152
             var forms = new[]
@@ -93,7 +93,7 @@ namespace PoGoEncTool
             var alolan = forms.Select(z => entries.GetDetails(z, 1));
 
             var all = regular.Concat(alolan).ToArray();
-            var result = new byte[all.Length][];
+            var result = new ReadOnlyMemory<byte>[all.Length];
             for (var i = 0; i < all.Length; i++)
             {
                 var entry = all[i];

@@ -1,50 +1,40 @@
 ﻿using System;
-using System.IO;
+using System.Linq;
 
 namespace PoGoEncTool
 {
     public static class BinLinker
     {
-        public static byte[] Pack(byte[][] fileData, string identifier)
+        /// <summary>
+        /// Creates a single output binary with serialized information.
+        /// </summary>
+        /// <param name="fileData">Serialized data entries</param>
+        /// <param name="identifier">Magic 2 character prefix to indicate the file's signature.</param>
+        /// <returns>Single binary packed together.</returns>
+        public static byte[] Pack(ReadOnlyMemory<byte>[] fileData, string identifier)
         {
             // Create new Binary with the relevant header bytes
-            byte[] data = new byte[4];
+            int ofs = 4 + ((fileData.Length + 1) * sizeof(int));
+            int length = ofs + fileData.Sum(f => (f.Length + 3) & ~3);
+            byte[] data = new byte[length];
+            var m = new Memory<byte>(data);
+            var s = m.Span;
             data[0] = (byte)identifier[0];
             data[1] = (byte)identifier[1];
-            Array.Copy(BitConverter.GetBytes((ushort)fileData.Length), 0, data, 2, 2);
+            BitConverter.TryWriteBytes(s[2..], (ushort)fileData.Length);
 
-            int count = fileData.Length;
-            int dataOffset = 4 + 4 + (count * 4);
-
-            // Start the data filling.
-            using var dataout = new MemoryStream();
-            using var offsetMap = new MemoryStream();
-            using var bd = new BinaryWriter(dataout);
-            using var bo = new BinaryWriter(offsetMap);
             // For each file...
-            for (int i = 0; i < count; i++)
+            for (int i = 0; i < fileData.Length; i++)
             {
-                // Write File Offset
-                uint fileOffset = (uint)(dataout.Position + dataOffset);
-                bo.Write(fileOffset);
-
-                // Write File to Stream
-                bd.Write(fileData[i]);
-
-                // Pad the Data MemoryStream with Zeroes until len%4=0;
-                while (dataout.Length % 4 != 0)
-                    bd.Write((byte)0);
-                // File Offset will be updated as the offset is based off of the Data length.
+                var f = fileData[i];
+                BitConverter.TryWriteBytes(s[(4 + (i * sizeof(int)))..], ofs);
+                f.CopyTo(m[ofs..]);
+                ofs += (f.Length + 3) & ~3;
             }
             // Cap the File
-            bo.Write((uint)(dataout.Position + dataOffset));
+            BitConverter.TryWriteBytes(s[(4 + (fileData.Length * sizeof(int)))..], ofs);
 
-            using var newPack = new MemoryStream();
-            using var header = new MemoryStream(data);
-            header.WriteTo(newPack);
-            offsetMap.WriteTo(newPack);
-            dataout.WriteTo(newPack);
-            return newPack.ToArray();
+            return data;
         }
     }
 }
