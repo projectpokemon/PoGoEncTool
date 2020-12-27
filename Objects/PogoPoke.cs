@@ -3,17 +3,18 @@ using System.Collections.Generic;
 
 namespace PoGoEncTool
 {
+    [Serializable]
     public class PogoPoke : IComparable
     {
         public int Species { get; set; }
         public int Form { get; set; }
         public bool Available { get; set; }
+        public List<PogoEntry> Data { get; set; } = new();
 
-        public List<PogoEntry> Data { get; set; } = new List<PogoEntry>();
         public PogoEntry this[int index]  { get => Data[index]; set => Data[index] = value; }
         public void Add(PogoEntry entry) => Data.Add(entry);
 
-        public static PogoPoke CreateNew(int species, int form) => new PogoPoke
+        public static PogoPoke CreateNew(int species, int form) => new()
         {
             Species = species,
             Form = form,
@@ -40,7 +41,7 @@ namespace PoGoEncTool
 
         public int CompareTo(object? obj)
         {
-            if (!(obj is PogoPoke p))
+            if (obj is not PogoPoke p)
                 return 1;
             return CompareTo(p);
         }
@@ -66,7 +67,7 @@ namespace PoGoEncTool
                     continue;
                 }
 
-                if (app.End != null && app.End.CompareTo(app.Start) == -1)
+                if (app.End?.CompareTo(app.Start) == -1)
                 {
                     yield return fail("End Date before Start Date");
                 }

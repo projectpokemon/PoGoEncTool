@@ -2,6 +2,7 @@
 
 namespace PoGoEncTool
 {
+    [Serializable]
     public class PogoDate : IComparable, IEquatable<PogoDate>
     {
         public int Y { get; set; }
@@ -51,7 +52,7 @@ namespace PoGoEncTool
 
         public int CompareTo(object? obj)
         {
-            if (!(obj is PogoDate p))
+            if (obj is not PogoDate p)
                 return 1;
             return CompareTo(p);
         }
@@ -67,8 +68,8 @@ namespace PoGoEncTool
         {
             if (obj is null) return false;
             if (ReferenceEquals(this, obj)) return true;
-            if (obj.GetType() != GetType()) return false;
-            return Equals((PogoDate) obj);
+            if (obj is not PogoDate p) return false;
+            return Equals(p);
         }
 
         public override int GetHashCode()

@@ -2,6 +2,7 @@
 
 namespace PoGoEncTool
 {
+    [Serializable]
     public class PogoEntry : IComparable<PogoEntry>, IEquatable<PogoEntry>
     {
         public PogoDate? Start { get; set; }
@@ -12,7 +13,7 @@ namespace PoGoEncTool
         public bool NoEndTolerance { get; set; }
         public string Comment { get; set; } = string.Empty;
 
-        public static PogoEntry CreateNew() => new PogoEntry
+        public static PogoEntry CreateNew() => new()
         {
             Start = PogoDate.CreateNew(),
             End = null,

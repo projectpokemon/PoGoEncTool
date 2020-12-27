@@ -4,9 +4,10 @@ using System.Linq;
 
 namespace PoGoEncTool
 {
+    [Serializable]
     public class PogoEncounterList
     {
-        public List<PogoPoke> Data { get; set; } = new List<PogoPoke>();
+        public List<PogoPoke> Data { get; set; } = new();
         public PogoPoke this[int index] { get => Data[index]; set => Data[index] = value; }
         public void Add(PogoPoke entry) => Data.Add(entry);
 

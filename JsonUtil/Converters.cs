@@ -6,7 +6,7 @@ namespace PoGoEncTool
     public class FlatConverter<T> : JsonConverter
     {
         // ReSharper disable once StaticMemberInGenericType
-        private static readonly JsonSerializerSettings Settings = new JsonSerializerSettings
+        private static readonly JsonSerializerSettings Settings = new()
         {
             Formatting = Formatting.None, NullValueHandling = NullValueHandling.Ignore, DefaultValueHandling = DefaultValueHandling.Ignore
         };

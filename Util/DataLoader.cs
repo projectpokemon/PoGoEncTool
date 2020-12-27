@@ -8,7 +8,7 @@ namespace PoGoEncTool
     {
         private const string SettingsPath = "settings.json";
 
-        private static JsonSerializerSettings GetSettings() => new JsonSerializerSettings
+        private static JsonSerializerSettings GetSettings() => new()
         {
             Formatting = Formatting.Indented,
             DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate,
