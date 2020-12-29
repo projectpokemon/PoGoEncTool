@@ -2948,7 +2948,8 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2018,"M":12,"D":18},"Type":2,"Comment":"Holiday 2018 {Azurill}"},
-        {"Start":{"Y":2020,"M":4,"D":9},"Type":1,"LocalizedStart":true,"Comment":"Spring Event - Shiny Released in Wild"}
+        {"Start":{"Y":2020,"M":4,"D":9},"End":{"Y":2020,"M":12,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Spring Event - Shiny Released in Wild"},
+        {"Start":{"Y":2020,"M":12,"D":22},"End":{"Y":2020,"M":12,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Holiday 2020"}
       ]
     },
     {
@@ -2962,14 +2963,15 @@
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Water Festival 2019)"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Supereffective Week)"},
-        {"Start":{"Y":2020,"M":4,"D":9},"Type":1,"LocalizedStart":true,"Comment":"Spring Event - Shiny Released in Wild {Marill}"},
+        {"Start":{"Y":2020,"M":4,"D":9},"End":{"Y":2020,"M":12,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Spring Event - Shiny Released in Wild {Marill}"},
         {"Start":{"Y":2020,"M":6,"D":16},"End":{"Y":2020,"M":6,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":2},"End":{"Y":2020,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":9},"End":{"Y":2020,"M":7,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":16},"End":{"Y":2020,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":23},"End":{"Y":2020,"M":7,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":7,"D":27},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2020,"M":7,"D":27},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2020,"M":12,"D":22},"End":{"Y":2020,"M":12,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Holiday 2020 {Marill}"}
       ]
     },
     {
@@ -3938,10 +3940,11 @@
       "Species": 234,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2017,"M":2,"D":16},"End":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":2,"D":3},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Cliff"},
-        {"Start":{"Y":2020,"M":1,"D":1},"Type":1,"Comment":"Holiday 2019 (End of Event)"},
-        {"Start":{"Y":2020,"M":3,"D":7},"End":{"Y":2020,"M":3,"D":7},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Cliff (TGR Global Take Over)"}
+        {"Start":{"Y":2020,"M":1,"D":1},"End":{"Y":2020,"M":12,"D":22},"Type":1,"NoEndTolerance":true,"Comment":"Holiday 2019 (End of Event)"},
+        {"Start":{"Y":2020,"M":3,"D":7},"End":{"Y":2020,"M":3,"D":7},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Cliff (TGR Global Take Over)"},
+        {"Start":{"Y":2021,"M":1,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -8612,7 +8615,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Holiday 2019)"},
-        {"Start":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":1,"Comment":"Holiday 2019"},
+        {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":12,"D":22},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Holiday 2019"},
         {"Start":{"Y":2020,"M":2,"D":4},"End":{"Y":2020,"M":2,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":2,"D":11},"End":{"Y":2020,"M":2,"D":14},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":2,"D":18},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
@@ -8628,7 +8631,8 @@
         {"Start":{"Y":2020,"M":12,"D":9},"End":{"Y":2020,"M":12,"D":11},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":18},"End":{"Y":2020,"M":12,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":12,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Galarian Mr. Mime Event"}
+        {"Start":{"Y":2020,"M":12,"D":18},"End":{"Y":2020,"M":12,"D":22},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Galarian Mr. Mime Event"},
+        {"Start":{"Y":2021,"M":1,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -8636,7 +8640,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Holiday 2019) {Cubchoo}"},
-        {"Start":{"Y":2019,"M":12,"D":24},"Shiny":1,"Type":1,"Comment":"Holiday 2019 {Cubchoo}"},
+        {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":12,"D":22},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Holiday 2019 {Cubchoo}"},
         {"Start":{"Y":2020,"M":2,"D":4},"End":{"Y":2020,"M":2,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Cubchoo}"},
         {"Start":{"Y":2020,"M":2,"D":11},"End":{"Y":2020,"M":2,"D":14},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Cubchoo}"},
         {"Start":{"Y":2020,"M":2,"D":18},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Cubchoo}"},
@@ -8652,7 +8656,8 @@
         {"Start":{"Y":2020,"M":12,"D":9},"End":{"Y":2020,"M":12,"D":11},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Cubchoo}"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Cubchoo}"},
         {"Start":{"Y":2020,"M":12,"D":18},"End":{"Y":2020,"M":12,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Cubchoo}"},
-        {"Start":{"Y":2020,"M":12,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Galarian Mr. Mime Event {Cubchoo}"}
+        {"Start":{"Y":2020,"M":12,"D":18},"End":{"Y":2020,"M":12,"D":22},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Galarian Mr. Mime Event {Cubchoo}"},
+        {"Start":{"Y":2021,"M":1,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Cubchoo}"}
       ]
     },
     {
