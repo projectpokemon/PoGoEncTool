@@ -22,7 +22,7 @@ namespace PoGoEncTool
         {
             if (species > table.MaxSpeciesID)
                 return Array.Empty<int>();
-            if (form >= table[species].FormeCount)
+            if (form >= table[species].FormCount)
                 return Array.Empty<int>();
             var t = EvolutionTree.GetEvolutionTree(gen);
             return t.GetEvolutions(species, form);
