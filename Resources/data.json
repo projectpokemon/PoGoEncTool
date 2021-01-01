@@ -9121,7 +9121,7 @@
       "Species": 808,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":11,"D":15},"Shiny":1,"Type":1,"Comment":"LGPE Launch (Mystery Box)"},
+        {"Start":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"LGPE Launch (Mystery Box)"},
         {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Type":1,"Comment":"Shiny Meltan (Event 1)"},
         {"Start":{"Y":2019,"M":2,"D":5},"Type":20,"Comment":"Let's GO, Meltan"},
         {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Type":1,"Comment":"Shiny Meltan (Event 2)"},
@@ -9132,7 +9132,7 @@
       "Species": 809,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":11,"D":15},"Shiny":1,"Type":1,"Comment":"LGPE Launch (Mystery Box) {Meltan}"},
+        {"Start":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"LGPE Launch (Mystery Box) {Meltan}"},
         {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Type":1,"Comment":"Shiny Meltan (Event 1) {Meltan}"},
         {"Start":{"Y":2019,"M":2,"D":5},"Type":20,"Comment":"Let's GO, Meltan {Meltan}"},
         {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Type":1,"Comment":"Shiny Meltan (Event 2) {Meltan}"},
