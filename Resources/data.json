@@ -747,6 +747,7 @@
       "Species": 49,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch {Venonat}"},
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":17},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss (Kanto Celebration)"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2020,"M":7,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Venonat}"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate)"},
@@ -929,6 +930,7 @@
       "Species": 59,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch {Growlithe}"},
         {"Start":{"Y":2017,"M":6,"D":23},"End":{"Y":2017,"M":11,"D":4},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2018,"M":9,"D":1},"Type":1,"Comment":"Shiny Released {Growlithe}"},
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":2,"D":28},"Type":10,"Comment":"T1 Raid Boss (Pokémon Day 2019) {Growlithe}"},
