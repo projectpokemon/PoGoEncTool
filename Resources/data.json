@@ -6715,16 +6715,24 @@
       "Species": 431,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":1,"D":31},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
-        {"Start":{"Y":2020,"M":5,"D":22},"Type":1,"Comment":"Throwback Challenge 2020: Sinnoh"}
+        {"Start":{"Y":2019,"M":1,"D":31},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Release in Wild"},
+        {"Start":{"Y":2019,"M":2,"D":13},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs"},
+        {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Throwback Challenge 2020: Sinnoh"},
+        {"Start":{"Y":2020,"M":5,"D":22},"Type":2,"Comment":"Throwback Challenge 2020: Sinnoh"},
+        {"Start":{"Y":2020,"M":5,"D":22},"Type":20,"Comment":"Throwback Challenge 2020: Sinnoh"},
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"}
       ]
     },
     {
       "Species": 432,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":1,"D":31},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild {Glameow}"},
-        {"Start":{"Y":2020,"M":5,"D":22},"Type":1,"Comment":"Throwback Challenge 2020: Sinnoh {Glameow}"}
+        {"Start":{"Y":2019,"M":1,"D":31},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Release in Wild {Glameow}"},
+        {"Start":{"Y":2019,"M":2,"D":13},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs {Glameow}"},
+        {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Throwback Challenge 2020: Sinnoh {Glameow}"},
+        {"Start":{"Y":2020,"M":5,"D":22},"Type":2,"Comment":"Throwback Challenge 2020: Sinnoh {Glameow}"},
+        {"Start":{"Y":2020,"M":5,"D":22},"Type":20,"Comment":"Throwback Challenge 2020: Sinnoh {Glameow}"},
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Glameow}"}
       ]
     },
     {
