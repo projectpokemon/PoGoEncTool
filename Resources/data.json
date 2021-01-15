@@ -3119,11 +3119,15 @@
       "Species": 193,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2017,"M":2,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":2,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2018,"M":8,"D":20},"End":{"Y":2018,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Johto Festival)"},
-        {"Start":{"Y":2019,"M":9,"D":20},"Type":1,"Comment":"Safari Zone in Montreal 2019"},
+        {"Start":{"Y":2019,"M":4,"D":2},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
+        {"Start":{"Y":2019,"M":9,"D":20},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Safari Zone in Montreal 2019"},
+        {"Start":{"Y":2019,"M":9,"D":20},"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":12},"Type":10,"Comment":"T2 Raid Boss (Evolution Event, Previously T1)"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate)"},
+        {"Start":{"Y":2020,"M":5,"D":8},"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Johto"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Bug Out 2020)"}
       ]
     },
@@ -7235,11 +7239,15 @@
       "Species": 469,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release {Yanma}"},
+        {"Start":{"Y":2017,"M":2,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Johto Release {Yanma}"},
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":2,"Comment":"Initial Johto Release {Yanma}"},
         {"Start":{"Y":2018,"M":8,"D":20},"End":{"Y":2018,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Johto Festival) {Yanma}"},
-        {"Start":{"Y":2019,"M":9,"D":20},"Type":1,"Comment":"Safari Zone in Montreal 2019 {Yanma}"},
+        {"Start":{"Y":2019,"M":4,"D":2},"Shiny":1,"Type":20,"Comment":"Field Research Task {Yanma}"},
+        {"Start":{"Y":2019,"M":9,"D":20},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Safari Zone in Montreal 2019 {Yanma}"},
+        {"Start":{"Y":2019,"M":9,"D":20},"Type":20,"Comment":"Field Research Task {Yanma}"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":12},"Type":10,"Comment":"T2 Raid Boss (Evolution Event, Previously T1) {Yanma}"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate) {Yanma}"},
+        {"Start":{"Y":2020,"M":5,"D":8},"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Johto {Yanma}"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Bug Out 2020) {Yanma}"}
       ]
     },
