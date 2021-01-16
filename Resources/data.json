@@ -6543,12 +6543,15 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":11,"D":6},"End":{"Y":2018,"M":11,"D":27},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2018,"M":11,"D":6},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
+        {"Start":{"Y":2018,"M":11,"D":6},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Release in Wild"},
         {"Start":{"Y":2018,"M":11,"D":29},"End":{"Y":2019,"M":1,"D":15},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":1,"D":29},"End":{"Y":2019,"M":2,"D":13},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2019,"M":8,"D":23},"Shiny":1,"Type":2,"Comment":"Water Festival 2019"},
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event)"},
-        {"Start":{"Y":2021,"M":1,"D":12},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"}
+        {"Start":{"Y":2021,"M":1,"D":12},"Type":2,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"},
+        {"Start":{"Y":2021,"M":1,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"}
       ]
     },
     {
@@ -6556,16 +6559,19 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":11,"D":6},"End":{"Y":2018,"M":11,"D":27},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Buizel}"},
-        {"Start":{"Y":2018,"M":11,"D":6},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild {Buizel}"},
+        {"Start":{"Y":2018,"M":11,"D":6},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Release in Wild {Buizel}"},
         {"Start":{"Y":2018,"M":11,"D":29},"End":{"Y":2019,"M":1,"D":15},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Buizel}"},
         {"Start":{"Y":2019,"M":1,"D":29},"End":{"Y":2019,"M":2,"D":13},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Buizel}"},
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Buizel}"},
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Extraordinary Raid Week)"},
+        {"Start":{"Y":2019,"M":8,"D":23},"Shiny":1,"Type":2,"Comment":"Water Festival 2019 {Buizel}"},
         {"Start":{"Y":2020,"M":2,"D":7},"End":{"Y":2020,"M":2,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Sinnoh Celebration)"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Sinnoh)"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Lake Legends Event)"},
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Buizel}"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event) {Buizel}"},
-        {"Start":{"Y":2021,"M":1,"D":12},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Buizel}"}
+        {"Start":{"Y":2021,"M":1,"D":12},"Type":2,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Buizel}"},
+        {"Start":{"Y":2021,"M":1,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Buizel}"}
       ]
     },
     {
