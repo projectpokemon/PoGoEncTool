@@ -110,6 +110,11 @@ namespace PoGoEncTool
             {
                 var entry = all[i];
                 entry.Data.RemoveAll(z => z.Type.IsShadow());
+
+                var noSingleGender = entry.Data.All(z => z.Gender == PogoGender.Random);
+                if (!noSingleGender)
+                    throw new ArgumentException("Species has only a single gender available for at least one entry. PKHeX not configured to check genders.");
+
                 result[i] = GetBinary(entry);
             }
 
