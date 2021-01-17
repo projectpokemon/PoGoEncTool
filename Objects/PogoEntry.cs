@@ -26,7 +26,7 @@ namespace PoGoEncTool
         public override string ToString()
         {
             var date = $"[{Start?.ToString() ?? "X"}-{End?.ToString() ?? "X"}]";
-            var gender = Gender == PogoGender.Random ? "" : $" ({Gender})";
+            var gender = Gender == PogoGender.Random ? "" : $"({Gender})";
             return $"{date}: {Type} {{{Shiny}}} {gender} - {Comment}";
         }
 
