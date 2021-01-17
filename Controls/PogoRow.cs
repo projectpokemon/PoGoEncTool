@@ -28,6 +28,9 @@ namespace PoGoEncTool
                 _ => CheckState.Unchecked
             };
 
+            CHK_MaleOnly.Checked = entry.Gender == PogoGender.MaleOnly;
+            CHK_FemaleOnly.Checked = entry.Gender == PogoGender.FemaleOnly;
+
             DT_Start.Value = PogoDate.GetDateTime(entry.Start);
             DT_Start.Checked = entry.Start != null;
             DT_End.Value = PogoDate.GetDateTime(entry.End);
@@ -49,6 +52,8 @@ namespace PoGoEncTool
                 CheckState.Indeterminate => PogoShiny.Random,
                 _ => PogoShiny.Never,
             };
+
+            entry.Gender = CHK_MaleOnly.Checked ? PogoGender.MaleOnly : (CHK_FemaleOnly.Checked ? PogoGender.FemaleOnly : PogoGender.Random);
 
             entry.Start = !DT_Start.Checked ? null : new PogoDate(DT_Start.Value);
             entry.End = !DT_End.Checked ? null : new PogoDate(DT_End.Value);

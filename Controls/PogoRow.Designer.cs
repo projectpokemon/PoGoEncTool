@@ -33,12 +33,14 @@ namespace PoGoEncTool
             this.DT_Start = new System.Windows.Forms.DateTimePicker();
             this.L_Start = new System.Windows.Forms.Label();
             this.FLP_Parent = new System.Windows.Forms.FlowLayoutPanel();
-            this.L_End = new System.Windows.Forms.Label();
             this.CHK_Localized = new System.Windows.Forms.CheckBox();
+            this.L_End = new System.Windows.Forms.Label();
             this.CHK_EndTolerance = new System.Windows.Forms.CheckBox();
             this.CB_Type = new System.Windows.Forms.ComboBox();
             this.CHK_Shiny = new System.Windows.Forms.CheckBox();
             this.TB_Comment = new System.Windows.Forms.TextBox();
+            this.CHK_MaleOnly = new System.Windows.Forms.CheckBox();
+            this.CHK_FemaleOnly = new System.Windows.Forms.CheckBox();
             this.FLP_Parent.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -82,22 +84,14 @@ namespace PoGoEncTool
             this.FLP_Parent.Controls.Add(this.CHK_EndTolerance);
             this.FLP_Parent.Controls.Add(this.CB_Type);
             this.FLP_Parent.Controls.Add(this.CHK_Shiny);
+            this.FLP_Parent.Controls.Add(this.CHK_MaleOnly);
+            this.FLP_Parent.Controls.Add(this.CHK_FemaleOnly);
             this.FLP_Parent.Controls.Add(this.TB_Comment);
             this.FLP_Parent.Dock = System.Windows.Forms.DockStyle.Fill;
             this.FLP_Parent.Location = new System.Drawing.Point(0, 0);
             this.FLP_Parent.Name = "FLP_Parent";
             this.FLP_Parent.Size = new System.Drawing.Size(381, 89);
             this.FLP_Parent.TabIndex = 3;
-            // 
-            // L_End
-            // 
-            this.L_End.AutoSize = true;
-            this.L_End.Location = new System.Drawing.Point(194, 7);
-            this.L_End.Margin = new System.Windows.Forms.Padding(3, 7, 3, 0);
-            this.L_End.Name = "L_End";
-            this.L_End.Size = new System.Drawing.Size(30, 15);
-            this.L_End.TabIndex = 3;
-            this.L_End.Text = "End:";
             // 
             // CHK_Localized
             // 
@@ -110,6 +104,16 @@ namespace PoGoEncTool
             this.CHK_Localized.Text = "-1";
             this.CHK_Localized.ThreeState = true;
             this.CHK_Localized.UseVisualStyleBackColor = true;
+            // 
+            // L_End
+            // 
+            this.L_End.AutoSize = true;
+            this.L_End.Location = new System.Drawing.Point(194, 7);
+            this.L_End.Margin = new System.Windows.Forms.Padding(3, 7, 3, 0);
+            this.L_End.Name = "L_End";
+            this.L_End.Size = new System.Drawing.Size(30, 15);
+            this.L_End.TabIndex = 3;
+            this.L_End.Text = "End:";
             // 
             // CHK_EndTolerance
             // 
@@ -153,6 +157,30 @@ namespace PoGoEncTool
             this.TB_Comment.Size = new System.Drawing.Size(378, 23);
             this.TB_Comment.TabIndex = 7;
             // 
+            // CHK_MaleOnly
+            // 
+            this.CHK_MaleOnly.AutoSize = true;
+            this.CHK_MaleOnly.Location = new System.Drawing.Point(156, 34);
+            this.CHK_MaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            this.CHK_MaleOnly.Name = "CHK_MaleOnly";
+            this.CHK_MaleOnly.Size = new System.Drawing.Size(62, 19);
+            this.CHK_MaleOnly.TabIndex = 10;
+            this.CHK_MaleOnly.Text = "OnlyM";
+            this.CHK_MaleOnly.ThreeState = true;
+            this.CHK_MaleOnly.UseVisualStyleBackColor = true;
+            // 
+            // CHK_FemaleOnly
+            // 
+            this.CHK_FemaleOnly.AutoSize = true;
+            this.CHK_FemaleOnly.Location = new System.Drawing.Point(224, 34);
+            this.CHK_FemaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            this.CHK_FemaleOnly.Name = "CHK_FemaleOnly";
+            this.CHK_FemaleOnly.Size = new System.Drawing.Size(57, 19);
+            this.CHK_FemaleOnly.TabIndex = 11;
+            this.CHK_FemaleOnly.Text = "OnlyF";
+            this.CHK_FemaleOnly.ThreeState = true;
+            this.CHK_FemaleOnly.UseVisualStyleBackColor = true;
+            // 
             // PogoRow
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -178,5 +206,7 @@ namespace PoGoEncTool
         private System.Windows.Forms.TextBox TB_Comment;
         private System.Windows.Forms.CheckBox CHK_Localized;
         private System.Windows.Forms.CheckBox CHK_EndTolerance;
+        private System.Windows.Forms.CheckBox CHK_MaleOnly;
+        private System.Windows.Forms.CheckBox CHK_FemaleOnly;
     }
 }

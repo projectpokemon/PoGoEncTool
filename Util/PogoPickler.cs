@@ -43,7 +43,8 @@ namespace PoGoEncTool
             bw.Write(entry.Start?.Write(entry.LocalizedStart ? -1 : 0) ?? 0);
             bw.Write(entry.End?.Write(!entry.NoEndTolerance ? 1 : 0) ?? 0);
 
-            bw.Write((byte)PogoToHex(entry.Shiny));
+            byte sg = (byte) (PogoToHex(entry.Shiny) | (PogoToHex(entry.Gender) << 6));
+            bw.Write(sg);
             bw.Write((byte)entry.Type);
         }
 
@@ -54,6 +55,17 @@ namespace PoGoEncTool
                 PogoShiny.Random => 1,
                 PogoShiny.Always => 2,
                 PogoShiny.Never => 3,
+                _ => throw new ArgumentOutOfRangeException(nameof(type))
+            };
+        }
+
+        private static int PogoToHex(PogoGender type)
+        {
+            return type switch
+            {
+                PogoGender.Random => 2,
+                PogoGender.MaleOnly => 0,
+                PogoGender.FemaleOnly => 1,
                 _ => throw new ArgumentOutOfRangeException(nameof(type))
             };
         }

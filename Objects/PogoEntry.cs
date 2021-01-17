@@ -8,6 +8,7 @@ namespace PoGoEncTool
         public PogoDate? Start { get; set; }
         public PogoDate? End { get; set; }
         public PogoShiny Shiny { get; set; } = PogoShiny.Never;
+        public PogoGender Gender { get; set; }
         public PogoType Type { get; set; }
         public bool LocalizedStart { get; set; }
         public bool NoEndTolerance { get; set; }
@@ -18,10 +19,16 @@ namespace PoGoEncTool
             Start = PogoDate.CreateNew(),
             End = null,
             Shiny = PogoShiny.Never,
+            Gender = PogoGender.Random,
             Type = PogoType.Wild,
         };
 
-        public override string ToString() => $"[{Start?.ToString() ?? "X"}-{End?.ToString() ?? "X"}]: {Type} {{{Shiny}}} - {Comment}";
+        public override string ToString()
+        {
+            var date = $"[{Start?.ToString() ?? "X"}-{End?.ToString() ?? "X"}]";
+            var gender = Gender == PogoGender.Random ? "" : $" ({Gender})";
+            return $"{date}: {Type} {{{Shiny}}} {gender} - {Comment}";
+        }
 
         public int CompareTo(PogoEntry? p)
         {
@@ -61,6 +68,8 @@ namespace PoGoEncTool
 
             if (Shiny != p.Shiny)
                 return Shiny.CompareTo(p.Shiny);
+            if (Gender != p.Gender)
+                return Gender.CompareTo(p.Gender);
 
             return string.Compare(Comment, p.Comment, StringComparison.OrdinalIgnoreCase);
         }
@@ -69,7 +78,7 @@ namespace PoGoEncTool
         {
             if (other is null) return false;
             if (ReferenceEquals(this, other)) return true;
-            return Equals(Start, other.Start) && Equals(End, other.End) && Shiny == other.Shiny && Type == other.Type && Comment == other.Comment;
+            return Equals(Start, other.Start) && Equals(End, other.End) && Shiny == other.Shiny && Gender == other.Gender && Type == other.Type && Comment == other.Comment;
         }
 
         public override bool Equals(object? obj)
@@ -82,7 +91,7 @@ namespace PoGoEncTool
 
         public override int GetHashCode()
         {
-            return HashCode.Combine(Start, End, (int) Shiny, (int) Type, Comment);
+            return HashCode.Combine(Start, End, (int) Shiny, (int)Gender, (int) Type, Comment);
         }
     }
 }
