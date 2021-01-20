@@ -2605,6 +2605,7 @@
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Johto)"},
         {"Start":{"Y":2020,"M":11,"D":30},"End":{"Y":2021,"M":3,"D":1},"Type":23,"NoEndTolerance":true,"Comment":"Season 6"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"},
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"},
         {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"}
       ]
     },
@@ -2624,6 +2625,7 @@
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Johto) {Chikorita}"},
         {"Start":{"Y":2020,"M":11,"D":30},"End":{"Y":2021,"M":3,"D":1},"Type":23,"NoEndTolerance":true,"Comment":"Season 6 {Chikorita}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Chikorita}"},
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Chikorita}"},
         {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Chikorita}"}
       ]
     },
@@ -2643,6 +2645,7 @@
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Johto) {Chikorita} {Bayleef}"},
         {"Start":{"Y":2020,"M":11,"D":30},"End":{"Y":2021,"M":3,"D":1},"Type":23,"NoEndTolerance":true,"Comment":"Season 6 {Chikorita} {Bayleef}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Chikorita} {Bayleef}"},
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Chikorita} {Bayleef}"},
         {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Chikorita} {Bayleef}"}
       ]
     },
@@ -2658,7 +2661,8 @@
         {"Start":{"Y":2019,"M":12,"D":14},"End":{"Y":2019,"M":12,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend)"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Johto)"},
         {"Start":{"Y":2020,"M":12,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"},
-        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"}
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"},
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"}
       ]
     },
     {
@@ -2676,7 +2680,8 @@
         {"Start":{"Y":2019,"M":12,"D":14},"End":{"Y":2019,"M":12,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend) {Cyndaquil}"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Johto) {Cyndaquil}"},
         {"Start":{"Y":2020,"M":12,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Cyndaquil}"},
-        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Cyndaquil}"}
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Cyndaquil}"},
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Cyndaquil}"}
       ]
     },
     {
@@ -2695,7 +2700,8 @@
         {"Start":{"Y":2019,"M":12,"D":14},"End":{"Y":2019,"M":12,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend) {Cyndaquil} {Quilava}"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Johto) {Cyndaquil} {Quilava}"},
         {"Start":{"Y":2020,"M":12,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Cyndaquil} {Quilava}"},
-        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Cyndaquil} {Quilava}"}
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Cyndaquil} {Quilava}"},
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Cyndaquil} {Quilava}"}
       ]
     },
     {
@@ -2710,7 +2716,8 @@
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Johto)"},
         {"Start":{"Y":2020,"M":5,"D":8},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend)"},
-        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"}
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"},
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"}
       ]
     },
     {
@@ -2731,7 +2738,8 @@
         {"Start":{"Y":2020,"M":5,"D":8},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Totodile}"},
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Dragon Week)"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend) {Totodile}"},
-        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Totodile}"}
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Totodile}"},
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Totodile}"}
       ]
     },
     {
@@ -2756,7 +2764,8 @@
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Dragon Week) {Croconaw}"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend) {Totodile} {Croconaw}"},
-        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Totodile} {Croconaw}"}
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Totodile} {Croconaw}"},
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Totodile} {Croconaw}"}
       ]
     },
     {
@@ -4077,7 +4086,7 @@
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":21},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Valentine's Day 2019)"},
         {"Start":{"Y":2020,"M":2,"D":14},"End":{"Y":2020,"M":2,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Valentine's Day 2020, Previously T3)"},
-        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":20,"LocalizedStart":true,"Comment":"T3 Raid Boss (Johto Celebration Event)"},
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Johto Celebration Event)"},
         {"Start":{"Y":2021,"M":1,"D":26},"Type":1,"Comment":"Johto Celebration Event"}
       ]
     },
@@ -4104,7 +4113,7 @@
         {"Start":{"Y":2019,"M":6,"D":29},"End":{"Y":2019,"M":6,"D":29},"Type":10,"Comment":"T5 Raid Boss (Raikou Day)"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T5 Raid Boss (Johto Journey)"},
         {"Start":{"Y":2020,"M":2,"D":1},"End":{"Y":2020,"M":2,"D":29},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Looming in the Shadows"},
-        {"Start":{"Y":2021,"M":1,"D":31},"End":{"Y":2021,"M":2,"D":4},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2021,"M":1,"D":31},"End":{"Y":2021,"M":2,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -4128,7 +4137,7 @@
         {"Start":{"Y":2019,"M":8,"D":17},"End":{"Y":2019,"M":8,"D":17},"Type":10,"Comment":"T5 Raid Boss (Suicune Day)"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T5 Raid Boss (Johto Journey)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Event"},
-        {"Start":{"Y":2021,"M":2,"D":4},"End":{"Y":2021,"M":4,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2021,"M":2,"D":4},"End":{"Y":2021,"M":4,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -5107,7 +5116,8 @@
         {"Start":{"Y":2018,"M":5,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2018,"M":7,"D":14},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"GO Fest 2018"},
         {"Start":{"Y":2018,"M":7,"D":14},"Type":20,"Comment":"Field Research Task"},
-        {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"T1 Raid Boss (Hoenn Celebration 2019)"}
+        {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"T1 Raid Boss (Hoenn Celebration 2019)"},
+        {"Start":{"Y":2021,"M":1,"D":24},"End":{"Y":2021,"M":1,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Incense Day: Electric and Dragon Type"}
       ]
     },
     {
@@ -5118,7 +5128,8 @@
         {"Start":{"Y":2018,"M":5,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2018,"M":7,"D":14},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"GO Fest 2018"},
         {"Start":{"Y":2018,"M":7,"D":14},"Type":20,"Comment":"Field Research Task"},
-        {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"T1 Raid Boss (Hoenn Celebration 2019)"}
+        {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"T1 Raid Boss (Hoenn Celebration 2019)"},
+        {"Start":{"Y":2021,"M":1,"D":24},"End":{"Y":2021,"M":1,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Incense Day: Electric and Dragon Type"}
       ]
     },
     {
