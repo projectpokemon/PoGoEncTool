@@ -8939,14 +8939,18 @@
       "Species": 622,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"}
+        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"A Unova Unveiling"},
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":2,"Comment":"A Unova Unveiling"},
+        {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":20,"Comment":"Field Research Task"}
       ]
     },
     {
       "Species": 623,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling {Golett}"},
+        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"A Unova Unveiling {Golett}"},
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":2,"Comment":"A Unova Unveiling {Golett}"},
+        {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":20,"Comment":"Field Research Task {Golett}"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"}
       ]
     },
