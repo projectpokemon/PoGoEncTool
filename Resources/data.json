@@ -1772,7 +1772,7 @@
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":9,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":11,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Day of the Dead (Field Research Task)"},
+        {"Start":{"Y":2020,"M":11,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Day of the Dead"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":2},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
@@ -2083,7 +2083,7 @@
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Kanto)"},
         {"Start":{"Y":2020,"M":12,"D":22},"End":{"Y":2020,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Holiday 2020)"},
-        {"Start":{"Y":2020,"M":12,"D":22},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"},
+        {"Start":{"Y":2020,"M":12,"D":22},"Type":20,"LocalizedStart":true,"Comment":"Holiday 2020"},
         {"Start":{"Y":2020,"M":12,"D":26},"End":{"Y":2020,"M":12,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Holiday 2020"}
       ]
     },
@@ -2617,7 +2617,7 @@
         {"Start":{"Y":2020,"M":11,"D":30},"End":{"Y":2021,"M":3,"D":1},"Type":23,"NoEndTolerance":true,"Comment":"Season 6"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"},
-        {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"}
+        {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Johto Celebration Event"}
       ]
     },
     {
@@ -2637,7 +2637,7 @@
         {"Start":{"Y":2020,"M":11,"D":30},"End":{"Y":2021,"M":3,"D":1},"Type":23,"NoEndTolerance":true,"Comment":"Season 6 {Chikorita}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Chikorita}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Chikorita}"},
-        {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Chikorita}"}
+        {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Johto Celebration Event {Chikorita}"}
       ]
     },
     {
@@ -2657,7 +2657,7 @@
         {"Start":{"Y":2020,"M":11,"D":30},"End":{"Y":2021,"M":3,"D":1},"Type":23,"NoEndTolerance":true,"Comment":"Season 6 {Chikorita} {Bayleef}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Chikorita} {Bayleef}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Chikorita} {Bayleef}"},
-        {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Chikorita} {Bayleef}"}
+        {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Johto Celebration Event {Chikorita} {Bayleef}"}
       ]
     },
     {
@@ -2725,7 +2725,7 @@
         {"Start":{"Y":2018,"M":12,"D":18},"Type":2,"Comment":"Shiny Released in Eggs"},
         {"Start":{"Y":2019,"M":1,"D":12},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Community Day"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Johto)"},
-        {"Start":{"Y":2020,"M":5,"D":8},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"},
+        {"Start":{"Y":2020,"M":5,"D":8},"Type":20,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Johto"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend)"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"}
@@ -2746,7 +2746,7 @@
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Johto) {Totodile}"},
-        {"Start":{"Y":2020,"M":5,"D":8},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Totodile}"},
+        {"Start":{"Y":2020,"M":5,"D":8},"Type":20,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Johto {Totodile}"},
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Dragon Week)"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend) {Totodile}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Totodile}"},
@@ -2771,7 +2771,7 @@
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Johto) {Totodile} {Croconaw}"},
-        {"Start":{"Y":2020,"M":5,"D":8},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Totodile} {Croconaw}"},
+        {"Start":{"Y":2020,"M":5,"D":8},"Type":20,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Johto {Totodile} {Croconaw}"},
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Dragon Week) {Croconaw}"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend) {Totodile} {Croconaw}"},
@@ -3028,7 +3028,7 @@
         {"Start":{"Y":2018,"M":12,"D":18},"Type":2,"Comment":"Holiday 2018 {Azurill}"},
         {"Start":{"Y":2019,"M":12,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2020,"M":4,"D":9},"End":{"Y":2020,"M":12,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Spring Event"},
-        {"Start":{"Y":2020,"M":4,"D":9},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"},
+        {"Start":{"Y":2020,"M":4,"D":9},"Type":20,"LocalizedStart":true,"Comment":"Spring Event"},
         {"Start":{"Y":2020,"M":12,"D":22},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"}
       ]
@@ -3046,7 +3046,7 @@
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2019,"M":12,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task {Marill}"},
         {"Start":{"Y":2020,"M":4,"D":9},"End":{"Y":2020,"M":12,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Spring Event {Marill}"},
-        {"Start":{"Y":2020,"M":4,"D":9},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Marill}"},
+        {"Start":{"Y":2020,"M":4,"D":9},"Type":20,"LocalizedStart":true,"Comment":"Spring Event {Marill}"},
         {"Start":{"Y":2020,"M":6,"D":16},"End":{"Y":2020,"M":6,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":2},"End":{"Y":2020,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
@@ -3153,9 +3153,9 @@
         {"Start":{"Y":2017,"M":2,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":2,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2018,"M":8,"D":20},"End":{"Y":2018,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Johto Festival)"},
-        {"Start":{"Y":2019,"M":4,"D":2},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
+        {"Start":{"Y":2019,"M":4,"D":2},"Shiny":1,"Type":20,"Comment":"Bug Out 2019"},
         {"Start":{"Y":2019,"M":9,"D":20},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Safari Zone in Montreal 2019"},
-        {"Start":{"Y":2019,"M":9,"D":20},"Type":20,"Comment":"Field Research Task"},
+        {"Start":{"Y":2019,"M":9,"D":20},"Type":20,"Comment":"Safari Zone in Montreal 2019"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":12},"Type":10,"Comment":"T2 Raid Boss (Evolution Event, Previously T1)"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":5,"D":8},"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Johto"},
@@ -4798,7 +4798,7 @@
       "Species": 290,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research"},
+        {"Start":{"Y":2018,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2019,"M":1,"D":15},"Shiny":1,"Type":2,"Comment":"Hoenn Celebration 2019"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":1,"LocalizedStart":true,"Comment":"A Drive to Investigate"},
         {"Start":{"Y":2020,"M":3,"D":20},"Type":2,"LocalizedStart":true,"Comment":"A Drive to Investigate"},
@@ -4811,7 +4811,7 @@
       "Species": 291,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research {Nincada}"},
+        {"Start":{"Y":2018,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task {Nincada}"},
         {"Start":{"Y":2019,"M":1,"D":15},"Shiny":1,"Type":2,"Comment":"Hoenn Celebration 2019 {Nincada}"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Bug Out 2019)"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":1,"LocalizedStart":true,"Comment":"A Drive to Investigate {Nincada}"},
@@ -4989,7 +4989,7 @@
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (The Seasons Change: Part 2)"},
         {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2020)"},
-        {"Start":{"Y":2020,"M":11,"D":1},"Type":20,"Comment":"Field Research"},
+        {"Start":{"Y":2020,"M":11,"D":1},"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2020,"M":12,"D":2},"End":{"Y":2020,"M":12,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (T1 During Secrets of the Jungle Event)"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Hoenn Celebration Event)"}
@@ -5141,7 +5141,7 @@
         {"Start":{"Y":2017,"M":12,"D":8},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Hoenn Release"},
         {"Start":{"Y":2018,"M":5,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2018,"M":7,"D":14},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"GO Fest 2018"},
-        {"Start":{"Y":2018,"M":7,"D":14},"Type":20,"Comment":"Field Research Task"},
+        {"Start":{"Y":2018,"M":7,"D":14},"Type":20,"Comment":"GO Fest 2018"},
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"T1 Raid Boss (Hoenn Celebration 2019)"},
         {"Start":{"Y":2021,"M":1,"D":24},"End":{"Y":2021,"M":1,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Incense Day: Electric and Dragon Type"}
       ]
@@ -5153,7 +5153,7 @@
         {"Start":{"Y":2017,"M":12,"D":8},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Hoenn Release"},
         {"Start":{"Y":2018,"M":5,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2018,"M":7,"D":14},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"GO Fest 2018"},
-        {"Start":{"Y":2018,"M":7,"D":14},"Type":20,"Comment":"Field Research Task"},
+        {"Start":{"Y":2018,"M":7,"D":14},"Type":20,"Comment":"GO Fest 2018"},
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"T1 Raid Boss (Hoenn Celebration 2019)"},
         {"Start":{"Y":2021,"M":1,"D":24},"End":{"Y":2021,"M":1,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Incense Day: Electric and Dragon Type"}
       ]
@@ -5762,7 +5762,7 @@
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":8},"End":{"Y":2018,"M":4,"D":10},"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2018,"M":4,"D":18},"End":{"Y":2018,"M":9,"D":13},"Type":10,"Comment":"T4 Raid Boss"},
-        {"Start":{"Y":2018,"M":6,"D":1},"Type":20,"Comment":"Make an Excellent Curveball Throw"},
+        {"Start":{"Y":2018,"M":6,"D":1},"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2018,"M":10,"D":1},"End":{"Y":2018,"M":12,"D":18},"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":5,"D":7},"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":1,"D":15},"Type":2,"Comment":"Hoenn Celebration 2019"},
@@ -6629,7 +6629,7 @@
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event)"},
         {"Start":{"Y":2021,"M":1,"D":12},"Type":2,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"},
-        {"Start":{"Y":2021,"M":1,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"}
+        {"Start":{"Y":2021,"M":1,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"}
       ]
     },
     {
@@ -6649,7 +6649,7 @@
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Buizel}"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event) {Buizel}"},
         {"Start":{"Y":2021,"M":1,"D":12},"Type":2,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Buizel}"},
-        {"Start":{"Y":2021,"M":1,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Buizel}"}
+        {"Start":{"Y":2021,"M":1,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Buizel}"}
       ]
     },
     {
@@ -7328,9 +7328,9 @@
         {"Start":{"Y":2017,"M":2,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Initial Johto Release {Yanma}"},
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":2,"Comment":"Initial Johto Release {Yanma}"},
         {"Start":{"Y":2018,"M":8,"D":20},"End":{"Y":2018,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Johto Festival) {Yanma}"},
-        {"Start":{"Y":2019,"M":4,"D":2},"Shiny":1,"Type":20,"Comment":"Field Research Task {Yanma}"},
+        {"Start":{"Y":2019,"M":4,"D":2},"Shiny":1,"Type":20,"Comment":"Bug Out 2019 {Yanma}"},
         {"Start":{"Y":2019,"M":9,"D":20},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Safari Zone in Montreal 2019 {Yanma}"},
-        {"Start":{"Y":2019,"M":9,"D":20},"Type":20,"Comment":"Field Research Task {Yanma}"},
+        {"Start":{"Y":2019,"M":9,"D":20},"Type":20,"Comment":"Safari Zone in Montreal 2019 {Yanma}"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":12},"Type":10,"Comment":"T2 Raid Boss (Evolution Event, Previously T1) {Yanma}"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate) {Yanma}"},
         {"Start":{"Y":2020,"M":5,"D":8},"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Johto {Yanma}"},
@@ -7658,7 +7658,7 @@
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Dragon Week)"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event)"},
-        {"Start":{"Y":2021,"M":1,"D":5},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"}
+        {"Start":{"Y":2021,"M":1,"D":5},"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event"}
       ]
     },
     {
@@ -7670,7 +7670,7 @@
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Dragon Week) {Snivy}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Snivy}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event) {Snivy}"},
-        {"Start":{"Y":2021,"M":1,"D":5},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Snivy}"}
+        {"Start":{"Y":2021,"M":1,"D":5},"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event {Snivy}"}
       ]
     },
     {
@@ -7682,7 +7682,7 @@
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Dragon Week) {Snivy} {Servine}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Snivy} {Servine}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event) {Snivy} {Servine}"},
-        {"Start":{"Y":2021,"M":1,"D":5},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Snivy} {Servine}"}
+        {"Start":{"Y":2021,"M":1,"D":5},"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event {Snivy} {Servine}"}
       ]
     },
     {
@@ -7735,7 +7735,7 @@
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event)"},
-        {"Start":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"}
+        {"Start":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event"}
       ]
     },
     {
@@ -7749,7 +7749,7 @@
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Oshawott}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Oshawott}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event) {Oshawott}"},
-        {"Start":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Oshawott}"}
+        {"Start":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event {Oshawott}"}
       ]
     },
     {
@@ -7763,7 +7763,7 @@
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Oshawott} {Dewott}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Oshawott} {Dewott}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event) {Oshawott} {Dewott}"},
-        {"Start":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Oshawott} {Dewott}"}
+        {"Start":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event {Oshawott} {Dewott}"}
       ]
     },
     {
@@ -8987,7 +8987,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"A Unova Unveiling"},
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":2,"Comment":"A Unova Unveiling"},
-        {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":20,"Comment":"Field Research Task"}
+        {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":20,"Comment":"Halloween 2019"}
       ]
     },
     {
@@ -8996,7 +8996,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"A Unova Unveiling {Golett}"},
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":2,"Comment":"A Unova Unveiling {Golett}"},
-        {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":20,"Comment":"Field Research Task {Golett}"},
+        {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":20,"Comment":"Halloween 2019 {Golett}"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"}
       ]
     },
