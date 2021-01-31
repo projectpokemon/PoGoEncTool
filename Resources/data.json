@@ -4131,7 +4131,7 @@
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T5 Raid Boss (Johto Journey)"},
         {"Start":{"Y":2020,"M":2,"D":1},"End":{"Y":2020,"M":2,"D":29},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Looming in the Shadows"},
         {"Start":{"Y":2021,"M":1,"D":31},"End":{"Y":2021,"M":2,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":1,"D":31},"End":{"Y":2021,"M":3,"D":1},"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Legendary Encounter"}
+        {"Start":{"Y":2021,"M":1,"D":31},"End":{"Y":2021,"M":3,"D":1},"Type":23,"NoEndTolerance":true,"Comment":"Legendary Encounter"}
       ]
     },
     {
@@ -4156,8 +4156,8 @@
         {"Start":{"Y":2019,"M":8,"D":17},"End":{"Y":2019,"M":8,"D":17},"Type":10,"Comment":"T5 Raid Boss (Suicune Day)"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T5 Raid Boss (Johto Journey)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Event"},
-        {"Start":{"Y":2021,"M":2,"D":4},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":2,"D":4},"End":{"Y":2021,"M":3,"D":1},"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Legendary Encounter"}
+        {"Start":{"Y":2021,"M":1,"D":30},"End":{"Y":2021,"M":3,"D":1},"Type":23,"NoEndTolerance":true,"Comment":"Legendary Encounter (Released Early)"},
+        {"Start":{"Y":2021,"M":2,"D":4},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
