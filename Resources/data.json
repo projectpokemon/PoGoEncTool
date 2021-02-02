@@ -693,7 +693,8 @@
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2020,"M":10,"D":16},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"},
         {"Start":{"Y":2019,"M":10,"D":2},"Type":1,"Comment":"Safari Zone in New Taipei City 2019"},
-        {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2020,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"}
+        {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2020,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration"}
       ]
     },
     {
@@ -962,7 +963,8 @@
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch"},
         {"Start":{"Y":2019,"M":8,"D":1},"End":{"Y":2020,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"},
         {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"T1 Raid Boss (GO Fest Yokohama 2019)"},
-        {"Start":{"Y":2019,"M":8,"D":6},"Type":1,"Comment":"GO Fest Yokohama 2019"}
+        {"Start":{"Y":2019,"M":8,"D":6},"Type":1,"Comment":"GO Fest Yokohama 2019"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration"}
       ]
     },
     {
@@ -972,7 +974,8 @@
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch {Poliwag}"},
         {"Start":{"Y":2019,"M":8,"D":1},"End":{"Y":2020,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Poliwag}"},
         {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"T1 Raid Boss (GO Fest Yokohama 2019) {Poliwag}"},
-        {"Start":{"Y":2019,"M":8,"D":6},"Type":1,"Comment":"GO Fest Yokohama 2019 {Poliwag}"}
+        {"Start":{"Y":2019,"M":8,"D":6},"Type":1,"Comment":"GO Fest Yokohama 2019 {Poliwag}"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration {Poliwag}"}
       ]
     },
     {
@@ -990,7 +993,8 @@
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Kanto)"},
-        {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration {Poliwag} {Poliwhirl}"}
       ]
     },
     {
@@ -1652,7 +1656,8 @@
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch"},
         {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"},
         {"Start":{"Y":2020,"M":4,"D":9},"Type":1,"LocalizedStart":true,"Comment":"Spring Event"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event)"}
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event)"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration"}
       ]
     },
     {
@@ -1675,7 +1680,8 @@
         {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":30},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":4,"D":9},"Type":1,"LocalizedStart":true,"Comment":"Spring Event {Exeggcute}"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020: Kanto)"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event) {Exeggcute}"}
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event) {Exeggcute}"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration {Exeggcute}"}
       ]
     },
     {
@@ -1803,7 +1809,8 @@
         {"Start":{"Y":2019,"M":3,"D":1},"End":{"Y":2019,"M":3,"D":19},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":3,"D":27},"End":{"Y":2019,"M":3,"D":28},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"},
-        {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration"}
       ]
     },
     {
@@ -2126,7 +2133,8 @@
         {"Start":{"Y":2020,"M":2,"D":7},"End":{"Y":2020,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Sinnoh Celebration)"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020: Kanto)"},
         {"Start":{"Y":2020,"M":6,"D":19},"End":{"Y":2020,"M":6,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Summer Solstice)"},
-        {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Summer Event)"}
+        {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Summer Event)"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration"}
       ]
     },
     {
@@ -2440,7 +2448,8 @@
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (GO Fest 2020)"},
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":9,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Cliff"}
       ]
     },
     {
@@ -2459,7 +2468,8 @@
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Kanto)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt"},
         {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Summer Event)"},
-        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"}
+        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration"}
       ]
     },
     {
@@ -3086,7 +3096,8 @@
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch {Poliwag} {Poliwhirl}"},
         {"Start":{"Y":2019,"M":8,"D":1},"End":{"Y":2020,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Grunt {Poliwag} {Poliwhirl}"},
         {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"T1 Raid Boss (GO Fest Yokohama 2019) {Poliwag} {Poliwhirl}"},
-        {"Start":{"Y":2019,"M":8,"D":6},"Type":1,"Comment":"GO Fest Yokohama 2019 {Poliwag} {Poliwhirl}"}
+        {"Start":{"Y":2019,"M":8,"D":6},"Type":1,"Comment":"GO Fest Yokohama 2019 {Poliwag} {Poliwhirl}"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration {Poliwag} {Poliwhirl}"}
       ]
     },
     {
@@ -3169,7 +3180,8 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":12,"D":11},"End":{"Y":2020,"M":12,"D":11},"Shiny":1,"Type":30,"Comment":"Wooper Watch"},
-        {"Start":{"Y":2020,"M":12,"D":11},"Type":1,"Comment":"Wooper Watch"}
+        {"Start":{"Y":2020,"M":12,"D":11},"Type":1,"Comment":"Wooper Watch"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration"}
       ]
     },
     {
@@ -3178,7 +3190,8 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release {Wooper}"},
         {"Start":{"Y":2020,"M":12,"D":11},"End":{"Y":2020,"M":12,"D":11},"Shiny":1,"Type":30,"Comment":"Wooper Watch {Wooper}"},
-        {"Start":{"Y":2020,"M":12,"D":11},"Type":1,"Comment":"Wooper Watch {Wooper}"}
+        {"Start":{"Y":2020,"M":12,"D":11},"Type":1,"Comment":"Wooper Watch {Wooper}"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration {Wooper}"}
       ]
     },
     {
@@ -3263,7 +3276,8 @@
         {"Start":{"Y":2020,"M":4,"D":1},"End":{"Y":2020,"M":4,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Tricky Pokémon)"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020: Johto)"},
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Animation Week)"}
+        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Animation Week)"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration"}
       ]
     },
     {
@@ -5214,7 +5228,8 @@
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Fest 2020"},
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":5},"End":{"Y":2020,"M":11,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Sierra"}
       ]
     },
     {
@@ -5241,7 +5256,8 @@
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"GO Fest 2020 {Carvanha}"},
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Carvanha}"},
         {"Start":{"Y":2020,"M":11,"D":5},"End":{"Y":2020,"M":11,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Carvanha}"},
-        {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Carvanha}"}
+        {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Carvanha}"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Sierra {Carvanha}"}
       ]
     },
     {
@@ -5997,7 +6013,8 @@
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"T1 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2019,"M":12,"D":14},"End":{"Y":2019,"M":12,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend)"},
         {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":7,"D":10},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Sierra"},
-        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Sierra (GO Fest 2020)"}
+        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Sierra (GO Fest 2020)"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Arlo"}
       ]
     },
     {
@@ -6010,7 +6027,8 @@
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"T1 Raid Boss (Supereffective Week) {Beldum}"},
         {"Start":{"Y":2019,"M":12,"D":14},"End":{"Y":2019,"M":12,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend) {Beldum}"},
         {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":7,"D":10},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Sierra {Beldum}"},
-        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Sierra (GO Fest 2020) {Beldum}"}
+        {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Sierra (GO Fest 2020) {Beldum}"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Arlo {Beldum}"}
       ]
     },
     {
@@ -6034,7 +6052,8 @@
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Sierra (GO Fest 2020) {Beldum} {Metang}"},
         {"Start":{"Y":2020,"M":7,"D":27},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Enigma Week)"},
-        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon HOME Event)"}
+        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon HOME Event)"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Arlo {Beldum} {Metang}"}
       ]
     },
     {
@@ -6786,7 +6805,8 @@
         {"Start":{"Y":2020,"M":4,"D":1},"End":{"Y":2020,"M":4,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Tricky Pokémon) {Misdreavus}"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020: Johto) {Misdreavus}"},
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Misdreavus}"},
-        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Animation Week) {Misdreavus}"}
+        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Animation Week) {Misdreavus}"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration {Misdreavus}"}
       ]
     },
     {
@@ -7287,7 +7307,8 @@
         {"Start":{"Y":2020,"M":2,"D":7},"End":{"Y":2020,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Sinnoh Celebration) {Magmar}"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020: Kanto) {Magmar}"},
         {"Start":{"Y":2020,"M":6,"D":19},"End":{"Y":2020,"M":6,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Summer Solstice) {Magmar}"},
-        {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Summer Event) {Magmar}"}
+        {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Summer Event) {Magmar}"},
+        {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"TGR Celebration {Magmar}"}
       ]
     },
     {
