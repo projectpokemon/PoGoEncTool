@@ -431,6 +431,7 @@
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Safari Zone in Philadelphia 2020"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"Comment":"Pokémon HOME Event"},
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Celebration (Northern Hemisphere)"},
+        {"Start":{"Y":2020,"M":12,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"},
         {"Start":{"Y":2020,"M":12,"D":22},"End":{"Y":2020,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Holiday 2020)"}
       ]
     },
@@ -465,6 +466,7 @@
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Safari Zone in Philadelphia 2020 {Sandshrew-1}"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"Comment":"Pokémon HOME Event {Sandshrew-1}"},
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Celebration (Northern Hemisphere) {Sandshrew-1}"},
+        {"Start":{"Y":2020,"M":12,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Sandshrew-1}"},
         {"Start":{"Y":2020,"M":12,"D":22},"End":{"Y":2020,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Holiday 2020) {Sandshrew-1}"}
       ]
     },
@@ -595,8 +597,8 @@
         {"Start":{"Y":2019,"M":6,"D":28},"Type":2,"Comment":"3rd Anniversary"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"Global Challenge, Global Hatches"},
         {"Start":{"Y":2019,"M":9,"D":21},"End":{"Y":2019,"M":9,"D":29},"Type":1,"Comment":"Hokkaido Bus Event"},
-        {"Start":{"Y":2020,"M":1,"D":1},"Shiny":1,"Type":20,"Comment":"Shiny Locked Period"},
-        {"Start":{"Y":2020,"M":1,"D":21},"Type":20,"Comment":"Shiny Lock Fixed"},
+        {"Start":{"Y":2020,"M":1,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task (Shiny Locked Period)"},
+        {"Start":{"Y":2020,"M":1,"D":21},"Type":20,"Comment":"Field Research Task (Shiny Lock Fixed)"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":28},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Safari Zone in Philadelphia 2020"},
@@ -632,8 +634,8 @@
         {"Start":{"Y":2019,"M":6,"D":28},"Type":2,"Comment":"3rd Anniversary {Vulpix-1}"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"Global Challenge, Global Hatches {Vulpix-1}"},
         {"Start":{"Y":2019,"M":9,"D":21},"End":{"Y":2019,"M":9,"D":29},"Type":1,"Comment":"Hokkaido Bus Event {Vulpix-1}"},
-        {"Start":{"Y":2020,"M":1,"D":1},"Shiny":1,"Type":20,"Comment":"Shiny Locked Period {Vulpix-1}"},
-        {"Start":{"Y":2020,"M":1,"D":21},"Type":20,"Comment":"Shiny Lock Fixed {Vulpix-1}"},
+        {"Start":{"Y":2020,"M":1,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task (Shiny Locked Period) {Vulpix-1}"},
+        {"Start":{"Y":2020,"M":1,"D":21},"Type":20,"Comment":"Field Research Task (Shiny Lock Fixed) {Vulpix-1}"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Type":10,"Comment":"T1 Raid Boss {Vulpix-1}"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":28},"Type":10,"Comment":"T1 Raid Boss {Vulpix-1}"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Safari Zone in Philadelphia 2020 {Vulpix-1}"},
@@ -3342,7 +3344,7 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"},
-        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"Comment":"GO Fest 2020 Makeup Day #1 (Regular Shiny Odds) "},
+        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"Comment":"GO Fest 2020 Makeup Day #1 (Shiny Lock Fixed) "},
         {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020 Makeup Day #1 (Shiny Locked for First 5 Hours) "},
         {"Start":{"Y":2020,"M":8,"D":23},"End":{"Y":2020,"M":8,"D":23},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GO Fest 2020 Makeup Day #2"}
       ]
@@ -3412,7 +3414,7 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"},
-        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"Comment":"GO Fest 2020 Makeup Day #1 (Regular Shiny Odds) "},
+        {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"Comment":"GO Fest 2020 Makeup Day #1 (Shiny Lock Fixed) "},
         {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020 Makeup Day #1 (Shiny Locked for First 5 Hours) "},
         {"Start":{"Y":2020,"M":8,"D":23},"End":{"Y":2020,"M":8,"D":23},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GO Fest 2020 Makeup Day #2"}
       ]
