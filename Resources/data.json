@@ -810,7 +810,7 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch"},
         {"Start":{"Y":2017,"M":8,"D":5},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
-        {"Start":{"Y":2019,"M":6,"D":17},"End":{"Y":2019,"M":6,"D":17},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (GO Fest Chicago 2019 High Density Raid Test - 1AM UTC)"},
+        {"Start":{"Y":2019,"M":6,"D":17},"End":{"Y":2019,"M":6,"D":17},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (GO Fest Chicago 2019 High Density Raid Test)"},
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (TGR Disruption)"},
         {"Start":{"Y":2019,"M":11,"D":5},"End":{"Y":2019,"M":12,"D":25},"Type":30,"LocalizedStart":true,"Comment":"TGR Leader Cliff"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2019,"M":11,"D":14},"Type":10,"Comment":"T1 Raid Boss (TGR Leaders Disruption)"},
@@ -1004,7 +1004,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally released at GO Fest Chicago 2019"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally Released at GO Fest Chicago 2019"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"TGR Grunt"},
         {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":30},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":4,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Community Day"}
@@ -1015,7 +1015,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch {Abra}"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally released at GO Fest Chicago 2019 {Abra}"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally Released at GO Fest Chicago 2019 {Abra}"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"TGR Grunt {Abra}"},
         {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":30},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020) {Abra}"},
         {"Start":{"Y":2020,"M":4,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Community Day {Abra}"}
@@ -1032,7 +1032,7 @@
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":10,"D":15},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":1,"D":29},"End":{"Y":2019,"M":2,"D":13},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally released at GO Fest Chicago 2019 {Abra} {Kadabra}"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally Released at GO Fest Chicago 2019 {Abra} {Kadabra}"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"TGR Grunt {Abra} {Kadabra}"},
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
@@ -1264,8 +1264,8 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Crown Tundra Tie-In - 2AM UTC)"},
-        {"Start":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":2,"Comment":"Crown Tundra Tie-In - 2AM UTC"}
+        {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Crown Tundra Release)"},
+        {"Start":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":2,"Comment":"Crown Tundra Release"}
       ]
     },
     {
@@ -1283,8 +1283,8 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Crown Tundra Tie-In) {Ponyta-1}"},
-        {"Start":{"Y":2020,"M":10,"D":22},"Shiny":1,"Type":2,"Comment":"Crown Tundra Tie-In {Ponyta-1}"}
+        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Crown Tundra Release) {Ponyta-1}"},
+        {"Start":{"Y":2020,"M":10,"D":22},"Shiny":1,"Type":2,"Comment":"Crown Tundra Release {Ponyta-1}"}
       ]
     },
     {
@@ -1360,11 +1360,11 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":6,"D":17},"End":{"Y":2020,"M":6,"D":18},"Shiny":1,"Type":1,"Comment":"Increased Spawns"},
-        {"Start":{"Y":2020,"M":6,"D":17},"Shiny":1,"Type":2,"Comment":"Isle of Armor Tie-In"},
+        {"Start":{"Y":2020,"M":6,"D":17},"End":{"Y":2020,"M":6,"D":18},"Shiny":1,"Type":1,"Comment":"Isle of Armor Release"},
+        {"Start":{"Y":2020,"M":6,"D":17},"Shiny":1,"Type":2,"Comment":"Isle of Armor Release"},
         {"Start":{"Y":2020,"M":6,"D":28},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 3"},
         {"Start":{"Y":2020,"M":9,"D":16},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 4"},
-        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Increased Spawns"},
+        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Crown Tundra Release"},
         {"Start":{"Y":2020,"M":11,"D":10},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 5"}
       ]
     },
@@ -1867,7 +1867,7 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":11,"D":16},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (SWSH Launch Celebration)"},
+        {"Start":{"Y":2019,"M":11,"D":16},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":29},"End":{"Y":2020,"M":6,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
@@ -9440,10 +9440,10 @@
       "Species": 808,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"LGPE Launch (Mystery Box)"},
-        {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Type":1,"Comment":"Shiny Meltan (Event 1)"},
+        {"Start":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Mystery Box"},
+        {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Type":1,"Comment":"Shiny Meltan Event #1"},
         {"Start":{"Y":2019,"M":2,"D":5},"Type":20,"Comment":"Let's GO, Meltan"},
-        {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Type":1,"Comment":"Shiny Meltan (Event 2)"},
+        {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Type":1,"Comment":"Shiny Meltan Event #2"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Shiny Meltan (Pokémon HOME Event)"}
       ]
     },
@@ -9451,10 +9451,10 @@
       "Species": 809,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"LGPE Launch (Mystery Box) {Meltan}"},
-        {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Type":1,"Comment":"Shiny Meltan (Event 1) {Meltan}"},
+        {"Start":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Mystery Box {Meltan}"},
+        {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Type":1,"Comment":"Shiny Meltan Event #1 {Meltan}"},
         {"Start":{"Y":2019,"M":2,"D":5},"Type":20,"Comment":"Let's GO, Meltan {Meltan}"},
-        {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Type":1,"Comment":"Shiny Meltan (Event 2) {Meltan}"},
+        {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Type":1,"Comment":"Shiny Meltan Event #2 {Meltan}"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Shiny Meltan (Pokémon HOME Event) {Meltan}"}
       ]
     },
@@ -9478,11 +9478,11 @@
       "Species": 865,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":6,"D":17},"End":{"Y":2020,"M":6,"D":18},"Shiny":1,"Type":1,"Comment":"Increased Spawns {Farfetchd-1}"},
-        {"Start":{"Y":2020,"M":6,"D":17},"Shiny":1,"Type":2,"Comment":"Isle of Armor Tie-In {Farfetchd-1}"},
+        {"Start":{"Y":2020,"M":6,"D":17},"End":{"Y":2020,"M":6,"D":18},"Shiny":1,"Type":1,"Comment":"Isle of Armor Release {Farfetchd-1}"},
+        {"Start":{"Y":2020,"M":6,"D":17},"Shiny":1,"Type":2,"Comment":"Isle of Armor Release {Farfetchd-1}"},
         {"Start":{"Y":2020,"M":6,"D":28},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 3 {Farfetchd-1}"},
         {"Start":{"Y":2020,"M":9,"D":16},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 4 {Farfetchd-1}"},
-        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Increased Spawns {Farfetchd-1}"},
+        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Crown Tundra Release {Farfetchd-1}"},
         {"Start":{"Y":2020,"M":11,"D":10},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 5 {Farfetchd-1}"}
       ]
     },
