@@ -186,7 +186,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch"},
-        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Initial: Shiny can exist in wild"},
+        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Shiny Released"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Type":10,"Comment":"T1 Raid Boss (Bug Out 2019)"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate)"}
       ]
@@ -197,7 +197,7 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch {Caterpie}"},
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Initial: Shiny can exist in wild {Caterpie}"},
+        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Shiny Released {Caterpie}"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Type":10,"Comment":"T1 Raid Boss (Bug Out 2019) {Caterpie}"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Caterpie}"}
       ]
@@ -208,7 +208,7 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Available at launch {Caterpie} {Metapod}"},
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Metapod}"},
-        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Initial: Shiny can exist in wild {Caterpie} {Metapod}"},
+        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Shiny Released {Caterpie} {Metapod}"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Type":10,"Comment":"T1 Raid Boss (Bug Out 2019) {Caterpie} {Metapod}"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate) {Caterpie} {Metapod}"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"}
