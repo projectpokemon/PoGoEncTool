@@ -152,20 +152,20 @@ namespace PoGoEncTool
             this.CHK_MaleOnly.Location = new System.Drawing.Point(156, 34);
             this.CHK_MaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
             this.CHK_MaleOnly.Name = "CHK_MaleOnly";
-            this.CHK_MaleOnly.Size = new System.Drawing.Size(62, 19);
+            this.CHK_MaleOnly.Size = new System.Drawing.Size(64, 19);
             this.CHK_MaleOnly.TabIndex = 10;
-            this.CHK_MaleOnly.Text = "OnlyM";
+            this.CHK_MaleOnly.Text = "Only ♂";
             this.CHK_MaleOnly.UseVisualStyleBackColor = true;
             // 
             // CHK_FemaleOnly
             // 
             this.CHK_FemaleOnly.AutoSize = true;
-            this.CHK_FemaleOnly.Location = new System.Drawing.Point(224, 34);
+            this.CHK_FemaleOnly.Location = new System.Drawing.Point(226, 34);
             this.CHK_FemaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
             this.CHK_FemaleOnly.Name = "CHK_FemaleOnly";
-            this.CHK_FemaleOnly.Size = new System.Drawing.Size(57, 19);
+            this.CHK_FemaleOnly.Size = new System.Drawing.Size(63, 19);
             this.CHK_FemaleOnly.TabIndex = 11;
-            this.CHK_FemaleOnly.Text = "OnlyF";
+            this.CHK_FemaleOnly.Text = "Only ♀";
             this.CHK_FemaleOnly.UseVisualStyleBackColor = true;
             // 
             // TB_Comment
