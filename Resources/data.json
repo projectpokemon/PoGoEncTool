@@ -6219,6 +6219,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":10,"D":1},"End":{"Y":2018,"M":12,"D":27},"Shiny":1,"Type":11,"Comment":"EX Raid Boss (Normal Forme)"},
+        {"Start":{"Y":2018,"M":12,"D":1},"End":{"Y":2018,"M":12,"D":1},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"EX Raid Boss (Normal Forme, Accidentally Made Tradeable)"},
         {"Start":{"Y":2018,"M":12,"D":28},"End":{"Y":2019,"M":3,"D":26},"Shiny":1,"Type":11,"Comment":"EX Raid Boss (Attack Forme)"},
         {"Start":{"Y":2019,"M":3,"D":27},"End":{"Y":2019,"M":6,"D":23},"Shiny":1,"Type":11,"Comment":"EX Raid Boss (Defense Forme)"},
         {"Start":{"Y":2019,"M":7,"D":1},"End":{"Y":2019,"M":10,"D":4},"Shiny":1,"Type":11,"Comment":"EX Raid Boss (Speed Forme)"},
