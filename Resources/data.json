@@ -3525,7 +3525,13 @@
       "Form": 26,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":6,"D":12},"Shiny":1,"Type":1,"Comment":"E3 2018"}
+        {"Start":{"Y":2018,"M":6,"D":12},"End":{"Y":2018,"M":6,"D":14},"Shiny":1,"Type":1,"Comment":"E3 2018"},
+        {"Start":{"Y":2018,"M":8,"D":29},"End":{"Y":2018,"M":9,"D":2},"Shiny":1,"Type":1,"Comment":"Safari Zone in Yokosuka 2018"},
+        {"Start":{"Y":2018,"M":10,"D":5},"End":{"Y":2018,"M":10,"D":7},"Shiny":1,"Type":1,"Comment":"MAG 2018"},
+        {"Start":{"Y":2019,"M":4,"D":18},"End":{"Y":2019,"M":4,"D":22},"Shiny":1,"Type":1,"Comment":"Safari Zone in Sentosa 2019"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Shiny":1,"Type":1,"Comment":"GO Fest Chicago 2019"},
+        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Shiny":1,"Type":1,"Comment":"GO Fest Dortmund 2019"},
+        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Shiny":1,"Type":1,"Comment":"GO Fest Yokohama 2019"}
       ]
     },
     {
@@ -3533,7 +3539,7 @@
       "Form": 27,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":1,"Comment":"GO Fest 2018"}
+        {"Start":{"Y":2018,"M":7,"D":14},"End":{"Y":2018,"M":7,"D":15},"Shiny":1,"Type":1,"Comment":"GO Fest 2018"}
       ]
     },
     {
