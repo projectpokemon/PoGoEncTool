@@ -2266,7 +2266,8 @@
       "Species": 132,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":11,"D":23},"Shiny":1,"Type":1,"Comment":"Available as Imposter"}
+        {"Start":{"Y":2016,"M":11,"D":23},"Shiny":1,"Type":1,"Comment":"Available as Imposter"},
+        {"Start":{"Y":2021,"M":2,"D":20},"Shiny":2,"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Kanto"}
       ]
     },
     {
@@ -2623,7 +2624,8 @@
       "Species": 151,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":3,"D":30},"Shiny":1,"Type":22,"Comment":"A Mythical Discovery"}
+        {"Start":{"Y":2018,"M":3,"D":30},"Shiny":1,"Type":22,"Comment":"A Mythical Discovery"},
+        {"Start":{"Y":2021,"M":2,"D":20},"Shiny":2,"Type":22,"Comment":"Masterwork Research"}
       ]
     },
     {
