@@ -6418,7 +6418,8 @@
         {"Start":{"Y":2018,"M":10,"D":16},"End":{"Y":2018,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Bug Out 2019)"},
-        {"Start":{"Y":2020,"M":10,"D":2},"Type":1,"Comment":"Fashion Week"}
+        {"Start":{"Y":2020,"M":10,"D":2},"Type":1,"Comment":"Fashion Week"},
+        {"Start":{"Y":2021,"M":2,"D":18},"End":{"Y":2021,"M":2,"D":18},"Type":10,"Comment":"T1 Raid Boss (Carnival)"}
       ]
     },
     {
@@ -6429,7 +6430,8 @@
         {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release {Kricketot}"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Bug Out 2019) {Kricketot}"},
         {"Start":{"Y":2020,"M":2,"D":7},"End":{"Y":2020,"M":2,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Sinnoh Celebration)"},
-        {"Start":{"Y":2020,"M":10,"D":2},"Type":1,"Comment":"Fashion Week {Kricketot}"}
+        {"Start":{"Y":2020,"M":10,"D":2},"Type":1,"Comment":"Fashion Week {Kricketot}"},
+        {"Start":{"Y":2021,"M":2,"D":18},"End":{"Y":2021,"M":2,"D":18},"Type":10,"Comment":"T1 Raid Boss (Carnival) {Kricketot}"}
       ]
     },
     {
@@ -8754,7 +8756,8 @@
       "Species": 587,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":1,"Comment":"Unova Week"}
+        {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":1,"Comment":"Unova Week"},
+        {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":19},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Carnival)"}
       ]
     },
     {
