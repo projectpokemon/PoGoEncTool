@@ -8040,7 +8040,7 @@
       "Species": 524,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Trade Evolution"},
+        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
         {"Start":{"Y":2020,"M":2,"D":4},"End":{"Y":2020,"M":2,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":2,"D":11},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Unova Week, Previously T1)"},
@@ -8055,7 +8055,7 @@
       "Species": 525,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Trade Evolution {Roggenrola}"},
+        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild {Roggenrola}"},
         {"Start":{"Y":2020,"M":2,"D":4},"End":{"Y":2020,"M":2,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Roggenrola}"},
         {"Start":{"Y":2020,"M":2,"D":11},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Roggenrola}"},
         {"Start":{"Y":2020,"M":3,"D":2},"End":{"Y":2020,"M":3,"D":6},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
@@ -8074,7 +8074,7 @@
       "Species": 526,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Trade Evolution {Roggenrola} {Boldore}"},
+        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild {Roggenrola} {Boldore}"},
         {"Start":{"Y":2020,"M":2,"D":4},"End":{"Y":2020,"M":2,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Roggenrola} {Boldore}"},
         {"Start":{"Y":2020,"M":2,"D":11},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Roggenrola} {Boldore}"},
         {"Start":{"Y":2020,"M":3,"D":2},"End":{"Y":2020,"M":3,"D":6},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Boldore}"},
@@ -8144,8 +8144,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":1,"D":10},"End":{"Y":2020,"M":3,"D":20},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":2,"Comment":"Release of Trade Evolution"},
-        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":3,"D":20},"Type":10,"LocalizedStart":true,"Comment":"aid Boss (GBL Season 1 Launch Celebration)"},
+        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs"},
+        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":3,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (GBL Season 1 Launch Celebration)"},
         {"Start":{"Y":2020,"M":3,"D":13},"Type":2,"LocalizedStart":true,"Comment":"Season 1 Launch Celebration"},
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":3,"D":27},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":21},"Type":10,"Comment":"T1 Raid Boss"},
@@ -8171,8 +8171,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":1,"D":10},"End":{"Y":2020,"M":3,"D":20},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Timburr}"},
-        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":2,"Comment":"Release of Trade Evolution {Timburr}"},
-        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":3,"D":20},"Type":10,"LocalizedStart":true,"Comment":"aid Boss (GBL Season 1 Launch Celebration) {Timburr}"},
+        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs {Timburr}"},
+        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":3,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (GBL Season 1 Launch Celebration) {Timburr}"},
         {"Start":{"Y":2020,"M":3,"D":13},"Type":2,"LocalizedStart":true,"Comment":"Season 1 Launch Celebration {Timburr}"},
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":3,"D":27},"Type":10,"Comment":"T1 Raid Boss {Timburr}"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":21},"Type":10,"Comment":"T1 Raid Boss {Timburr}"},
@@ -8198,8 +8198,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":1,"D":10},"End":{"Y":2020,"M":3,"D":20},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Timburr} {Gurdurr}"},
-        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":2,"Comment":"Release of Trade Evolution {Timburr} {Gurdurr}"},
-        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":3,"D":20},"Type":10,"LocalizedStart":true,"Comment":"aid Boss (GBL Season 1 Launch Celebration) {Timburr} {Gurdurr}"},
+        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs {Timburr} {Gurdurr}"},
+        {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":3,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (GBL Season 1 Launch Celebration) {Timburr} {Gurdurr}"},
         {"Start":{"Y":2020,"M":3,"D":13},"Type":2,"LocalizedStart":true,"Comment":"Season 1 Launch Celebration {Timburr} {Gurdurr}"},
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":3,"D":27},"Type":10,"Comment":"T1 Raid Boss {Timburr} {Gurdurr}"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":21},"Type":10,"Comment":"T1 Raid Boss {Timburr} {Gurdurr}"},
