@@ -8835,9 +8835,11 @@
       "Species": 594,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":2,"D":14},"Shiny":1,"Type":1,"Comment":"Valentine's Day 2020"},
+        {"Start":{"Y":2020,"M":2,"D":14},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Valentine's Day 2020"},
+        {"Start":{"Y":2020,"M":2,"D":14},"Shiny":1,"Type":2,"Comment":"Valentine's Day 2020"},
+        {"Start":{"Y":2020,"M":2,"D":14},"Shiny":1,"Type":20,"Comment":"Valentine's Day 2020"},
         {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Type":10,"Comment":"T3 Raid Boss (Valentine's Day 2021)"},
-        {"Start":{"Y":2021,"M":2,"D":14},"Type":1,"Comment":"Valentine's Day 2021"}
+        {"Start":{"Y":2021,"M":2,"D":14},"Type":20,"Comment":"Valentine's Day 2021"}
       ]
     },
     {
