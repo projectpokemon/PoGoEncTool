@@ -2638,7 +2638,7 @@
         {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Pokémon GO Park/Stadium)"},
         {"Start":{"Y":2017,"M":9,"D":6},"End":{"Y":2018,"M":9,"D":30},"Shiny":1,"Type":10,"Comment":"EX Raid Boss"},
         {"Start":{"Y":2018,"M":9,"D":20},"End":{"Y":2018,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Ultra Bonus Event 2018)"},
-        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2019,"M":9,"D":23},"Type":10,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2019,"M":9,"D":23},"Type":10,"Comment":"T5 Raid Boss (A Unova Unveiling)"},
         {"Start":{"Y":2019,"M":10,"D":5},"End":{"Y":2019,"M":11,"D":17},"Type":10,"Comment":"EX Raid Boss"},
         {"Start":{"Y":2019,"M":10,"D":8},"End":{"Y":2019,"M":10,"D":8},"Type":10,"Comment":"T5 Raid Boss (Mewtwo Raid Hour Makeup Day)"},
         {"Start":{"Y":2020,"M":5,"D":1},"Type":20,"Comment":"Throwback Challenge 2020: Kanto"},
@@ -7896,7 +7896,7 @@
       "Species": 504,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2019,"M":10,"D":17},"Type":10,"Comment":"T1 Raid Boss (A Unova Unveiling)"},
+        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2019,"M":10,"D":17},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"A Unova Unveiling"}
       ]
     },
@@ -7904,7 +7904,7 @@
       "Species": 505,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2019,"M":10,"D":17},"Type":10,"Comment":"T1 Raid Boss (A Unova Unveiling) {Patrat}"},
+        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2019,"M":10,"D":17},"Type":10,"Comment":"T1 Raid Boss {Patrat}"},
         {"Start":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"A Unova Unveiling {Patrat}"}
       ]
     },
