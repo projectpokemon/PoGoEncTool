@@ -2646,7 +2646,7 @@
         {"Start":{"Y":2019,"M":10,"D":5},"End":{"Y":2019,"M":11,"D":17},"Type":10,"Comment":"EX Raid Boss"},
         {"Start":{"Y":2019,"M":10,"D":8},"End":{"Y":2019,"M":10,"D":8},"Type":10,"Comment":"T5 Raid Boss (Mewtwo Raid Hour Makeup Day)"},
         {"Start":{"Y":2020,"M":5,"D":1},"Type":20,"Comment":"Throwback Challenge 2020: Kanto"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Boss Giovanni (An Inter-egg-sting Development)"},
+        {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2021,"M":2,"D":28},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Boss Giovanni (An Inter-egg-sting Development)"},
         {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":3,"D":1},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
