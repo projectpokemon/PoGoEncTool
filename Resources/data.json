@@ -2124,7 +2124,8 @@
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Kanto)"},
         {"Start":{"Y":2020,"M":12,"D":22},"End":{"Y":2020,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Holiday 2020)"},
         {"Start":{"Y":2020,"M":12,"D":22},"Type":20,"LocalizedStart":true,"Comment":"Holiday 2020"},
-        {"Start":{"Y":2020,"M":12,"D":26},"End":{"Y":2020,"M":12,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Holiday 2020"}
+        {"Start":{"Y":2020,"M":12,"D":26},"End":{"Y":2020,"M":12,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Holiday 2020"},
+        {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":2,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Kanto"}
       ]
     },
     {
@@ -2511,6 +2512,7 @@
         {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Summer Event)"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"},
         {"Start":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Tour: Kanto)"},
         {"Start":{"Y":2021,"M":2,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Kanto"}
       ]
     },
