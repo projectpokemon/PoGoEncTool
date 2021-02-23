@@ -1375,7 +1375,8 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
         {"Start":{"Y":2019,"M":9,"D":9},"Type":1,"Comment":"Global Challenge, Global Hatches"},
-        {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Tour: Kanto)"}
+        {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Tour: Kanto)"},
+        {"Start":{"Y":2021,"M":2,"D":23},"End":{"Y":2021,"M":3,"D":1},"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -1974,7 +1975,8 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
         {"Start":{"Y":2019,"M":9,"D":9},"Type":1,"Comment":"Global Challenge, Global Hatches"},
-        {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Tour: Kanto)"}
+        {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Tour: Kanto)"},
+        {"Start":{"Y":2021,"M":2,"D":23},"End":{"Y":2021,"M":3,"D":1},"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -2050,7 +2052,8 @@
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2020,"M":12,"D":16},"Type":1,"NoEndTolerance":true,"Comment":"Global Challenge, Global Hatches"},
         {"Start":{"Y":2019,"M":9,"D":9},"Type":2,"Comment":"Global Challenge, Global Hatches"},
         {"Start":{"Y":2021,"M":1,"D":8},"Type":1,"Comment":"Returned to Wild"},
-        {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Tour: Kanto)"}
+        {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Tour: Kanto)"},
+        {"Start":{"Y":2021,"M":2,"D":23},"End":{"Y":2021,"M":3,"D":1},"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -2205,7 +2208,8 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
         {"Start":{"Y":2019,"M":9,"D":9},"Type":1,"Comment":"Global Challenge, Global Hatches"},
-        {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Tour: Kanto)"}
+        {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Tour: Kanto)"},
+        {"Start":{"Y":2021,"M":2,"D":23},"End":{"Y":2021,"M":3,"D":1},"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
