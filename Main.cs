@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Windows.Forms;
@@ -249,6 +250,43 @@ namespace PoGoEncTool
                 pogoRow1.SaveEntry(detail);
 
                 var parent = Entries.GetDetails(evo.Species, evo.Form);
+                parent.Add(detail);
+            }
+            System.Media.SystemSounds.Asterisk.Play();
+        }
+
+        private void B_CopyToForms_Click(object sender, EventArgs e)
+        {
+            if (CB_Form.Items.Count <= 1)
+            {
+                WinFormsUtil.Alert("The current Pokémon does not have other forms; no results found to copy to.");
+                return;
+            }
+
+            var species = CurrentSpecies;
+            var form = CB_Form.SelectedIndex;
+            List<ComboItem> entries = new();
+            for (int f = 0; f < CB_Form.Items.Count; f++)
+            {
+                if (f == form)
+                    continue;
+                var entry = CB_Form.Items[f];
+                var combo = new ComboItem((string) entry, f);
+                entries.Add(combo);
+            }
+
+            var names = entries.Select(z => $"{z.Value}-{z.Text}");
+            var prompt = string.Join(Environment.NewLine, names);
+            var result = WinFormsUtil.Prompt(MessageBoxButtons.YesNo, "Copy the current edit-fields to the following entries as a NEW ENTRY?", prompt);
+            if (result != DialogResult.Yes)
+                return;
+
+            foreach (var formCombo in entries)
+            {
+                var detail = PogoEntry.CreateNew();
+                pogoRow1.SaveEntry(detail);
+
+                var parent = Entries.GetDetails(species, formCombo.Value);
                 parent.Add(detail);
             }
             System.Media.SystemSounds.Asterisk.Play();

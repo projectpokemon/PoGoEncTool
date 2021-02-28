@@ -42,6 +42,7 @@ namespace PoGoEncTool
             this.L_PGFandom = new System.Windows.Forms.LinkLabel();
             this.B_CopyTo = new System.Windows.Forms.Button();
             this.CHK_Available = new System.Windows.Forms.CheckBox();
+            this.B_CopyToForms = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.PB_Poke)).BeginInit();
             this.SuspendLayout();
             // 
@@ -183,11 +184,22 @@ namespace PoGoEncTool
             this.CHK_Available.UseVisualStyleBackColor = true;
             this.CHK_Available.CheckedChanged += new System.EventHandler(this.CHK_Available_CheckedChanged);
             // 
+            // B_CopyToForms
+            // 
+            this.B_CopyToForms.Location = new System.Drawing.Point(148, 304);
+            this.B_CopyToForms.Name = "B_CopyToForms";
+            this.B_CopyToForms.Size = new System.Drawing.Size(69, 47);
+            this.B_CopyToForms.TabIndex = 18;
+            this.B_CopyToForms.Text = "Copy to\r\nForms";
+            this.B_CopyToForms.UseVisualStyleBackColor = true;
+            this.B_CopyToForms.Click += new System.EventHandler(this.B_CopyToForms_Click);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(972, 662);
+            this.Controls.Add(this.B_CopyToForms);
             this.Controls.Add(this.CHK_Available);
             this.Controls.Add(this.B_CopyTo);
             this.Controls.Add(this.L_PGFandom);
@@ -226,6 +238,7 @@ namespace PoGoEncTool
         private System.Windows.Forms.LinkLabel L_PGFandom;
         private System.Windows.Forms.Button B_CopyTo;
         private System.Windows.Forms.CheckBox CHK_Available;
+        private System.Windows.Forms.Button B_CopyToForms;
     }
 }
 
