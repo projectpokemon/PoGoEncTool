@@ -2683,7 +2683,8 @@
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"},
         {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Johto Celebration Event"},
-        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -2704,7 +2705,8 @@
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Chikorita}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Chikorita}"},
         {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Johto Celebration Event {Chikorita}"},
-        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Chikorita}"}
+        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Chikorita}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Chikorita}"}
       ]
     },
     {
@@ -2725,7 +2727,8 @@
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Chikorita} {Bayleef}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Chikorita} {Bayleef}"},
         {"Start":{"Y":2021,"M":1,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Johto Celebration Event {Chikorita} {Bayleef}"},
-        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Chikorita} {Bayleef}"}
+        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Chikorita} {Bayleef}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Chikorita} {Bayleef}"}
       ]
     },
     {
@@ -2742,7 +2745,8 @@
         {"Start":{"Y":2020,"M":12,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"},
-        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -2762,7 +2766,8 @@
         {"Start":{"Y":2020,"M":12,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Cyndaquil}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Cyndaquil}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Cyndaquil}"},
-        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Cyndaquil}"}
+        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Cyndaquil}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Cyndaquil}"}
       ]
     },
     {
@@ -2783,7 +2788,8 @@
         {"Start":{"Y":2020,"M":12,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Cyndaquil} {Quilava}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Cyndaquil} {Quilava}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Cyndaquil} {Quilava}"},
-        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Cyndaquil} {Quilava}"}
+        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Cyndaquil} {Quilava}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Cyndaquil} {Quilava}"}
       ]
     },
     {
@@ -2800,7 +2806,8 @@
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2020)"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"},
-        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -2823,7 +2830,8 @@
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2020) {Totodile}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Totodile}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Totodile}"},
-        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Totodile}"}
+        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Totodile}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Totodile}"}
       ]
     },
     {
@@ -2850,7 +2858,8 @@
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2020) {Totodile} {Croconaw}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Totodile} {Croconaw}"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event) {Totodile} {Croconaw}"},
-        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Totodile} {Croconaw}"}
+        {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Totodile} {Croconaw}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Totodile} {Croconaw}"}
       ]
     },
     {
@@ -3243,7 +3252,8 @@
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":5,"D":8},"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Johto"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Bug Out 2020)"},
-        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"}
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -5264,7 +5274,8 @@
         {"Start":{"Y":2018,"M":7,"D":14},"Type":20,"Comment":"GO Fest 2018"},
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"T1 Raid Boss (Hoenn Celebration 2019)"},
         {"Start":{"Y":2021,"M":1,"D":24},"End":{"Y":2021,"M":1,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Incense Day: Electric and Dragon Type"},
-        {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Type":1,"Comment":"Valentine's Day 2021"}
+        {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Type":1,"Comment":"Valentine's Day 2021"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -5277,7 +5288,8 @@
         {"Start":{"Y":2018,"M":7,"D":14},"Type":20,"Comment":"GO Fest 2018"},
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"T1 Raid Boss (Hoenn Celebration 2019)"},
         {"Start":{"Y":2021,"M":1,"D":24},"End":{"Y":2021,"M":1,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Incense Day: Electric and Dragon Type"},
-        {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Type":1,"Comment":"Valentine's Day 2021"}
+        {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Type":1,"Comment":"Valentine's Day 2021"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -6800,7 +6812,8 @@
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event)"},
         {"Start":{"Y":2021,"M":1,"D":12},"Type":2,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"},
-        {"Start":{"Y":2021,"M":1,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"}
+        {"Start":{"Y":2021,"M":1,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -6820,7 +6833,8 @@
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Buizel}"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event) {Buizel}"},
         {"Start":{"Y":2021,"M":1,"D":12},"Type":2,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Buizel}"},
-        {"Start":{"Y":2021,"M":1,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Buizel}"}
+        {"Start":{"Y":2021,"M":1,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Buizel}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Buizel}"}
       ]
     },
     {
@@ -6980,7 +6994,8 @@
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Throwback Challenge 2020: Sinnoh"},
         {"Start":{"Y":2020,"M":5,"D":22},"Type":2,"Comment":"Throwback Challenge 2020: Sinnoh"},
         {"Start":{"Y":2020,"M":5,"D":22},"Type":20,"Comment":"Throwback Challenge 2020: Sinnoh"},
-        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"}
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -6992,7 +7007,8 @@
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":12,"D":1},"Type":1,"NoEndTolerance":true,"Comment":"Throwback Challenge 2020: Sinnoh {Glameow}"},
         {"Start":{"Y":2020,"M":5,"D":22},"Type":2,"Comment":"Throwback Challenge 2020: Sinnoh {Glameow}"},
         {"Start":{"Y":2020,"M":5,"D":22},"Type":20,"Comment":"Throwback Challenge 2020: Sinnoh {Glameow}"},
-        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Glameow}"}
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Glameow}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Glameow}"}
       ]
     },
     {
@@ -7154,7 +7170,8 @@
         {"Start":{"Y":2020,"M":5,"D":29},"End":{"Y":2020,"M":6,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":9},"End":{"Y":2020,"M":6,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Summer Event, Previously T1)"},
-        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"}
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -7174,7 +7191,8 @@
         {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":10,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Sinnoh Celebration Event {Hippopotas}"},
-        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Sinnoh Celebration Event)"}
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Sinnoh Celebration Event)"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Hippopotas}"}
       ]
     },
     {
@@ -7517,7 +7535,8 @@
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (A Drive to Investigate) {Yanma}"},
         {"Start":{"Y":2020,"M":5,"D":8},"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Johto {Yanma}"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Bug Out 2020) {Yanma}"},
-        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Yanma}"}
+        {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Johto Celebration Event {Yanma}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Yanma}"}
       ]
     },
     {
@@ -7856,7 +7875,7 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event)"},
         {"Start":{"Y":2021,"M":1,"D":5},"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere)"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -7869,7 +7888,7 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Snivy}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event) {Snivy}"},
         {"Start":{"Y":2021,"M":1,"D":5},"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event {Snivy}"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere) {Snivy}"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Snivy}"}
       ]
     },
     {
@@ -7882,7 +7901,7 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Snivy} {Servine}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event) {Snivy} {Servine}"},
         {"Start":{"Y":2021,"M":1,"D":5},"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event {Snivy} {Servine}"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere) {Snivy} {Servine}"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Snivy} {Servine}"}
       ]
     },
     {
@@ -7897,7 +7916,7 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event)"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Lunar New Year 2021"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere)"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -7912,7 +7931,7 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Tepig}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event) {Tepig}"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Lunar New Year 2021 {Tepig}"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere) {Tepig}"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Tepig}"}
       ]
     },
     {
@@ -7927,7 +7946,7 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Tepig} {Pignite}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event) {Tepig} {Pignite}"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Lunar New Year 2021 {Tepig} {Pignite}"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere) {Tepig} {Pignite}"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Tepig} {Pignite}"}
       ]
     },
     {
@@ -7942,7 +7961,7 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event)"},
         {"Start":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere)"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -7957,7 +7976,7 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Oshawott}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event) {Oshawott}"},
         {"Start":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event {Oshawott}"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere) {Oshawott}"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Oshawott}"}
       ]
     },
     {
@@ -7972,7 +7991,7 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Oshawott} {Dewott}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Celebration Event) {Oshawott} {Dewott}"},
         {"Start":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Unova Celebration Event {Oshawott} {Dewott}"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere) {Oshawott} {Dewott}"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Oshawott} {Dewott}"}
       ]
     },
     {
@@ -8383,7 +8402,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Unova Week"},
-        {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":2,"Comment":"Unova Week"}
+        {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":2,"Comment":"Unova Week"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -8391,7 +8411,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Unova Week {Sewaddle}"},
-        {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":2,"Comment":"Unova Week {Sewaddle}"}
+        {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":2,"Comment":"Unova Week {Sewaddle}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Sewaddle}"}
       ]
     },
     {
@@ -8399,7 +8420,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Unova Week {Sewaddle} {Swadloon}"},
-        {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":2,"Comment":"Unova Week {Sewaddle} {Swadloon}"}
+        {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":2,"Comment":"Unova Week {Sewaddle} {Swadloon}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Sewaddle} {Swadloon}"}
       ]
     },
     {
@@ -8984,7 +9006,7 @@
         {"Start":{"Y":2020,"M":11,"D":7},"Type":2,"Comment":"Pokémon GO Special Weekend"},
         {"Start":{"Y":2020,"M":11,"D":7},"Type":20,"Comment":"Pokémon GO Special Weekend"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere)"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -9002,7 +9024,7 @@
         {"Start":{"Y":2020,"M":11,"D":7},"Type":2,"Comment":"Pokémon GO Special Weekend {Ferroseed}"},
         {"Start":{"Y":2020,"M":11,"D":7},"Type":20,"Comment":"Pokémon GO Special Weekend {Ferroseed}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Ferroseed}"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season of Legends (Southern Hemisphere) {Ferroseed}"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Ferroseed}"}
       ]
     },
     {
