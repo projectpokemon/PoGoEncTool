@@ -9268,7 +9268,8 @@
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"A Unova Unveiling"},
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":2,"Comment":"A Unova Unveiling"},
-        {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":20,"Comment":"Halloween 2019"}
+        {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":20,"Comment":"Halloween 2019"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -9278,7 +9279,8 @@
         {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"A Unova Unveiling {Golett}"},
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":2,"Comment":"A Unova Unveiling {Golett}"},
         {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":20,"Comment":"Halloween 2019 {Golett}"},
-        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"}
+        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Golett}"}
       ]
     },
     {
