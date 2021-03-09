@@ -9491,7 +9491,8 @@
       "Data": [
         {"Start":{"Y":2020,"M":3,"D":2},"End":{"Y":2020,"M":3,"D":31},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":9},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Legendary Encounter"},
-        {"Start":{"Y":2021,"M":3,"D":11},"End":{"Y":2021,"M":3,"D":16},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2021,"M":3,"D":11},"End":{"Y":2021,"M":3,"D":16},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":3,"D":11},"End":{"Y":2021,"M":5,"D":31},"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Legendary Encounter"}
       ]
     },
     {
