@@ -561,7 +561,7 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Cleffa on Dec. 12, 2016)"},
         {"Start":{"Y":2019,"M":2,"D":13},"Type":2,"Comment":"Valentine's Day 2019 {Cleffa}"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally released at GO Fest Chicago 2019"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally Released at GO Fest Chicago 2019"},
         {"Start":{"Y":2020,"M":6,"D":19},"Type":1,"LocalizedStart":true,"Comment":"Summer Solstice"},
         {"Start":{"Y":2020,"M":7,"D":9},"End":{"Y":2020,"M":7,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":16},"End":{"Y":2020,"M":7,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
@@ -578,7 +578,7 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Cleffa on Dec. 12, 2016) {Clefairy}"},
         {"Start":{"Y":2019,"M":2,"D":13},"Type":2,"Comment":"Valentine's Day 2019 {Clefairy}"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally released at GO Fest Chicago 2019 {Clefairy}"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally Released at GO Fest Chicago 2019 {Clefairy}"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":19},"Type":1,"LocalizedStart":true,"Comment":"Summer Solstice {Clefairy}"},
         {"Start":{"Y":2020,"M":7,"D":9},"End":{"Y":2020,"M":7,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Clefairy}"},
@@ -5996,8 +5996,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":21},"Type":1,"Comment":"Hoenn Region (Aquatic Theme) {Snorunt}"},
-        {"Start":{"Y":2018,"M":2,"D":9},"End":{"Y":2018,"M":4,"D":10},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
-        {"Start":{"Y":2018,"M":4,"D":18},"End":{"Y":2018,"M":5,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
+        {"Start":{"Y":2018,"M":2,"D":9},"End":{"Y":2018,"M":4,"D":10},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
+        {"Start":{"Y":2018,"M":4,"D":18},"End":{"Y":2018,"M":5,"D":24},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
         {"Start":{"Y":2018,"M":6,"D":6},"End":{"Y":2018,"M":6,"D":7},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
         {"Start":{"Y":2018,"M":10,"D":23},"End":{"Y":2018,"M":11,"D":16},"Type":10,"Comment":"T1 Raid Boss (Halloween 2018) {Snorunt}"},
         {"Start":{"Y":2018,"M":11,"D":28},"End":{"Y":2019,"M":1,"D":2},"Type":10,"Comment":"T1 Raid Boss (Holiday 2018) {Snorunt}"},
@@ -7746,8 +7746,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":21},"Type":1,"Comment":"Hoenn Region (Aquatic Theme) {Snorunt}"},
-        {"Start":{"Y":2018,"M":2,"D":9},"End":{"Y":2018,"M":4,"D":10},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
-        {"Start":{"Y":2018,"M":4,"D":18},"End":{"Y":2018,"M":5,"D":24},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
+        {"Start":{"Y":2018,"M":2,"D":9},"End":{"Y":2018,"M":4,"D":10},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
+        {"Start":{"Y":2018,"M":4,"D":18},"End":{"Y":2018,"M":5,"D":24},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
         {"Start":{"Y":2018,"M":6,"D":6},"End":{"Y":2018,"M":6,"D":7},"Type":10,"Comment":"T1 Raid Boss {Snorunt}"},
         {"Start":{"Y":2018,"M":10,"D":23},"End":{"Y":2018,"M":11,"D":16},"Type":10,"Comment":"T1 Raid Boss (Halloween 2018) {Snorunt}"},
         {"Start":{"Y":2018,"M":11,"D":28},"End":{"Y":2019,"M":1,"D":2},"Type":10,"Comment":"T1 Raid Boss (Holiday 2018) {Snorunt}"},
