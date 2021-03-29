@@ -6980,7 +6980,8 @@
         {"Start":{"Y":2018,"M":10,"D":16},"End":{"Y":2018,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Buneary}"},
         {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release {Buneary}"},
         {"Start":{"Y":2019,"M":4,"D":16},"Type":1,"Comment":"Eggstravaganza 2019 {Buneary}"},
-        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Sinnoh Celebration Event)"}
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Sinnoh Celebration Event)"},
+        {"Start":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -9709,7 +9710,8 @@
       "Species": 659,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"}
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"},
+        {"Start":{"Y":2021,"M":4,"D":4},"Type":1,"LocalizedStart":true,"Comment":"Spring into Spring 2021"}
       ]
     },
     {
