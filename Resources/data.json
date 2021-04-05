@@ -514,7 +514,8 @@
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Kanto)"},
         {"Start":{"Y":2020,"M":7,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt {NidoranF} {Nidorina}"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon HOME Event)"},
-        {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Team GO Rocket Celebration)"}
+        {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Team GO Rocket Celebration)"},
+        {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Rivals' Week)"}
       ]
     },
     {
@@ -553,7 +554,8 @@
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Kanto)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Team GO Rocket Event)"},
         {"Start":{"Y":2020,"M":7,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt {NidoranM} {Nidorino}"},
-        {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (The Seasons Change: Part 2)"}
+        {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (The Seasons Change: Part 2)"},
+        {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Rivals' Week)"}
       ]
     },
     {
@@ -5627,7 +5629,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial Hoenn Release"},
-        {"Start":{"Y":2019,"M":9,"D":26},"Type":1,"Comment":"World Tourism Day"}
+        {"Start":{"Y":2019,"M":9,"D":26},"Type":1,"Comment":"World Tourism Day"},
+        {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Rivals' Week)"}
       ]
     },
     {
@@ -5635,7 +5638,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial Hoenn Release"},
-        {"Start":{"Y":2019,"M":9,"D":26},"Type":1,"Comment":"World Tourism Day"}
+        {"Start":{"Y":2019,"M":9,"D":26},"Type":1,"Comment":"World Tourism Day"},
+        {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Rivals' Week)"}
       ]
     },
     {
@@ -9834,6 +9838,38 @@
         {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":3,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"},
         {"Start":{"Y":2021,"M":3,"D":14},"End":{"Y":2021,"M":3,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"},
         {"Start":{"Y":2021,"M":3,"D":23},"End":{"Y":2021,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"}
+      ]
+    },
+    {
+      "Species": 690,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Rivals' Week)"},
+        {"Start":{"Y":2021,"M":4,"D":13},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Rivals' Week"}
+      ]
+    },
+    {
+      "Species": 691,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Rivals' Week) {Skrelp}"},
+        {"Start":{"Y":2021,"M":4,"D":13},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Rivals' Week {Skrelp}"}
+      ]
+    },
+    {
+      "Species": 692,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Rivals' Week)"},
+        {"Start":{"Y":2021,"M":4,"D":13},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Rivals' Week"}
+      ]
+    },
+    {
+      "Species": 693,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Rivals' Week) {Clauncher}"},
+        {"Start":{"Y":2021,"M":4,"D":13},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Rivals' Week {Clauncher}"}
       ]
     },
     {
