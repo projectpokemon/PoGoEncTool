@@ -1972,14 +1972,19 @@
       "Species": 113,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
+        {"Start":{"Y":2016,"M":7,"D":6},"End":{"Y":2021,"M":4,"D":4},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Available at launch"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":2,"Comment":"Available at launch (And as Happiny on Feb. 13, 2019)"},
+        {"Start":{"Y":2018,"M":4,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":21},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Valentine's Day 2019)"},
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Extraordinary Raid Week)"},
         {"Start":{"Y":2020,"M":2,"D":14},"End":{"Y":2020,"M":2,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Valentine's Day 2020, Previously T3)"},
-        {"Start":{"Y":2020,"M":2,"D":14},"Type":1,"LocalizedStart":true,"Comment":"Valentine's Day 2020"},
+        {"Start":{"Y":2020,"M":2,"D":14},"End":{"Y":2021,"M":4,"D":4},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Valentine's Day 2020"},
+        {"Start":{"Y":2020,"M":2,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Valentine's Day 2020 {Happiny}"},
+        {"Start":{"Y":2020,"M":2,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (GO Fest 2020, Previously T4)"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event)"}
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event)"},
+        {"Start":{"Y":2021,"M":4,"D":8},"Type":1,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -4265,14 +4270,20 @@
       "Species": 242,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Chansey}"},
+        {"Start":{"Y":2016,"M":7,"D":6},"End":{"Y":2021,"M":4,"D":4},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"Available at launch {Chansey}"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":2,"Comment":"Available at launch (And as Happiny on Feb. 13, 2019) {Chansey}"},
+        {"Start":{"Y":2018,"M":4,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task {Chansey}"},
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":21},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Valentine's Day 2019) {Chansey}"},
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss {Chansey}"},
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Extraordinary Raid Week) {Chansey}"},
         {"Start":{"Y":2020,"M":2,"D":14},"End":{"Y":2020,"M":2,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Valentine's Day 2020, Previously T3) {Chansey}"},
-        {"Start":{"Y":2020,"M":2,"D":14},"Type":1,"LocalizedStart":true,"Comment":"Valentine's Day 2020 {Chansey}"},
+        {"Start":{"Y":2020,"M":2,"D":14},"End":{"Y":2021,"M":4,"D":4},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Valentine's Day 2020 {Chansey}"},
+        {"Start":{"Y":2020,"M":2,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Valentine's Day 2020 {Chansey}"},
+        {"Start":{"Y":2020,"M":2,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Valentine's Day 2020 {Chansey}"},
+        {"Start":{"Y":2020,"M":2,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Field Research Task {Chansey}"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (GO Fest 2020, Previously T4) {Chansey}"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event) {Chansey}"}
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event) {Chansey}"},
+        {"Start":{"Y":2021,"M":4,"D":8},"Type":1,"Comment":"Returned to Wild {Chansey}"}
       ]
     },
     {
