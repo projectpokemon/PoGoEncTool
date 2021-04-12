@@ -5,6 +5,7 @@ using System.Linq;
 using System.Windows.Forms;
 using PKHeX.Core;
 using PKHeX.Drawing;
+using static PKHeX.Core.Species;
 
 namespace PoGoEncTool
 {
@@ -29,9 +30,60 @@ namespace PoGoEncTool
             // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = PogoType.Shadow);
             // Entries.ModifyAll(_ => true, e => e.Available = e.Data.Count != 0);
             // Entries.ReapplyDuplicates();
+            // AddRaidBosses();
 
             LoadEntries();
             InitializeDataSources();
+        }
+
+        private void AddRaidBosses()
+        {
+            var T1 = new[] { (int)Bulbasaur };
+            var T3 = new[] { (int)Bulbasaur };
+            var bosses = T1.Concat(T3);
+
+            foreach (var pkm in bosses)
+            {
+                var form = pkm switch
+                {
+                    (int)Rattata => 1,
+                    _ => 0,
+                };
+
+                var species = Entries.GetDetails(pkm, form);
+                var entry = new PogoEntry()
+                {
+                    Start = new PogoDate { Y = 2000, M = 1, D = 1 },
+                    End = new PogoDate { Y = 2000, M = 1, D = 1 },
+                    Type = PogoType.Raid,
+                    // LocalizedStart = true,
+                    // NoEndTolerance = true,
+                };
+
+                if (pkm is not (int)Bulbasaur)
+                    entry.Shiny = PogoShiny.Random;
+                if (!species.Available) // set debut species to be available
+                    species.Available = true;
+                // if (pkm is (int)Frillish or (int)Jellicent)
+                //     entry.Gender = PogoGender.MaleOnly;
+
+                if (T1.Contains(pkm)) entry.Comment = "T1 Raid Boss";
+                if (T3.Contains(pkm)) entry.Comment = "T3 Raid Boss";
+                species.Add(entry);
+
+                // copy to evos
+                var evos = EvoUtil.GetEvoSpecForms(pkm, form)
+                    .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
+                    .Where(z => EvoUtil.IsAllowedEvolution(pkm, form, z.Species, z.Form)).ToArray();
+
+                foreach (var evo in evos)
+                {
+                    var parent = Entries.GetDetails(evo.Species, evo.Form);
+                    if (!parent.Available) // set debut species' evos to be available
+                        parent.Available = true;
+                    parent.Add(entry);
+                }
+            }
         }
 
         private void InitializeDataSources()
@@ -41,7 +93,7 @@ namespace PoGoEncTool
             CB_Species.ValueMember = nameof(ComboItem.Value);
             CB_Species.DataSource = new BindingSource(gi, null);
             ChangingFields = false;
-            CB_Species.SelectedValue = (int)Species.Bulbasaur;
+            CB_Species.SelectedValue = (int)Bulbasaur;
         }
 
         private void LoadEntries()
