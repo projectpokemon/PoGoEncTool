@@ -8852,7 +8852,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
-        {"Start":{"Y":2020,"M":3,"D":6},"End":{"Y":2020,"M":3,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Team GO Rocket Global Take-over)"}
+        {"Start":{"Y":2020,"M":3,"D":6},"End":{"Y":2020,"M":3,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Team GO Rocket Global Take-over)"},
+        {"Start":{"Y":2021,"M":4,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week"}
       ]
     },
     {
@@ -8862,7 +8863,8 @@
         {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild {Trubbish}"},
         {"Start":{"Y":2020,"M":3,"D":6},"End":{"Y":2020,"M":3,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Team GO Rocket Global Take-over) {Trubbish}"},
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T4 Raid Boss (Unova Week)"},
-        {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (The Seasons Change: Part 2)"}
+        {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (The Seasons Change: Part 2)"},
+        {"Start":{"Y":2021,"M":4,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week {Trubbish}"}
       ]
     },
     {
@@ -9898,6 +9900,20 @@
         {"Start":{"Y":2021,"M":3,"D":14},"End":{"Y":2021,"M":3,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"},
         {"Start":{"Y":2021,"M":3,"D":23},"End":{"Y":2021,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"},
         {"Start":{"Y":2021,"M":4,"D":12},"End":{"Y":2021,"M":4,"D":12},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Espurr}"}
+      ]
+    },
+    {
+      "Species": 688,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week"}
+      ]
+    },
+    {
+      "Species": 689,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week {Binacle}"}
       ]
     },
     {
