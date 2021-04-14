@@ -4220,7 +4220,8 @@
       "Species": 235,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":2,"D":25},"Shiny":1,"Type":1,"Comment":"GO Snapshot"}
+        {"Start":{"Y":2019,"M":2,"D":25},"Shiny":1,"Type":1,"Comment":"GO Snapshot"},
+        {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Type":1,"LocalizedStart":true,"Comment":"New Pokémon Snap Celebration"}
       ]
     },
     {
