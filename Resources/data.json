@@ -3402,7 +3402,7 @@
         {"Start":{"Y":2019,"M":6,"D":12},"End":{"Y":2019,"M":6,"D":18},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":10,"D":17},"Type":10,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2019,"M":10,"D":17},"End":{"Y":2019,"M":11,"D":1},"Type":10,"Comment":"T1 Raid Boss (Previously T2)"},
+        {"Start":{"Y":2019,"M":10,"D":17},"End":{"Y":2019,"M":11,"D":1},"Type":10,"Comment":"T1 Raid Boss (Halloween 2019, Previously T2)"},
         {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":2,"D":7},"End":{"Y":2020,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Sinnoh Celebration, Previously T1)"},
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Type":10,"Comment":"T2 Raid Boss (Pokémon Day 2020)"},
@@ -6604,7 +6604,7 @@
         {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Bug Out! 2019)"},
         {"Start":{"Y":2020,"M":10,"D":2},"Type":1,"Comment":"Fashion Week"},
-        {"Start":{"Y":2021,"M":2,"D":18},"End":{"Y":2021,"M":2,"D":18},"Type":10,"Comment":"T1 Raid Boss (Carnival)"}
+        {"Start":{"Y":2021,"M":2,"D":18},"End":{"Y":2021,"M":2,"D":18},"Type":10,"Comment":"T1 Raid Boss (Celebrate Carnival)"}
       ]
     },
     {
@@ -6616,7 +6616,7 @@
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Bug Out! 2019) {Kricketot}"},
         {"Start":{"Y":2020,"M":2,"D":7},"End":{"Y":2020,"M":2,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Sinnoh Celebration)"},
         {"Start":{"Y":2020,"M":10,"D":2},"Type":1,"Comment":"Fashion Week {Kricketot}"},
-        {"Start":{"Y":2021,"M":2,"D":18},"End":{"Y":2021,"M":2,"D":18},"Type":10,"Comment":"T1 Raid Boss (Carnival) {Kricketot}"}
+        {"Start":{"Y":2021,"M":2,"D":18},"End":{"Y":2021,"M":2,"D":18},"Type":10,"Comment":"T1 Raid Boss (Celebrate Carnival) {Kricketot}"}
       ]
     },
     {
@@ -7065,7 +7065,7 @@
         {"Start":{"Y":2019,"M":6,"D":12},"End":{"Y":2019,"M":6,"D":18},"Type":10,"Comment":"T2 Raid Boss {Misdreavus}"},
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"T2 Raid Boss {Misdreavus}"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":10,"D":17},"Type":10,"Comment":"T2 Raid Boss {Misdreavus}"},
-        {"Start":{"Y":2019,"M":10,"D":17},"End":{"Y":2019,"M":11,"D":1},"Type":10,"Comment":"T1 Raid Boss (Previously T2) {Misdreavus}"},
+        {"Start":{"Y":2019,"M":10,"D":17},"End":{"Y":2019,"M":11,"D":1},"Type":10,"Comment":"T1 Raid Boss (Halloween 2019, Previously T2) {Misdreavus}"},
         {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt {Misdreavus}"},
         {"Start":{"Y":2020,"M":2,"D":7},"End":{"Y":2020,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Sinnoh Celebration, Previously T1) {Misdreavus}"},
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Type":10,"Comment":"T2 Raid Boss (Pokémon Day 2020) {Misdreavus}"},
@@ -8225,8 +8225,8 @@
       "Species": 517,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Shiny":1,"Type":1,"Comment":"Valentine's Day 2021"},
         {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Valentine's Day 2021)"},
+        {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":19},"Shiny":1,"Type":1,"Comment":"Valentine's Day 2021 / Celebrate Carnival"},
         {"Start":{"Y":2021,"M":2,"D":14},"Shiny":1,"Type":2,"Comment":"Valentine's Day 2021"},
         {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
@@ -8235,8 +8235,8 @@
       "Species": 518,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Shiny":1,"Type":1,"Comment":"Valentine's Day 2021 {Munna}"},
         {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Valentine's Day 2021) {Munna}"},
+        {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":19},"Shiny":1,"Type":1,"Comment":"Valentine's Day 2021 / Celebrate Carnival {Munna}"},
         {"Start":{"Y":2021,"M":2,"D":14},"Shiny":1,"Type":2,"Comment":"Valentine's Day 2021 {Munna}"},
         {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Munna}"}
       ]
@@ -9078,7 +9078,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":1,"Comment":"Unova Week"},
-        {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":19},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Carnival)"}
+        {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":19},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Celebrate Carnival)"}
       ]
     },
     {
