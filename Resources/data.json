@@ -4220,7 +4220,20 @@
       "Species": 235,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":2,"D":25},"Shiny":1,"Type":1,"Comment":"GO Snapshot"},
+        {"Start":{"Y":2019,"M":2,"D":25},"End":{"Y":2019,"M":4,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Original Cap Pikachu)"},
+        {"Start":{"Y":2019,"M":4,"D":3},"End":{"Y":2019,"M":5,"D":7},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Detective Pikachu)"},
+        {"Start":{"Y":2019,"M":5,"D":17},"End":{"Y":2019,"M":6,"D":28},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Party Hat Pikachu)"},
+        {"Start":{"Y":2019,"M":7,"D":7},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Clone Pikachu)"},
+        {"Start":{"Y":2020,"M":3,"D":2},"End":{"Y":2020,"M":4,"D":1},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Aipom and Croagunk)"},
+        {"Start":{"Y":2020,"M":4,"D":7},"End":{"Y":2020,"M":7,"D":3},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Flying Pikachu)"},
+        {"Start":{"Y":2020,"M":7,"D":8},"End":{"Y":2020,"M":7,"D":17},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Summer Event Spawns)"},
+        {"Start":{"Y":2020,"M":7,"D":22},"End":{"Y":2020,"M":9,"D":22},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Mega Evolvable Species)"},
+        {"Start":{"Y":2020,"M":9,"D":28},"End":{"Y":2020,"M":10,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Backwards Cap Croagunk)"},
+        {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"GO Snapshot (Became The Seasons Change: Part 2 Spawns)"},
+        {"Start":{"Y":2020,"M":10,"D":20},"End":{"Y":2020,"M":10,"D":24},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Misdreavus and Yamask)"},
+        {"Start":{"Y":2020,"M":11,"D":4},"End":{"Y":2020,"M":11,"D":6},"Shiny":1,"Type":1,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Scyther)"},
+        {"Start":{"Y":2020,"M":11,"D":12},"End":{"Y":2020,"M":12,"D":8},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GO Snapshot (Became Meowth and Wobbuffet)"},
+        {"Start":{"Y":2020,"M":12,"D":17},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Snapshot"},
         {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Type":1,"LocalizedStart":true,"Comment":"New Pokémon Snap Celebration"}
       ]
     },
@@ -7856,7 +7869,7 @@
       "Form": 2,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Snapshot (GO Fest 2020)"}
       ]
     },
     {
