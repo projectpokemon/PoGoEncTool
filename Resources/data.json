@@ -8834,7 +8834,7 @@
       "Species": 551,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change"},
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change"},
         {"Start":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":20,"Comment":"Level 45 Challenge"}
       ]
     },
@@ -8842,7 +8842,7 @@
       "Species": 552,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Sandile}"},
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change {Sandile}"},
         {"Start":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":20,"Comment":"Level 45 Challenge {Sandile}"}
       ]
     },
@@ -8850,7 +8850,7 @@
       "Species": 553,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Sandile} {Krokorok}"},
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change {Sandile} {Krokorok}"},
         {"Start":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":20,"Comment":"Level 45 Challenge {Sandile} {Krokorok}"}
       ]
     },
@@ -8941,7 +8941,7 @@
         {"Start":{"Y":2020,"M":5,"D":17},"End":{"Y":2020,"M":5,"D":17},"Shiny":1,"Type":1,"Comment":"Incense Day: Water- and Dark-type"},
         {"Start":{"Y":2020,"M":6,"D":29},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 3"},
         {"Start":{"Y":2020,"M":8,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change"},
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Team GO Rocket Celebration"}
       ]
@@ -8956,7 +8956,7 @@
         {"Start":{"Y":2020,"M":5,"D":17},"End":{"Y":2020,"M":5,"D":17},"Shiny":1,"Type":1,"Comment":"Incense Day: Water- and Dark-type {Scraggy}"},
         {"Start":{"Y":2020,"M":6,"D":29},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Season 3 {Scraggy}"},
         {"Start":{"Y":2020,"M":8,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough {Scraggy}"},
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Scraggy}"},
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change {Scraggy}"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event {Scraggy}"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Team GO Rocket Celebration {Scraggy}"}
       ]
@@ -9685,7 +9685,7 @@
       "Species": 624,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change"},
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change"},
         {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"Comment":"Level 43 Challenge"}
       ]
     },
@@ -9693,7 +9693,7 @@
       "Species": 625,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Pawniard}"},
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change {Pawniard}"},
         {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"Comment":"Level 43 Challenge {Pawniard}"}
       ]
     },
@@ -9744,14 +9744,14 @@
       "Species": 629,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change"}
       ]
     },
     {
       "Species": 630,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":2,"Comment":"The Seasons Change {Vullaby}"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change {Vullaby}"}
       ]
     },
     {
@@ -10053,14 +10053,14 @@
       "Species": 674,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Luminous Legends Y"}
+        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":3,"LocalizedStart":true,"Comment":"Luminous Legends Y"}
       ]
     },
     {
       "Species": 675,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Luminous Legends Y {Pancham}"}
+        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":3,"LocalizedStart":true,"Comment":"Luminous Legends Y {Pancham}"}
       ]
     },
     {
