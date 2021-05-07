@@ -1339,7 +1339,9 @@
         {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Crown Tundra Release)"},
         {"Start":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":2,"Comment":"Crown Tundra Release"},
         {"Start":{"Y":2021,"M":5,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
-        {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends X)"}
+        {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends X)"},
+        {"Start":{"Y":2021,"M":5,"D":11},"End":{"Y":2021,"M":5,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Global Challenge Reward)"},
+        {"Start":{"Y":2021,"M":5,"D":11},"Type":20,"LocalizedStart":true,"Comment":"Global Challenge Reward"}
       ]
     },
     {
@@ -1360,7 +1362,9 @@
         {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Crown Tundra Release) {Ponyta-1}"},
         {"Start":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":2,"Comment":"Crown Tundra Release {Ponyta-1}"},
         {"Start":{"Y":2021,"M":5,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough {Ponyta-1}"},
-        {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends X) {Ponyta-1}"}
+        {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends X) {Ponyta-1}"},
+        {"Start":{"Y":2021,"M":5,"D":11},"End":{"Y":2021,"M":5,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Global Challenge Reward) {Ponyta-1}"},
+        {"Start":{"Y":2021,"M":5,"D":11},"Type":20,"LocalizedStart":true,"Comment":"Global Challenge Reward {Ponyta-1}"}
       ]
     },
     {
@@ -10087,6 +10091,7 @@
       "Species": 674,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2021,"M":5,"D":11},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Global Challenge Reward)"},
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":3,"LocalizedStart":true,"Comment":"Luminous Legends Y"}
       ]
     },
@@ -10094,6 +10099,7 @@
       "Species": 675,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2021,"M":5,"D":11},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Global Challenge Reward) {Pancham}"},
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":3,"LocalizedStart":true,"Comment":"Luminous Legends Y {Pancham}"}
       ]
     },
