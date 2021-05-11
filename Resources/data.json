@@ -4759,7 +4759,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"},
-        {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 3, Season 4, Season 5"}
+        {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 3, Season 4, Season 5"},
+        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y"}
       ]
     },
     {
@@ -4776,7 +4777,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020 {Zigzagoon-1}"},
-        {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 3, Season 4, Season 5 {Zigzagoon-1}"}
+        {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 3, Season 4, Season 5 {Zigzagoon-1}"},
+        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y {Zigzagoon-1}"}
       ]
     },
     {
@@ -10235,6 +10237,16 @@
       ]
     },
     {
+      "Species": 700,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Eevee}"},
+        {"Start":{"Y":2018,"M":8,"D":11},"Type":1,"Comment":"Community Day {Eevee}"},
+        {"Start":{"Y":2019,"M":12,"D":14},"End":{"Y":2019,"M":12,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2019) {Eevee}"},
+        {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Buddy Up) {Eevee}"}
+      ]
+    },
+    {
       "Species": 704,
       "Available": true,
       "Data": [
@@ -10319,7 +10331,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020 {Zigzagoon-1} {Linoone-1}"},
-        {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 3, Season 4, Season 5 {Zigzagoon-1} {Linoone-1}"}
+        {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 3, Season 4, Season 5 {Zigzagoon-1} {Linoone-1}"},
+        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y {Zigzagoon-1} {Linoone-1}"}
       ]
     },
     {
