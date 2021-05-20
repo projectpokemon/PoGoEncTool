@@ -4785,7 +4785,9 @@
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"},
         {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 3, Season 4, Season 5"},
-        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y"}
+        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y"},
+        {"Start":{"Y":2021,"M":5,"D":25},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 2)"},
+        {"Start":{"Y":2021,"M":5,"D":25},"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y: Part 2"}
       ]
     },
     {
@@ -4803,7 +4805,9 @@
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020 {Zigzagoon-1}"},
         {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 3, Season 4, Season 5 {Zigzagoon-1}"},
-        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y {Zigzagoon-1}"}
+        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y {Zigzagoon-1}"},
+        {"Start":{"Y":2021,"M":5,"D":25},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 2) {Zigzagoon-1}"},
+        {"Start":{"Y":2021,"M":5,"D":25},"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y: Part 2 {Zigzagoon-1}"}
       ]
     },
     {
@@ -10380,7 +10384,9 @@
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020 {Zigzagoon-1} {Linoone-1}"},
         {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 3, Season 4, Season 5 {Zigzagoon-1} {Linoone-1}"},
-        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y {Zigzagoon-1} {Linoone-1}"}
+        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y {Zigzagoon-1} {Linoone-1}"},
+        {"Start":{"Y":2021,"M":5,"D":25},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 2) {Zigzagoon-1} {Linoone-1}"},
+        {"Start":{"Y":2021,"M":5,"D":25},"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y: Part 2 {Zigzagoon-1} {Linoone-1}"}
       ]
     },
     {
