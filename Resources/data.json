@@ -886,7 +886,7 @@
         {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Buddy Up"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Team GO Rocket Event"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Team GO Rocket Celebration)"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y)"}
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1)"}
       ]
     },
     {
@@ -926,7 +926,7 @@
         {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Buddy Up {Meowth-1}"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Team GO Rocket Event {Meowth-1}"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Team GO Rocket Celebration) {Meowth-1}"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y) {Meowth-1}"}
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1) {Meowth-1}"}
       ]
     },
     {
@@ -2004,7 +2004,7 @@
         {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":2},"End":{"Y":2020,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (The Seasons Change: Part 2)"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y)"}
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y: Part 1)"}
       ]
     },
     {
@@ -3480,7 +3480,7 @@
         {"Start":{"Y":2018,"M":3,"D":31},"Type":1,"Comment":"April Fools' Day"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":16},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":24},"End":{"Y":2021,"M":3,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Weather Week)"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y)"},
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1)"},
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
       ]
     },
@@ -4048,7 +4048,7 @@
         {"Start":{"Y":2021,"M":4,"D":12},"End":{"Y":2021,"M":4,"D":12},"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":19},"End":{"Y":2021,"M":4,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":27},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y)"},
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1)"},
         {"Start":{"Y":2021,"M":5,"D":18},"Type":30,"LocalizedStart":true,"Comment":"Leader Sierra"}
       ]
     },
@@ -4576,7 +4576,7 @@
         {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Larvitar} {Pupitar}"},
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Larvitar} {Pupitar}"},
         {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (New Pokémon Snap Celebration)"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y)"}
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y: Part 1)"}
       ]
     },
     {
@@ -5809,7 +5809,7 @@
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Hoenn)"},
         {"Start":{"Y":2020,"M":9,"D":10},"End":{"Y":2020,"M":9,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y)"}
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y: Part 1)"}
       ]
     },
     {
@@ -6225,7 +6225,7 @@
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Team GO Rocket Celebration)"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Lunar New Year 2021)"},
         {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y)"}
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y: Part 1)"}
       ]
     },
     {
@@ -7303,7 +7303,7 @@
         {"Start":{"Y":2018,"M":3,"D":31},"Type":1,"Comment":"April Fools' Day {Murkrow}"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":16},"Type":10,"Comment":"T1 Raid Boss {Murkrow}"},
         {"Start":{"Y":2021,"M":3,"D":24},"End":{"Y":2021,"M":3,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Weather Week) {Murkrow}"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y) {Murkrow}"},
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1) {Murkrow}"},
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt {Murkrow}"}
       ]
     },
@@ -7701,7 +7701,7 @@
         {"Start":{"Y":2021,"M":4,"D":12},"End":{"Y":2021,"M":4,"D":12},"Type":10,"Comment":"T1 Raid Boss {Sneasel}"},
         {"Start":{"Y":2021,"M":4,"D":19},"End":{"Y":2021,"M":4,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Sneasel}"},
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":27},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Sneasel}"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y) {Sneasel}"},
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1) {Sneasel}"},
         {"Start":{"Y":2021,"M":5,"D":18},"Type":30,"LocalizedStart":true,"Comment":"Leader Sierra {Sneasel}"}
       ]
     },
@@ -10355,7 +10355,7 @@
       "Species": 716,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss (Luminous Legends X)"},
+        {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Luminous Legends X)"},
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Legendary Encounter"}
       ]
     },
@@ -10363,8 +10363,8 @@
       "Species": 717,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Legendary Encounter"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss (Luminous Legends Y)"}
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Luminous Legends Y)"},
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Legendary Encounter"}
       ]
     },
     {
