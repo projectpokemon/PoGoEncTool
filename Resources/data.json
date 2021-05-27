@@ -3575,7 +3575,8 @@
       "Form": 5,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021"}
       ]
     },
     {
@@ -3586,7 +3587,8 @@
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2020"},
         {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"Comment":"GO Fest 2020 Makeup Day #1"},
-        {"Start":{"Y":2020,"M":8,"D":23},"End":{"Y":2020,"M":8,"D":23},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GO Fest 2020 Makeup Day #2"}
+        {"Start":{"Y":2020,"M":8,"D":23},"End":{"Y":2020,"M":8,"D":23},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"GO Fest 2020 Makeup Day #2"},
+        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021"}
       ]
     },
     {
@@ -5193,21 +5195,24 @@
       "Species": 293,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":1,"D":23},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Desert Theme)"}
+        {"Start":{"Y":2018,"M":1,"D":23},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Desert Theme)"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021"}
       ]
     },
     {
       "Species": 294,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":1,"D":23},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Desert Theme) {Whismur}"}
+        {"Start":{"Y":2018,"M":1,"D":23},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Desert Theme) {Whismur}"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021 {Whismur}"}
       ]
     },
     {
       "Species": 295,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":1,"D":23},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Desert Theme) {Whismur} {Loudred}"}
+        {"Start":{"Y":2018,"M":1,"D":23},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Desert Theme) {Whismur} {Loudred}"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021 {Whismur} {Loudred}"}
       ]
     },
     {
@@ -6185,7 +6190,8 @@
       "Species": 358,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Sky Theme)"}
+        {"Start":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Sky Theme)"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021"}
       ]
     },
     {
@@ -7337,7 +7343,8 @@
       "Species": 433,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":2,"Comment":"Holiday 2018"}
+        {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":2,"Comment":"Holiday 2018"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":2,"LocalizedStart":true,"Comment":"GO Fest 2021"}
       ]
     },
     {
@@ -8682,7 +8689,8 @@
       "Species": 531,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":2,"D":14},"Shiny":1,"Type":1,"Comment":"Valentine's Day 2020"}
+        {"Start":{"Y":2020,"M":2,"D":14},"Shiny":1,"Type":1,"Comment":"Valentine's Day 2020"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021"}
       ]
     },
     {
@@ -8778,7 +8786,8 @@
       "Data": [
         {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021"}
       ]
     },
     {
@@ -8788,7 +8797,8 @@
         {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild {Tympole}"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Tympole}"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Tympole}"},
-        {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Unova Week)"}
+        {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Unova Week)"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021 {Tympole}"}
       ]
     },
     {
@@ -8798,21 +8808,24 @@
         {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild {Tympole} {Palpitoad}"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Tympole} {Palpitoad}"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Tympole} {Palpitoad}"},
-        {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Unova Week) {Palpitoad}"}
+        {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Unova Week) {Palpitoad}"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021 {Tympole} {Palpitoad}"}
       ]
     },
     {
       "Species": 538,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"}
+        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021"}
       ]
     },
     {
       "Species": 539,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"}
+        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021"}
       ]
     },
     {
@@ -9759,7 +9772,8 @@
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":8},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"},
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge Champion 2020)"},
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"},
-        {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"}
+        {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"},
+        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021"}
       ]
     },
     {
