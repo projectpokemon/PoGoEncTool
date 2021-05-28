@@ -1406,7 +1406,8 @@
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":12,"D":31},"Type":1,"Comment":"Pokémon HOME Event {Slowpoke}"},
         {"Start":{"Y":2021,"M":1,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Slowpoke}"},
         {"Start":{"Y":2021,"M":3,"D":24},"End":{"Y":2021,"M":3,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Weather Week) {Slowpoke}"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Slowpoke}"}
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Slowpoke}"},
+        {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -2380,7 +2381,8 @@
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Magikarp}"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kanto Celebration Event) {Magikarp}"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Magikarp}"}
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Magikarp}"},
+        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":7,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -6506,7 +6508,8 @@
         {"Start":{"Y":2018,"M":8,"D":28},"End":{"Y":2018,"M":9,"D":20},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T5 Raid Boss (A Colossal Discovery)"},
-        {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -6518,7 +6521,8 @@
         {"Start":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T5 Raid Boss (A Colossal Discovery)"},
         {"Start":{"Y":2019,"M":12,"D":28},"End":{"Y":2019,"M":12,"D":28},"Type":10,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2020,"M":12,"D":26},"End":{"Y":2020,"M":12,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2020,"M":12,"D":26},"End":{"Y":2020,"M":12,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -6529,7 +6533,8 @@
         {"Start":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T5 Raid Boss (A Colossal Discovery)"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (GBL Preparation)"},
-        {"Start":{"Y":2020,"M":12,"D":19},"End":{"Y":2020,"M":12,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2020,"M":12,"D":19},"End":{"Y":2020,"M":12,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -7267,7 +7272,8 @@
         {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release {Buneary}"},
         {"Start":{"Y":2019,"M":4,"D":16},"Type":1,"Comment":"Eggstravaganza 2019 {Buneary}"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Sinnoh Celebration Event)"},
-        {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":8},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -9774,6 +9780,20 @@
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"},
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"},
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Fest 2021"}
+      ]
+    },
+    {
+      "Species": 619,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":5,"D":31},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 8"}
+      ]
+    },
+    {
+      "Species": 620,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":5,"D":31},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Season 8 {Mienfoo}"}
       ]
     },
     {
