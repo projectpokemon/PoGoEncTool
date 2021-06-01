@@ -6523,7 +6523,8 @@
         {"Start":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T5 Raid Boss (A Colossal Discovery)"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":6,"D":4},"End":{"Y":2021,"M":8,"D":30},"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Legendary Encounter"}
       ]
     },
     {
@@ -6536,7 +6537,8 @@
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T5 Raid Boss (A Colossal Discovery)"},
         {"Start":{"Y":2019,"M":12,"D":28},"End":{"Y":2019,"M":12,"D":28},"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":26},"End":{"Y":2020,"M":12,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":6,"D":4},"End":{"Y":2021,"M":8,"D":30},"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Legendary Encounter"}
       ]
     },
     {
@@ -6548,7 +6550,8 @@
         {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T5 Raid Boss (A Colossal Discovery)"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (GBL Preparation)"},
         {"Start":{"Y":2020,"M":12,"D":19},"End":{"Y":2020,"M":12,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":6,"D":4},"End":{"Y":2021,"M":8,"D":30},"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Legendary Encounter"}
       ]
     },
     {
