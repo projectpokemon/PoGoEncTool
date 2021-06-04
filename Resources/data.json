@@ -8248,6 +8248,7 @@
         {"Start":{"Y":2020,"M":1,"D":7},"End":{"Y":2020,"M":2,"D":4},"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss (Sinnoh Celebration Event)"},
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":3,"D":1},"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 6)"},
         {"Start":{"Y":2021,"M":5,"D":17},"End":{"Y":2021,"M":5,"D":31},"Type":23,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 7, Accidental Release)"}
       ]
     },
