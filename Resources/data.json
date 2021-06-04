@@ -1575,7 +1575,7 @@
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"Comment":"GO Fest 2020"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change: Part 2)"},
         {"Start":{"Y":2020,"M":10,"D":24},"End":{"Y":2020,"M":11,"D":3},"Type":1,"Comment":"Halloween 2020"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Celebration / Season of Legends"},
+        {"Start":{"Y":2020,"M":12,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Initial Release in Wild"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Team GO Rocket Celebration)"},
         {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Very Slow Discovery)"}
       ]
@@ -1610,7 +1610,7 @@
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"Comment":"GO Fest 2020 {Grimer-1}"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change: Part 2) {Grimer-1}"},
         {"Start":{"Y":2020,"M":10,"D":24},"End":{"Y":2020,"M":11,"D":3},"Type":1,"Comment":"Halloween 2020 {Grimer-1}"},
-        {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Celebration / Season of Legends {Grimer-1}"},
+        {"Start":{"Y":2020,"M":12,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Initial Release in Wild {Grimer-1}"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Team GO Rocket Celebration) {Grimer-1}"},
         {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Very Slow Discovery) {Grimer-1}"}
       ]
