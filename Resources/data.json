@@ -4841,7 +4841,8 @@
         {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Reward Encounter (Seasons 3, 4, and 5)"},
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y"},
         {"Start":{"Y":2021,"M":5,"D":25},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 2)"},
-        {"Start":{"Y":2021,"M":5,"D":25},"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y: Part 2"}
+        {"Start":{"Y":2021,"M":5,"D":25},"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y: Part 2"},
+        {"Start":{"Y":2021,"M":6,"D":1},"Type":2,"LocalizedStart":true,"Comment":"Shiny Released in Eggs"}
       ]
     },
     {
@@ -4861,7 +4862,8 @@
         {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Reward Encounter (Seasons 3, 4, and 5) {Zigzagoon-1}"},
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y {Zigzagoon-1}"},
         {"Start":{"Y":2021,"M":5,"D":25},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 2) {Zigzagoon-1}"},
-        {"Start":{"Y":2021,"M":5,"D":25},"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y: Part 2 {Zigzagoon-1}"}
+        {"Start":{"Y":2021,"M":5,"D":25},"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y: Part 2 {Zigzagoon-1}"},
+        {"Start":{"Y":2021,"M":6,"D":1},"Type":2,"LocalizedStart":true,"Comment":"Shiny Released in Eggs {Zigzagoon-1}"}
       ]
     },
     {
@@ -9476,7 +9478,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":1,"D":11},"End":{"Y":2021,"M":3,"D":1},"Shiny":1,"Gender":1,"Type":23,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 6)"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Gender":2,"Type":1,"LocalizedStart":true,"Comment":"Season of Legends"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Gender":2,"Type":1,"LocalizedStart":true,"Comment":"Initial Release in Wild"},
         {"Start":{"Y":2021,"M":3,"D":3},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Gender":1,"Type":23,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 7)"},
         {"Start":{"Y":2021,"M":4,"D":1},"Shiny":1,"Gender":1,"Type":20,"Comment":"Research Breakthrough"}
       ]
@@ -9486,7 +9488,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":1,"D":11},"End":{"Y":2021,"M":3,"D":1},"Shiny":1,"Gender":1,"Type":23,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 6) {Frillish}"},
-        {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Gender":2,"Type":1,"LocalizedStart":true,"Comment":"Season of Legends {Frillish}"},
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Gender":2,"Type":1,"LocalizedStart":true,"Comment":"Initial Release in Wild {Frillish}"},
         {"Start":{"Y":2021,"M":3,"D":3},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Gender":1,"Type":23,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 7) {Frillish}"},
         {"Start":{"Y":2021,"M":4,"D":1},"Shiny":1,"Gender":1,"Type":20,"Comment":"Research Breakthrough {Frillish}"}
       ]
@@ -10501,7 +10503,8 @@
         {"Start":{"Y":2020,"M":6,"D":27},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Reward Encounter (Seasons 3, 4, and 5) {Zigzagoon-1} {Linoone-1}"},
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y {Zigzagoon-1} {Linoone-1}"},
         {"Start":{"Y":2021,"M":5,"D":25},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 2) {Zigzagoon-1} {Linoone-1}"},
-        {"Start":{"Y":2021,"M":5,"D":25},"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y: Part 2 {Zigzagoon-1} {Linoone-1}"}
+        {"Start":{"Y":2021,"M":5,"D":25},"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends Y: Part 2 {Zigzagoon-1} {Linoone-1}"},
+        {"Start":{"Y":2021,"M":6,"D":1},"Type":2,"LocalizedStart":true,"Comment":"Shiny Released in Eggs {Zigzagoon-1} {Linoone-1}"}
       ]
     },
     {
