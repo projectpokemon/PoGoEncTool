@@ -4650,7 +4650,8 @@
         {"Start":{"Y":2019,"M":1,"D":1},"Type":20,"Comment":"Research Breakthrough"},
         {"Start":{"Y":2019,"M":12,"D":20},"End":{"Y":2019,"M":12,"D":23},"Type":10,"Comment":"T5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (4th Anniversary)"},
-        {"Start":{"Y":2021,"M":1,"D":1},"End":{"Y":2021,"M":1,"D":5},"Type":10,"NoEndTolerance":true,"Comment":"T5 Raid Boss (New Year's 2020)"}
+        {"Start":{"Y":2021,"M":1,"D":1},"End":{"Y":2021,"M":1,"D":5},"Type":10,"NoEndTolerance":true,"Comment":"T5 Raid Boss (New Year's 2020)"},
+        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"A Seven-Colored Shadow"}
       ]
     },
     {
