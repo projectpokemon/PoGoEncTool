@@ -6877,7 +6877,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":10,"D":16},"End":{"Y":2018,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"}
+        {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
+        {"Start":{"Y":2021,"M":6,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Bidoof Breakout"}
       ]
     },
     {
@@ -8274,7 +8275,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":11,"D":2},"Shiny":1,"Type":20,"Comment":"A Colossal Discovery"},
-        {"Start":{"Y":2019,"M":11,"D":18},"End":{"Y":2020,"M":3,"D":15},"Shiny":1,"Type":10,"Comment":"EX Raid Boss"}
+        {"Start":{"Y":2019,"M":11,"D":18},"End":{"Y":2020,"M":3,"D":15},"Shiny":1,"Type":10,"Comment":"EX Raid Boss"},
+        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
