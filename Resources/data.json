@@ -6740,7 +6740,8 @@
       "Data": [
         {"Start":{"Y":2019,"M":3,"D":27},"End":{"Y":2019,"M":6,"D":30},"Shiny":1,"Type":11,"Comment":"EX Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":11,"Comment":"T5 Raid Boss (Global Challenge, Global Hatches)"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":16},"Shiny":1,"Type":11,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":16},"Shiny":1,"Type":11,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":24,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 8)"}
       ]
     },
     {
