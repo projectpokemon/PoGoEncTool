@@ -381,7 +381,7 @@
       "Species": 25,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Pichu on Dec. 12, 2016)"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
         {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2017,"M":8,"D":9},"Type":1,"Comment":"Pokémon GO Park"},
         {"Start":{"Y":2019,"M":12,"D":14},"End":{"Y":2019,"M":12,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2019)"},
@@ -392,7 +392,7 @@
       "Species": 26,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Pichu on Dec. 12, 2016) {Pikachu}"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Pikachu}"},
         {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Type":10,"Comment":"T4 Raid Boss (Pokémon GO Park) {Pikachu}"},
         {"Start":{"Y":2017,"M":8,"D":9},"Type":1,"Comment":"Pokémon GO Park {Pikachu}"},
         {"Start":{"Y":2018,"M":11,"D":23},"End":{"Y":2018,"M":11,"D":27},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Let's Go Celebration)"},
@@ -583,7 +583,7 @@
       "Species": 35,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Cleffa on Dec. 12, 2016)"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
         {"Start":{"Y":2019,"M":2,"D":13},"Type":2,"Comment":"Valentine's Day 2019 {Cleffa}"},
         {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally Released at Pokémon GO Fest 2019 Chicago"},
         {"Start":{"Y":2020,"M":6,"D":19},"Type":1,"LocalizedStart":true,"Comment":"Summer Solstice"},
@@ -600,7 +600,7 @@
       "Species": 36,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Cleffa on Dec. 12, 2016) {Clefairy}"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Clefairy}"},
         {"Start":{"Y":2019,"M":2,"D":13},"Type":2,"Comment":"Valentine's Day 2019 {Clefairy}"},
         {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Accidentally Released at Pokémon GO Fest 2019 Chicago {Clefairy}"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
@@ -694,7 +694,7 @@
       "Species": 39,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Igglybuff on Dec. 12, 2016)"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
         {"Start":{"Y":2019,"M":4,"D":16},"Type":2,"Comment":"Eggstravaganza 2019 {Igglybuff}"},
         {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"Comment":"Pokémon GO Fest 2020"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Enigma Week)"}
@@ -704,7 +704,7 @@
       "Species": 40,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Igglybuff on Dec. 12, 2016) {Jigglypuff}"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Jigglypuff}"},
         {"Start":{"Y":2019,"M":4,"D":16},"Type":2,"Comment":"Eggstravaganza 2019 {Jigglypuff}"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"Comment":"Pokémon GO Fest 2020 {Jigglypuff}"},
@@ -2106,7 +2106,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"End":{"Y":2021,"M":4,"D":4},"Shiny":1,"Type":1,"Comment":"Available at launch"},
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":2,"Comment":"Available at launch (And as Happiny on Feb. 13, 2019)"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":2,"Comment":"Available at launch"},
         {"Start":{"Y":2018,"M":4,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":21},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Valentine's Day 2019)"},
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
@@ -2278,7 +2278,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"End":{"Y":2020,"M":12,"D":22},"Shiny":1,"Type":1,"Comment":"Available at launch"},
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":2,"Comment":"Available at launch (And as Smoochum on Dec. 12, 2016)"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":2,"Comment":"Available at launch"},
         {"Start":{"Y":2018,"M":2,"D":9},"End":{"Y":2018,"M":3,"D":5},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2018,"M":3,"D":16},"End":{"Y":2018,"M":4,"D":10},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2018,"M":4,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
@@ -2307,7 +2307,7 @@
       "Species": 125,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Elekid on Dec. 12, 2016)"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
         {"Start":{"Y":2017,"M":6,"D":23},"End":{"Y":2017,"M":11,"D":4},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2018,"M":3,"D":16},"End":{"Y":2018,"M":4,"D":2},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2018,"M":5,"D":14},"End":{"Y":2018,"M":5,"D":14},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss (Accidental Rerelease)"},
@@ -2329,7 +2329,7 @@
       "Species": 126,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Magby on Dec. 12, 2016)"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
         {"Start":{"Y":2017,"M":6,"D":23},"End":{"Y":2017,"M":11,"D":4},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2018,"M":3,"D":22},"Type":2,"Comment":"Eggstravaganza 2018 {Magby}"},
         {"Start":{"Y":2018,"M":7,"D":19},"End":{"Y":2018,"M":8,"D":16},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
@@ -4521,7 +4521,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"End":{"Y":2021,"M":4,"D":4},"Shiny":1,"Type":1,"Comment":"Available at launch {Chansey}"},
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":2,"Comment":"Available at launch (And as Happiny on Feb. 13, 2019) {Chansey}"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":2,"Comment":"Available at launch {Chansey}"},
         {"Start":{"Y":2018,"M":4,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task {Chansey}"},
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":21},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Valentine's Day 2019) {Chansey}"},
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":3,"D":1},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss {Chansey}"},
@@ -7953,7 +7953,7 @@
       "Species": 466,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Elekid on Dec. 12, 2016) {Electabuzz}"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Electabuzz}"},
         {"Start":{"Y":2017,"M":6,"D":23},"End":{"Y":2017,"M":11,"D":4},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Electabuzz}"},
         {"Start":{"Y":2018,"M":3,"D":16},"End":{"Y":2018,"M":4,"D":2},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Electabuzz}"},
         {"Start":{"Y":2018,"M":5,"D":14},"End":{"Y":2018,"M":5,"D":14},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss (Accidental Rerelease) {Electabuzz}"},
@@ -7975,7 +7975,7 @@
       "Species": 467,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch (And as Magby on Dec. 12, 2016) {Magmar}"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Magmar}"},
         {"Start":{"Y":2017,"M":6,"D":23},"End":{"Y":2017,"M":11,"D":4},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Magmar}"},
         {"Start":{"Y":2018,"M":3,"D":22},"Type":2,"Comment":"Eggstravaganza 2018 {Magmar}"},
         {"Start":{"Y":2018,"M":7,"D":19},"End":{"Y":2018,"M":8,"D":16},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss {Magmar}"},
@@ -10039,7 +10039,7 @@
         {"Start":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event)"},
         {"Start":{"Y":2020,"M":12,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event"},
-        {"Start":{"Y":2020,"M":12,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event"},
+        {"Start":{"Y":2020,"M":12,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2020)"},
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Spring into Spring 2021)"}
       ]
     },
@@ -10053,7 +10053,7 @@
         {"Start":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs {Rufflet}"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event) {Rufflet}"},
         {"Start":{"Y":2020,"M":12,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event {Rufflet}"},
-        {"Start":{"Y":2020,"M":12,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event {Rufflet}"},
+        {"Start":{"Y":2020,"M":12,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2020) {Rufflet}"},
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Spring into Spring 2021) {Rufflet}"}
       ]
     },
