@@ -1964,7 +1964,7 @@
         {"Start":{"Y":2020,"M":12,"D":18},"End":{"Y":2020,"M":12,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Solstice Event, Northern Hemisphere)"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Type":10,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -2374,7 +2374,7 @@
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2021,"M":2,"D":2},"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Meowth Balloon (James)"},
         {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":3,"D":1},"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Meowth Balloon (James)"},
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Kanto Celebration Event)"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Type":10,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -4662,7 +4662,7 @@
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Larvitar} {Pupitar}"},
         {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (New Pokémon Snap Celebration)"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y: Part 1)"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -6338,7 +6338,7 @@
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Lunar New Year 2021)"},
         {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y: Part 1)"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Type":10,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -9150,6 +9150,7 @@
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (Unova Week)"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lunar New Year 2021)"},
         {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary)"},
         {"Start":{"Y":2021,"M":7,"D":6},"Type":1,"LocalizedStart":true,"Comment":"5th Anniversary"}
       ]
     },
@@ -9170,6 +9171,7 @@
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (Unova Week) {Darumaka}"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lunar New Year 2021) {Darumaka}"},
         {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Darumaka}"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary) {Darumaka}"},
         {"Start":{"Y":2021,"M":7,"D":6},"Type":1,"LocalizedStart":true,"Comment":"5th Anniversary {Darumaka}"}
       ]
     },
@@ -10262,63 +10264,72 @@
       "Species": 650,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"}
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary)"}
       ]
     },
     {
       "Species": 651,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Chespin}"}
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Chespin}"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary) {Chespin}"}
       ]
     },
     {
       "Species": 652,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Chespin} {Quilladin}"}
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Chespin} {Quilladin}"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary) {Chespin} {Quilladin}"}
       ]
     },
     {
       "Species": 653,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"}
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary)"}
       ]
     },
     {
       "Species": 654,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Fennekin}"}
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Fennekin}"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary) {Fennekin}"}
       ]
     },
     {
       "Species": 655,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Fennekin} {Braixen}"}
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Fennekin} {Braixen}"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary) {Fennekin} {Braixen}"}
       ]
     },
     {
       "Species": 656,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"}
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary)"}
       ]
     },
     {
       "Species": 657,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Froakie}"}
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Froakie}"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary) {Froakie}"}
       ]
     },
     {
       "Species": 658,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Froakie} {Frogadier}"}
+        {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event {Froakie} {Frogadier}"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (5th Anniversary) {Froakie} {Frogadier}"}
       ]
     },
     {
