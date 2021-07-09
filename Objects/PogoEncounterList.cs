@@ -70,7 +70,8 @@ namespace PoGoEncTool
                     {
                         if (entry.Data.TrueForAll(p => p.CompareTo(z) != 0))
                             continue;
-                        var add = ((PKHeX.Core.Species)entry.Species).ToString();
+                        var species = PKHeX.Core.GameInfo.Strings.Species;
+                        var add = species[entry.Species];
                         if (entry.Form != 0)
                             add += $"-{entry.Form}";
                         z.Comment += $" {{{add}}}";

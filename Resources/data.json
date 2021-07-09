@@ -515,25 +515,25 @@
       "Species": 30,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {NidoranF}"},
-        {"Start":{"Y":2018,"M":10,"D":11},"Type":1,"Comment":"Female Day {NidoranF}"},
-        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {NidoranF}"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {NidoranF}"}
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Nidoran♀}"},
+        {"Start":{"Y":2018,"M":10,"D":11},"Type":1,"Comment":"Female Day {Nidoran♀}"},
+        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {Nidoran♀}"},
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Nidoran♀}"}
       ]
     },
     {
       "Species": 31,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {NidoranF} {Nidorina}"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Nidoran♀} {Nidorina}"},
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
-        {"Start":{"Y":2018,"M":10,"D":11},"Type":1,"Comment":"Female Day {NidoranF} {Nidorina}"},
+        {"Start":{"Y":2018,"M":10,"D":11},"Type":1,"Comment":"Female Day {Nidoran♀} {Nidorina}"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Kanto)"},
-        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {NidoranF} {Nidorina}"},
+        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {Nidoran♀} {Nidorina}"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon HOME Event)"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Team GO Rocket Celebration)"},
         {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Rivals' Week)"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {NidoranF} {Nidorina}"}
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Nidoran♀} {Nidorina}"}
       ]
     },
     {
@@ -552,31 +552,31 @@
       "Species": 33,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {NidoranM}"},
-        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"T1 Raid Boss (Pokémon GO Fest 2019 Dortmund) {NidoranM}"},
-        {"Start":{"Y":2019,"M":7,"D":4},"Type":1,"Comment":"Pokémon GO Fest 2019 Dortmund {NidoranM}"},
-        {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"T1 Raid Boss {NidoranM}"},
-        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {NidoranM}"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {NidoranM}"}
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Nidoran♂}"},
+        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"T1 Raid Boss (Pokémon GO Fest 2019 Dortmund) {Nidoran♂}"},
+        {"Start":{"Y":2019,"M":7,"D":4},"Type":1,"Comment":"Pokémon GO Fest 2019 Dortmund {Nidoran♂}"},
+        {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"T1 Raid Boss {Nidoran♂}"},
+        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {Nidoran♂}"},
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Nidoran♂}"}
       ]
     },
     {
       "Species": 34,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {NidoranM} {Nidorino}"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Nidoran♂} {Nidorino}"},
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
-        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"T1 Raid Boss (Pokémon GO Fest 2019 Dortmund) {NidoranM} {Nidorino}"},
-        {"Start":{"Y":2019,"M":7,"D":4},"Type":1,"Comment":"Pokémon GO Fest 2019 Dortmund {NidoranM} {Nidorino}"},
-        {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"T1 Raid Boss {NidoranM} {Nidorino}"},
+        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"T1 Raid Boss (Pokémon GO Fest 2019 Dortmund) {Nidoran♂} {Nidorino}"},
+        {"Start":{"Y":2019,"M":7,"D":4},"Type":1,"Comment":"Pokémon GO Fest 2019 Dortmund {Nidoran♂} {Nidorino}"},
+        {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"T1 Raid Boss {Nidoran♂} {Nidorino}"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2019,"M":11,"D":14},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Team GO Rocket Leaders Disruption)"},
         {"Start":{"Y":2020,"M":3,"D":6},"End":{"Y":2020,"M":3,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Team GO Rocket Global Take-over)"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Kanto)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Team GO Rocket Event)"},
-        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {NidoranM} {Nidorino}"},
+        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {Nidoran♂} {Nidorino}"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (The Seasons Change: Part 2)"},
         {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Rivals' Week)"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {NidoranM} {Nidorino}"}
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Nidoran♂} {Nidorino}"}
       ]
     },
     {
@@ -10663,20 +10663,20 @@
       "Species": 865,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":6,"D":17},"End":{"Y":2020,"M":6,"D":18},"Shiny":1,"Type":1,"Comment":"Isle of Armor Release {Farfetchd-1}"},
-        {"Start":{"Y":2020,"M":6,"D":17},"Shiny":1,"Type":2,"Comment":"Isle of Armor Release {Farfetchd-1}"},
-        {"Start":{"Y":2020,"M":6,"D":28},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 3) {Farfetchd-1}"},
-        {"Start":{"Y":2020,"M":9,"D":16},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 4) {Farfetchd-1}"},
-        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Crown Tundra Release {Farfetchd-1}"},
-        {"Start":{"Y":2020,"M":11,"D":10},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 5) {Farfetchd-1}"},
-        {"Start":{"Y":2021,"M":3,"D":17},"Shiny":1,"Type":20,"Comment":"Referral Program {Farfetchd-1}"}
+        {"Start":{"Y":2020,"M":6,"D":17},"End":{"Y":2020,"M":6,"D":18},"Shiny":1,"Type":1,"Comment":"Isle of Armor Release {Farfetch’d-1}"},
+        {"Start":{"Y":2020,"M":6,"D":17},"Shiny":1,"Type":2,"Comment":"Isle of Armor Release {Farfetch’d-1}"},
+        {"Start":{"Y":2020,"M":6,"D":28},"End":{"Y":2020,"M":9,"D":14},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 3) {Farfetch’d-1}"},
+        {"Start":{"Y":2020,"M":9,"D":16},"End":{"Y":2020,"M":11,"D":9},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 4) {Farfetch’d-1}"},
+        {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Crown Tundra Release {Farfetch’d-1}"},
+        {"Start":{"Y":2020,"M":11,"D":10},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 5) {Farfetch’d-1}"},
+        {"Start":{"Y":2021,"M":3,"D":17},"Shiny":1,"Type":20,"Comment":"Referral Program {Farfetch’d-1}"}
       ]
     },
     {
       "Species": 866,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":19},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Tap... Tap... Tappity-Tap... {MrMime-1}"}
+        {"Start":{"Y":2020,"M":12,"D":19},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Tap... Tap... Tappity-Tap... {Mr. Mime-1}"}
       ]
     },
     {
