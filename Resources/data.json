@@ -791,7 +791,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch {Paras}"},
-        {"Start":{"Y":2021,"M":2,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Kanto (Pewter City) {Paras}"}
+        {"Start":{"Y":2021,"M":2,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Kanto (Pewter City) {Paras}"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -3856,7 +3857,8 @@
         {"Start":{"Y":2020,"M":4,"D":21},"Type":1,"Comment":"Spotlight Hour"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Animation Week)"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Lake Legends Event)"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -4123,7 +4125,8 @@
         {"Start":{"Y":2021,"M":4,"D":19},"End":{"Y":2021,"M":4,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":27},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1)"},
-        {"Start":{"Y":2021,"M":5,"D":18},"Type":30,"LocalizedStart":true,"Comment":"Leader Sierra"}
+        {"Start":{"Y":2021,"M":5,"D":18},"Type":30,"LocalizedStart":true,"Comment":"Leader Sierra"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -5434,7 +5437,8 @@
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":3},"End":{"Y":2020,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -5720,7 +5724,8 @@
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":4,"D":11},"Type":30,"LocalizedStart":true,"Comment":"Leader Sierra"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lunar New Year 2021)"},
         {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Type":30,"Comment":"Leader Sierra"}
+        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Type":30,"Comment":"Leader Sierra"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -5752,7 +5757,8 @@
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lunar New Year 2021) {Carvanha}"},
         {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Carvanha}"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Type":30,"Comment":"Leader Sierra {Carvanha}"},
-        {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (New Pokémon Snap Celebration)"}
+        {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (New Pokémon Snap Celebration)"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Carvanha}"}
       ]
     },
     {
@@ -6079,7 +6085,8 @@
         {"Start":{"Y":2020,"M":3,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2020 {Baltoy}"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Hoenn)"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Enigma Week)"},
-        {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -6607,7 +6614,8 @@
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon HOME Event)"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":4,"D":11},"Type":30,"LocalizedStart":true,"Comment":"Leader Arlo {Beldum} {Metang}"},
         {"Start":{"Y":2021,"M":3,"D":9},"End":{"Y":2021,"M":3,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Searching for Legends) {Metang}"},
-        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Type":30,"Comment":"Leader Arlo {Beldum} {Metang}"}
+        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Type":30,"Comment":"Leader Arlo {Beldum} {Metang}"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -7855,7 +7863,8 @@
         {"Start":{"Y":2021,"M":4,"D":19},"End":{"Y":2021,"M":4,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Sneasel}"},
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":27},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Sneasel}"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1) {Sneasel}"},
-        {"Start":{"Y":2021,"M":5,"D":18},"Type":30,"LocalizedStart":true,"Comment":"Leader Sierra {Sneasel}"}
+        {"Start":{"Y":2021,"M":5,"D":18},"Type":30,"LocalizedStart":true,"Comment":"Leader Sierra {Sneasel}"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Sneasel}"}
       ]
     },
     {
@@ -8832,7 +8841,8 @@
         {"Start":{"Y":2021,"M":4,"D":12},"End":{"Y":2021,"M":4,"D":12},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":19},"End":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -8854,7 +8864,8 @@
         {"Start":{"Y":2021,"M":4,"D":12},"End":{"Y":2021,"M":4,"D":12},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Drilbur}"},
         {"Start":{"Y":2021,"M":4,"D":19},"End":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Drilbur}"},
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Drilbur}"},
-        {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Drilbur}"}
+        {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Drilbur}"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Drilbur}"}
       ]
     },
     {
@@ -10430,7 +10441,8 @@
         {"Start":{"Y":2021,"M":3,"D":23},"End":{"Y":2021,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":12},"End":{"Y":2021,"M":4,"D":12},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":19},"End":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -10447,7 +10459,8 @@
         {"Start":{"Y":2021,"M":3,"D":23},"End":{"Y":2021,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"},
         {"Start":{"Y":2021,"M":4,"D":12},"End":{"Y":2021,"M":4,"D":12},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Espurr}"},
         {"Start":{"Y":2021,"M":4,"D":19},"End":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"},
-        {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Espurr}"}
+        {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Espurr}"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"}
       ]
     },
     {
@@ -10465,7 +10478,8 @@
         {"Start":{"Y":2021,"M":3,"D":23},"End":{"Y":2021,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"},
         {"Start":{"Y":2021,"M":4,"D":12},"End":{"Y":2021,"M":4,"D":12},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Espurr}"},
         {"Start":{"Y":2021,"M":4,"D":19},"End":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"},
-        {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Espurr}"}
+        {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Espurr}"},
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Espurr}"}
       ]
     },
     {
