@@ -90,7 +90,7 @@ namespace PoGoEncTool
             this.FLP_Parent.Dock = System.Windows.Forms.DockStyle.Fill;
             this.FLP_Parent.Location = new System.Drawing.Point(0, 0);
             this.FLP_Parent.Name = "FLP_Parent";
-            this.FLP_Parent.Size = new System.Drawing.Size(381, 89);
+            this.FLP_Parent.Size = new System.Drawing.Size(625, 89);
             this.FLP_Parent.TabIndex = 3;
             // 
             // CHK_Localized
@@ -129,7 +129,7 @@ namespace PoGoEncTool
             // 
             this.CB_Type.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CB_Type.FormattingEnabled = true;
-            this.CB_Type.Location = new System.Drawing.Point(3, 32);
+            this.CB_Type.Location = new System.Drawing.Point(384, 3);
             this.CB_Type.Name = "CB_Type";
             this.CB_Type.Size = new System.Drawing.Size(86, 23);
             this.CB_Type.TabIndex = 5;
@@ -137,7 +137,7 @@ namespace PoGoEncTool
             // CHK_Shiny
             // 
             this.CHK_Shiny.AutoSize = true;
-            this.CHK_Shiny.Location = new System.Drawing.Point(95, 34);
+            this.CHK_Shiny.Location = new System.Drawing.Point(476, 5);
             this.CHK_Shiny.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
             this.CHK_Shiny.Name = "CHK_Shiny";
             this.CHK_Shiny.Size = new System.Drawing.Size(55, 19);
@@ -149,7 +149,7 @@ namespace PoGoEncTool
             // CHK_MaleOnly
             // 
             this.CHK_MaleOnly.AutoSize = true;
-            this.CHK_MaleOnly.Location = new System.Drawing.Point(156, 34);
+            this.CHK_MaleOnly.Location = new System.Drawing.Point(537, 5);
             this.CHK_MaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
             this.CHK_MaleOnly.Name = "CHK_MaleOnly";
             this.CHK_MaleOnly.Size = new System.Drawing.Size(64, 19);
@@ -160,7 +160,7 @@ namespace PoGoEncTool
             // CHK_FemaleOnly
             // 
             this.CHK_FemaleOnly.AutoSize = true;
-            this.CHK_FemaleOnly.Location = new System.Drawing.Point(226, 34);
+            this.CHK_FemaleOnly.Location = new System.Drawing.Point(3, 34);
             this.CHK_FemaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
             this.CHK_FemaleOnly.Name = "CHK_FemaleOnly";
             this.CHK_FemaleOnly.Size = new System.Drawing.Size(63, 19);
@@ -172,9 +172,9 @@ namespace PoGoEncTool
             // 
             this.TB_Comment.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.TB_Comment.Location = new System.Drawing.Point(3, 61);
+            this.TB_Comment.Location = new System.Drawing.Point(72, 32);
             this.TB_Comment.Name = "TB_Comment";
-            this.TB_Comment.Size = new System.Drawing.Size(378, 23);
+            this.TB_Comment.Size = new System.Drawing.Size(529, 23);
             this.TB_Comment.TabIndex = 7;
             // 
             // PogoRow
@@ -183,7 +183,7 @@ namespace PoGoEncTool
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.FLP_Parent);
             this.Name = "PogoRow";
-            this.Size = new System.Drawing.Size(381, 89);
+            this.Size = new System.Drawing.Size(625, 89);
             this.FLP_Parent.ResumeLayout(false);
             this.FLP_Parent.PerformLayout();
             this.ResumeLayout(false);

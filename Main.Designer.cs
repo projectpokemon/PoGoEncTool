@@ -73,7 +73,7 @@ namespace PoGoEncTool
             // 
             this.CB_Form.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CB_Form.FormattingEnabled = true;
-            this.CB_Form.Location = new System.Drawing.Point(149, 12);
+            this.CB_Form.Location = new System.Drawing.Point(149, 13);
             this.CB_Form.Name = "CB_Form";
             this.CB_Form.Size = new System.Drawing.Size(68, 23);
             this.CB_Form.TabIndex = 3;
@@ -83,7 +83,7 @@ namespace PoGoEncTool
             // 
             this.pogoRow1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.pogoRow1.Location = new System.Drawing.Point(223, 12);
+            this.pogoRow1.Location = new System.Drawing.Point(220, 10);
             this.pogoRow1.Name = "pogoRow1";
             this.pogoRow1.Size = new System.Drawing.Size(673, 84);
             this.pogoRow1.TabIndex = 4;
@@ -95,15 +95,15 @@ namespace PoGoEncTool
             | System.Windows.Forms.AnchorStyles.Right)));
             this.LB_Appearances.FormattingEnabled = true;
             this.LB_Appearances.ItemHeight = 15;
-            this.LB_Appearances.Location = new System.Drawing.Point(223, 102);
+            this.LB_Appearances.Location = new System.Drawing.Point(223, 72);
             this.LB_Appearances.Name = "LB_Appearances";
-            this.LB_Appearances.Size = new System.Drawing.Size(737, 544);
+            this.LB_Appearances.Size = new System.Drawing.Size(737, 574);
             this.LB_Appearances.TabIndex = 5;
             this.LB_Appearances.SelectedIndexChanged += new System.EventHandler(this.LB_Appearances_SelectedIndexChanged);
             // 
             // PB_Poke
             // 
-            this.PB_Poke.Location = new System.Drawing.Point(149, 35);
+            this.PB_Poke.Location = new System.Drawing.Point(149, 42);
             this.PB_Poke.Name = "PB_Poke";
             this.PB_Poke.Size = new System.Drawing.Size(68, 56);
             this.PB_Poke.TabIndex = 6;
@@ -176,7 +176,7 @@ namespace PoGoEncTool
             // CHK_Available
             // 
             this.CHK_Available.AutoSize = true;
-            this.CHK_Available.Location = new System.Drawing.Point(149, 98);
+            this.CHK_Available.Location = new System.Drawing.Point(149, 104);
             this.CHK_Available.Name = "CHK_Available";
             this.CHK_Available.Size = new System.Drawing.Size(74, 19);
             this.CHK_Available.TabIndex = 17;
