@@ -4077,7 +4077,8 @@
       "Species": 214,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2021,"M":8,"D":6},"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021 Part 2: Space"}
       ]
     },
     {
@@ -6351,7 +6352,8 @@
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Lunar New Year 2021)"},
         {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y: Part 1)"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Type":10,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Type":10,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021 (Cave Habitat)"}
       ]
     },
     {
