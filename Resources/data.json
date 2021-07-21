@@ -1493,7 +1493,8 @@
         {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":30,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {Magnemite}"},
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":8},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Magnemite}"},
-        {"Start":{"Y":2021,"M":6,"D":14},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Magnemite}"}
+        {"Start":{"Y":2021,"M":6,"D":14},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Magnemite}"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021 Part 1: Time)"}
       ]
     },
     {
@@ -2689,7 +2690,8 @@
         {"Start":{"Y":2021,"M":3,"D":6},"End":{"Y":2021,"M":3,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":30},"End":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":13},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Type":30,"Comment":"Leader Cliff"}
+        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Type":30,"Comment":"Leader Cliff"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021 Part 1: Time)"}
       ]
     },
     {
@@ -3649,8 +3651,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"},
-        {"Start":{"Y":2021,"M":7,"D":17},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"}
+        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"}
       ]
     },
     {
@@ -3662,8 +3663,7 @@
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020"},
         {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"Comment":"Pokémon GO Fest 2020 Makeup Day #1"},
         {"Start":{"Y":2020,"M":8,"D":23},"End":{"Y":2020,"M":8,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020 Makeup Day #2"},
-        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"},
-        {"Start":{"Y":2021,"M":7,"D":17},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"}
+        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"}
       ]
     },
     {
@@ -3782,7 +3782,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (Enigma Week)"}
+        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (Enigma Week)"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021 Part 1: Time)"}
       ]
     },
     {
@@ -4433,7 +4434,8 @@
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Supereffective Week) {Porygon}"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":12},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Evolution Event) {Porygon}"},
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Pokémon GO Fest 2020) {Porygon}"},
-        {"Start":{"Y":2020,"M":9,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Community Day {Porygon}"}
+        {"Start":{"Y":2020,"M":9,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Community Day {Porygon}"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021 Part 1: Time)"}
       ]
     },
     {
@@ -7123,6 +7125,7 @@
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020: Sinnoh, Previously T1)"},
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Fest 2021)"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021 Part 1: Time)"},
         {"Start":{"Y":2021,"M":7,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021 Part 1: Time"}
       ]
     },
@@ -7136,6 +7139,7 @@
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss {Cranidos}"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020: Sinnoh, Previously T1) {Cranidos}"},
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Fest 2021) {Cranidos}"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021 Part 1: Time) {Cranidos}"},
         {"Start":{"Y":2021,"M":7,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021 Part 1: Time {Cranidos}"}
       ]
     },
@@ -7145,6 +7149,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":1,"D":31},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021 Part 1: Time)"},
         {"Start":{"Y":2021,"M":7,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021 Part 1: Time"}
       ]
     },
@@ -7155,6 +7160,7 @@
         {"Start":{"Y":2019,"M":1,"D":31},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild {Shieldon}"},
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss {Shieldon}"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Sinnoh)"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021 Part 1: Time) {Shieldon}"},
         {"Start":{"Y":2021,"M":7,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021 Part 1: Time {Shieldon}"}
       ]
     },
@@ -7536,7 +7542,8 @@
         {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":1,"Comment":"Holiday 2018"},
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Type":10,"Comment":"T1 Raid Boss (Extraordinary Raid Week)"},
         {"Start":{"Y":2019,"M":5,"D":21},"Type":1,"Comment":"Extraordinary Raid Week"},
-        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lake Legends Event)"}
+        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lake Legends Event)"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021 Part 1: Time)"}
       ]
     },
     {
@@ -7549,7 +7556,8 @@
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Sinnoh, Previously T3)"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T4 Raid Boss (Enigma Week)"},
-        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lake Legends Event) {Bronzor}"}
+        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lake Legends Event) {Bronzor}"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021 Part 1: Time) {Bronzor}"}
       ]
     },
     {
@@ -7900,7 +7908,8 @@
         {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss {Magneton}"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":30,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {Magnemite} {Magneton}"},
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":8},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Magnemite} {Magneton}"},
-        {"Start":{"Y":2021,"M":6,"D":14},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Magnemite} {Magneton}"}
+        {"Start":{"Y":2021,"M":6,"D":14},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Magnemite} {Magneton}"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021 Part 1: Time) {Magneton}"}
       ]
     },
     {
@@ -8182,7 +8191,8 @@
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Supereffective Week) {Porygon} {Porygon2}"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":12},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Evolution Event) {Porygon} {Porygon2}"},
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Pokémon GO Fest 2020) {Porygon} {Porygon2}"},
-        {"Start":{"Y":2020,"M":9,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Community Day {Porygon} {Porygon2}"}
+        {"Start":{"Y":2020,"M":9,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Community Day {Porygon} {Porygon2}"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021 Part 1: Time) {Porygon2}"}
       ]
     },
     {
@@ -8344,7 +8354,9 @@
       "Data": [
         {"Start":{"Y":2019,"M":3,"D":1},"End":{"Y":2019,"M":3,"D":28},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2020)"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Thunder Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Thunder Hour)"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Ultra Unlock 2021 Part 1: Time)"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":30},"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 8)"}
       ]
     },
     {
@@ -9732,7 +9744,8 @@
         {"Start":{"Y":2021,"M":4,"D":27},"End":{"Y":2021,"M":4,"D":29},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Solstice Event)"},
-        {"Start":{"Y":2021,"M":7,"D":1},"Type":20,"Comment":"Professor's Research"}
+        {"Start":{"Y":2021,"M":7,"D":1},"Type":20,"Comment":"Professor's Research"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021 Part 1: Time)"}
       ]
     },
     {
@@ -9764,7 +9777,8 @@
         {"Start":{"Y":2021,"M":4,"D":27},"End":{"Y":2021,"M":4,"D":29},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Klink}"},
         {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Klink}"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Solstice Event) {Klink}"},
-        {"Start":{"Y":2021,"M":7,"D":1},"Type":20,"Comment":"Professor's Research {Klink}"}
+        {"Start":{"Y":2021,"M":7,"D":1},"Type":20,"Comment":"Professor's Research {Klink}"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021 Part 1: Time) {Klink}"}
       ]
     },
     {
@@ -9796,7 +9810,8 @@
         {"Start":{"Y":2021,"M":4,"D":27},"End":{"Y":2021,"M":4,"D":29},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Klink} {Klang}"},
         {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss {Klink} {Klang}"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Solstice Event) {Klink} {Klang}"},
-        {"Start":{"Y":2021,"M":7,"D":1},"Type":20,"Comment":"Professor's Research {Klink} {Klang}"}
+        {"Start":{"Y":2021,"M":7,"D":1},"Type":20,"Comment":"Professor's Research {Klink} {Klang}"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021 Part 1: Time) {Klink} {Klang}"}
       ]
     },
     {
@@ -10033,7 +10048,8 @@
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":2,"Comment":"A Unova Unveiling {Golett}"},
         {"Start":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":20,"Comment":"Halloween 2019 {Golett}"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"},
-        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Golett}"}
+        {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild {Golett}"},
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021 Part 1: Time)"}
       ]
     },
     {
