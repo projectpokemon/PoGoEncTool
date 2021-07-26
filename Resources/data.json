@@ -4143,7 +4143,8 @@
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":3,"D":26},"Type":1,"Comment":"Pokémon GO Safari Zone (St. Louis 2020)"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":6,"D":25},"Shiny":1,"Type":30,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":7,"D":1},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"}
       ]
     },
     {
@@ -4159,7 +4160,8 @@
         {"Start":{"Y":2020,"M":3,"D":26},"Type":1,"Comment":"Pokémon GO Safari Zone (St. Louis 2020) {Teddiursa}"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Johto)"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {Teddiursa}"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Teddiursa}"}
+        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":6,"D":25},"Shiny":1,"Type":30,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt {Teddiursa}"},
+        {"Start":{"Y":2021,"M":7,"D":1},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt {Teddiursa}"}
       ]
     },
     {
