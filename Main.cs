@@ -227,6 +227,17 @@ namespace PoGoEncTool
             }
         }
 
+        private void B_DeleteAll_Click(object sender, EventArgs e)
+        {
+            if (CurrentPoke.Data.Count == 0)
+                return;
+            if (WinFormsUtil.Prompt(MessageBoxButtons.YesNo, "Delete all entries for this Pokémon?", "Cannot be undone.") != DialogResult.Yes)
+                return;
+            CurrentPoke.Data.Clear();
+            LB_Appearances.Items.Clear();
+            System.Media.SystemSounds.Asterisk.Play();
+        }
+
         private void LB_Appearances_SelectedIndexChanged(object sender, EventArgs e)
         {
             LoadNewAppearance(LB_Appearances.SelectedIndex);

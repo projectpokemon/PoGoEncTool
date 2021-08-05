@@ -43,6 +43,7 @@ namespace PoGoEncTool
             this.B_CopyTo = new System.Windows.Forms.Button();
             this.CHK_Available = new System.Windows.Forms.CheckBox();
             this.B_CopyToForms = new System.Windows.Forms.Button();
+            this.B_DeleteAll = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.PB_Poke)).BeginInit();
             this.SuspendLayout();
             // 
@@ -122,7 +123,7 @@ namespace PoGoEncTool
             // B_DeleteSelected
             // 
             this.B_DeleteSelected.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.B_DeleteSelected.Location = new System.Drawing.Point(149, 624);
+            this.B_DeleteSelected.Location = new System.Drawing.Point(149, 599);
             this.B_DeleteSelected.Name = "B_DeleteSelected";
             this.B_DeleteSelected.Size = new System.Drawing.Size(68, 23);
             this.B_DeleteSelected.TabIndex = 10;
@@ -194,11 +195,23 @@ namespace PoGoEncTool
             this.B_CopyToForms.UseVisualStyleBackColor = true;
             this.B_CopyToForms.Click += new System.EventHandler(this.B_CopyToForms_Click);
             // 
+            // B_DeleteAll
+            // 
+            this.B_DeleteAll.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.B_DeleteAll.Location = new System.Drawing.Point(149, 624);
+            this.B_DeleteAll.Name = "B_DeleteAll";
+            this.B_DeleteAll.Size = new System.Drawing.Size(68, 23);
+            this.B_DeleteAll.TabIndex = 19;
+            this.B_DeleteAll.Text = "Delete All";
+            this.B_DeleteAll.UseVisualStyleBackColor = true;
+            this.B_DeleteAll.Click += new System.EventHandler(this.B_DeleteAll_Click);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(972, 662);
+            this.Controls.Add(this.B_DeleteAll);
             this.Controls.Add(this.B_CopyToForms);
             this.Controls.Add(this.CHK_Available);
             this.Controls.Add(this.B_CopyTo);
@@ -239,6 +252,7 @@ namespace PoGoEncTool
         private System.Windows.Forms.Button B_CopyTo;
         private System.Windows.Forms.CheckBox CHK_Available;
         private System.Windows.Forms.Button B_CopyToForms;
+        private System.Windows.Forms.Button B_DeleteAll;
     }
 }
 
