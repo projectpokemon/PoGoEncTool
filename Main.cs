@@ -40,6 +40,7 @@ namespace PoGoEncTool
         {
             var T1 = new[] { (int)Bulbasaur };
             var T3 = new[] { (int)Bulbasaur };
+            var T5 = Array.Empty<int>(); // usually manually added
             var bosses = T1.Concat(T3);
 
             foreach (var pkm in bosses)
@@ -58,31 +59,32 @@ namespace PoGoEncTool
                     Type = PogoType.Raid,
                     // LocalizedStart = true,
                     // NoEndTolerance = true,
+                    // Gender = pkm is (int)Frillish ? PogoGender.MaleOnly : PogoGender.Random,
                 };
 
-                if (pkm is not (int)Bulbasaur)
+                if (pkm is not ((int)Bulbasaur))
                     entry.Shiny = PogoShiny.Random;
-                if (!species.Available) // set debut species to be available
-                    species.Available = true;
-                // if (pkm is (int)Frillish or (int)Jellicent)
-                //     entry.Gender = PogoGender.MaleOnly;
 
                 if (T1.Contains(pkm)) entry.Comment = "T1 Raid Boss";
                 if (T3.Contains(pkm)) entry.Comment = "T3 Raid Boss";
-                species.Add(entry);
+                if (T5.Contains(pkm)) entry.Comment = "T5 Raid Boss";
 
-                // copy to evos
-                var evos = EvoUtil.GetEvoSpecForms(pkm, form)
-                    .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
-                    .Where(z => EvoUtil.IsAllowedEvolution(pkm, form, z.Species, z.Form)).ToArray();
-
-                foreach (var evo in evos)
+                // set debut species, and any of its evolutions, as available
+                if (!species.Available)
                 {
-                    var parent = Entries.GetDetails(evo.Species, evo.Form);
-                    if (!parent.Available) // set debut species' evos to be available
-                        parent.Available = true;
-                    parent.Add(entry);
+                    var evos = EvoUtil.GetEvoSpecForms(pkm, form)
+                        .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
+                        .Where(z => EvoUtil.IsAllowedEvolution(pkm, form, z.Species, z.Form)).ToArray();
+
+                    foreach (var evo in evos)
+                    {
+                        var parent = Entries.GetDetails(evo.Species, evo.Form);
+                        if (!parent.Available)
+                            parent.Available = true;
+                    }
+                    species.Available = true;
                 }
+                species.Add(entry);
             }
         }
 
