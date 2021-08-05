@@ -41,7 +41,7 @@ namespace PoGoEncTool
             var T1 = new[] { (int)Bulbasaur };
             var T3 = new[] { (int)Bulbasaur };
             var T5 = Array.Empty<int>(); // usually manually added
-            var bosses = T1.Concat(T3);
+            var bosses = T1.Concat(T3).Concat(T5);
 
             foreach (var pkm in bosses)
             {
