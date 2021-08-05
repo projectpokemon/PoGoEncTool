@@ -74,6 +74,12 @@ namespace PoGoEncTool
             return string.Compare(Comment, p.Comment, StringComparison.OrdinalIgnoreCase);
         }
 
+        public bool EqualsNoComment(PogoEntry other)
+        {
+            if (ReferenceEquals(this, other)) return true;
+            return Equals(Start, other.Start) && Equals(End, other.End) && Shiny == other.Shiny && Gender == other.Gender && Type == other.Type;
+        }
+
         public bool Equals(PogoEntry? other)
         {
             if (other is null) return false;

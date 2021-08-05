@@ -113,7 +113,7 @@ namespace PoGoEncTool
 
                     foreach (var z in entry.Data)
                     {
-                        if (dest.Data.Any(p => p.Equals(z)))
+                        if (dest.Data.Any(p => p.EqualsNoComment(z)))
                             continue;
                         dest.Data.Add(z);
                     }
