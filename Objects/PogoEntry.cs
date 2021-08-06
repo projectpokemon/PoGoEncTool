@@ -83,7 +83,7 @@ namespace PoGoEncTool
         public bool Equals(PogoEntry? other)
         {
             if (other is null) return false;
-            return EqualsNoComment(other) || Comment == other.Comment;
+            return EqualsNoComment(other) && Comment == other.Comment;
         }
 
         public override bool Equals(object? obj)

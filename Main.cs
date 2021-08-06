@@ -223,9 +223,9 @@ namespace PoGoEncTool
             var selected = LB_Appearances.SelectedItems.Cast<PogoEntry>().ToArray();
             foreach (var entry in selected)
             {
-                entry.Type = PogoType.None;
                 CurrentPoke.Data.Remove(entry);
                 LB_Appearances.Items.Remove(entry);
+                entry.Type = PogoType.None;
             }
         }
 
