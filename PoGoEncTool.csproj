@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
-    <PackageReference Include="PKHeX.Core" Version="21.5.19" />
+    <PackageReference Include="PKHeX.Core" Version="21.8.6" />
   </ItemGroup>
 
   <ItemGroup>
