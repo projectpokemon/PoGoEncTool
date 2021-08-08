@@ -40,7 +40,7 @@ namespace PoGoEncTool
             this.B_Save = new System.Windows.Forms.Button();
             this.L_Serebii = new System.Windows.Forms.LinkLabel();
             this.L_PGFandom = new System.Windows.Forms.LinkLabel();
-            this.B_CopyTo = new System.Windows.Forms.Button();
+            this.B_MarkEvosAvailable = new System.Windows.Forms.Button();
             this.CHK_Available = new System.Windows.Forms.CheckBox();
             this.B_CopyToForms = new System.Windows.Forms.Button();
             this.B_DeleteAll = new System.Windows.Forms.Button();
@@ -112,7 +112,7 @@ namespace PoGoEncTool
             // 
             // B_AddNew
             // 
-            this.B_AddNew.Location = new System.Drawing.Point(148, 147);
+            this.B_AddNew.Location = new System.Drawing.Point(148, 142);
             this.B_AddNew.Name = "B_AddNew";
             this.B_AddNew.Size = new System.Drawing.Size(70, 23);
             this.B_AddNew.TabIndex = 7;
@@ -134,9 +134,9 @@ namespace PoGoEncTool
             // B_Save
             // 
             this.B_Save.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.B_Save.Location = new System.Drawing.Point(902, 12);
+            this.B_Save.Location = new System.Drawing.Point(890, 12);
             this.B_Save.Name = "B_Save";
-            this.B_Save.Size = new System.Drawing.Size(58, 44);
+            this.B_Save.Size = new System.Drawing.Size(70, 45);
             this.B_Save.TabIndex = 13;
             this.B_Save.Text = "Save All";
             this.B_Save.UseVisualStyleBackColor = true;
@@ -164,15 +164,15 @@ namespace PoGoEncTool
             this.L_PGFandom.Text = "PGFandom";
             this.L_PGFandom.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.L_PGFandom_LinkClicked);
             // 
-            // B_CopyTo
+            // B_MarkEvosAvailable
             // 
-            this.B_CopyTo.Location = new System.Drawing.Point(148, 251);
-            this.B_CopyTo.Name = "B_CopyTo";
-            this.B_CopyTo.Size = new System.Drawing.Size(70, 47);
-            this.B_CopyTo.TabIndex = 16;
-            this.B_CopyTo.Text = "Copy to\r\nEvolutions";
-            this.B_CopyTo.UseVisualStyleBackColor = true;
-            this.B_CopyTo.Click += new System.EventHandler(this.B_CopyTo_Click);
+            this.B_MarkEvosAvailable.Location = new System.Drawing.Point(148, 230);
+            this.B_MarkEvosAvailable.Name = "B_MarkEvosAvailable";
+            this.B_MarkEvosAvailable.Size = new System.Drawing.Size(70, 45);
+            this.B_MarkEvosAvailable.TabIndex = 16;
+            this.B_MarkEvosAvailable.Text = "Evolutions Available";
+            this.B_MarkEvosAvailable.UseVisualStyleBackColor = true;
+            this.B_MarkEvosAvailable.Click += new System.EventHandler(this.B_MarkEvosAvailable_Click);
             // 
             // CHK_Available
             // 
@@ -187,9 +187,9 @@ namespace PoGoEncTool
             // 
             // B_CopyToForms
             // 
-            this.B_CopyToForms.Location = new System.Drawing.Point(148, 304);
+            this.B_CopyToForms.Location = new System.Drawing.Point(148, 278);
             this.B_CopyToForms.Name = "B_CopyToForms";
-            this.B_CopyToForms.Size = new System.Drawing.Size(69, 47);
+            this.B_CopyToForms.Size = new System.Drawing.Size(70, 45);
             this.B_CopyToForms.TabIndex = 18;
             this.B_CopyToForms.Text = "Copy to\r\nForms";
             this.B_CopyToForms.UseVisualStyleBackColor = true;
@@ -214,7 +214,7 @@ namespace PoGoEncTool
             this.Controls.Add(this.B_DeleteAll);
             this.Controls.Add(this.B_CopyToForms);
             this.Controls.Add(this.CHK_Available);
-            this.Controls.Add(this.B_CopyTo);
+            this.Controls.Add(this.B_MarkEvosAvailable);
             this.Controls.Add(this.L_PGFandom);
             this.Controls.Add(this.L_Serebii);
             this.Controls.Add(this.B_Save);
@@ -249,7 +249,7 @@ namespace PoGoEncTool
         private System.Windows.Forms.Button B_Save;
         private System.Windows.Forms.LinkLabel L_Serebii;
         private System.Windows.Forms.LinkLabel L_PGFandom;
-        private System.Windows.Forms.Button B_CopyTo;
+        private System.Windows.Forms.Button B_MarkEvosAvailable;
         private System.Windows.Forms.CheckBox CHK_Available;
         private System.Windows.Forms.Button B_CopyToForms;
         private System.Windows.Forms.Button B_DeleteAll;

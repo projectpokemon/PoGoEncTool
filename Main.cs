@@ -286,36 +286,32 @@ namespace PoGoEncTool
             return current.Replace("’", "\'"); // Farfetch’d and Sirfetch’d
         }
 
-        private void B_CopyTo_Click(object sender, EventArgs e)
+        private void B_MarkEvosAvailable_Click(object sender, EventArgs e)
         {
             var species = CurrentSpecies;
             var form = CB_Form.SelectedIndex;
 
             var evos = EvoUtil.GetEvoSpecForms(species, form)
                 .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
-                .Where(z => EvoUtil.IsAllowedEvolution(species, form, z.Species, z.Form)
-                            && Entries.GetDetails(z.Species, z.Form).Available)
-                .ToArray();
+                .Where(z => EvoUtil.IsAllowedEvolution(species, form, z.Species, z.Form)).ToArray();
+
             if (evos.Length == 0)
             {
-                WinFormsUtil.Alert("The current Pokémon cannot evolve into anything; no results found to copy to.");
+                WinFormsUtil.Alert("The current Pokémon cannot evolve into anything; no results found to modify.");
                 return;
             }
 
             var names = evos.Select(z => $"{SpeciesName.GetSpeciesName(z.Species, 2)}{(z.Form == 0 ? "" : $"-{z.Form}")}");
             var prompt = string.Join(Environment.NewLine, names);
 
-            var result = WinFormsUtil.Prompt(MessageBoxButtons.YesNo, "Copy the current edit-fields to the following entries as a NEW ENTRY?", prompt);
+            var result = WinFormsUtil.Prompt(MessageBoxButtons.YesNo, "Mark the following Pokémon as available?", prompt);
             if (result != DialogResult.Yes)
                 return;
 
             foreach (var evo in evos)
             {
-                var detail = PogoEntry.CreateNew();
-                pogoRow1.SaveEntry(detail);
-
                 var parent = Entries.GetDetails(evo.Species, evo.Form);
-                parent.Add(detail);
+                parent.Available = true;
             }
             System.Media.SystemSounds.Asterisk.Play();
         }
