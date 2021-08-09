@@ -302,9 +302,9 @@
         {"Start":{"Y":2020,"M":3,"D":17},"End":{"Y":2020,"M":5,"D":1},"Type":10,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":7,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Summer Event)"},
+        {"Start":{"Y":2020,"M":7,"D":17},"Type":20,"LocalizedStart":true,"Comment":"Summer Event"},
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2020,"M":9,"D":1},"Type":20,"Comment":"Research Breakthrough"},
         {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":10,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":5},"End":{"Y":2020,"M":11,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
@@ -1500,7 +1500,7 @@
         {"Start":{"Y":2020,"M":5,"D":29},"End":{"Y":2020,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
-        {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
+        {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Summer Event)"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020 (Fire Habitat)"},
         {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020 Makeup Day #1 (Fire Habitat)"},
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Later Merged with T3)"},
@@ -6268,7 +6268,7 @@
       "Species": 494,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":22,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020: Rocket Straight to Victory"}
+        {"Start":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":21,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020: Rocket Straight to Victory"}
       ]
     },
     {
