@@ -7719,9 +7719,8 @@
       "Species": 677,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":11,"D":30},"End":{"Y":2020,"M":12,"D":11},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2020,"M":11,"D":30},"End":{"Y":2020,"M":12,"D":14},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Kalos Celebration Event"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":18},"End":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Valentine's Day 2021)"},
         {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":3,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
