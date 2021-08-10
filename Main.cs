@@ -34,6 +34,7 @@ namespace PoGoEncTool
 
             LoadEntries();
             InitializeDataSources();
+            SpriteName.AllowShinySprite = true;
         }
 
         private void AddRaidBosses()
@@ -180,7 +181,7 @@ namespace PoGoEncTool
         {
             var entry = Entries.GetDetails(species, form);
             LoadPoke(entry);
-            PB_Poke.Image = SpriteUtil.GetSprite(species, form, 0, 0, 0, false, false);
+            LoadEntry(CurrentEntry);
         }
 
         private void LoadPoke(PogoPoke poke)
@@ -207,7 +208,17 @@ namespace PoGoEncTool
             }
         }
 
-        private void LoadEntry(PogoEntry entry) => pogoRow1.LoadEntry(CurrentEntry = entry);
+        private void LoadEntry(PogoEntry entry)
+        {
+            var species = (int)CB_Species.SelectedValue;
+            var form = CB_Form.SelectedIndex;
+            var gender = (int)entry.Gender - 1;
+            var shiny = entry.Shiny == PogoShiny.Always;
+            PB_Poke.Image = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny);
+
+            pogoRow1.LoadEntry(CurrentEntry = entry);
+        }
+
         private void SaveEntry(PogoEntry entry) => pogoRow1.SaveEntry(entry);
 
         private void B_AddNew_Click(object sender, EventArgs e)
