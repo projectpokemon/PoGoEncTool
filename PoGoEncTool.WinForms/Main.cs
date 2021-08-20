@@ -5,9 +5,9 @@ using System.Linq;
 using System.Windows.Forms;
 using PKHeX.Core;
 using PKHeX.Drawing;
-using static PKHeX.Core.Species;
+using PoGoEncTool.Core;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.WinForms
 {
     public partial class Main : Form
     {
@@ -30,63 +30,11 @@ namespace PoGoEncTool
             // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = PogoType.Shadow);
             // Entries.ModifyAll(_ => true, e => e.Available = e.Data.Count != 0);
             // Entries.ReapplyDuplicates();
-            // AddRaidBosses();
+            // BulkActions.AddRaidBosses();
 
             LoadEntries();
             InitializeDataSources();
             SpriteName.AllowShinySprite = true;
-        }
-
-        private void AddRaidBosses()
-        {
-            var T1 = new[] { (int)Bulbasaur };
-            var T3 = new[] { (int)Bulbasaur };
-            var T5 = Array.Empty<int>(); // usually manually added
-            var bosses = T1.Concat(T3).Concat(T5);
-
-            foreach (var pkm in bosses)
-            {
-                var form = pkm switch
-                {
-                    (int)Rattata => 1,
-                    _ => 0,
-                };
-
-                var species = Entries.GetDetails(pkm, form);
-                var entry = new PogoEntry()
-                {
-                    Start = new PogoDate { Y = 2000, M = 1, D = 1 },
-                    End = new PogoDate { Y = 2000, M = 1, D = 1 },
-                    Type = PogoType.Raid,
-                    // LocalizedStart = true,
-                    // NoEndTolerance = true,
-                    // Gender = pkm is (int)Frillish ? PogoGender.MaleOnly : PogoGender.Random,
-                };
-
-                if (pkm is not ((int)Bulbasaur))
-                    entry.Shiny = PogoShiny.Random;
-
-                if (T1.Contains(pkm)) entry.Comment = "T1 Raid Boss";
-                if (T3.Contains(pkm)) entry.Comment = "T3 Raid Boss";
-                if (T5.Contains(pkm)) entry.Comment = "T5 Raid Boss";
-
-                // set debut species, and any of its evolutions, as available
-                if (!species.Available)
-                {
-                    var evos = EvoUtil.GetEvoSpecForms(pkm, form)
-                        .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
-                        .Where(z => EvoUtil.IsAllowedEvolution(pkm, form, z.Species, z.Form)).ToArray();
-
-                    foreach (var evo in evos)
-                    {
-                        var parent = Entries.GetDetails(evo.Species, evo.Form);
-                        if (!parent.Available)
-                            parent.Available = true;
-                    }
-                    species.Available = true;
-                }
-                species.Add(entry);
-            }
         }
 
         private void InitializeDataSources()
@@ -96,7 +44,7 @@ namespace PoGoEncTool
             CB_Species.ValueMember = nameof(ComboItem.Value);
             CB_Species.DataSource = new BindingSource(gi, null);
             ChangingFields = false;
-            CB_Species.SelectedValue = (int)Bulbasaur;
+            CB_Species.SelectedValue = 1;
         }
 
         private void LoadEntries()
@@ -130,7 +78,7 @@ namespace PoGoEncTool
                 return;
             }
 
-            DataLoader.SaveData(Application.StartupPath, Entries, Settings.DataPath);
+            DataLoader.SaveAllData(Application.StartupPath, Entries, Settings.DataPath);
             System.Media.SystemSounds.Asterisk.Play();
             LastSaved = DateTime.Now;
         }
@@ -236,7 +184,7 @@ namespace PoGoEncTool
             {
                 CurrentPoke.Data.Remove(entry);
                 LB_Appearances.Items.Remove(entry);
-                entry.Type = PogoType.None;
+                entry.Clear();
             }
         }
 

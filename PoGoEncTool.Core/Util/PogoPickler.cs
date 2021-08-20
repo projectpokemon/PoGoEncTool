@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using static PKHeX.Core.Species;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.Core
 {
     public static class PogoPickler
     {

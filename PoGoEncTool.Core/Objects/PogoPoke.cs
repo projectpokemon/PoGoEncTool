@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.Core
 {
     [Serializable]
     public class PogoPoke : IComparable

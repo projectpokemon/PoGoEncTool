@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.WinForms
 {
     internal static class Program
     {

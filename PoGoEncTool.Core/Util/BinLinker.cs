@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.Core
 {
     public static class BinLinker
     {

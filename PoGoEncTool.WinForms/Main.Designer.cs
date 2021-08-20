@@ -1,5 +1,5 @@
 ﻿
-namespace PoGoEncTool
+namespace PoGoEncTool.WinForms
 {
     partial class Main
     {
@@ -32,7 +32,7 @@ namespace PoGoEncTool
             this.LB_Species = new System.Windows.Forms.ListBox();
             this.CB_Species = new System.Windows.Forms.ComboBox();
             this.CB_Form = new System.Windows.Forms.ComboBox();
-            this.pogoRow1 = new PoGoEncTool.PogoRow();
+            this.pogoRow1 = new PogoRow();
             this.LB_Appearances = new System.Windows.Forms.ListBox();
             this.PB_Poke = new System.Windows.Forms.PictureBox();
             this.B_AddNew = new System.Windows.Forms.Button();

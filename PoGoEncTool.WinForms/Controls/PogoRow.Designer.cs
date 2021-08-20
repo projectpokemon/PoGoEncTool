@@ -1,5 +1,5 @@
 ﻿
-namespace PoGoEncTool
+namespace PoGoEncTool.WinForms
 {
     partial class PogoRow
     {

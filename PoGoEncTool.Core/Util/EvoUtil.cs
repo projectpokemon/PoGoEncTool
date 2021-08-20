@@ -4,7 +4,7 @@ using System.Linq;
 using PKHeX.Core;
 using static PKHeX.Core.Species;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.Core
 {
     public static class EvoUtil
     {

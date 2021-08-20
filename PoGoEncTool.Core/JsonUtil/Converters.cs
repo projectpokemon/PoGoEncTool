@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.WinForms
 {
     public class FlatConverter<T> : JsonConverter
     {

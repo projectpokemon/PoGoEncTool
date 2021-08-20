@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.Core
 {
     [Serializable]
     public class PogoEncounterList

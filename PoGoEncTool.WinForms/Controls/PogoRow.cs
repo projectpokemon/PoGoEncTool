@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Linq;
 using System.Windows.Forms;
-using PKHeX.Core;
+using PoGoEncTool.Core;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.WinForms
 {
-    public partial class PogoRow : UserControl
+    public sealed partial class PogoRow : UserControl
     {
         public PogoRow()
         {
@@ -18,6 +18,11 @@ namespace PoGoEncTool
             CB_Type.ValueMember = nameof(ComboItem.Value);
             CB_Type.DataSource = new BindingSource(ds, null);
         }
+
+        /// <summary>
+        /// Key Value pair for a displayed <see cref="T:System.String" /> and underlying <see cref="T:System.Int32" /> value.
+        /// </summary>
+        public record ComboItem(string Text, int Value);
 
         public void LoadEntry(PogoEntry entry)
         {

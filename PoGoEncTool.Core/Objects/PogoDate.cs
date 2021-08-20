@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.Core
 {
     [Serializable]
     public class PogoDate : IComparable, IEquatable<PogoDate>

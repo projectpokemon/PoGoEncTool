@@ -6,18 +6,21 @@
     <UseWindowsForms>true</UseWindowsForms>
     <Nullable>enable</Nullable>
     <LangVersion>9</LangVersion>
-    <StartupObject>PoGoEncTool.Program</StartupObject>
+    <StartupObject>PoGoEncTool.WinForms.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
-    <PackageReference Include="PKHeX.Core" Version="21.8.6" />
+    <ProjectReference Include="..\PoGoEncTool.Core\PoGoEncTool.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <Reference Include="PKHeX.Drawing">
-      <HintPath>Resources\PKHeX.Drawing.dll</HintPath>
+      <HintPath>.\deps\PKHeX.Drawing.dll</HintPath>
     </Reference>
   </ItemGroup>
+
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
 
 </Project>

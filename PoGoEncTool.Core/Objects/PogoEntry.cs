@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PoGoEncTool
+namespace PoGoEncTool.Core
 {
     [Serializable]
     public class PogoEntry : IComparable<PogoEntry>, IEquatable<PogoEntry>
@@ -97,6 +97,11 @@ namespace PoGoEncTool
         public override int GetHashCode()
         {
             return HashCode.Combine(Start, End, (int) Shiny, (int)Gender, (int) Type, Comment);
+        }
+
+        public void Clear()
+        {
+            Type = 0;
         }
     }
 }
