@@ -55,7 +55,7 @@ namespace PoGoEncTool.Core
                 PogoShiny.Random => 1,
                 PogoShiny.Always => 2,
                 PogoShiny.Never => 3,
-                _ => throw new ArgumentOutOfRangeException(nameof(type))
+                _ => throw new ArgumentOutOfRangeException(nameof(type)),
             };
         }
 
@@ -66,7 +66,7 @@ namespace PoGoEncTool.Core
                 PogoGender.Random => 2,
                 PogoGender.MaleOnly => 0,
                 PogoGender.FemaleOnly => 1,
-                _ => throw new ArgumentOutOfRangeException(nameof(type))
+                _ => throw new ArgumentOutOfRangeException(nameof(type)),
             };
         }
 

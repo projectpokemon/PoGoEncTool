@@ -30,7 +30,7 @@ namespace PoGoEncTool.WinForms
             {
                 PogoShiny.Always => CheckState.Checked,
                 PogoShiny.Random => CheckState.Indeterminate,
-                _ => CheckState.Unchecked
+                _ => CheckState.Unchecked,
             };
 
             CHK_MaleOnly.Checked = entry.Gender == PogoGender.MaleOnly;
@@ -58,7 +58,7 @@ namespace PoGoEncTool.WinForms
                 _ => PogoShiny.Never,
             };
 
-            entry.Gender = CHK_MaleOnly.Checked ? PogoGender.MaleOnly : (CHK_FemaleOnly.Checked ? PogoGender.FemaleOnly : PogoGender.Random);
+            entry.Gender = CHK_MaleOnly.Checked ? PogoGender.MaleOnly : CHK_FemaleOnly.Checked ? PogoGender.FemaleOnly : PogoGender.Random;
 
             entry.Start = !DT_Start.Checked ? null : new PogoDate(DT_Start.Value);
             entry.End = !DT_End.Checked ? null : new PogoDate(DT_End.Value);

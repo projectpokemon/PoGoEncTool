@@ -13,7 +13,7 @@ namespace PoGoEncTool.Core
         {
             Formatting = Formatting.Indented,
             DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate,
-            NullValueHandling = NullValueHandling.Ignore
+            NullValueHandling = NullValueHandling.Ignore,
         };
 
         public static PogoEncounterList GetData(string exePath, out ProgramSettings settings)
@@ -47,9 +47,15 @@ namespace PoGoEncTool.Core
         public static void SavePickles(string binDestinationPath, string listJsonPath)
         {
             var list = GetList(listJsonPath);
-            SaveAllData(binDestinationPath, list, null);
+            SaveAllData(binDestinationPath, list);
         }
 
+        /// <summary>
+        /// Saves all data for the program.
+        /// </summary>
+        /// <param name="binDestinationPath">Path to save the pickles</param>
+        /// <param name="entries">Object containing all encounter data objects</param>
+        /// <param name="listJsonPath">Encounter json path to save to. If left null, will not be saved.</param>
         public static void SaveAllData(string binDestinationPath, PogoEncounterList entries, string? listJsonPath = null)
         {
             var clone = JsonConvert.DeserializeObject<PogoEncounterList>(JsonConvert.SerializeObject(entries));

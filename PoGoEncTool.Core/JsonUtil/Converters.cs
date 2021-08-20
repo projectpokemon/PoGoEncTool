@@ -8,7 +8,9 @@ namespace PoGoEncTool.WinForms
         // ReSharper disable once StaticMemberInGenericType
         private static readonly JsonSerializerSettings Settings = new()
         {
-            Formatting = Formatting.None, NullValueHandling = NullValueHandling.Ignore, DefaultValueHandling = DefaultValueHandling.Ignore
+            Formatting = Formatting.None,
+            NullValueHandling = NullValueHandling.Ignore,
+            DefaultValueHandling = DefaultValueHandling.Ignore,
         };
 
         public override bool CanConvert(Type objectType)

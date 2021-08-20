@@ -26,7 +26,12 @@ namespace PoGoEncTool.Core
         public override string ToString()
         {
             var date = $"[{Start?.ToString() ?? "X"}-{End?.ToString() ?? "X"}]";
-            var gender = Gender == PogoGender.Random ? "" : Gender == PogoGender.FemaleOnly ? " (♀)" : " (♂)";
+            var gender = Gender switch
+            {
+                PogoGender.Random => "",
+                PogoGender.FemaleOnly => " (♀)",
+                _ => " (♂)",
+            };
             return $"{date}: {Type} {{{Shiny}}}{gender} - {Comment}";
         }
 
@@ -90,7 +95,7 @@ namespace PoGoEncTool.Core
         {
             if (obj is null) return false;
             if (ReferenceEquals(this, obj)) return true;
-            if (obj.GetType() != this.GetType()) return false;
+            if (obj.GetType() != GetType()) return false;
             return Equals((PogoEntry) obj);
         }
 
@@ -101,7 +106,7 @@ namespace PoGoEncTool.Core
 
         public void Clear()
         {
-            Type = 0;
+            Type = PogoType.None; // marked for removal, don't bother clearing other fields
         }
     }
 }

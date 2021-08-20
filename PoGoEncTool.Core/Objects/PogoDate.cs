@@ -27,7 +27,7 @@ namespace PoGoEncTool.Core
         public PogoDate(in int value)
         {
             Y = value >> 16;
-            M = ((value >> 8) & 0xFF);
+            M = (value >> 8) & 0xFF;
             D = value & 0xFF;
         }
 

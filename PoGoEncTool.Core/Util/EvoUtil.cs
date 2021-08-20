@@ -41,7 +41,7 @@ namespace PoGoEncTool.Core
                 MimeJr when destSpecies == MrRime && destForm == 0 => false,
                 Exeggcute when destSpecies == Exeggutor && destForm == 1 => false,
                 Cubone when destSpecies == Marowak && destForm == 1 => false,
-                _ => true
+                _ => true,
             };
         }
     }
