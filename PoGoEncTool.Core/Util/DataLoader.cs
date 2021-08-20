@@ -59,7 +59,7 @@ namespace PoGoEncTool.Core
         public static void SaveAllData(string binDestinationPath, PogoEncounterList entries, string? listJsonPath = null)
         {
             var clone = JsonConvert.DeserializeObject<PogoEncounterList>(JsonConvert.SerializeObject(entries));
-            if (clone is null)
+            if (clone is null || clone.Data.Count != entries.Data.Count)
                 throw new NullReferenceException("Should have been able to create a clone from original object.");
 
             clone.Clean();
