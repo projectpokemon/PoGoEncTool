@@ -7,7 +7,7 @@ namespace PoGoEncTool.Core
     [Serializable]
     public class PogoEncounterList
     {
-        public List<PogoPoke> Data { internal get; set; } = new();
+        public List<PogoPoke> Data { get; set; } = new();
 
         public PogoEncounterList() { }
         public PogoEncounterList(IEnumerable<PogoPoke> seed) => Data.AddRange(seed);
