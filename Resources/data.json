@@ -7351,7 +7351,8 @@
       "Species": 619,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":5,"D":31},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":23,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 8)"}
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 8)"},
+        {"Start":{"Y":2021,"M":8,"D":31},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":23,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Reward Encounter (Season 9)"}
       ]
     },
     {
