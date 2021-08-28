@@ -5480,7 +5480,7 @@
         {"Start":{"Y":2018,"M":10,"D":16},"End":{"Y":2018,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Bug Out! 2019)"},
-        {"Start":{"Y":2020,"M":10,"D":2},"Type":1,"Comment":"Fashion Week"},
+        {"Start":{"Y":2020,"M":10,"D":2},"Type":1,"Comment":"Fashion Week 2020"},
         {"Start":{"Y":2021,"M":2,"D":18},"End":{"Y":2021,"M":2,"D":18},"Type":10,"Comment":"T1 Raid Boss (Celebrate Carnival)"}
       ]
     },
@@ -5621,7 +5621,7 @@
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":12},"Type":10,"Comment":"T1 Raid Boss (Evolution Event)"},
         {"Start":{"Y":2019,"M":12,"D":5},"Type":1,"Comment":"Evolution Event"},
         {"Start":{"Y":2020,"M":2,"D":7},"End":{"Y":2020,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Sinnoh Celebration)"},
-        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week)"}
+        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Type":10,"Comment":"T1 Raid Boss (Fashion Week 2020)"}
       ]
     },
     {
@@ -5973,13 +5973,17 @@
       "Species": 453,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":1,"Comment":"Holiday 2018"},
+        {"Start":{"Y":2018,"M":12,"D":18},"End":{"Y":2020,"M":10,"D":2},"Shiny":1,"Type":1,"Comment":"Holiday 2018"},
+        {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":2,"Comment":"Holiday 2018"},
         {"Start":{"Y":2019,"M":11,"D":4},"End":{"Y":2019,"M":11,"D":7},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":14},"End":{"Y":2019,"M":11,"D":19},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":4,"D":1},"End":{"Y":2020,"M":4,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Tricky Pokémon 2020)"},
-        {"Start":{"Y":2020,"M":4,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Tricky Pokémon 2020"},
+        {"Start":{"Y":2020,"M":4,"D":1},"End":{"Y":2020,"M":10,"D":2},"Type":1,"LocalizedStart":true,"Comment":"Tricky Pokémon 2020"},
+        {"Start":{"Y":2020,"M":4,"D":1},"Type":2,"LocalizedStart":true,"Comment":"Tricky Pokémon 2020"},
+        {"Start":{"Y":2020,"M":4,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Tricky Pokémon 2020"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020: Sinnoh, Previously T1)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Team GO Rocket Event, Previously T2)"},
+        {"Start":{"Y":2020,"M":10,"D":9},"Type":1,"Comment":"Returned to Wild"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change: Part 2)"},
         {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Type":10,"Comment":"T1 Raid Boss (Rivals' Week)"},
         {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
@@ -6708,7 +6712,7 @@
       "Data": [
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Unova Week)"},
         {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":1,"Comment":"Unova Week"},
-        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week)"}
+        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Fashion Week 2020)"}
       ]
     },
     {
@@ -6931,7 +6935,7 @@
       "Species": 573,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Fashion Week)"}
+        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Fashion Week 2020)"}
       ]
     },
     {
@@ -6941,7 +6945,7 @@
         {"Start":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2020"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (Enigma Week)"},
         {"Start":{"Y":2020,"M":9,"D":10},"End":{"Y":2020,"M":9,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week)"},
+        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Fashion Week 2020)"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
       ]
     },
@@ -6949,7 +6953,7 @@
       "Species": 575,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Fashion Week)"}
+        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Fashion Week 2020)"}
       ]
     },
     {
