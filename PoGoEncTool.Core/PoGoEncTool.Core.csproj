@@ -8,7 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-    <PackageReference Include="PKHeX.Core" Version="21.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PKHeX.Core">
+      <HintPath>.\deps\PKHeX.Core.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
