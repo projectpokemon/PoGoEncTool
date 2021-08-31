@@ -7923,7 +7923,8 @@
       "Species": 819,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
+        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
       ]
     },
     {
@@ -7935,7 +7936,8 @@
       "Species": 831,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
+        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
       ]
     },
     {
@@ -7973,7 +7975,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021: Sword and Shield, Ended Early)"},
-        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
+        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
       ]
     },
     {
