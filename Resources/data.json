@@ -3758,7 +3758,7 @@
         {"Start":{"Y":2019,"M":12,"D":20},"End":{"Y":2019,"M":12,"D":23},"Type":10,"Comment":"T5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2021,"M":1,"D":1},"End":{"Y":2021,"M":1,"D":5},"Type":10,"NoEndTolerance":true,"Comment":"T5 Raid Boss (New Year's 2020)"},
-        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"A Seven-Colored Shadow"},
+        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":9,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"A Seven-Colored Shadow"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"}
       ]
     },
@@ -4162,7 +4162,8 @@
         {"Start":{"Y":2020,"M":3,"D":20},"Type":2,"LocalizedStart":true,"Comment":"A Drive to Investigate"},
         {"Start":{"Y":2020,"M":3,"D":20},"Type":20,"LocalizedStart":true,"Comment":"A Drive to Investigate"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":6,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Bug Out! 2020"},
-        {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Hoenn Celebration Event"}
+        {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Hoenn Celebration Event"},
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief (Northern Hemisphere)"}
       ]
     },
     {
@@ -5010,7 +5011,8 @@
         {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends Y: Part 1)"},
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Type":10,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021 (Cave Habitat)"}
+        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021 (Cave Habitat)"},
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief"}
       ]
     },
     {
@@ -7953,8 +7955,7 @@
       "Species": 819,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
-        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
+        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
       ]
     },
     {
@@ -7966,8 +7967,7 @@
       "Species": 831,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
-        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
+        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
       ]
     },
     {
@@ -8005,8 +8005,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021: Sword and Shield, Ended Early)"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
-        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
+        {"Start":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
       ]
     },
     {
