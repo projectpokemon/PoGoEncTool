@@ -311,7 +311,8 @@
         {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":22},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":3,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Charge Up!)"},
-        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Solstice Event, Northern Hemisphere)"}
+        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Solstice Event, Northern Hemisphere)"},
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -1147,7 +1148,8 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
         {"Start":{"Y":2020,"M":9,"D":22},"End":{"Y":2020,"M":9,"D":28},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Mega September: Mega Buddy Challenge)"},
-        {"Start":{"Y":2020,"M":9,"D":22},"Type":1,"LocalizedStart":true,"Comment":"Mega September: Mega Buddy Challenge"}
+        {"Start":{"Y":2020,"M":9,"D":22},"Type":1,"LocalizedStart":true,"Comment":"Mega September: Mega Buddy Challenge"},
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":8},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -1734,7 +1736,8 @@
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"Comment":"Available at launch"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Enigma Week)"},
         {"Start":{"Y":2020,"M":8,"D":7},"Type":1,"Comment":"Enigma Week"},
-        {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2021)"}
       ]
     },
     {
@@ -2548,7 +2551,9 @@
     {
       "Species": 178,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
+      ]
     },
     {
       "Species": 179,
@@ -3071,7 +3076,8 @@
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Animation Week)"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Lake Legends Event)"},
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Psychic Spectacular 2021)"}
       ]
     },
     {
@@ -3798,7 +3804,8 @@
         {"Start":{"Y":2019,"M":5,"D":19},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Hoenn)"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2020)"},
-        {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Hoenn Celebration Event)"}
+        {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Hoenn Celebration Event)"},
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":8},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -4033,7 +4040,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Supereffective Week)"},
-        {"Start":{"Y":2021,"M":3,"D":24},"End":{"Y":2021,"M":3,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Weather Week)"}
+        {"Start":{"Y":2021,"M":3,"D":24},"End":{"Y":2021,"M":3,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Weather Week)"},
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -4409,7 +4417,8 @@
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Hoenn)"},
-        {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Psychic Spectacular 2021)"}
       ]
     },
     {
@@ -4958,7 +4967,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Sky Theme)"},
-        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"}
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"},
+        {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2021)"}
       ]
     },
     {
@@ -5032,7 +5042,8 @@
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":14},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":18},"End":{"Y":2020,"M":12,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Solstice Event, Southern Hemisphere)"}
+        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Solstice Event, Southern Hemisphere)"},
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":8},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -5169,7 +5180,8 @@
       "Species": 375,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":3,"D":9},"End":{"Y":2021,"M":3,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Searching for Legends)"}
+        {"Start":{"Y":2021,"M":3,"D":9},"End":{"Y":2021,"M":3,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Searching for Legends)"},
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -5186,7 +5198,8 @@
         {"Start":{"Y":2020,"M":7,"D":23},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T4 Raid Boss (Enigma Week)"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon HOME Event)"},
-        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Psychic Spectacular 2021)"}
       ]
     },
     {
@@ -5522,7 +5535,8 @@
         {"Start":{"Y":2021,"M":3,"D":14},"End":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (New Pokémon Snap Celebration)"},
-        {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Very Slow Discovery)"}
+        {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Very Slow Discovery)"},
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":8},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -5835,7 +5849,8 @@
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Type":10,"Comment":"T1 Raid Boss (Extraordinary Raid Week)"},
         {"Start":{"Y":2019,"M":5,"D":21},"Type":1,"Comment":"Extraordinary Raid Week"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lake Legends Event)"},
-        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":6},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021: Time)"}
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":6},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021: Time)"},
+        {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2021)"}
       ]
     },
     {
@@ -6542,7 +6557,8 @@
         {"Start":{"Y":2020,"M":2,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
         {"Start":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (4th Anniversary)"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020"},
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":8},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -7759,7 +7775,8 @@
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021: Space)"},
-        {"Start":{"Y":2021,"M":8,"D":6},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Space"}
+        {"Start":{"Y":2021,"M":8,"D":6},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Space"},
+        {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2021)"}
       ]
     },
     {
@@ -7794,6 +7811,19 @@
     },
     {
       "Species": 685,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 686,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2021)"},
+        {"Start":{"Y":2021,"M":9,"D":8},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2021"}
+      ]
+    },
+    {
+      "Species": 687,
       "Available": true,
       "Data": []
     },
