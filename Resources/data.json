@@ -1663,7 +1663,7 @@
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Extraordinary Raid Week)"},
         {"Start":{"Y":2020,"M":2,"D":14},"End":{"Y":2020,"M":2,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Valentine's Day 2020, Previously T3)"},
         {"Start":{"Y":2020,"M":2,"D":14},"End":{"Y":2021,"M":4,"D":4},"Type":1,"LocalizedStart":true,"Comment":"Valentine's Day 2020"},
-        {"Start":{"Y":2020,"M":2,"D":14},"Type":20,"Comment":"Valentine's Day 2020"},
+        {"Start":{"Y":2020,"M":2,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Valentine's Day 2020"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Fest 2020, Previously T4)"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event)"},
         {"Start":{"Y":2021,"M":4,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
