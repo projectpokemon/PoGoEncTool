@@ -26,10 +26,7 @@ namespace PoGoEncTool.WinForms
             InitializeComponent();
 
             Entries = DataLoader.GetData(Application.StartupPath, out Settings);
-            // Entries = new PogoEncounterList(EncountersGO.CreateSeed());
-            // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = PogoType.Shadow);
-            // Entries.ModifyAll(_ => true, e => e.Available = e.Data.Count != 0);
-            // Entries.ReapplyDuplicates();
+            // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = Core.PogoType.Shadow);
             // BulkActions.AddRaidBosses(Entries);
 
             LoadEntries();
