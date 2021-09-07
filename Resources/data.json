@@ -221,7 +221,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2020,"M":7,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2021,"M":4,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Decoy Grunt"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Decoy Grunt"}
+        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":9,"D":2},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Decoy Grunt"}
       ]
     },
     {
@@ -881,7 +881,7 @@
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2021,"M":4,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Decoy Grunt"},
         {"Start":{"Y":2020,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Summer Event"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Decoy Grunt"}
+        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":9,"D":2},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Decoy Grunt"}
       ]
     },
     {
