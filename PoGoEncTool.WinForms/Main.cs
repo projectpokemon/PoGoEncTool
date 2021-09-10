@@ -304,6 +304,8 @@ namespace PoGoEncTool.WinForms
                 pogoRow1.SaveEntry(detail);
 
                 var parent = Entries.GetDetails(species, formCombo.Value);
+                if (!parent.Available)
+                    continue;
                 parent.Add(detail);
             }
             System.Media.SystemSounds.Asterisk.Play();
