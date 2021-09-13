@@ -3227,12 +3227,14 @@
       "Species": 215,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2017,"M":2,"D":16},"End":{"Y":2021,"M":9,"D":21},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":2,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2018,"M":4,"D":2},"End":{"Y":2018,"M":4,"D":10},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2018,"M":4,"D":18},"End":{"Y":2018,"M":5,"D":1},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2018,"M":5,"D":15},"End":{"Y":2018,"M":5,"D":24},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2018,"M":6,"D":6},"End":{"Y":2018,"M":6,"D":7},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2018,"M":10,"D":16},"End":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
+        {"Start":{"Y":2018,"M":10,"D":23},"Shiny":1,"Type":20,"Comment":"Halloween 2018"},
         {"Start":{"Y":2018,"M":11,"D":28},"End":{"Y":2019,"M":1,"D":3},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":3,"D":28},"End":{"Y":2019,"M":4,"D":2},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":4,"D":10},"End":{"Y":2019,"M":4,"D":29},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
@@ -3242,7 +3244,9 @@
         {"Start":{"Y":2019,"M":6,"D":12},"End":{"Y":2019,"M":6,"D":18},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":8,"D":23},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":8,"D":23},"Type":10,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2019,"M":7,"D":25},"Type":1,"Comment":"Team GO Rocket Disruption"},
+        {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2021,"M":9,"D":21},"Type":1,"Comment":"Team GO Rocket Disruption"},
+        {"Start":{"Y":2019,"M":7,"D":25},"Type":2,"Comment":"Team GO Rocket Disruption"},
+        {"Start":{"Y":2019,"M":7,"D":25},"Type":20,"Comment":"Team GO Rocket Disruption"},
         {"Start":{"Y":2019,"M":8,"D":31},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":5},"End":{"Y":2019,"M":12,"D":25},"Type":30,"LocalizedStart":true,"Comment":"Leader Sierra"},
         {"Start":{"Y":2020,"M":2,"D":4},"End":{"Y":2020,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
@@ -3271,7 +3275,8 @@
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1)"},
         {"Start":{"Y":2021,"M":5,"D":18},"Type":30,"LocalizedStart":true,"Comment":"Leader Sierra"},
-        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":9,"D":29},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -5999,10 +6004,11 @@
         {"Start":{"Y":2020,"M":4,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Tricky Pokémon 2020"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020: Sinnoh, Previously T1)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Team GO Rocket Event, Previously T2)"},
-        {"Start":{"Y":2020,"M":10,"D":9},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
+        {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2021,"M":9,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (The Seasons Change: Part 2)"},
         {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Rivals' Week)"},
-        {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":9,"D":29},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -6506,10 +6512,13 @@
       "Species": 522,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
+        {"Start":{"Y":2019,"M":9,"D":16},"End":{"Y":2021,"M":9,"D":21},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":2,"Comment":"A Unova Unveiling"},
         {"Start":{"Y":2020,"M":2,"D":4},"End":{"Y":2020,"M":2,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":2,"D":11},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":3,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Charge Up!)"}
+        {"Start":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Task"},
+        {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":3,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Charge Up!)"},
+        {"Start":{"Y":2021,"M":9,"D":29},"Type":1,"LocalizedStart":true,"Comment":"Fashion Week 2021 (End of Event)"}
       ]
     },
     {
@@ -7767,6 +7776,54 @@
       "Data": [
         {"Start":{"Y":2021,"M":9,"D":21},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Fashion Week 2021"}
       ]
+    },
+    {
+      "Species": 676,
+      "Form": 2,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 676,
+      "Form": 3,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 676,
+      "Form": 4,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 676,
+      "Form": 5,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 676,
+      "Form": 6,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 676,
+      "Form": 7,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 676,
+      "Form": 8,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 676,
+      "Form": 9,
+      "Available": true,
+      "Data": []
     },
     {
       "Species": 677,
