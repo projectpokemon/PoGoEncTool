@@ -27,7 +27,7 @@ namespace PoGoEncTool.Core
                     Start = new PogoDate { Y = 2000, M = 1, D = 1 },
                     End = new PogoDate { Y = 2000, M = 1, D = 1 },
                     Type = PogoType.Raid,
-                    // LocalizedStart = true,
+                    LocalizedStart = true,
                     // NoEndTolerance = true,
                     // Gender = pkm is (int)Frillish ? PogoGender.MaleOnly : PogoGender.Random,
                 };

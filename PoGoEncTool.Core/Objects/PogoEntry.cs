@@ -10,7 +10,7 @@ namespace PoGoEncTool.Core
         public PogoShiny Shiny { get; set; } = PogoShiny.Never;
         public PogoGender Gender { get; set; }
         public PogoType Type { get; set; }
-        public bool LocalizedStart { get; set; }
+        public bool LocalizedStart { get; set; } = true;
         public bool NoEndTolerance { get; set; }
         public string Comment { get; set; } = string.Empty;
 
