@@ -128,7 +128,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Shiny Released"},
+        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"Comment":"Shiny Released in Wild"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Type":10,"Comment":"T1 Raid Boss (Bug Out! 2019)"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Drive to Investigate)"}
       ]
@@ -738,7 +738,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2018,"M":9,"D":1},"Type":1,"Comment":"Shiny Released"},
+        {"Start":{"Y":2018,"M":9,"D":1},"Type":1,"Comment":"Shiny Released in Wild"},
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":2,"D":28},"Type":10,"Comment":"T1 Raid Boss (Pokémon Day 2019)"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2019,"M":11,"D":4},"End":{"Y":2019,"M":11,"D":7},"Type":10,"Comment":"T1 Raid Boss"},
@@ -1166,7 +1166,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2019,"M":5,"D":1},"Type":1,"Comment":"Shiny Released"},
+        {"Start":{"Y":2019,"M":5,"D":1},"Type":1,"Comment":"Shiny Released in Wild"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"T1 Raid Boss (Water Festival 2019)"},
         {"Start":{"Y":2020,"M":6,"D":16},"End":{"Y":2020,"M":6,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":25},"End":{"Y":2020,"M":6,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
@@ -1361,7 +1361,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2018,"M":10,"D":1},"Type":1,"Comment":"Shiny Released"},
+        {"Start":{"Y":2018,"M":10,"D":1},"Type":1,"Comment":"Shiny Released in Wild"},
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":21},"Type":10,"Comment":"T1 Raid Boss (Valentine's Day 2019)"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"T1 Raid Boss (Water Festival 2019)"}
       ]
@@ -1939,7 +1939,8 @@
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kanto Celebration Event)"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":9,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -2791,7 +2792,7 @@
         {"Start":{"Y":2018,"M":10,"D":23},"End":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss (Halloween 2018)"},
         {"Start":{"Y":2018,"M":11,"D":28},"End":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2018,"M":12,"D":1},"End":{"Y":2018,"M":12,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2018,"M":12,"D":1},"Type":1,"Comment":"Shiny Released"},
+        {"Start":{"Y":2018,"M":12,"D":1},"Type":1,"Comment":"Shiny Released in Wild"},
         {"Start":{"Y":2019,"M":3,"D":28},"End":{"Y":2019,"M":4,"D":2},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":4,"D":10},"End":{"Y":2019,"M":5,"D":7},"Type":10,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2019,"M":5,"D":18},"End":{"Y":2019,"M":6,"D":4},"Type":10,"Comment":"T2 Raid Boss"},
@@ -3157,7 +3158,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2018,"M":8,"D":1},"Type":1,"Comment":"Shiny Released"},
+        {"Start":{"Y":2018,"M":8,"D":1},"Type":1,"Comment":"Shiny Released in Wild"},
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":21},"Type":10,"Comment":"T1 Raid Boss (Valentine's Day 2019)"},
         {"Start":{"Y":2019,"M":5,"D":7},"End":{"Y":2019,"M":5,"D":17},"Type":10,"Comment":"T1 Raid Boss (Detective Pikachu Celebration)"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T1 Raid Boss (Johto Journey)"},
@@ -3463,7 +3464,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2018,"M":8,"D":1},"Type":1,"Comment":"Shiny Released"},
+        {"Start":{"Y":2018,"M":8,"D":1},"Type":1,"Comment":"Shiny Released in Wild"},
         {"Start":{"Y":2019,"M":8,"D":1},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T1 Raid Boss (Johto Journey)"},
         {"Start":{"Y":2019,"M":11,"D":4},"End":{"Y":2019,"M":11,"D":7},"Type":10,"Comment":"T1 Raid Boss"},
@@ -3493,7 +3494,7 @@
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":31},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":10,"D":17},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":6,"D":19},"End":{"Y":2020,"M":6,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Summer Solstice)"},
-        {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Mega September)"},
+        {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":15},"End":{"Y":2021,"M":6,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
@@ -4440,7 +4441,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial Hoenn Release"},
-        {"Start":{"Y":2019,"M":9,"D":1},"Type":1,"Comment":"Shiny Released"},
+        {"Start":{"Y":2019,"M":9,"D":1},"Type":1,"Comment":"Shiny Released in Wild"},
         {"Start":{"Y":2020,"M":11,"D":5},"End":{"Y":2020,"M":11,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":27},"End":{"Y":2021,"M":4,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
@@ -5925,7 +5926,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":5,"D":17},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
-        {"Start":{"Y":2019,"M":12,"D":16},"Type":1,"Comment":"Shiny Released"},
+        {"Start":{"Y":2019,"M":12,"D":16},"Type":1,"Comment":"Shiny Released in Wild"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Pokémon GO Fest 2020)"},
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (Dragon Week)"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event)"}
@@ -6205,7 +6206,8 @@
         {"Start":{"Y":2019,"M":8,"D":28},"End":{"Y":2019,"M":8,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss (Legendary Raid Hour)"},
         {"Start":{"Y":2020,"M":11,"D":23},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T5 Raid Boss (Lake Legends Event, Released Early)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
-        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":9,"D":14},"Type":1,"LocalizedStart":true,"Comment":"Shiny Released in Wild"}
       ]
     },
     {
@@ -6217,7 +6219,8 @@
         {"Start":{"Y":2019,"M":8,"D":28},"End":{"Y":2019,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Legendary Raid Hour)"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Lake Legends Event)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
-        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":9,"D":14},"Type":1,"LocalizedStart":true,"Comment":"Shiny Released in Wild"}
       ]
     },
     {
@@ -6229,7 +6232,8 @@
         {"Start":{"Y":2019,"M":8,"D":28},"End":{"Y":2019,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"T5 Raid Boss (Legendary Raid Hour)"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Lake Legends Event)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
-        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
+        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":9,"D":14},"Type":1,"LocalizedStart":true,"Comment":"Shiny Released in Wild"}
       ]
     },
     {
@@ -8103,7 +8107,8 @@
       "Data": [
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
-        {"Start":{"Y":2021,"M":9,"D":3},"End":{"Y":2021,"M":9,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Legendary Raid Hour Makeup Event)"}
+        {"Start":{"Y":2021,"M":9,"D":3},"End":{"Y":2021,"M":9,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Legendary Raid Hour Makeup Event)"},
+        {"Start":{"Y":2021,"M":9,"D":4},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9, Accidentally Released)"}
       ]
     }
   ]
