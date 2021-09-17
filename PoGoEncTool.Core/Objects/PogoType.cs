@@ -28,6 +28,9 @@
         GBL,
         /// <summary> GO Battle League Reward (Mythical), requires Lv. 20 and IV = 10 </summary>
         GBLM,
+        /// <summary> GO Battle League Reward, requires Lv. 20 and IV = 0 </summary>
+        /// <remarks> On GO Battle Day (September 18, 2021), IV floor and ceiling were both set to 0 for non-Legendary encounters. </remarks>
+        GBLZero,
 
         /// <summary> Purified, requires Lv. 8 and IV = 1 (Premier Ball only) </summary>
         Shadow = 30,
