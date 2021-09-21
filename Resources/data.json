@@ -1403,7 +1403,7 @@
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
         {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":4,"D":9},"Type":1,"LocalizedStart":true,"Comment":"Spring into Spring 2020"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event)"},
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event 2020)"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"}
       ]
@@ -1576,8 +1576,9 @@
         {"Start":{"Y":2020,"M":2,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Lickitung Raid Day"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (Throwback Challenge 2020: Kanto)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Team GO Rocket Event, Previously T2)"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event)"},
-        {"Start":{"Y":2021,"M":3,"D":24},"End":{"Y":2021,"M":3,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Weather Week)"}
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2020)"},
+        {"Start":{"Y":2021,"M":3,"D":24},"End":{"Y":2021,"M":3,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Weather Week)"},
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2021)"}
       ]
     },
     {
@@ -1668,8 +1669,9 @@
         {"Start":{"Y":2020,"M":2,"D":14},"End":{"Y":2021,"M":4,"D":4},"Type":1,"LocalizedStart":true,"Comment":"Valentine's Day 2020"},
         {"Start":{"Y":2020,"M":2,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Valentine's Day 2020"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon GO Fest 2020, Previously T4)"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event)"},
-        {"Start":{"Y":2021,"M":4,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2020)"},
+        {"Start":{"Y":2021,"M":4,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2021)"}
       ]
     },
     {
@@ -1899,12 +1901,13 @@
         {"Start":{"Y":2020,"M":9,"D":22},"End":{"Y":2020,"M":9,"D":28},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Mega September: Mega Buddy Challenge)"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (The Seasons Change: Part 1)"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Animation Week)"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event)"},
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2020)"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2021,"M":2,"D":2},"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Meowth Balloon (James)"},
         {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":3,"D":1},"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Meowth Balloon (James)"},
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Kanto Celebration Event)"},
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":9,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":9,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2021)"}
       ]
     },
     {
@@ -3163,7 +3166,8 @@
         {"Start":{"Y":2019,"M":5,"D":7},"End":{"Y":2019,"M":5,"D":17},"Type":10,"Comment":"T1 Raid Boss (Detective Pikachu Celebration)"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"T1 Raid Boss (Johto Journey)"},
         {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Buddy Up)"},
-        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":9,"D":20},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Accidental Release)"}
       ]
     },
     {
@@ -3345,7 +3349,8 @@
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":6,"D":14},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":6,"D":14},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":9,"D":20},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Accidental Release)"}
       ]
     },
     {
@@ -3577,7 +3582,8 @@
         {"Start":{"Y":2020,"M":12,"D":17},"End":{"Y":2021,"M":6,"D":17},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Snapshot (Became Lunatone and Solrock)"},
         {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Type":1,"LocalizedStart":true,"Comment":"GO Snapshot (New Pokémon Snap Celebration)"},
         {"Start":{"Y":2021,"M":6,"D":20},"End":{"Y":2021,"M":9,"D":8},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Snapshot (Became Inkay)"},
-        {"Start":{"Y":2021,"M":9,"D":14},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Snapshot"}
+        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":9,"D":21},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Snapshot (Became Furfrou)"},
+        {"Start":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"GO Snapshot"}
       ]
     },
     {
@@ -3696,7 +3702,8 @@
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"},
         {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event 2021)"}
       ]
     },
     {
@@ -3976,7 +3983,8 @@
       "Species": 272,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":27},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Buddy Up)"}
+        {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":27},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Buddy Up)"},
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2021)"}
       ]
     },
     {
@@ -3997,7 +4005,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":9,"D":10},"End":{"Y":2020,"M":9,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event)"}
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2020)"}
       ]
     },
     {
@@ -4286,7 +4294,9 @@
     {
       "Species": 301,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2021,"M":9,"D":21},"End":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Fashion Week 2021)"}
+      ]
     },
     {
       "Species": 302,
@@ -4348,7 +4358,7 @@
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (The Seasons Change: Part 2)"},
         {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Type":10,"Comment":"T1 Raid Boss (Halloween 2020)"},
         {"Start":{"Y":2020,"M":11,"D":1},"Type":20,"Comment":"Field Research Task"},
-        {"Start":{"Y":2020,"M":12,"D":2},"End":{"Y":2020,"M":12,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (T1 During Secrets of the Jungle Event)"},
+        {"Start":{"Y":2020,"M":12,"D":2},"End":{"Y":2020,"M":12,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (T1 During Secrets of the Jungle Event 2020)"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends X)"}
@@ -4669,8 +4679,9 @@
       "Species": 330,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event)"},
-        {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends X)"}
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2020)"},
+        {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Luminous Legends X)"},
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2021)"}
       ]
     },
     {
@@ -6558,11 +6569,12 @@
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":9,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":5},"End":{"Y":2020,"M":11,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event)"},
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event 2020)"},
         {"Start":{"Y":2021,"M":3,"D":6},"End":{"Y":2021,"M":3,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":23},"End":{"Y":2021,"M":3,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":30},"End":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event 2021)"}
       ]
     },
     {
@@ -6891,7 +6903,8 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Team GO Rocket Celebration"},
         {"Start":{"Y":2021,"M":9,"D":5},"End":{"Y":2021,"M":9,"D":5},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Hoopa's Arrival"},
-        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"}
+        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
+        {"Start":{"Y":2021,"M":9,"D":21},"End":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week 2021)"}
       ]
     },
     {
@@ -7002,7 +7015,8 @@
       "Species": 575,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Fashion Week 2020)"}
+        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Fashion Week 2020)"},
+        {"Start":{"Y":2021,"M":9,"D":21},"End":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Fashion Week 2021)"}
       ]
     },
     {
@@ -7151,7 +7165,8 @@
       "Species": 590,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"}
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event 2021)"}
       ]
     },
     {
@@ -7476,11 +7491,12 @@
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2020)"},
         {"Start":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2020)"},
         {"Start":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event)"},
-        {"Start":{"Y":2020,"M":12,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event"},
-        {"Start":{"Y":2020,"M":12,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event"},
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event 2020)"},
+        {"Start":{"Y":2020,"M":12,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event 2020"},
+        {"Start":{"Y":2020,"M":12,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event 2020"},
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Spring into Spring 2021)"},
-        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"}
+        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event 2021)"}
       ]
     },
     {
@@ -7514,7 +7530,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
         {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020"},
-        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event)"}
+        {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Secrets of the Jungle Event 2020)"}
       ]
     },
     {
@@ -7799,6 +7815,7 @@
       "Species": 676,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2021,"M":9,"D":21},"End":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week 2021)"},
         {"Start":{"Y":2021,"M":9,"D":21},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Fashion Week 2021"}
       ]
     },
@@ -8113,6 +8130,13 @@
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
         {"Start":{"Y":2021,"M":9,"D":3},"End":{"Y":2021,"M":9,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Legendary Raid Hour Makeup Event)"},
         {"Start":{"Y":2021,"M":9,"D":4},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9, Accidental Release)"}
+      ]
+    },
+    {
+      "Species": 893,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":10,"D":1},"Shiny":1,"Type":21,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event 2021"}
       ]
     }
   ]
