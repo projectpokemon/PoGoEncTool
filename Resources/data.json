@@ -313,7 +313,8 @@
         {"Start":{"Y":2020,"M":12,"D":22},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":3,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Charge Up!)"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Solstice Event, Northern Hemisphere)"},
-        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"}
       ]
     },
     {
@@ -1066,7 +1067,8 @@
         {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (A Very Slow Discovery)"},
         {"Start":{"Y":2021,"M":6,"D":8},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"A Very Slow Discovery"},
         {"Start":{"Y":2021,"M":6,"D":14},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Initial Release in Eggs"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"}
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"}
       ]
     },
     {
@@ -1531,7 +1533,8 @@
         {"Start":{"Y":2020,"M":12,"D":18},"End":{"Y":2020,"M":12,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Solstice Event, Northern Hemisphere)"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"}
       ]
     },
     {
@@ -2461,7 +2464,8 @@
       "Species": 167,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2021,"M":10,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 1: Creepy Companions"}
       ]
     },
     {
@@ -2785,7 +2789,8 @@
         {"Start":{"Y":2021,"M":3,"D":24},"End":{"Y":2021,"M":3,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Weather Week)"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1)"},
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021)"}
       ]
     },
     {
@@ -2794,6 +2799,12 @@
       "Data": [
         {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (A Very Slow Discovery)"}
       ]
+    },
+    {
+      "Species": 199,
+      "Form": 1,
+      "Available": true,
+      "Data": []
     },
     {
       "Species": 200,
@@ -4344,7 +4355,8 @@
         {"Start":{"Y":2020,"M":10,"D":19},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":3},"End":{"Y":2020,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"}
       ]
     },
     {
@@ -4963,7 +4975,8 @@
       "Data": [
         {"Start":{"Y":2020,"M":4,"D":1},"End":{"Y":2020,"M":4,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Tricky Pokémon 2020)"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Throwback Challenge 2020: Hoenn)"},
-        {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Halloween 2020)"}
+        {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Halloween 2020)"},
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Halloween 2021)"}
       ]
     },
     {
@@ -5475,11 +5488,14 @@
       "Species": 393,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
-        {"Start":{"Y":2020,"M":1,"D":19},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
+        {"Start":{"Y":2018,"M":10,"D":16},"End":{"Y":2021,"M":10,"D":15},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
+        {"Start":{"Y":2019,"M":6,"D":28},"Shiny":1,"Type":20,"Comment":"Jump-Start Research"},
+        {"Start":{"Y":2020,"M":1,"D":19},"End":{"Y":2021,"M":10,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
+        {"Start":{"Y":2020,"M":1,"D":19},"Type":20,"LocalizedStart":true,"Comment":"Community Day"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Sinnoh)"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lake Legends Event)"},
-        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event)"}
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event)"},
+        {"Start":{"Y":2021,"M":11,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -6935,7 +6951,8 @@
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Team GO Rocket Celebration"},
         {"Start":{"Y":2021,"M":9,"D":5},"End":{"Y":2021,"M":9,"D":5},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Hoopa's Arrival"},
         {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
-        {"Start":{"Y":2021,"M":9,"D":21},"End":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week 2021)"}
+        {"Start":{"Y":2021,"M":9,"D":21},"End":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week 2021)"},
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"}
       ]
     },
     {
@@ -6959,7 +6976,8 @@
         {"Start":{"Y":2019,"M":10,"D":17},"Type":2,"Comment":"Halloween 2019"},
         {"Start":{"Y":2019,"M":10,"D":17},"Type":20,"Comment":"A Spooky Message 2019"},
         {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Type":1,"Comment":"Halloween 2020"},
-        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Released in Wild"}
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Released in Wild"},
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021)"}
       ]
     },
     {
@@ -6967,7 +6985,9 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":24},"Shiny":1,"Type":20,"Comment":"A Spooky Message Unmasked"}
+        {"Start":{"Y":2020,"M":10,"D":24},"Shiny":1,"Type":20,"Comment":"A Spooky Message Unmasked"},
+        {"Start":{"Y":2021,"M":10,"D":15},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Halloween 2021 Part 1: Creepy Companions"},
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"}
       ]
     },
     {
@@ -7364,7 +7384,9 @@
     {
       "Species": 608,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"}
+      ]
     },
     {
       "Species": 609,
@@ -7927,7 +7949,8 @@
         {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021: Space)"},
         {"Start":{"Y":2021,"M":8,"D":6},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Space"},
         {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":21},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":9,"D":29},"End":{"Y":2021,"M":10,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":9,"D":29},"End":{"Y":2021,"M":10,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"}
       ]
     },
     {
@@ -8045,6 +8068,74 @@
       "Data": [
         {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"Comment":"Kalos Celebration Event"}
       ]
+    },
+    {
+      "Species": 708,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"},
+        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+      ]
+    },
+    {
+      "Species": 709,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 710,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"},
+        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+      ]
+    },
+    {
+      "Species": 710,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+      ]
+    },
+    {
+      "Species": 710,
+      "Form": 2,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+      ]
+    },
+    {
+      "Species": 710,
+      "Form": 3,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+      ]
+    },
+    {
+      "Species": 711,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 711,
+      "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 711,
+      "Form": 2,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 711,
+      "Form": 3,
+      "Available": true,
+      "Data": []
     },
     {
       "Species": 714,
