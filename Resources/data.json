@@ -4507,7 +4507,8 @@
         {"Start":{"Y":2020,"M":2,"D":18},"End":{"Y":2020,"M":2,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":4,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":4,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -5867,7 +5868,8 @@
       "Data": [
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Sinnoh Celebration Event)"},
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -6381,7 +6383,8 @@
         {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (GBL Preparation)"},
         {"Start":{"Y":2020,"M":5,"D":22},"Type":20,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Sinnoh"},
         {"Start":{"Y":2020,"M":9,"D":10},"End":{"Y":2020,"M":9,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
+        {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -7575,7 +7578,8 @@
       "Species": 629,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change"}
+        {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change"},
+        {"Start":{"Y":2021,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"}
       ]
     },
     {
@@ -7628,7 +7632,9 @@
         {"Start":{"Y":2020,"M":3,"D":17},"End":{"Y":2020,"M":5,"D":1},"Type":23,"Comment":"Reward Encounter (Season 1)"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":30},"Type":23,"Comment":"Reward Encounter (Season 5)"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Thunder Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Thunder Hour)"},
+        {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":29},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"}
       ]
     },
     {
@@ -7639,7 +7645,9 @@
         {"Start":{"Y":2020,"M":5,"D":19},"End":{"Y":2020,"M":5,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":30},"Type":23,"Comment":"Reward Encounter (Season 5)"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Lava Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Lava Hour)"},
+        {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":29},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"}
       ]
     },
     {
@@ -7650,7 +7658,9 @@
         {"Start":{"Y":2020,"M":5,"D":12},"End":{"Y":2020,"M":5,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":16},"End":{"Y":2020,"M":11,"D":30},"Type":23,"Comment":"Reward Encounter (Season 5)"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
+        {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":29},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"}
       ]
     },
     {
