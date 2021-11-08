@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using static PKHeX.Core.Species;
 
@@ -54,6 +55,50 @@ namespace PoGoEncTool.Core
                     }
                     species.Available = true;
                 }
+                species.Add(entry);
+            }
+        }
+
+        public static void AddNewShadows(PogoEncounterList list)
+        {
+            const int form = 0;
+            var removed = new List<int>()
+            {
+
+            };
+
+            var added = new List<int>()
+            {
+
+            };
+
+            // add end dates for Shadows that have been removed
+            foreach (var pkm in removed)
+            {
+                var species = list.GetDetails(pkm, form);
+                var entries = species.Data;
+
+                foreach (var entry in entries)
+                {
+                    if (entry.Type == PogoType.Shadow && entry.End == null)
+                        entry.End = new PogoDate { Y = 2000, M = 1, D = 1 };
+                }
+            }
+
+            // add new Shadows
+            foreach (var pkm in added)
+            {
+                var species = list.GetDetails(pkm, form);
+                var entry = new PogoEntry
+                {
+                    Start = new PogoDate { Y = 2000, M = 1, D = 1 },
+                    Shiny = PogoShiny.Never,
+                    Type = PogoType.Shadow,
+                    LocalizedStart = true,
+                    // NoEndTolerance = true,
+                    Comment = "Team GO Rocket Grunt",
+                };
+
                 species.Add(entry);
             }
         }
