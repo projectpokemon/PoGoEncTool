@@ -5501,15 +5501,20 @@
       "Species": 387,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
+        {"Start":{"Y":2018,"M":10,"D":16},"End":{"Y":2021,"M":11,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
+        {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":2,"Comment":"Initial Sinnoh Release"},
+        {"Start":{"Y":2019,"M":6,"D":28},"Shiny":1,"Type":20,"Comment":"Jump-Start Research"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2019,"M":11,"D":6},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2019,"M":9,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
+        {"Start":{"Y":2019,"M":9,"D":15},"End":{"Y":2021,"M":11,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
+        {"Start":{"Y":2019,"M":9,"D":15},"Type":2,"LocalizedStart":true,"Comment":"Community Day"},
+        {"Start":{"Y":2019,"M":9,"D":15},"Type":20,"LocalizedStart":true,"Comment":"Community Day"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Sinnoh)"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":10,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lake Legends Event)"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2020)"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event)"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":11,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -5535,13 +5540,18 @@
       "Species": 390,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
-        {"Start":{"Y":2019,"M":11,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
+        {"Start":{"Y":2018,"M":10,"D":16},"End":{"Y":2021,"M":11,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
+        {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":2,"Comment":"Initial Sinnoh Release"},
+        {"Start":{"Y":2019,"M":6,"D":28},"Shiny":1,"Type":20,"Comment":"Jump-Start Research"},
+        {"Start":{"Y":2019,"M":11,"D":16},"End":{"Y":2021,"M":11,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
+        {"Start":{"Y":2019,"M":11,"D":16},"Type":2,"LocalizedStart":true,"Comment":"Community Day"},
+        {"Start":{"Y":2019,"M":11,"D":16},"Type":20,"LocalizedStart":true,"Comment":"Community Day"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Sinnoh)"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lake Legends Event)"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2020)"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event)"},
-        {"Start":{"Y":2021,"M":10,"D":11},"End":{"Y":2021,"M":10,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":10,"D":11},"End":{"Y":2021,"M":10,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":11,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -5572,7 +5582,8 @@
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Throwback Challenge 2020: Sinnoh)"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lake Legends Event)"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event)"},
-        {"Start":{"Y":2021,"M":11,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
+        {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
+        {"Start":{"Y":2021,"M":11,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
