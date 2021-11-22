@@ -59,7 +59,8 @@
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Pokémon GO Fest 2020)"},
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Kanto Celebration Event)"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Festival of Lights)"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -159,7 +160,8 @@
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
         {"Start":{"Y":2019,"M":10,"D":17},"End":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":6,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -825,7 +827,8 @@
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":30},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":4,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -1297,7 +1300,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2018,"M":11,"D":3},"Type":1,"Comment":"Gengar Special Raid Challenge"}
+        {"Start":{"Y":2018,"M":11,"D":3},"Type":1,"Comment":"Gengar Special Raid Challenge"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -1665,7 +1669,8 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
         {"Start":{"Y":2020,"M":2,"D":22},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -1899,7 +1904,8 @@
         {"Start":{"Y":2020,"M":11,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Festival of Lights)"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -1923,7 +1929,8 @@
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Festival of Lights)"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -1993,7 +2000,8 @@
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":9,"D":21},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":9,"D":29},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -2118,7 +2126,8 @@
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":12},"Shiny":1,"Type":10,"Comment":"T3 Raid Boss (Evolution Event)"},
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Pokémon GO Fest 2020)"},
-        {"Start":{"Y":2020,"M":9,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Community Day"}
+        {"Start":{"Y":2020,"M":9,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -4081,7 +4090,8 @@
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Pokémon GO Fest 2020)"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":25},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"},
         {"Start":{"Y":2021,"M":5,"D":26},"End":{"Y":2021,"M":5,"D":29},"Shiny":1,"Type":30,"NoEndTolerance":true,"Comment":"Team GO Rocket Leader Cliff (Shiny Disabled)"},
-        {"Start":{"Y":2021,"M":5,"D":29},"End":{"Y":2021,"M":11,"D":9},"Type":30,"Comment":"Team GO Rocket Leader Cliff"}
+        {"Start":{"Y":2021,"M":5,"D":29},"End":{"Y":2021,"M":11,"D":9},"Type":30,"Comment":"Team GO Rocket Leader Cliff"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -5584,7 +5594,8 @@
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lake Legends Event)"},
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Sinnoh Celebration Event)"},
         {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
-        {"Start":{"Y":2021,"M":11,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
+        {"Start":{"Y":2021,"M":11,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
+        {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
     {
@@ -5697,7 +5708,8 @@
         {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":8},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":9,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":9,"D":28},"End":{"Y":2021,"M":9,"D":28},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week 2021, No Costume)"},
-        {"Start":{"Y":2021,"M":11,"D":21},"End":{"Y":2021,"M":11,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Community Day"}
+        {"Start":{"Y":2021,"M":11,"D":21},"End":{"Y":2021,"M":11,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
+        {"Start":{"Y":2021,"M":12,"D":19},"End":{"Y":2021,"M":12,"D":19},"Type":1,"LocalizedStart":true,"Comment":"Community Day Weekend 2021"}
       ]
     },
     {
