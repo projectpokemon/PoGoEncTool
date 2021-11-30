@@ -3241,7 +3241,9 @@
     {
       "Species": 208,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+      ]
     },
     {
       "Species": 209,
@@ -3513,7 +3515,8 @@
         {"Start":{"Y":2018,"M":12,"D":18},"End":{"Y":2019,"M":1,"D":2},"Type":1,"Comment":"Holiday 2018"},
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":1},"Type":1,"Comment":"Holiday 2019"},
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":1},"Type":10,"Comment":"T3 Raid Boss (Holiday 2019)"},
-        {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2022,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Heritage (Northern Hemisphere)"}
       ]
     },
     {
@@ -6280,7 +6283,8 @@
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Sinnoh, Previously T3)"},
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":5,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":5,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2022,"M":1,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -7032,7 +7036,8 @@
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"},
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
-        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"}
+        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":12,"D":5},"End":{"Y":2021,"M":12,"D":5},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Incense Day: Ice- and Ground-type"}
       ]
     },
     {
@@ -7261,7 +7266,8 @@
         {"Start":{"Y":2020,"M":12,"D":22},"End":{"Y":2020,"M":12,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Holiday 2020)"},
         {"Start":{"Y":2020,"M":12,"D":22},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Holiday 2020"},
         {"Start":{"Y":2020,"M":12,"D":22},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Holiday 2020"},
-        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021 (Cave Habitat)"}
+        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021 (Cave Habitat)"},
+        {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Heritage (Northern Hemisphere)"}
       ]
     },
     {
@@ -7288,7 +7294,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Celebration (Southern Hemisphere)"},
-        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Discovery (Nothern Hemisphere)"}
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Discovery (Nothern Hemisphere)"},
+        {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Heritage (Southern Hemisphere)"}
       ]
     },
     {
@@ -7308,7 +7315,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Celebration (Northern Hemisphere)"},
-        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Discovery (Southern Hemisphere)"}
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Discovery (Southern Hemisphere)"},
+        {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Heritage (Northern Hemisphere)"}
       ]
     },
     {
@@ -7846,7 +7854,9 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":5,"D":26},"End":{"Y":2020,"M":6,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Lava Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Lava Hour)"},
+        {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":12,"D":3},"End":{"Y":2022,"M":2,"D":28},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
     {
@@ -7854,7 +7864,9 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":16},"End":{"Y":2020,"M":7,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Thunder Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Thunder Hour)"},
+        {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":12,"D":3},"End":{"Y":2022,"M":2,"D":28},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
     {
@@ -7887,7 +7899,9 @@
         {"Start":{"Y":2020,"M":7,"D":27},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":1,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":8},"End":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 6)"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
+        {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2022,"M":2,"D":28},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
     {
