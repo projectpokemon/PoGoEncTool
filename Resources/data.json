@@ -8265,8 +8265,9 @@
       "Species": 708,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"},
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"},
-        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
       ]
     },
     {
@@ -8278,8 +8279,8 @@
       "Species": 710,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"},
-        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"},
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"}
       ]
     },
     {
@@ -8287,7 +8288,8 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"},
+        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
       ]
     },
     {
@@ -8295,7 +8297,7 @@
       "Form": 2,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
       ]
     },
     {
@@ -8303,7 +8305,7 @@
       "Form": 3,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+        {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
       ]
     },
     {
