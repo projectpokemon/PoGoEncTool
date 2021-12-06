@@ -1909,6 +1909,7 @@
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Festival of Lights)"},
         {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Dragonspiral Descent)"},
         {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
@@ -1934,6 +1935,7 @@
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Festival of Lights)"},
         {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Dragonspiral Descent)"},
         {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Community Day Weekend 2021)"}
       ]
     },
@@ -2046,7 +2048,8 @@
         {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Kanto Celebration Event)"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Solstice Event, Southern Hemisphere)"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"}
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Dragonspiral Descent)"}
       ]
     },
     {
@@ -2354,7 +2357,8 @@
         {"Start":{"Y":2020,"M":1,"D":2},"End":{"Y":2020,"M":1,"D":7},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (Throwback Challenge 2020: Kanto)"},
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T4 Raid Boss (4th Anniversary)"},
-        {"Start":{"Y":2020,"M":9,"D":22},"End":{"Y":2020,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Mega September: Mega Buddy Challenge)"}
+        {"Start":{"Y":2020,"M":9,"D":22},"End":{"Y":2020,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Mega September: Mega Buddy Challenge)"},
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Dragonspiral Descent)"}
       ]
     },
     {
@@ -7506,7 +7510,8 @@
         {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":4,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Charge Up!"},
         {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Dragonspiral Descent)"}
       ]
     },
     {
@@ -7543,7 +7548,8 @@
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Shiny":1,"Type":10,"Comment":"T1 Raid Boss (Pokémon Day 2020)"},
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":10,"D":11},"End":{"Y":2021,"M":10,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Dragonspiral Descent)"}
       ]
     },
     {
@@ -7601,7 +7607,8 @@
         {"Start":{"Y":2020,"M":12,"D":18},"End":{"Y":2020,"M":12,"D":22},"Type":1,"LocalizedStart":true,"Comment":"Galarian Mr. Mime Event"},
         {"Start":{"Y":2020,"M":12,"D":18},"Type":20,"LocalizedStart":true,"Comment":"Galarian Mr. Mime Event"},
         {"Start":{"Y":2021,"M":1,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
-        {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Dragonspiral Descent)"}
       ]
     },
     {
@@ -7674,10 +7681,19 @@
       "Data": []
     },
     {
+      "Species": 621,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Dragonspiral Descent)"},
+        {"Start":{"Y":2021,"M":12,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Dragonspiral Descent"}
+      ]
+    },
+    {
       "Species": 622,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"}
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Dragonspiral Descent)"}
       ]
     },
     {
@@ -7766,7 +7782,8 @@
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
         {"Start":{"Y":2020,"M":7,"D":31},"Type":1,"Comment":"Dragon Week"},
-        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Pokémon GO Fest 2021)"}
+        {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Pokémon GO Fest 2021)"},
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Dragonspiral Descent)"}
       ]
     },
     {

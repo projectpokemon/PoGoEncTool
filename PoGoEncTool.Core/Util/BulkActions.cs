@@ -26,7 +26,7 @@ namespace PoGoEncTool.Core
                 var entry = new PogoEntry
                 {
                     Start = new PogoDate { Y = 2000, M = 1, D = 1 },
-                    End = new PogoDate { Y = 2000, M = 1, D = 1 },
+                    End   = new PogoDate { Y = 2000, M = 1, D = 1 },
                     Type = PogoType.Raid,
                     LocalizedStart = true,
                     // NoEndTolerance = true,
