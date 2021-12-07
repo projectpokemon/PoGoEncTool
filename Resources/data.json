@@ -2971,7 +2971,8 @@
         {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020 Makeup Day #1"},
         {"Start":{"Y":2020,"M":8,"D":23},"End":{"Y":2020,"M":8,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020 Makeup Day #2"},
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"},
-        {"Start":{"Y":2021,"M":7,"D":17},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"}
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
     {
@@ -2995,7 +2996,9 @@
       "Form": 9,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"},
+        {"Start":{"Y":2022,"M":2,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
     {
@@ -3040,7 +3043,9 @@
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020"},
         {"Start":{"Y":2020,"M":8,"D":16},"End":{"Y":2020,"M":8,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020 Makeup Day #1"},
-        {"Start":{"Y":2020,"M":8,"D":23},"End":{"Y":2020,"M":8,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020 Makeup Day #2"}
+        {"Start":{"Y":2020,"M":8,"D":23},"End":{"Y":2020,"M":8,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020 Makeup Day #2"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"},
+        {"Start":{"Y":2022,"M":2,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
     {
@@ -3066,7 +3071,9 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":1,"NoEndTolerance":true,"Comment":"Enigma Week"},
-        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (Enigma Week)"}
+        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (Enigma Week)"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"},
+        {"Start":{"Y":2022,"M":2,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
     {
@@ -3084,7 +3091,9 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":1,"NoEndTolerance":true,"Comment":"Enigma Week"},
-        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (Enigma Week)"}
+        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"T2 Raid Boss (Enigma Week)"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"},
+        {"Start":{"Y":2022,"M":2,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
     {
@@ -3100,7 +3109,8 @@
         {"Start":{"Y":2021,"M":7,"D":23},"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021"},
         {"Start":{"Y":2021,"M":8,"D":4},"End":{"Y":2021,"M":8,"D":5},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021, Shiny Disabled)"},
         {"Start":{"Y":2021,"M":8,"D":5},"End":{"Y":2021,"M":9,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021"},
-        {"Start":{"Y":2021,"M":8,"D":5},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021)"}
+        {"Start":{"Y":2021,"M":8,"D":5},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021)"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
     {
