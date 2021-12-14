@@ -2499,6 +2499,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2020,"M":11,"D":6},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Animation Week"},
         {"Start":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
@@ -2507,6 +2508,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Shiny":1,"Type":10,"Comment":"T2 Raid Boss (Supereffective Week)"},
+        {"Start":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Throwback Challenge 2020: Johto"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (The Seasons Change: Part 1)"}
       ]
     },
