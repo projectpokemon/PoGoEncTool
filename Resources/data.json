@@ -2226,7 +2226,8 @@
         {"Start":{"Y":2021,"M":3,"D":30},"End":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Type":30,"Comment":"Team GO Rocket Leader Cliff"},
-        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021: Time)"}
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Ultra Unlock 2021: Time)"},
+        {"Start":{"Y":2022,"M":1,"D":7},"End":{"Y":2022,"M":2,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -2497,8 +2498,9 @@
       "Species": 163,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2017,"M":2,"D":16},"End":{"Y":2021,"M":12,"D":31},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":11,"D":6},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Animation Week"},
+        {"Start":{"Y":2022,"M":1,"D":4},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
         {"Start":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
@@ -5426,7 +5428,9 @@
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":4},"End":{"Y":2021,"M":8,"D":30},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
-        {"Start":{"Y":2021,"M":11,"D":28},"End":{"Y":2021,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Mischief Unbound)"}
+        {"Start":{"Y":2021,"M":11,"D":28},"End":{"Y":2021,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Mischief Unbound)"},
+        {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":2,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":2,"D":28},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
     {
@@ -6491,7 +6495,9 @@
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":3,"D":1},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 6)"},
         {"Start":{"Y":2021,"M":5,"D":17},"End":{"Y":2021,"M":5,"D":31},"Type":23,"Comment":"Reward Encounter (Season 7, Accidental Release)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Lava Hour)"},
-        {"Start":{"Y":2021,"M":11,"D":27},"End":{"Y":2021,"M":11,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Mischief Unbound)"}
+        {"Start":{"Y":2021,"M":11,"D":27},"End":{"Y":2021,"M":11,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Mischief Unbound)"},
+        {"Start":{"Y":2022,"M":1,"D":7},"End":{"Y":2022,"M":1,"D":15},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2022,"M":1,"D":7},"End":{"Y":2022,"M":2,"D":28},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
     {
@@ -7955,7 +7961,7 @@
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":1,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":8},"End":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 6)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
-        {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2022,"M":1,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2022,"M":2,"D":28},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
@@ -7981,6 +7987,14 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":12},"Shiny":1,"Type":11,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
+      ]
+    },
+    {
+      "Species": 649,
+      "Form": 2,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":1,"D":15},"End":{"Y":2022,"M":1,"D":24},"Shiny":1,"Type":11,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
