@@ -796,7 +796,8 @@
         {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"T1 Raid Boss (Pokémon GO Fest 2019 Yokohama)"},
         {"Start":{"Y":2019,"M":8,"D":6},"Type":1,"Comment":"Pokémon GO Fest 2019 Yokohama"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":1,"D":24},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"}
       ]
     },
     {
@@ -3433,7 +3434,8 @@
         {"Start":{"Y":2020,"M":3,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (St. Louis 2020)"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":6,"D":25},"Shiny":1,"Type":30,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2021,"M":7,"D":1},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2022,"M":1,"D":23},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":1,"D":24},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"}
       ]
     },
     {
@@ -5381,7 +5383,8 @@
         {"Start":{"Y":2020,"M":6,"D":9},"End":{"Y":2020,"M":6,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Community Day Weekend 2020)"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Hoenn Celebration Event)"},
-        {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends X)"}
+        {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends X)"},
+        {"Start":{"Y":2022,"M":1,"D":24},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"}
       ]
     },
     {
