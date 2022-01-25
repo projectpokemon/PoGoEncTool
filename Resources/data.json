@@ -2699,7 +2699,8 @@
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":3,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (T3 During Charge Up!)"},
         {"Start":{"Y":2021,"M":5,"D":15},"End":{"Y":2021,"M":6,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":2,"D":15},"End":{"Y":2022,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -3656,7 +3657,8 @@
         {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":15},"End":{"Y":2021,"M":6,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -3817,6 +3819,7 @@
         {"Start":{"Y":2021,"M":1,"D":31},"End":{"Y":2021,"M":2,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":31},"End":{"Y":2021,"M":3,"D":1},"Type":23,"Comment":"Reward Encounter (Season 6)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Thunder Hour)"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Tour: Johto)"},
         {"Start":{"Y":2022,"M":2,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
@@ -3832,6 +3835,7 @@
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":1,"D":31},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T5 Raid Boss (Johto Celebration Event)"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":3,"D":1},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 6)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Lava Hour)"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Tour: Johto)"},
         {"Start":{"Y":2022,"M":2,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
@@ -3847,6 +3851,7 @@
         {"Start":{"Y":2021,"M":1,"D":30},"End":{"Y":2021,"M":3,"D":1},"Type":23,"Comment":"Reward Encounter (Season 6, Released Early)"},
         {"Start":{"Y":2021,"M":2,"D":4},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Tour: Johto)"},
         {"Start":{"Y":2022,"M":2,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
@@ -3925,7 +3930,8 @@
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
         {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (With Light Comes Shadow...)"}
+        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (With Light Comes Shadow...)"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Tour: Johto)"}
       ]
     },
     {
@@ -3941,7 +3947,8 @@
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (4th Anniversary)"},
         {"Start":{"Y":2021,"M":1,"D":1},"End":{"Y":2021,"M":1,"D":5},"Type":10,"NoEndTolerance":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":9,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (A Seven-Colored Shadow)"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Tour: Johto)"}
       ]
     },
     {
@@ -5459,7 +5466,9 @@
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":4},"End":{"Y":2021,"M":8,"D":30},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Lava Hour)"},
-        {"Start":{"Y":2021,"M":11,"D":28},"End":{"Y":2021,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Mischief Unbound)"}
+        {"Start":{"Y":2021,"M":11,"D":28},"End":{"Y":2021,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Mischief Unbound)"},
+        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":28},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
     {
@@ -5494,7 +5503,9 @@
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":4},"End":{"Y":2021,"M":8,"D":30},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Thunder Hour)"},
-        {"Start":{"Y":2021,"M":11,"D":28},"End":{"Y":2021,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Mischief Unbound)"}
+        {"Start":{"Y":2021,"M":11,"D":28},"End":{"Y":2021,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Mischief Unbound)"},
+        {"Start":{"Y":2022,"M":2,"D":9},"End":{"Y":2022,"M":2,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2022,"M":2,"D":9},"End":{"Y":2022,"M":2,"D":28},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
     {
@@ -5580,7 +5591,9 @@
         {"Start":{"Y":2018,"M":10,"D":1},"End":{"Y":2018,"M":12,"D":1},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"EX Raid Boss (Accidentally Made Tradeable)"},
         {"Start":{"Y":2018,"M":10,"D":1},"End":{"Y":2018,"M":12,"D":27},"Shiny":1,"Type":11,"Comment":"EX Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":11,"Comment":"T5 Raid Boss (Global Challenge, Global Hatches)"},
-        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":11,"NoEndTolerance":true,"Comment":"T5 Raid Boss (Enigma Week)"}
+        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":11,"NoEndTolerance":true,"Comment":"T5 Raid Boss (Enigma Week)"},
+        {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":2,"D":19},"Type":11,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":2,"D":28},"Type":24,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
     {
@@ -5589,7 +5602,9 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":12,"D":28},"End":{"Y":2019,"M":3,"D":26},"Shiny":1,"Type":11,"Comment":"EX Raid Boss"},
-        {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":11,"Comment":"T5 Raid Boss (Global Challenge, Global Hatches)"}
+        {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":11,"Comment":"T5 Raid Boss (Global Challenge, Global Hatches)"},
+        {"Start":{"Y":2022,"M":2,"D":19},"End":{"Y":2022,"M":2,"D":22},"Type":11,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2022,"M":2,"D":19},"End":{"Y":2022,"M":2,"D":28},"Type":24,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
     {
@@ -5600,7 +5615,9 @@
         {"Start":{"Y":2019,"M":3,"D":27},"End":{"Y":2019,"M":6,"D":30},"Shiny":1,"Type":11,"Comment":"EX Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":11,"Comment":"T5 Raid Boss (Global Challenge, Global Hatches)"},
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":16},"Shiny":1,"Type":11,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":24,"Comment":"Reward Encounter (Season 8)"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":24,"Comment":"Reward Encounter (Season 8)"},
+        {"Start":{"Y":2022,"M":2,"D":22},"End":{"Y":2022,"M":2,"D":25},"Type":11,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2022,"M":2,"D":22},"End":{"Y":2022,"M":2,"D":28},"Type":24,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
       ]
     },
     {
@@ -5609,7 +5626,9 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":7,"D":1},"End":{"Y":2019,"M":10,"D":4},"Shiny":1,"Type":11,"Comment":"EX Raid Boss"},
-        {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":11,"Comment":"T5 Raid Boss (Global Challenge, Global Hatches)"}
+        {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":11,"Comment":"T5 Raid Boss (Global Challenge, Global Hatches)"},
+        {"Start":{"Y":2022,"M":2,"D":25},"End":{"Y":2022,"M":2,"D":28},"Type":24,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":2,"D":25},"End":{"Y":2022,"M":3,"D":1},"Type":11,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -8254,7 +8273,8 @@
         {"Start":{"Y":2021,"M":8,"D":6},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Space"},
         {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":21},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":9,"D":29},"End":{"Y":2021,"M":10,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"}
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"},
+        {"Start":{"Y":2022,"M":2,"D":1},"Type":20,"Comment":"Research Breakthrough"}
       ]
     },
     {
