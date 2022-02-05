@@ -13,9 +13,10 @@ namespace PoGoEncTool.Core
             if (species == (int) Meltan)
                 return new[] {(int) Melmetal};
 
-            var g8 = Get(PersonalTable.SWSH, 8, species, form);
-            var g7 = Get(PersonalTable.USUM, 7, species, form);
-            return g8.Concat(g7).Distinct();
+            var la = Get(PersonalTable.LA,   8, species, form);
+            var ss = Get(PersonalTable.SWSH, 8, species, form);
+            var uu = Get(PersonalTable.USUM, 7, species, form);
+            return la.Concat(ss).Concat(uu).Distinct();
         }
 
         private static IEnumerable<int> Get(PersonalTable table, in int gen, in int species, in int form)
@@ -24,23 +25,35 @@ namespace PoGoEncTool.Core
                 return Array.Empty<int>();
             if (form >= table[species].FormCount)
                 return Array.Empty<int>();
-            var t = EvolutionTree.GetEvolutionTree(gen);
+            var t = EvolutionTree.GetEvolutionTree(table.MaxSpeciesID, gen);
             return t.GetEvolutions(species, form);
         }
 
         public static bool IsAllowedEvolution(in int species, in int form, in int s, in int destForm)
         {
-            // Alolan/Galar split-evolutions are not available.
+            // Regional Form split-evolutions are not available.
             var destSpecies = (Species) s;
             return (Species)species switch
             {
-                Pichu when destSpecies == Raichu && destForm == 1 => false,
-                Pikachu when destSpecies == Raichu && destForm == 1 => false,
-                Koffing when destSpecies == Weezing && destForm == 1 => false,
-                MimeJr when destSpecies == MrMime && destForm == 1 => false,
-                MimeJr when destSpecies == MrRime && destForm == 0 => false,
-                Exeggcute when destSpecies == Exeggutor && destForm == 1 => false,
-                Cubone when destSpecies == Marowak && destForm == 1 => false,
+                // Alolan
+                Pichu or Pikachu when destSpecies is Raichu && destForm is 1 => false,
+                Exeggcute when destSpecies is Exeggutor && destForm is 1 => false,
+                Cubone when destSpecies is Marowak && destForm is 1 => false,
+
+                // Galarian
+                Koffing when destSpecies is Weezing && destForm is 1 => false,
+                MimeJr when destSpecies is MrMime && destForm is 1 => false,
+                MimeJr when destSpecies is MrRime && destForm is 0 => false,
+
+                // Hisuian
+                Cyndaquil or Quilava when destSpecies is Typhlosion && destForm is 1 => false,
+                Oshawott or Dewott when destSpecies is Samurott && destForm is 1 => false,
+                Petilil when destSpecies is Lilligant && destForm is 1 => false,
+                Rufflet when destSpecies is Braviary && destForm is 1 => false,
+                Goomy when destSpecies is Sliggoo or Goodra && destForm is 1 => false,
+                Bergmite when destSpecies is Avalugg && destForm is 1 => false,
+                Rowlet or Dartrix when destSpecies is Decidueye && destForm is 1 => false,
+
                 _ => true,
             };
         }
