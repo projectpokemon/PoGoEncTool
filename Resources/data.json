@@ -999,7 +999,8 @@
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":9},"End":{"Y":2021,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -2484,7 +2485,7 @@
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":21},"Shiny":1,"Type":10,"Comment":"T4 Raid Boss (Valentine's Day 2019)"},
         {"Start":{"Y":2021,"M":10,"D":11},"End":{"Y":2021,"M":10,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2022,"M":1,"D":15},"End":{"Y":2022,"M":1,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
       ]
     },
@@ -3898,7 +3899,8 @@
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Johto Celebration Event)"},
         {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event 2021)"}
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event 2021)"},
+        {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -4361,7 +4363,8 @@
         {"Start":{"Y":2020,"M":11,"D":3},"End":{"Y":2020,"M":11,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":11,"D":22},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":11,"D":22},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -4631,7 +4634,7 @@
         {"Start":{"Y":2021,"M":3,"D":30},"End":{"Y":2021,"M":4,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -5866,7 +5869,7 @@
         {"Start":{"Y":2021,"M":9,"D":28},"End":{"Y":2021,"M":9,"D":28},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week 2021, No Costume)"},
         {"Start":{"Y":2021,"M":11,"D":21},"End":{"Y":2021,"M":11,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
         {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":1,"LocalizedStart":true,"Comment":"Community Day Weekend 2021"},
-        {"Start":{"Y":2022,"M":1,"D":19},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2022,"M":1,"D":19},"End":{"Y":2022,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -6917,7 +6920,8 @@
         {"Start":{"Y":2020,"M":3,"D":2},"End":{"Y":2020,"M":3,"D":6},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":17},"End":{"Y":2020,"M":3,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":24},"End":{"Y":2020,"M":3,"D":27},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Unova Celebration Event)"}
+        {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Unova Celebration Event)"},
+        {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -6955,7 +6959,7 @@
         {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -7012,7 +7016,8 @@
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":22},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2022,"M":1,"D":5},"End":{"Y":2022,"M":1,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2022,"M":1,"D":5},"End":{"Y":2022,"M":1,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
@@ -7831,7 +7836,7 @@
       "Data": [
         {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Dragonspiral Descent)"},
         {"Start":{"Y":2021,"M":12,"D":7},"Type":20,"LocalizedStart":true,"Comment":"Dragonspiral Descent"},
-        {"Start":{"Y":2022,"M":1,"D":15},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2022,"M":1,"D":15},"End":{"Y":2022,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
       ]
     },
     {
@@ -8417,7 +8422,7 @@
         {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":21},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":9,"D":29},"End":{"Y":2021,"M":10,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"},
-        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Lunar New Year 2022)"},
+        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2022,"M":2,"D":1},"Type":20,"LocalizedStart":true,"Comment":"Lunar New Year 2022"}
       ]
     },
@@ -8474,7 +8479,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":4,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Sustainability Week)"},
-        {"Start":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week"}
+        {"Start":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week"},
+        {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
       ]
     },
     {
