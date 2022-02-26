@@ -3063,7 +3063,6 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"},
-        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Pokémon GO Tour: Johto)"},
         {"Start":{"Y":2022,"M":2,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
       ]
     },
@@ -3176,7 +3175,8 @@
         {"Start":{"Y":2021,"M":8,"D":4},"End":{"Y":2021,"M":8,"D":5},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021, Shiny Disabled)"},
         {"Start":{"Y":2021,"M":8,"D":5},"End":{"Y":2021,"M":9,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021"},
         {"Start":{"Y":2021,"M":8,"D":5},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2021)"},
-        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"},
+        {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Pokémon GO Tour: Johto)"}
       ]
     },
     {
