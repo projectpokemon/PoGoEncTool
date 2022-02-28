@@ -41,7 +41,8 @@
         {"Start":{"Y":2020,"M":8,"D":27},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":2,"D":9},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -89,7 +90,8 @@
         {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Lunar New Year 2022)"}
+        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Lunar New Year 2022)"},
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":4,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -330,7 +332,8 @@
         {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":14},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Festival of Lights)"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Welcome to Alola)"}
       ]
     },
     {
@@ -413,7 +416,8 @@
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Pokémon HOME Event)"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Team GO Rocket Celebration)"},
         {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Rivals' Week)"},
-        {"Start":{"Y":2022,"M":2,"D":10},"End":{"Y":2022,"M":2,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Valentine's Day 2022)"}
+        {"Start":{"Y":2022,"M":2,"D":10},"End":{"Y":2022,"M":2,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Valentine's Day 2022)"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Welcome to Alola)"}
       ]
     },
     {
@@ -537,7 +541,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T2 Raid Boss"},
-        {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":10,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":10,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Welcome to Alola)"}
       ]
     },
     {
@@ -692,7 +697,8 @@
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Team GO Rocket Event"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Team GO Rocket Celebration)"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Luminous Legends Y: Part 1)"},
-        {"Start":{"Y":2021,"M":9,"D":28},"End":{"Y":2021,"M":9,"D":28},"Type":1,"LocalizedStart":true,"Comment":"Spotlight Hour"}
+        {"Start":{"Y":2021,"M":9,"D":28},"End":{"Y":2021,"M":9,"D":28},"Type":1,"LocalizedStart":true,"Comment":"Spotlight Hour"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola"}
       ]
     },
     {
@@ -921,7 +927,8 @@
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2021,"M":4,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Decoy Grunt"},
         {"Start":{"Y":2020,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Summer Event"},
-        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Decoy Grunt"}
+        {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Decoy Grunt"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Welcome to Alola)"}
       ]
     },
     {
@@ -999,7 +1006,8 @@
         {"Start":{"Y":2021,"M":3,"D":9},"End":{"Y":2021,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"}
+        {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Welcome to Alola)"}
       ]
     },
     {
@@ -3344,7 +3352,8 @@
         {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":27},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Buddy Up)"},
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":9,"D":20},"End":{"Y":2021,"M":9,"D":22},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Accidental Release)"},
-        {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"}
+        {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Welcome to Alola)"}
       ]
     },
     {
@@ -3716,7 +3725,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto (Silver Version)"}
+        {"Start":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto (Silver Version)"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Welcome to Alola)"}
       ]
     },
     {
@@ -4427,7 +4437,8 @@
         {"Start":{"Y":2020,"M":3,"D":20},"Type":20,"LocalizedStart":true,"Comment":"A Drive to Investigate"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":6,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Bug Out! 2020"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Hoenn Celebration Event"},
-        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief (Northern Hemisphere)"}
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief (Northern Hemisphere)"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola (Southern Hemisphere)"}
       ]
     },
     {
@@ -4712,7 +4723,8 @@
         {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":27},"End":{"Y":2021,"M":4,"D":29},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2022,"M":1,"D":24},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2022,"M":1,"D":24},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Welcome to Alola)"}
       ]
     },
     {
@@ -6158,7 +6170,8 @@
         {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"T3 Raid Boss (Sinnoh Celebration Event)"},
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":15},"End":{"Y":2022,"M":3,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -7293,7 +7306,8 @@
         {"Start":{"Y":2021,"M":9,"D":21},"End":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Fashion Week 2021)"},
         {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"},
         {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss"},
-        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
+        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":4,"D":17},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
       ]
     },
     {
@@ -7481,7 +7495,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Legends (Northern Hemisphere)"},
-        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief (Southern Hemisphere)"}
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief (Southern Hemisphere)"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Alola (Northern Hemisphere)"}
       ]
     },
     {
@@ -7502,7 +7517,8 @@
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":1,"Comment":"The Seasons Change"},
         {"Start":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":20,"Comment":"The Seasons Change"},
         {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Legends (Southern Hemisphere)"},
-        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief (Northern Hemisphere)"}
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief (Northern Hemisphere)"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Alola (Southern Hemisphere)"}
       ]
     },
     {
@@ -7583,7 +7599,8 @@
         {"Start":{"Y":2021,"M":3,"D":3},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Gender":1,"Type":23,"Comment":"Reward Encounter (Season 7)"},
         {"Start":{"Y":2021,"M":4,"D":1},"Shiny":1,"Gender":1,"Type":20,"Comment":"Research Breakthrough"},
         {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Gender":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
-        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Gender":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
+        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Gender":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":4,"D":17},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Gender":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
       ]
     },
     {
@@ -7856,10 +7873,11 @@
       "Species": 619,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2022,"M":2,"D":28},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Seasons 8, 9, and 10)"},
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Seasons 8, 9, 10, and Interlude Season)"},
         {"Start":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Season of Mischief"},
         {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
-        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
+        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":4,"D":17},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
       ]
     },
     {
@@ -7925,7 +7943,8 @@
         {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
         {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Secrets of the Jungle Event 2021)"},
         {"Start":{"Y":2021,"M":10,"D":29},"End":{"Y":2021,"M":10,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2021)"},
-        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
+        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola"}
       ]
     },
     {
@@ -8044,7 +8063,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":3,"D":30},"End":{"Y":2021,"M":4,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
+        {"Start":{"Y":2022,"M":3,"D":15},"End":{"Y":2022,"M":3,"D":22},"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"}
       ]
     },
     {
@@ -8609,7 +8629,9 @@
       "Data": [
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"},
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"},
-        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"}
+        {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"},
+        {"Start":{"Y":2022,"M":3,"D":3},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"},
+        {"Start":{"Y":2022,"M":4,"D":17},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
       ]
     },
     {
@@ -8727,6 +8749,139 @@
       "Form": 1,
       "Available": true,
       "Data": []
+    },
+    {
+      "Species": 722,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Welcome to Alola"}
+      ]
+    },
+    {
+      "Species": 723,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 724,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 725,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Welcome to Alola"}
+      ]
+    },
+    {
+      "Species": 726,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 727,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 728,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Welcome to Alola"}
+      ]
+    },
+    {
+      "Species": 729,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 730,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 731,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Welcome to Alola"}
+      ]
+    },
+    {
+      "Species": 732,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 733,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 734,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Welcome to Alola"}
+      ]
+    },
+    {
+      "Species": 735,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 744,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Welcome to Alola)"},
+        {"Start":{"Y":2022,"M":3,"D":1},"Type":2,"LocalizedStart":true,"Comment":"Season of Alola"},
+        {"Start":{"Y":2022,"M":3,"D":4},"End":{"Y":2022,"M":6,"D":1},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"},
+        {"Start":{"Y":2022,"M":4,"D":17},"End":{"Y":2022,"M":6,"D":1},"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
+      ]
+    },
+    {
+      "Species": 745,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 745,
+      "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 764,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"Comment":"Season of Alola"}
+      ]
+    },
+    {
+      "Species": 782,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Alola"}
+      ]
+    },
+    {
+      "Species": 783,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 784,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 785,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":5},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
+      ]
     },
     {
       "Species": 808,
