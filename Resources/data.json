@@ -8880,9 +8880,8 @@
       "Species": 785,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2022,"M":3,"D":3},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10 and Interlude Season)"}
       ]
     },
     {
