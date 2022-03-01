@@ -8631,7 +8631,7 @@
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"},
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"},
         {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"},
-        {"Start":{"Y":2022,"M":3,"D":3},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"Comment":"Reward Encounter (Interlude Season)"},
         {"Start":{"Y":2022,"M":3,"D":5},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
       ]
     },
@@ -8836,8 +8836,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":9},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Welcome to Alola)"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":23,"Comment":"Reward Encounter (Interlude Season)"},
         {"Start":{"Y":2022,"M":3,"D":1},"Type":2,"LocalizedStart":true,"Comment":"Season of Alola"},
-        {"Start":{"Y":2022,"M":3,"D":4},"End":{"Y":2022,"M":6,"D":1},"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"},
         {"Start":{"Y":2022,"M":3,"D":5},"End":{"Y":2022,"M":6,"D":1},"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
       ]
     },
@@ -8882,7 +8882,7 @@
       "Data": [
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T5 Raid Boss"},
-        {"Start":{"Y":2022,"M":3,"D":5},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
+        {"Start":{"Y":2022,"M":3,"D":3},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
       ]
     },
     {
