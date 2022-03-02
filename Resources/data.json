@@ -5323,7 +5323,8 @@
         {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief"},
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":1,"D":7},"End":{"Y":2022,"M":1,"D":13},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Mountains of Power)"},
-        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Lunar New Year 2022)"}
+        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"T3 Raid Boss (Lunar New Year 2022)"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola (Northern Hemisphere)"}
       ]
     },
     {
@@ -8631,8 +8632,7 @@
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"},
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":10,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Halloween 2021 Part 2: Ghoulish Pals)"},
         {"Start":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Halloween 2021 Part 2: Ghoulish Pals"},
-        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"Comment":"Reward Encounter (Interlude Season)"},
-        {"Start":{"Y":2022,"M":3,"D":5},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Alola (Northern Hemisphere)"}
       ]
     },
     {
