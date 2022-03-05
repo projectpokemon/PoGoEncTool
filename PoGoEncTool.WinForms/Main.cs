@@ -32,6 +32,7 @@ namespace PoGoEncTool.WinForms
 
             LoadEntries();
             InitializeDataSources();
+            SpriteBuilderUtil.SpriterPreference = SpriteBuilderPreference.ForceSprites;
             SpriteName.AllowShinySprite = true;
         }
 
