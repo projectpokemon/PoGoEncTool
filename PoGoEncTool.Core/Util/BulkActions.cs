@@ -36,9 +36,9 @@ namespace PoGoEncTool.Core
                 if (pkm is not ((int)Bulbasaur))
                     entry.Shiny = PogoShiny.Random;
 
-                if (T1.Contains(pkm)) entry.Comment = "T1 Raid Boss";
-                if (T3.Contains(pkm)) entry.Comment = "T3 Raid Boss";
-                if (T5.Contains(pkm)) entry.Comment = "T5 Raid Boss";
+                if (T1.Contains(pkm)) entry.Comment = "Tier 1 Raid Boss";
+                if (T3.Contains(pkm)) entry.Comment = "Tier 3 Raid Boss";
+                if (T5.Contains(pkm)) entry.Comment = "Tier 5 Raid Boss";
 
                 // set debut species, and any of its evolutions, as available
                 if (!species.Available)
