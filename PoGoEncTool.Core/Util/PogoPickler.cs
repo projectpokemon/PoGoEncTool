@@ -48,27 +48,21 @@ namespace PoGoEncTool.Core
             bw.Write((byte)entry.Type);
         }
 
-        private static int PogoToHex(PogoShiny type)
+        private static byte PogoToHex(PogoShiny type) => type switch
         {
-            return type switch
-            {
-                PogoShiny.Random => 1,
-                PogoShiny.Always => 2,
-                PogoShiny.Never => 3,
-                _ => throw new ArgumentOutOfRangeException(nameof(type)),
-            };
-        }
+            PogoShiny.Random => 0,
+            PogoShiny.Never => 1,
+            PogoShiny.Always => 0,
+            _ => throw new ArgumentOutOfRangeException(nameof(type)),
+        };
 
-        private static int PogoToHex(PogoGender type)
+        private static byte PogoToHex(PogoGender type) => type switch
         {
-            return type switch
-            {
-                PogoGender.Random => 2,
-                PogoGender.MaleOnly => 0,
-                PogoGender.FemaleOnly => 1,
-                _ => throw new ArgumentOutOfRangeException(nameof(type)),
-            };
-        }
+            PogoGender.Random => 2,
+            PogoGender.MaleOnly => 0,
+            PogoGender.FemaleOnly => 1,
+            _ => throw new ArgumentOutOfRangeException(nameof(type)),
+        };
 
         public static byte[] WritePickleLGPE(PogoEncounterList entries)
         {
