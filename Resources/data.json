@@ -155,7 +155,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss"},
-        {"Start":{"Y":2021,"M":9,"D":28},"End":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Fashion Week 2021, No Costume)"}
+        {"Start":{"Y":2021,"M":9,"D":28},"End":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Fashion Week 2021, No Costume)"},
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":3,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lush Jungle)"}
       ]
     },
     {
@@ -592,7 +593,8 @@
       "Species": 45,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":4,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Sustainability Week)"}
+        {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":4,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Sustainability Week)"},
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":3,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lush Jungle)"}
       ]
     },
     {
@@ -609,7 +611,8 @@
       "Species": 47,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":3,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lush Jungle)"}
       ]
     },
     {
@@ -931,7 +934,8 @@
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2021,"M":4,"D":11},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Decoy Grunt"},
         {"Start":{"Y":2020,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Summer Event"},
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Decoy Grunt"},
-        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":3,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Lush Jungle)"}
       ]
     },
     {
@@ -1520,7 +1524,8 @@
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"Tier 2 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"Tier 2 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":30},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss (Psychic Spectacular 2020)"},
-        {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss (Throwback Challenge 2020: Kanto)"}
+        {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss (Throwback Challenge 2020: Kanto)"},
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":3,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lush Jungle)"}
       ]
     },
     {
@@ -1800,7 +1805,8 @@
         {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Summer Event)"},
         {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (The Seasons Change: Part 1)"},
-        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2022,"M":1,"D":24},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2022,"M":1,"D":24},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":3,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Lush Jungle)"}
       ]
     },
     {
@@ -7136,7 +7142,8 @@
       "Species": 540,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":1,"Comment":"Unova Week"}
+        {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":1,"Comment":"Unova Week"},
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":3,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Lush Jungle)"}
       ]
     },
     {
@@ -7178,7 +7185,9 @@
       "Data": [
         {"Start":{"Y":2020,"M":8,"D":14},"End":{"Y":2020,"M":8,"D":21},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss (Unova Week)"},
         {"Start":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":1,"Comment":"Unova Week"},
-        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"Comment":"Tier 1 Raid Boss (Fashion Week 2020)"}
+        {"Start":{"Y":2020,"M":10,"D":2},"End":{"Y":2020,"M":10,"D":8},"Shiny":1,"Type":10,"Comment":"Tier 1 Raid Boss (Fashion Week 2020)"},
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":3,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Lush Jungle)"},
+        {"Start":{"Y":2022,"M":3,"D":22},"Type":1,"LocalizedStart":true,"Comment":"Lush Jungle"}
       ]
     },
     {
@@ -8899,6 +8908,18 @@
       "Data": []
     },
     {
+      "Species": 753,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Lush Jungle"}
+      ]
+    },
+    {
+      "Species": 754,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 764,
       "Available": true,
       "Data": [
@@ -8928,6 +8949,14 @@
       "Data": [
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10 and Interlude Season)"}
+      ]
+    },
+    {
+      "Species": 786,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":4,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
       ]
     },
     {
