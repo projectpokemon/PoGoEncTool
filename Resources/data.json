@@ -6185,8 +6185,12 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":10,"D":16},"End":{"Y":2018,"M":10,"D":23},"Shiny":1,"Type":10,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
-        {"Start":{"Y":2019,"M":4,"D":16},"Type":1,"Comment":"Eggstravaganza 2019"}
+        {"Start":{"Y":2018,"M":10,"D":16},"End":{"Y":2020,"M":4,"D":9},"Shiny":1,"Type":1,"Comment":"Initial Sinnoh Release"},
+        {"Start":{"Y":2018,"M":10,"D":16},"Shiny":1,"Type":2,"Comment":"Initial Sinnoh Release"},
+        {"Start":{"Y":2019,"M":4,"D":16},"End":{"Y":2020,"M":4,"D":9},"Type":1,"Comment":"Eggstravaganza 2019"},
+        {"Start":{"Y":2019,"M":4,"D":16},"Type":2,"Comment":"Eggstravaganza 2019"},
+        {"Start":{"Y":2019,"M":4,"D":16},"Type":20,"Comment":"Eggstravaganza 2019"},
+        {"Start":{"Y":2020,"M":4,"D":16},"Type":1,"Comment":"Returned to Wild"}
       ]
     },
     {
