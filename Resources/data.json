@@ -873,7 +873,8 @@
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Space)"},
-        {"Start":{"Y":2021,"M":11,"D":22},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2021,"M":11,"D":22},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -1633,7 +1634,8 @@
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":2},"Type":1,"LocalizedStart":true,"Comment":"Día de Muertos 2021"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola"},
-        {"Start":{"Y":2022,"M":3,"D":15},"End":{"Y":2022,"M":3,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Festival of Colors 2022)"}
+        {"Start":{"Y":2022,"M":3,"D":15},"End":{"Y":2022,"M":3,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Festival of Colors 2022)"},
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -2709,7 +2711,7 @@
         {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Valentine's Day 2021)"},
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Spring into Spring 2021)"},
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Luminous Legends X)"},
-        {"Start":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto (Violet City)"}
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -3311,7 +3313,8 @@
       "Species": 205,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss (Bug Out! 2020)"}
+        {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss (Bug Out! 2020)"},
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -3368,7 +3371,8 @@
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":9,"D":20},"End":{"Y":2021,"M":9,"D":22},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Accidental Release)"},
         {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -4341,7 +4345,8 @@
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Community Day Weekend 2020)"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Valentine's Day 2021)"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -6914,7 +6919,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Valentine's Day 2021)"},
-        {"Start":{"Y":2021,"M":2,"D":14},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Valentine's Day 2021"}
+        {"Start":{"Y":2021,"M":2,"D":14},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Valentine's Day 2021"},
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -7727,7 +7733,8 @@
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":1,"D":15},"End":{"Y":2022,"M":1,"D":19},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":1,"D":19},"End":{"Y":2022,"M":2,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Power Plant Event)"}
+        {"Start":{"Y":2022,"M":1,"D":19},"End":{"Y":2022,"M":2,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Power Plant Event)"},
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -8910,6 +8917,7 @@
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":23,"Comment":"Reward Encounter (Interlude Season)"},
         {"Start":{"Y":2022,"M":3,"D":1},"Type":2,"LocalizedStart":true,"Comment":"Season of Alola"},
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":4,"D":17},"End":{"Y":2022,"M":6,"D":1},"Type":26,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
       ]
     },
