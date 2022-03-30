@@ -25,7 +25,13 @@ namespace PoGoEncTool.Core
                 return Array.Empty<int>();
             if (form >= table[species].FormCount)
                 return Array.Empty<int>();
-            var t = EvolutionTree.GetEvolutionTree(table.MaxSpeciesID, gen);
+            var t = EvolutionTree.GetEvolutionTree(gen);
+
+            var hisui = new[] { 155, 156, 501, 502, 548, 627, 704, 712, 722, 723 }; // pre-evos with branched evo paths only possible in LA
+            var pt = PersonalTable.LA;
+            if (((PersonalInfoLA)pt.GetFormEntry(species, form)).IsPresentInGame && !hisui.Contains(species))
+                t = EvolutionTree.GetEvolutionTree(new PA8 { Version = (int)GameVersion.PLA }, 8);
+
             return t.GetEvolutions(species, form);
         }
 
