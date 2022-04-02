@@ -816,7 +816,7 @@
         {"Start":{"Y":2019,"M":8,"D":6},"Type":1,"Comment":"Pokémon GO Fest Yokohama 2019"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":1,"D":24},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"}
+        {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":3},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"}
       ]
     },
     {
@@ -1431,7 +1431,8 @@
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":20},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"},
         {"Start":{"Y":2020,"M":10,"D":20},"End":{"Y":2020,"M":10,"D":27},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Leader Sierra (Shiny Disabled)"},
         {"Start":{"Y":2020,"M":10,"D":27},"End":{"Y":2021,"M":2,"D":2},"Type":30,"Comment":"Team GO Rocket Leader Sierra"},
-        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":4,"D":3},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"}
       ]
     },
     {
@@ -1507,7 +1508,8 @@
         {"Start":{"Y":2020,"M":4,"D":9},"Type":1,"LocalizedStart":true,"Comment":"Spring into Spring 2020"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Secrets of the Jungle Event 2020)"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":4,"D":3},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"}
       ]
     },
     {
@@ -1584,7 +1586,8 @@
         {"Start":{"Y":2019,"M":7,"D":25},"End":{"Y":2019,"M":7,"D":31},"Type":10,"Comment":"Tier 1 Raid Boss (Team GO Rocket Disruption)"},
         {"Start":{"Y":2019,"M":8,"D":1},"End":{"Y":2019,"M":11,"D":6},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2019,"M":11,"D":14},"Type":10,"Comment":"Tier 1 Raid Boss (Team GO Rocket Leaders Disruption)"},
-        {"Start":{"Y":2021,"M":11,"D":9},"End":{"Y":2022,"M":1,"D":24},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2021,"M":11,"D":9},"End":{"Y":2022,"M":1,"D":24},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":4,"D":3},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"}
       ]
     },
     {
@@ -3509,7 +3512,7 @@
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":6,"D":25},"Shiny":1,"Type":30,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2022,"M":1,"D":23},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":1,"D":24},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"}
+        {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":3},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"}
       ]
     },
     {
@@ -4012,7 +4015,7 @@
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
         {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (With Light Comes Shadow...)"},
+        {"Start":{"Y":2021,"M":11,"D":9},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (With Light Comes Shadow...)"},
         {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Tour: Johto)"}
       ]
     },
@@ -5498,7 +5501,7 @@
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Community Day Weekend 2020)"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Luminous Legends X)"},
-        {"Start":{"Y":2022,"M":1,"D":24},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"}
+        {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":3},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"}
       ]
     },
     {
@@ -5627,7 +5630,8 @@
         {"Start":{"Y":2020,"M":1,"D":24},"End":{"Y":2020,"M":1,"D":27},"Type":10,"Comment":"Tier 5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2020,"M":6,"D":12},"End":{"Y":2020,"M":6,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
+        {"Start":{"Y":2022,"M":4,"D":3},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (Silent Schemes)"}
       ]
     },
     {
@@ -8941,6 +8945,18 @@
     },
     {
       "Species": 754,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 757,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":4,"D":3},"Shiny":1,"Type":3,"LocalizedStart":true,"Comment":"All-Hands Rocket Retreat"}
+      ]
+    },
+    {
+      "Species": 758,
       "Available": true,
       "Data": []
     },
