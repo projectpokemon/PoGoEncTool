@@ -1798,9 +1798,10 @@
         {"Start":{"Y":2020,"M":2,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Valentine's Day 2020"},
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2020, Previously Tier 4)"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Secrets of the Jungle Event 2020)"},
-        {"Start":{"Y":2021,"M":4,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
+        {"Start":{"Y":2021,"M":4,"D":8},"End":{"Y":2022,"M":4,"D":12},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"},
         {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Secrets of the Jungle Event 2021)"},
-        {"Start":{"Y":2022,"M":3,"D":15},"End":{"Y":2022,"M":3,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Festival of Colors 2022)"}
+        {"Start":{"Y":2022,"M":3,"D":15},"End":{"Y":2022,"M":3,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Festival of Colors 2022)"},
+        {"Start":{"Y":2022,"M":4,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -2695,7 +2696,7 @@
       "Species": 176,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2017,"M":2,"D":16},"End":{"Y":2022,"M":4,"D":12},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2018,"M":10,"D":23},"End":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Halloween 2018)"},
         {"Start":{"Y":2019,"M":1,"D":29},"End":{"Y":2019,"M":2,"D":26},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2019,"M":3,"D":28},"End":{"Y":2019,"M":4,"D":2},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss"},
@@ -2716,12 +2717,15 @@
         {"Start":{"Y":2020,"M":7,"D":16},"End":{"Y":2020,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":23},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"Tier 4 Raid Boss (Enigma Week)"},
+        {"Start":{"Y":2020,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
         {"Start":{"Y":2021,"M":1,"D":26},"End":{"Y":2021,"M":2,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 3 Raid Boss (Johto Celebration Event)"},
         {"Start":{"Y":2021,"M":2,"D":8},"End":{"Y":2021,"M":2,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Valentine's Day 2021)"},
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Spring into Spring 2021)"},
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Luminous Legends X)"},
-        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":4,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Spring into Spring 2022"},
+        {"Start":{"Y":2022,"M":4,"D":18},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
@@ -6218,7 +6222,8 @@
         {"Start":{"Y":2019,"M":4,"D":16},"End":{"Y":2020,"M":4,"D":9},"Type":1,"Comment":"Eggstravaganza 2019"},
         {"Start":{"Y":2019,"M":4,"D":16},"Type":2,"Comment":"Eggstravaganza 2019"},
         {"Start":{"Y":2019,"M":4,"D":16},"Type":20,"Comment":"Eggstravaganza 2019"},
-        {"Start":{"Y":2020,"M":4,"D":16},"Type":1,"Comment":"Returned to Wild"}
+        {"Start":{"Y":2020,"M":4,"D":16},"End":{"Y":2022,"M":4,"D":12},"Type":1,"Comment":"Returned to Wild"},
+        {"Start":{"Y":2022,"M":4,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
       ]
     },
     {
