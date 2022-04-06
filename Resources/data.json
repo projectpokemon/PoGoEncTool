@@ -1579,7 +1579,8 @@
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Spring into Spring 2021)"},
         {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":4,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Sustainability Week 2021)"},
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Luminous Legends X)"},
-        {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":10,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":10,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":4,"D":3},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
       ]
     },
     {
@@ -4503,7 +4504,8 @@
       "Data": [
         {"Start":{"Y":2018,"M":1,"D":23},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Desert Theme)"},
         {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"},
-        {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":4,"D":12},"End":{"Y":2022,"M":4,"D":18},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Spring into Spring 2022)"}
       ]
     },
     {
