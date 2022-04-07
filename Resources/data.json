@@ -6103,7 +6103,9 @@
       "Species": 415,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":1,"D":31},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
+        {"Start":{"Y":2019,"M":1,"D":31},"End":{"Y":2019,"M":1,"D":31},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
+        {"Start":{"Y":2019,"M":1,"D":31},"End":{"Y":2019,"M":2,"D":13},"Shiny":1,"Gender":2,"Type":1,"Comment":"Initial Release in Wild (Evolution Bug Mitigation)"},
+        {"Start":{"Y":2019,"M":2,"D":13},"Shiny":1,"Type":1,"Comment":"Proper Release in Wild (Evolution Bug Resolved)"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Shiny":1,"Type":10,"Comment":"Tier 2 Raid Boss (Bug Out! 2019)"},
         {"Start":{"Y":2020,"M":4,"D":28},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss (Throwback Challenge 2020: Sinnoh, Previously Tier 1)"}
