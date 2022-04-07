@@ -91,7 +91,8 @@
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lunar New Year 2022)"},
-        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":4,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":4,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":5,"D":7},"End":{"Y":2022,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Air Adventures)"}
       ]
     },
     {
@@ -1099,7 +1100,8 @@
       "Species": 78,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":24},"End":{"Y":2020,"M":2,"D":3},"Shiny":1,"Type":10,"Comment":"Tier 2 Raid Boss (Lunar New Year 2020)"}
+        {"Start":{"Y":2020,"M":1,"D":24},"End":{"Y":2020,"M":2,"D":3},"Shiny":1,"Type":10,"Comment":"Tier 2 Raid Boss (Lunar New Year 2020)"},
+        {"Start":{"Y":2022,"M":5,"D":7},"End":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Air Adventures)"}
       ]
     },
     {
@@ -2134,7 +2136,8 @@
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Solstice Event, Southern Hemisphere)"},
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
         {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Dragonspiral Descent)"},
-        {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Holidays 2021: Part 2)"}
+        {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Holidays 2021: Part 2)"},
+        {"Start":{"Y":2022,"M":5,"D":7},"End":{"Y":2022,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Air Adventures)"}
       ]
     },
     {
@@ -2726,7 +2729,7 @@
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Luminous Legends X)"},
         {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":4,"D":12},"Type":20,"LocalizedStart":true,"Comment":"Spring into Spring 2022"},
-        {"Start":{"Y":2022,"M":4,"D":18},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild"}
+        {"Start":{"Y":2022,"M":4,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Spring into Spring 2022 (End of Event)"}
       ]
     },
     {
@@ -5654,7 +5657,8 @@
         {"Start":{"Y":2020,"M":6,"D":12},"End":{"Y":2020,"M":6,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
-        {"Start":{"Y":2022,"M":4,"D":3},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (Silent Schemes)"}
+        {"Start":{"Y":2022,"M":4,"D":3},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (Silent Schemes)"},
+        {"Start":{"Y":2022,"M":5,"D":7},"End":{"Y":2022,"M":5,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Pokémon Air Adventures"}
       ]
     },
     {
@@ -5667,7 +5671,8 @@
         {"Start":{"Y":2020,"M":1,"D":24},"End":{"Y":2020,"M":1,"D":27},"Type":10,"Comment":"Tier 5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2020,"M":6,"D":12},"End":{"Y":2020,"M":6,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
+        {"Start":{"Y":2022,"M":5,"D":7},"End":{"Y":2022,"M":5,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Pokémon Air Adventures"}
       ]
     },
     {
@@ -6585,7 +6590,9 @@
     {
       "Species": 468,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2022,"M":5,"D":7},"End":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Air Adventures)"}
+      ]
     },
     {
       "Species": 469,
