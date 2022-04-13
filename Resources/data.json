@@ -8799,7 +8799,8 @@
       "Species": 712,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":12,"D":23},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Holidays 2021: Part 2"}
+        {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2021,"M":12,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Holidays 2021: Part 2"},
+        {"Start":{"Y":2021,"M":12,"D":23},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Holidays 2021: Part 2"}
       ]
     },
     {
