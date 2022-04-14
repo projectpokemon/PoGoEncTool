@@ -6157,7 +6157,8 @@
       "Species": 420,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":5,"D":17},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"}
+        {"Start":{"Y":2019,"M":5,"D":17},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
+        {"Start":{"Y":2022,"M":4,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week 2022"}
       ]
     },
     {
@@ -9026,6 +9027,13 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"Comment":"Season of Alola"}
+      ]
+    },
+    {
+      "Species": 765,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":4,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week 2022"}
       ]
     },
     {
