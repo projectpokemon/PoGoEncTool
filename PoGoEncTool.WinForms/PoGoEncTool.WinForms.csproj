@@ -5,9 +5,13 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
     <Nullable>enable</Nullable>
-    <LangVersion>9</LangVersion>
+    <LangVersion>10</LangVersion>
     <StartupObject>PoGoEncTool.WinForms.Program</StartupObject>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PKHeX.Core" Version="22.3.18" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\PoGoEncTool.Core\PoGoEncTool.Core.csproj" />

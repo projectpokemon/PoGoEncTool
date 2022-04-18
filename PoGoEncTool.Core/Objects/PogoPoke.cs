@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using PKHeX.Core;
 
 namespace PoGoEncTool.Core
 {
     [Serializable]
-    public class PogoPoke : IComparable
+    public class PogoPoke : IComparable, ISpeciesForm
     {
         public int Species { get; set; }
         public int Form { get; set; }
@@ -19,6 +20,8 @@ namespace PoGoEncTool.Core
             Species = species,
             Form = form,
         };
+
+        public bool IsMatch(int species, int form) => Species == species && Form == form;
 
         public void Clean()
         {
@@ -60,7 +63,7 @@ namespace PoGoEncTool.Core
             for (var i = 0; i < Data.Count; i++)
             {
                 var app = Data[i];
-                string fail(string msg) => $"{msg}: {(PKHeX.Core.Species) Species}-{Form} -- appear[{i}] {app}";
+                string fail(string msg) => $"{msg}: {(Species) Species}-{Form} -- appear[{i}] {app}";
                 if (app.Start == null)
                 {
                     yield return fail("No Start Date");

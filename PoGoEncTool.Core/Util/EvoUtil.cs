@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using PKHeX.Core;
 using static PKHeX.Core.Species;
@@ -19,20 +18,25 @@ namespace PoGoEncTool.Core
             return la.Concat(ss).Concat(uu).Distinct();
         }
 
-        private static IEnumerable<int> Get(PersonalTable table, in int gen, in int species, in int form)
+        private static IEnumerable<int> Get(PersonalTable table, int gen, int species, int form)
         {
             if (species > table.MaxSpeciesID)
-                return Array.Empty<int>();
+                yield break;
             if (form >= table[species].FormCount)
-                return Array.Empty<int>();
-            var t = EvolutionTree.GetEvolutionTree(gen);
+                yield break;
 
             var hisui = new[] { 155, 156, 501, 502, 548, 627, 704, 712, 722, 723 }; // pre-evos with branched evo paths only possible in LA
+
+            EvolutionTree t;
             var pt = PersonalTable.LA;
             if (((PersonalInfoLA)pt.GetFormEntry(species, form)).IsPresentInGame && !hisui.Contains(species))
                 t = EvolutionTree.GetEvolutionTree(new PA8 { Version = (int)GameVersion.PLA }, 8);
+            else
+                t = EvolutionTree.GetEvolutionTree(gen);
 
-            return t.GetEvolutions(species, form);
+            var tableEvos = t.GetEvolutions(species, form);
+            foreach (var evo in tableEvos)
+                yield return evo;
         }
 
         public static bool IsAllowedEvolution(in int species, in int form, in int s, in int destForm)

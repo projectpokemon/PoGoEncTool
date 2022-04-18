@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using PKHeX.Core;
 
 namespace PoGoEncTool.Core
 {
@@ -54,12 +55,12 @@ namespace PoGoEncTool.Core
                 var evos = EvoUtil.GetEvoSpecForms(entry.Species, entry.Form);
                 foreach (var evo in evos)
                 {
-                    var s = evo & 0x7FF;
-                    var f = evo >> 11;
-                    if (!EvoUtil.IsAllowedEvolution(entry.Species, entry.Form, s, f))
+                    var evoSpecies = evo & 0x7FF;
+                    var evoForm = evo >> 11;
+                    if (!EvoUtil.IsAllowedEvolution(entry.Species, entry.Form, evoSpecies, evoForm))
                         continue;
 
-                    var dest = Data.Find(z => z.Species == s && z.Form == f);
+                    var dest = Data.Find(z => z.IsMatch(evoSpecies, evoForm));
                     if (dest?.Available != true)
                         continue;
 
@@ -68,7 +69,7 @@ namespace PoGoEncTool.Core
                     {
                         if (entry.Data.TrueForAll(p => p.CompareTo(z) != 0))
                             continue;
-                        var species = PKHeX.Core.GameInfo.Strings.Species;
+                        var species = GameInfo.Strings.Species;
                         var add = species[entry.Species];
                         if (entry.Form != 0)
                             add += $"-{entry.Form}";
@@ -87,7 +88,7 @@ namespace PoGoEncTool.Core
                     var index = appearance.Comment.IndexOf('{');
                     if (index < 0)
                         continue;
-                    appearance.Comment = appearance.Comment.Substring(0, index - 1);
+                    appearance.Comment = appearance.Comment[..(index - 1)];
                 }
             }
             CleanDuplicatesForEvolutions();
@@ -100,23 +101,47 @@ namespace PoGoEncTool.Core
                 var evos = EvoUtil.GetEvoSpecForms(entry.Species, entry.Form);
                 foreach (var evo in evos)
                 {
-                    var s = evo & 0x7FF;
-                    var f = evo >> 11;
-                    if (!EvoUtil.IsAllowedEvolution(entry.Species, entry.Form, s, f))
+                    var evoSpecies = evo & 0x7FF;
+                    var evoForm = evo >> 11;
+                    if (!EvoUtil.IsAllowedEvolution(entry.Species, entry.Form, evoSpecies, evoForm))
                         continue;
 
-                    var dest = Data.Find(z => z.Species == s && z.Form == f);
+                    var dest = Data.Find(z => z.IsMatch(evoSpecies, evoForm));
                     if (dest?.Available != true)
                         continue;
 
-                    foreach (var z in entry.Data)
-                    {
-                        if (dest.Data.Any(p => p.EqualsNoComment(z)))
-                            continue;
-                        dest.Data.Add(z);
-                    }
+                    AddToEvoIfAllowed(entry, dest);
                 }
             }
+        }
+
+        private void AddToEvoIfAllowed(PogoPoke entry, PogoPoke dest)
+        {
+            var destData = dest.Data;
+            foreach (var z in entry.Data)
+            {
+                if (destData.Any(p => p.EqualsNoComment(z)))
+                    continue;
+
+                if (!IsTimedEvolution(entry, dest))
+                {
+                    destData.Add(z);
+                    continue;
+                }
+
+                var timedChunks = SplitIntoTimedEvolutions(entry, dest, z);
+                destData.AddRange(timedChunks);
+            }
+        }
+
+        private IEnumerable<PogoEntry> SplitIntoTimedEvolutions(PogoPoke entry, PogoPoke dest, PogoEntry pogoEntry)
+        {
+            yield return pogoEntry;
+        }
+
+        private bool IsTimedEvolution(PogoPoke entry, PogoPoke evoSpecies)
+    {
+            return false;
         }
 
         public IEnumerable<string> SanityCheck()
