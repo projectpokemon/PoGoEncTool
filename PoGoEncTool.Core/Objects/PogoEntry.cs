@@ -3,7 +3,7 @@
 namespace PoGoEncTool.Core
 {
     [Serializable]
-    public class PogoEntry : IComparable<PogoEntry>, IEquatable<PogoEntry>
+    public sealed record PogoEntry : IComparable<PogoEntry>
     {
         public PogoDate? Start { get; set; }
         public PogoDate? End { get; set; }
@@ -83,25 +83,6 @@ namespace PoGoEncTool.Core
         {
             if (ReferenceEquals(this, other)) return true;
             return Equals(Start, other.Start) && Equals(End, other.End) && Shiny == other.Shiny && Gender == other.Gender && Type == other.Type;
-        }
-
-        public bool Equals(PogoEntry? other)
-        {
-            if (other is null) return false;
-            return EqualsNoComment(other) && Comment == other.Comment;
-        }
-
-        public override bool Equals(object? obj)
-        {
-            if (obj is null) return false;
-            if (ReferenceEquals(this, obj)) return true;
-            if (obj.GetType() != GetType()) return false;
-            return Equals((PogoEntry) obj);
-        }
-
-        public override int GetHashCode()
-        {
-            return HashCode.Combine(Start, End, (int) Shiny, (int)Gender, (int) Type, Comment);
         }
 
         public void Clear()

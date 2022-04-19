@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 using PKHeX.Core;
 
@@ -101,12 +102,12 @@ namespace PoGoEncTool.Core
                 var evos = EvoUtil.GetEvoSpecForms(entry.Species, entry.Form);
                 foreach (var evo in evos)
                 {
-                    var evoSpecies = evo & 0x7FF;
-                    var evoForm = evo >> 11;
-                    if (!EvoUtil.IsAllowedEvolution(entry.Species, entry.Form, evoSpecies, evoForm))
+                    var species = evo & 0x7FF;
+                    var form = evo >> 11;
+                    if (!EvoUtil.IsAllowedEvolution(entry.Species, entry.Form, species, form))
                         continue;
 
-                    var dest = Data.Find(z => z.IsMatch(evoSpecies, evoForm));
+                    var dest = Data.Find(z => z.IsMatch(species, form));
                     if (dest?.Available != true)
                         continue;
 
@@ -115,7 +116,7 @@ namespace PoGoEncTool.Core
             }
         }
 
-        private void AddToEvoIfAllowed(PogoPoke entry, PogoPoke dest)
+        private static void AddToEvoIfAllowed(PogoPoke entry, PogoPoke dest)
         {
             var destData = dest.Data;
             foreach (var z in entry.Data)
@@ -123,26 +124,44 @@ namespace PoGoEncTool.Core
                 if (destData.Any(p => p.EqualsNoComment(z)))
                     continue;
 
-                if (!IsTimedEvolution(entry, dest))
+                if (!IsTimedEvolution(dest, out var end))
                 {
                     destData.Add(z);
                     continue;
                 }
 
-                var timedChunks = SplitIntoTimedEvolutions(entry, dest, z);
+                var timedChunks = GetTimedEvolutionEntry(z, end);
                 destData.AddRange(timedChunks);
             }
         }
 
-        private IEnumerable<PogoEntry> SplitIntoTimedEvolutions(PogoPoke entry, PogoPoke dest, PogoEntry pogoEntry)
+        private static IEnumerable<PogoEntry> GetTimedEvolutionEntry(PogoEntry entry, PogoDate evoEndDate)
         {
-            yield return pogoEntry;
+            bool isBefore = evoEndDate.CompareTo(entry.Start) < 0;
+            if (isBefore) // Availability was before this entry existed. Can't evolve.
+                yield break;
+
+            bool isAfter = evoEndDate.CompareTo(entry.End) > 0;
+            if (isAfter) // Availability ended before the evolution ended, so just return as is.
+            {
+                yield return entry;
+                yield break;
+            }
+
+            // Get a copy with a truncated end date.
+            yield return entry with { End = evoEndDate };
         }
 
-        private bool IsTimedEvolution(PogoPoke entry, PogoPoke evoSpecies)
-    {
-            return false;
+        private static bool IsTimedEvolution(ISpeciesForm evo, [NotNullWhen(true)] out PogoDate? endDate)
+        {
+            return (endDate = GetEndDate(evo)) != null;
         }
+
+        private static PogoDate? GetEndDate(ISpeciesForm evo) => evo.Species switch
+        {
+            (int)Species.Exeggutor when evo.Form == 1 => new PogoDate(2022, 4, 17),
+            _ => null,
+        };
 
         public IEnumerable<string> SanityCheck()
         {
