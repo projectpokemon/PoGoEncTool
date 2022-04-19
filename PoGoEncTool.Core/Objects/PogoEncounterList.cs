@@ -141,7 +141,7 @@ namespace PoGoEncTool.Core
             if (isBefore) // Availability was before this entry existed. Can't evolve.
                 yield break;
 
-            bool isAfter = evoEndDate.CompareTo(entry.End) > 0;
+            bool isAfter = entry.End is not null && evoEndDate.CompareTo(entry.End) > 0;
             if (isAfter) // Availability ended before the evolution ended, so just return as is.
             {
                 yield return entry;

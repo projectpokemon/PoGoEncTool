@@ -47,7 +47,6 @@ namespace PoGoEncTool.Core
             {
                 // Alolan
                 Pichu or Pikachu when destSpecies is Raichu && destForm is 1 => false,
-                Exeggcute when destSpecies is Exeggutor && destForm is 1 => false,
                 Cubone when destSpecies is Marowak && destForm is 1 => false,
 
                 // Galarian
