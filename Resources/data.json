@@ -2928,7 +2928,9 @@
     {
       "Species": 195,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+      ]
     },
     {
       "Species": 196,
@@ -3372,7 +3374,8 @@
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":9},"End":{"Y":2022,"M":1,"D":24},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"},
-        {"Start":{"Y":2021,"M":11,"D":15},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2021,"M":11,"D":15},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -4346,7 +4349,8 @@
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"Tier 1 Raid Boss (Hoenn Celebration 2019)"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"Tier 1 Raid Boss (Water Festival 2019)"},
         {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Summer Event)"},
-        {"Start":{"Y":2022,"M":1,"D":14},"End":{"Y":2022,"M":1,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":1,"D":14},"End":{"Y":2022,"M":1,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -5436,7 +5440,8 @@
         {"Start":{"Y":2021,"M":4,"D":19},"End":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":3,"D":21},"End":{"Y":2022,"M":3,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":3,"D":21},"End":{"Y":2022,"M":3,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -6431,7 +6436,9 @@
     {
       "Species": 450,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+      ]
     },
     {
       "Species": 451,
@@ -6539,7 +6546,8 @@
         {"Start":{"Y":2021,"M":4,"D":22},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Solstice Event, Southern Hemisphere)"},
         {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":9,"D":21},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2021,"M":9,"D":29},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2021,"M":9,"D":29},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -7153,7 +7161,8 @@
         {"Start":{"Y":2021,"M":11,"D":22},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":1,"D":5},"End":{"Y":2022,"M":1,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":15},"End":{"Y":2022,"M":2,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":2,"D":15},"End":{"Y":2022,"M":2,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -7984,7 +7993,8 @@
         {"Start":{"Y":2022,"M":1,"D":15},"End":{"Y":2022,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":2,"D":15},"End":{"Y":2022,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":3,"D":15},"End":{"Y":2022,"M":3,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":4,"D":5},"End":{"Y":2022,"M":4,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":4,"D":5},"End":{"Y":2022,"M":4,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -8968,7 +8978,7 @@
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":23,"Comment":"Reward Encounter (Interlude Season)"},
         {"Start":{"Y":2022,"M":3,"D":1},"Type":2,"LocalizedStart":true,"Comment":"Season of Alola"},
-        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":5,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":4,"D":7},"Type":20,"LocalizedStart":true,"Comment":"Partner Research: Sushiro"}
       ]
     },
