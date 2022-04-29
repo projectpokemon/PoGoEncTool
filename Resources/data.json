@@ -1837,7 +1837,8 @@
         {"Start":{"Y":2019,"M":9,"D":9},"Type":1,"Comment":"Global Challenge, Global Hatches"},
         {"Start":{"Y":2021,"M":2,"D":20},"End":{"Y":2021,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Space)"},
-        {"Start":{"Y":2022,"M":2,"D":27},"End":{"Y":2022,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Tour: Live)"}
+        {"Start":{"Y":2022,"M":2,"D":27},"End":{"Y":2022,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Tour: Live)"},
+        {"Start":{"Y":2022,"M":4,"D":29},"End":{"Y":2022,"M":5,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (A Mega Moment)"}
       ]
     },
     {
@@ -5668,6 +5669,7 @@
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
         {"Start":{"Y":2022,"M":4,"D":3},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (Silent Schemes)"},
+        {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":7},"End":{"Y":2022,"M":5,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Pokémon Air Adventures)"}
       ]
     },
@@ -5682,6 +5684,7 @@
         {"Start":{"Y":2020,"M":6,"D":12},"End":{"Y":2020,"M":6,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
+        {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":7},"End":{"Y":2022,"M":5,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Pokémon Air Adventures)"}
       ]
     },
