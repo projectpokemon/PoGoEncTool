@@ -52,7 +52,7 @@ namespace PoGoEncTool.Core
         {
             PogoShiny.Random => 0,
             PogoShiny.Never => 1,
-            PogoShiny.Always => 0,
+            PogoShiny.Always => 2,
             _ => throw new ArgumentOutOfRangeException(nameof(type)),
         };
 
