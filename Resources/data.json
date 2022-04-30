@@ -4526,7 +4526,8 @@
         {"Start":{"Y":2018,"M":1,"D":23},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Desert Theme)"},
         {"Start":{"Y":2021,"M":7,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"},
         {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":4,"D":11},"End":{"Y":2022,"M":4,"D":18},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Spring into Spring 2022, Released Early)"}
+        {"Start":{"Y":2022,"M":4,"D":11},"End":{"Y":2022,"M":4,"D":18},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Spring into Spring 2022, Released Early)"},
+        {"Start":{"Y":2022,"M":4,"D":30},"End":{"Y":2022,"M":4,"D":30},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt (An Egg-citing Spring Surprise Makeup Event)"}
       ]
     },
     {
