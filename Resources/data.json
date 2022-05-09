@@ -346,7 +346,8 @@
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola"}
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola"},
+        {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -2132,13 +2133,17 @@
       "Species": 131,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
+        {"Start":{"Y":2016,"M":7,"D":6},"End":{"Y":2022,"M":5,"D":12},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
         {"Start":{"Y":2017,"M":6,"D":23},"End":{"Y":2017,"M":11,"D":4},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss"},
+        {"Start":{"Y":2018,"M":4,"D":7},"Shiny":1,"Type":20,"Comment":"Water Festival 2018"},
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":17},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Kanto Celebration)"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":9,"D":30},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Ultra Bonus Event)"},
         {"Start":{"Y":2018,"M":12,"D":18},"End":{"Y":2019,"M":1,"D":2},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Holidays 2018)"},
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":2,"D":28},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Pokémon Day 2019)"},
-        {"Start":{"Y":2019,"M":4,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Sentosa 2019)"},
+        {"Start":{"Y":2019,"M":4,"D":18},"End":{"Y":2022,"M":5,"D":12},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Sentosa 2019)"},
+        {"Start":{"Y":2019,"M":4,"D":18},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Sentosa 2019)"},
+        {"Start":{"Y":2019,"M":4,"D":26},"Type":2,"Comment":"Shiny Released in Eggs"},
         {"Start":{"Y":2019,"M":6,"D":27},"End":{"Y":2019,"M":7,"D":10},"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":31},"End":{"Y":2019,"M":9,"D":2},"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2019,"M":10,"D":17},"End":{"Y":2020,"M":7,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
@@ -2160,7 +2165,8 @@
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
         {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Dragonspiral Descent)"},
         {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Holidays 2021: Part 2)"},
-        {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Air Adventures)"}
+        {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Air Adventures)"},
+        {"Start":{"Y":2022,"M":5,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild (After Water Festival 2022)"}
       ]
     },
     {
@@ -2608,7 +2614,8 @@
         {"Start":{"Y":2018,"M":2,"D":9},"End":{"Y":2020,"M":3,"D":5},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":21},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss"},
-        {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss (4th Anniversary)"}
+        {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss (4th Anniversary)"},
+        {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -2851,7 +2858,8 @@
         {"Start":{"Y":2020,"M":7,"D":9},"End":{"Y":2020,"M":7,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":16},"End":{"Y":2020,"M":7,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":23},"End":{"Y":2020,"M":7,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Spring into Spring 2021)"}
+        {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Spring into Spring 2021)"},
+        {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -3465,7 +3473,8 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Shiny":1,"Type":10,"Comment":"Tier 2 Raid Boss (Water Festival 2019)"},
-        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020"}
+        {"Start":{"Y":2020,"M":7,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2020"},
+        {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -4322,7 +4331,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":4,"D":21},"End":{"Y":2020,"M":4,"D":27},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss (Buddy Up)"},
-        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Secrets of the Jungle Event 2021)"}
+        {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Secrets of the Jungle Event 2021)"},
+        {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -4982,7 +4992,8 @@
         {"Start":{"Y":2020,"M":2,"D":3},"End":{"Y":2020,"M":2,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Summer Event)"},
         {"Start":{"Y":2020,"M":8,"D":21},"End":{"Y":2020,"M":9,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2020,"M":9,"D":22},"End":{"Y":2020,"M":9,"D":28},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Mega September: Mega Buddy Challenge)"}
+        {"Start":{"Y":2020,"M":9,"D":22},"End":{"Y":2020,"M":9,"D":28},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Mega September: Mega Buddy Challenge)"},
+        {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -8700,7 +8711,8 @@
       "Species": 682,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Luminous Legends X"}
+        {"Start":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Luminous Legends X"},
+        {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -8740,7 +8752,8 @@
       "Data": [
         {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":4,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Sustainability Week 2021)"},
         {"Start":{"Y":2021,"M":4,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week 2021"},
-        {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":2,"D":8},"End":{"Y":2022,"M":2,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":5,"D":12},"Type":1,"LocalizedStart":true,"Comment":"Water Festival 2022"}
       ]
     },
     {
@@ -8778,7 +8791,8 @@
       "Species": 694,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2022,"M":1,"D":19},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Power Plant Event"}
+        {"Start":{"Y":2022,"M":1,"D":19},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Power Plant Event"},
+        {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -9066,7 +9080,7 @@
         {"Start":{"Y":2022,"M":3,"D":1},"Type":2,"LocalizedStart":true,"Comment":"Season of Alola"},
         {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":4,"D":7},"Type":20,"LocalizedStart":true,"Comment":"Partner Research: Sushiro"},
-        {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -9077,6 +9091,18 @@
     {
       "Species": 745,
       "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 751,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":5,"D":12},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Water Festival 2022"}
+      ]
+    },
+    {
+      "Species": 752,
       "Available": true,
       "Data": []
     },
