@@ -372,10 +372,10 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":6,"D":21},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019"},
-        {"Start":{"Y":2019,"M":6,"D":22},"End":{"Y":2019,"M":6,"D":22},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019 Makeup Event"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago"},
+        {"Start":{"Y":2019,"M":6,"D":22},"End":{"Y":2019,"M":6,"D":22},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago Makeup Event"},
         {"Start":{"Y":2019,"M":6,"D":28},"Type":2,"Comment":"3rd Anniversary"},
-        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":1,"Comment":"Pokémon GO Fest: Yokohama 2019"},
+        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":1,"Comment":"Pokémon GO Fest 2019: Yokohama"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"Global Challenge, Global Hatches"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2020)"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon HOME Event"},
@@ -443,8 +443,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest: Dortmund 2019)"},
-        {"Start":{"Y":2019,"M":7,"D":4},"Type":1,"Comment":"Pokémon GO Fest: Dortmund 2019"},
+        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2019: Dortmund)"},
+        {"Start":{"Y":2019,"M":7,"D":4},"Type":1,"Comment":"Pokémon GO Fest 2019: Dortmund"},
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":30,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
@@ -475,7 +475,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019 (Accidental Release)"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago (Accidental Release)"},
         {"Start":{"Y":2020,"M":6,"D":19},"Type":1,"LocalizedStart":true,"Comment":"Summer Solstice"},
         {"Start":{"Y":2020,"M":7,"D":9},"End":{"Y":2020,"M":7,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":16},"End":{"Y":2020,"M":7,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
@@ -511,10 +511,10 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":6,"D":21},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019"},
-        {"Start":{"Y":2019,"M":6,"D":22},"End":{"Y":2019,"M":6,"D":22},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019 Makeup Event"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago"},
+        {"Start":{"Y":2019,"M":6,"D":22},"End":{"Y":2019,"M":6,"D":22},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago Makeup Event"},
         {"Start":{"Y":2019,"M":6,"D":28},"Type":2,"Comment":"3rd Anniversary"},
-        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":1,"Comment":"Pokémon GO Fest: Yokohama 2019"},
+        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":1,"Comment":"Pokémon GO Fest 2019: Yokohama"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"Global Challenge, Global Hatches"},
         {"Start":{"Y":2019,"M":9,"D":21},"End":{"Y":2019,"M":9,"D":29},"Type":1,"LocalizedStart":true,"Comment":"Hokkaido Bus Event"},
         {"Start":{"Y":2020,"M":1,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Tasks (Shiny Disabled)"},
@@ -830,8 +830,8 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
         {"Start":{"Y":2019,"M":8,"D":1},"End":{"Y":2020,"M":2,"D":2},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest: Yokohama 2019)"},
-        {"Start":{"Y":2019,"M":8,"D":6},"Type":1,"Comment":"Pokémon GO Fest: Yokohama 2019"},
+        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2019: Yokohama)"},
+        {"Start":{"Y":2019,"M":8,"D":6},"Type":1,"Comment":"Pokémon GO Fest 2019: Yokohama"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":11,"D":8},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":3},"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"}
@@ -863,7 +863,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019 (Accidental Release)"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago (Accidental Release)"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2021,"M":2,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":30},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Psychic Spectacular 2020)"},
         {"Start":{"Y":2020,"M":4,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Community Day"},
@@ -1110,8 +1110,8 @@
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2021, No Costume)"},
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
         {"Start":{"Y":2021,"M":9,"D":5},"End":{"Y":2021,"M":9,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Hoopa's Arrival"},
-        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Berlin 2022 (Living Meadow Habitat)"},
-        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Sapporo 2022 (Living Meadow Habitat)"}
+        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin (Living Meadow Habitat)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo (Living Meadow Habitat)"}
       ]
     },
     {
@@ -1185,7 +1185,7 @@
         {"Start":{"Y":2018,"M":11,"D":16},"End":{"Y":2018,"M":11,"D":27},"Type":10,"Comment":"Tier 1 Raid Boss (Let's Go Celebration)"},
         {"Start":{"Y":2018,"M":11,"D":16},"Type":1,"Comment":"Let's Go Celebration"},
         {"Start":{"Y":2019,"M":6,"D":18},"End":{"Y":2019,"M":6,"D":27},"Type":10,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest: Dortmund 2019)"},
+        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2019: Dortmund)"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon HOME Event)"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
@@ -1865,7 +1865,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019"},
+        {"Start":{"Y":2019,"M":6,"D":13},"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago"},
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"Tier 1 Raid Boss (Supereffective Week)"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":11,"D":8},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
@@ -1950,7 +1950,7 @@
         {"Start":{"Y":2019,"M":5,"D":2},"End":{"Y":2019,"M":5,"D":7},"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2019,"M":5,"D":18},"End":{"Y":2019,"M":6,"D":4},"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2019,"M":6,"D":12},"End":{"Y":2019,"M":6,"D":18},"Type":10,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest: Dortmund 2019)"},
+        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2019: Dortmund)"},
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2019,"M":8,"D":1},"End":{"Y":2019,"M":11,"D":6},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":23},"Type":10,"Comment":"Tier 3 Raid Boss"},
@@ -3322,9 +3322,9 @@
         {"Start":{"Y":2018,"M":8,"D":29},"End":{"Y":2018,"M":9,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Yokosuka 2018)"},
         {"Start":{"Y":2018,"M":10,"D":5},"End":{"Y":2018,"M":10,"D":7},"Shiny":1,"Type":1,"Comment":"MAG 2018"},
         {"Start":{"Y":2019,"M":4,"D":18},"End":{"Y":2019,"M":4,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Sentosa 2019)"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019"},
-        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest: Dortmund 2019"},
-        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest: Yokohama 2019"}
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago"},
+        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2019: Dortmund"},
+        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2019: Yokohama"}
       ]
     },
     {
@@ -4318,7 +4318,7 @@
         {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Limited Research"},
         {"Start":{"Y":2019,"M":5,"D":7},"End":{"Y":2019,"M":5,"D":17},"Type":10,"Comment":"Tier 1 Raid Boss (Detective Pikachu Celebration)"},
         {"Start":{"Y":2019,"M":6,"D":18},"End":{"Y":2019,"M":7,"D":10},"Type":10,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest: Yokohama 2019)"},
+        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2019: Yokohama)"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"Tier 1 Raid Boss (Water Festival 2019)"}
       ]
     },
@@ -4377,7 +4377,7 @@
       "Data": [
         {"Start":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":1,"Comment":"Hoenn Region (Sky Theme)"},
         {"Start":{"Y":2019,"M":1,"D":15},"Type":1,"Comment":"Hoenn Celebration 2019"},
-        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest: Yokohama 2019)"}
+        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2019: Yokohama)"}
       ]
     },
     {
@@ -4712,11 +4712,11 @@
         {"Start":{"Y":2018,"M":10,"D":1},"End":{"Y":2019,"M":2,"D":13},"Type":10,"Comment":"Tier 2 Raid Boss"},
         {"Start":{"Y":2019,"M":1,"D":15},"Type":2,"Comment":"Hoenn Celebration 2019"},
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"Tier 2 Raid Boss"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019"},
-        {"Start":{"Y":2019,"M":6,"D":22},"End":{"Y":2019,"M":6,"D":22},"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019 Makeup Event"},
-        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":1,"Comment":"Pokémon GO Fest: Dortmund 2019"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago"},
+        {"Start":{"Y":2019,"M":6,"D":22},"End":{"Y":2019,"M":6,"D":22},"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago Makeup Event"},
+        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":1,"Comment":"Pokémon GO Fest 2019: Dortmund"},
         {"Start":{"Y":2019,"M":7,"D":31},"End":{"Y":2019,"M":8,"D":23},"Type":10,"Comment":"Tier 2 Raid Boss"},
-        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":1,"Comment":"Pokémon GO Fest: Yokohama 2019"},
+        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":1,"Comment":"Pokémon GO Fest 2019: Yokohama"},
         {"Start":{"Y":2019,"M":8,"D":31},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"Tier 2 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"Global Challenge, Global Hatches"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2020,"M":2,"D":7},"Type":10,"Comment":"Tier 2 Raid Boss"},
@@ -4804,7 +4804,7 @@
         {"Start":{"Y":2018,"M":10,"D":1},"End":{"Y":2018,"M":10,"D":15},"Type":10,"Comment":"Tier 1 Raid Boss (Psychic Spectacular 2018)"},
         {"Start":{"Y":2019,"M":3,"D":1},"End":{"Y":2019,"M":3,"D":19},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2019,"M":3,"D":27},"End":{"Y":2019,"M":3,"D":28},"Type":10,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest: Dortmund 2019)"},
+        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2019: Dortmund)"},
         {"Start":{"Y":2019,"M":11,"D":4},"End":{"Y":2019,"M":11,"D":7},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":14},"End":{"Y":2019,"M":11,"D":19},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Type":10,"Comment":"Tier 1 Raid Boss"},
@@ -5302,7 +5302,7 @@
         {"Start":{"Y":2019,"M":1,"D":29},"End":{"Y":2019,"M":2,"D":13},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Type":10,"Comment":"Tier 2 Raid Boss (Extraordinary Raid Week)"},
-        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"Tier 2 Raid Boss (Pokémon GO Fest: Dortmund 2019)"},
+        {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Type":10,"Comment":"Tier 2 Raid Boss (Pokémon GO Fest 2019: Dortmund)"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"Tier 2 Raid Boss (Water Festival 2019)"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":23},"Type":10,"Comment":"Tier 2 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":12},"Type":10,"Comment":"Tier 1 Raid Boss (Evolution Event, Previously Tier 2)"},
@@ -5423,9 +5423,9 @@
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":5,"D":7},"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2019,"M":1,"D":15},"Type":2,"Comment":"Hoenn Celebration 2019"},
         {"Start":{"Y":2019,"M":5,"D":18},"End":{"Y":2019,"M":7,"D":31},"Type":10,"Comment":"Tier 4 Raid Boss"},
-        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019"},
-        {"Start":{"Y":2019,"M":6,"D":22},"End":{"Y":2019,"M":6,"D":22},"Type":1,"Comment":"Pokémon GO Fest: Chicago 2019 Makeup Event"},
-        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":1,"Comment":"Pokémon GO Fest: Yokohama 2019"},
+        {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago"},
+        {"Start":{"Y":2019,"M":6,"D":22},"End":{"Y":2019,"M":6,"D":22},"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago Makeup Event"},
+        {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":1,"Comment":"Pokémon GO Fest 2019: Yokohama"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":31},"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":11,"D":19},"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"Global Challenge, Global Hatches"},
@@ -6867,8 +6867,8 @@
         {"Start":{"Y":2020,"M":9,"D":10},"End":{"Y":2020,"M":9,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
         {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest: Berlin 2022)"},
-        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest: Sapporo 2022)"}
+        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022: Berlin)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
@@ -6882,8 +6882,8 @@
         {"Start":{"Y":2020,"M":10,"D":24},"End":{"Y":2020,"M":11,"D":5},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":11,"D":5},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":11,"D":29},"Type":24,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
-        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest: Berlin 2022)"},
-        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest: Sapporo 2022)"}
+        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022: Berlin)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
@@ -6898,7 +6898,7 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2022,"M":7,"D":1},"Shiny":1,"Type":22,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Berlin 2022"}
+        {"Start":{"Y":2022,"M":7,"D":1},"Shiny":1,"Type":22,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin"}
       ]
     },
     {
@@ -7030,7 +7030,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
-        {"Start":{"Y":2022,"M":8,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Sapporo 2022"}
+        {"Start":{"Y":2022,"M":8,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo"}
       ]
     },
     {
@@ -7043,7 +7043,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
-        {"Start":{"Y":2022,"M":7,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Berlin 2022"}
+        {"Start":{"Y":2022,"M":7,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin"}
       ]
     },
     {
@@ -7776,7 +7776,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
         {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Secrets of the Jungle Event 2021)"},
-        {"Start":{"Y":2022,"M":7,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Berlin 2022"}
+        {"Start":{"Y":2022,"M":7,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin"}
       ]
     },
     {
@@ -8730,7 +8730,7 @@
       "Data": [
         {"Start":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Luminous Legends X"},
         {"Start":{"Y":2022,"M":4,"D":12},"End":{"Y":2022,"M":4,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":8,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Sapporo 2022"}
+        {"Start":{"Y":2022,"M":8,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo"}
       ]
     },
     {
