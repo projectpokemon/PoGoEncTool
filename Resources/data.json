@@ -1110,7 +1110,8 @@
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2021, No Costume)"},
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
         {"Start":{"Y":2021,"M":9,"D":5},"End":{"Y":2021,"M":9,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Hoopa's Arrival"},
-        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Berlin 2022 (Living Meadow Habitat)"}
+        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Berlin 2022 (Living Meadow Habitat)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Sapporo 2022 (Living Meadow Habitat)"}
       ]
     },
     {
@@ -6866,7 +6867,8 @@
         {"Start":{"Y":2020,"M":9,"D":10},"End":{"Y":2020,"M":9,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Wind Hour)"},
         {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest: Berlin 2022)"}
+        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest: Berlin 2022)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest: Sapporo 2022)"}
       ]
     },
     {
@@ -6880,7 +6882,8 @@
         {"Start":{"Y":2020,"M":10,"D":24},"End":{"Y":2020,"M":11,"D":5},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":11,"D":5},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":10,"D":22},"End":{"Y":2021,"M":11,"D":29},"Type":24,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
-        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest: Berlin 2022)"}
+        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest: Berlin 2022)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest: Sapporo 2022)"}
       ]
     },
     {
@@ -7026,7 +7029,8 @@
       "Species": 511,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"}
+        {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
+        {"Start":{"Y":2022,"M":8,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Sapporo 2022"}
       ]
     },
     {
@@ -8725,7 +8729,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Luminous Legends X"},
-        {"Start":{"Y":2022,"M":4,"D":12},"End":{"Y":2022,"M":4,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":4,"D":12},"End":{"Y":2022,"M":4,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":8,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest: Sapporo 2022"}
       ]
     },
     {
