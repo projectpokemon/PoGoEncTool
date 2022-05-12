@@ -2134,17 +2134,13 @@
       "Species": 131,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2016,"M":7,"D":6},"End":{"Y":2022,"M":5,"D":12},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
+        {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
         {"Start":{"Y":2017,"M":6,"D":23},"End":{"Y":2017,"M":11,"D":4},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss"},
-        {"Start":{"Y":2018,"M":4,"D":7},"Shiny":1,"Type":20,"Comment":"Water Festival 2018"},
         {"Start":{"Y":2018,"M":4,"D":10},"End":{"Y":2018,"M":4,"D":17},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Kanto Celebration)"},
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":9,"D":30},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Ultra Bonus Event)"},
         {"Start":{"Y":2018,"M":12,"D":18},"End":{"Y":2019,"M":1,"D":2},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Holidays 2018)"},
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":2,"D":28},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Pokémon Day 2019)"},
-        {"Start":{"Y":2019,"M":4,"D":18},"End":{"Y":2022,"M":5,"D":12},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Sentosa 2019)"},
-        {"Start":{"Y":2019,"M":4,"D":18},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Sentosa 2019)"},
-        {"Start":{"Y":2019,"M":4,"D":26},"Type":2,"Comment":"Shiny Released in Eggs"},
+        {"Start":{"Y":2019,"M":4,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Sentosa 2019)"},
         {"Start":{"Y":2019,"M":6,"D":27},"End":{"Y":2019,"M":7,"D":10},"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":31},"End":{"Y":2019,"M":9,"D":2},"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2019,"M":10,"D":17},"End":{"Y":2020,"M":7,"D":9},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
@@ -2166,8 +2162,7 @@
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
         {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Dragonspiral Descent)"},
         {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Holidays 2021: Part 2)"},
-        {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Air Adventures)"},
-        {"Start":{"Y":2022,"M":5,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Returned to Wild (After Water Festival 2022)"}
+        {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Air Adventures)"}
       ]
     },
     {
