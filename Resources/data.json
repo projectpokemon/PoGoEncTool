@@ -3064,7 +3064,9 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":1,"NoEndTolerance":true,"Comment":"Enigma Week"},
-        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"Tier 2 Raid Boss (Enigma Week)"}
+        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"Tier 2 Raid Boss (Enigma Week)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"}
       ]
     },
     {
@@ -3099,7 +3101,9 @@
       "Form": 4,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"}
       ]
     },
     {
@@ -3140,7 +3144,9 @@
       "Form": 8,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"}
       ]
     },
     {
@@ -3168,7 +3174,9 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":1,"NoEndTolerance":true,"Comment":"Enigma Week"},
-        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"Tier 2 Raid Boss (Enigma Week)"}
+        {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"Tier 2 Raid Boss (Enigma Week)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"}
       ]
     },
     {
@@ -3234,7 +3242,9 @@
       "Form": 18,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"}
       ]
     },
     {
@@ -3273,7 +3283,9 @@
       "Form": 21,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"}
       ]
     },
     {
