@@ -41,13 +41,12 @@ namespace PoGoEncTool.Core
 
         public static bool IsAllowedEvolution(in int species, in int form, in int s, in int destForm)
         {
-            // Regional Form split-evolutions are not available.
+            // Outside of special events, regional Form split-evolutions are not available.
             var destSpecies = (Species) s;
             return (Species)species switch
             {
                 // Alolan
                 Pichu or Pikachu when destSpecies is Raichu && destForm is 1 => false,
-                Cubone when destSpecies is Marowak && destForm is 1 => false,
 
                 // Galarian
                 Koffing when destSpecies is Weezing && destForm is 1 => false,

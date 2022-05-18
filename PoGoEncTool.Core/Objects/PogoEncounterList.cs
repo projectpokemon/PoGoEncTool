@@ -159,7 +159,8 @@ namespace PoGoEncTool.Core
 
         private static PogoDate? GetEndDate(ISpeciesForm evo) => evo.Species switch
         {
-            (int)Species.Exeggutor when evo.Form == 1 => new PogoDate(2022, 4, 29), // An Egg-citing Spring Surprise (makeup event)
+            (int)Species.Exeggutor when evo.Form == 1 => new PogoDate(2022, 4, 29), // An Egg-citing Spring Surprise Makeup Event
+            (int)Species.Marowak when evo.Form == 1 => new PogoDate(2022, 5, 31), // Alola to Alola
             _ => null,
         };
 
