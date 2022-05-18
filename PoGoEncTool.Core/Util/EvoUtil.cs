@@ -41,7 +41,7 @@ namespace PoGoEncTool.Core
 
         public static bool IsAllowedEvolution(in int species, in int form, in int s, in int destForm)
         {
-            // Outside of special events, regional Form split-evolutions are not available.
+            // Outside of special events, regional form branched evolutions are not available.
             var destSpecies = (Species) s;
             return (Species)species switch
             {
