@@ -1009,7 +1009,8 @@
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":2,"D":28},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon Day 2019)"},
         {"Start":{"Y":2019,"M":4,"D":29},"End":{"Y":2019,"M":5,"D":2},"Type":10,"Comment":"Tier 1 Raid Boss (Earth Day 2019)"},
         {"Start":{"Y":2019,"M":6,"D":4},"End":{"Y":2019,"M":6,"D":11},"Type":10,"Comment":"Tier 1 Raid Boss (Adventure Week 2019)"},
-        {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"Tier 1 Raid Boss (A Colossal Discovery)"}
+        {"Start":{"Y":2019,"M":11,"D":1},"End":{"Y":2019,"M":11,"D":4},"Type":10,"Comment":"Tier 1 Raid Boss (A Colossal Discovery)"},
+        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Adventure Week 2022)"}
       ]
     },
     {
@@ -1023,7 +1024,8 @@
         {"Start":{"Y":2020,"M":11,"D":5},"End":{"Y":2020,"M":11,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":1,"D":7},"End":{"Y":2022,"M":1,"D":13},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Mountains of Power)"},
-        {"Start":{"Y":2022,"M":5,"D":25},"End":{"Y":2022,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Alola to Alola)"}
+        {"Start":{"Y":2022,"M":5,"D":25},"End":{"Y":2022,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Alola to Alola)"},
+        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Adventure Week 2022)"}
       ]
     },
     {
@@ -1814,7 +1816,8 @@
         {"Start":{"Y":2021,"M":3,"D":23},"End":{"Y":2021,"M":3,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":4,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Sustainability Week 2021)"},
         {"Start":{"Y":2022,"M":1,"D":14},"End":{"Y":2022,"M":1,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Adventure Week 2022)"}
       ]
     },
     {
@@ -2887,7 +2890,8 @@
         {"Start":{"Y":2020,"M":7,"D":23},"End":{"Y":2020,"M":7,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (The Seasons Change: Part 1)"},
         {"Start":{"Y":2020,"M":12,"D":31},"End":{"Y":2021,"M":1,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (New Year's 2021)"},
-        {"Start":{"Y":2022,"M":4,"D":3},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2022,"M":4,"D":3},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Adventure Week 2022)"}
       ]
     },
     {
@@ -3523,7 +3527,8 @@
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":30,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":11,"D":8},"Shiny":1,"Type":30,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lunar New Year 2022)"},
-        {"Start":{"Y":2022,"M":4,"D":3},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2022,"M":4,"D":3},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Adventure Week 2022)"}
       ]
     },
     {
@@ -4091,7 +4096,8 @@
         {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (New Pokémon Snap Celebration)"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Luminous Legends Y: Part 1)"},
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":11,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Brilliant Diamond Event)"}
+        {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":11,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Brilliant Diamond Event)"},
+        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Adventure Week 2022)"}
       ]
     },
     {
@@ -4810,7 +4816,8 @@
         {"Start":{"Y":2021,"M":3,"D":30},"End":{"Y":2021,"M":4,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Adventure Week 2022)"}
       ]
     },
     {
@@ -7174,7 +7181,8 @@
         {"Start":{"Y":2021,"M":3,"D":30},"End":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":9},"End":{"Y":2021,"M":4,"D":13},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Secrets of the Jungle Event 2021)"},
-        {"Start":{"Y":2021,"M":11,"D":15},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2021,"M":11,"D":15},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Adventure Week 2022)"}
       ]
     },
     {
@@ -7577,7 +7585,8 @@
       "Species": 564,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"}
+        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
+        {"Start":{"Y":2022,"M":6,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Adventure Week 2022"}
       ]
     },
     {
@@ -7589,7 +7598,8 @@
       "Species": 566,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"}
+        {"Start":{"Y":2020,"M":1,"D":10},"Shiny":1,"Type":1,"Comment":"Initial Release in Wild"},
+        {"Start":{"Y":2022,"M":6,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Adventure Week 2022"}
       ]
     },
     {
@@ -8838,6 +8848,32 @@
     },
     {
       "Species": 695,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 696,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Adventure Week 2022"},
+        {"Start":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Adventure Week 2022"}
+      ]
+    },
+    {
+      "Species": 697,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 698,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Adventure Week 2022"},
+        {"Start":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Adventure Week 2022"}
+      ]
+    },
+    {
+      "Species": 699,
       "Available": true,
       "Data": []
     },
