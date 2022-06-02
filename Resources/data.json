@@ -2390,7 +2390,7 @@
         {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":13},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (A Very Slow Discovery)"},
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
         {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022)"}
+        {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Day 2)"}
       ]
     },
     {
@@ -5657,7 +5657,7 @@
         {"Start":{"Y":2020,"M":7,"D":31},"End":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"Tier 4 Raid Boss (Dragon Week)"},
         {"Start":{"Y":2021,"M":11,"D":18},"End":{"Y":2021,"M":11,"D":21},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Shining Pearl Event)"},
         {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022)"}
+        {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Day 2)"}
       ]
     },
     {
@@ -5807,7 +5807,7 @@
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 5 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
         {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":6,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022)"}
+        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022: Day 1)"}
       ]
     },
     {
@@ -5823,7 +5823,7 @@
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2020)"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 5 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Lava Hour)"},
-        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022)"},
+        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022: Day 1)"},
         {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
       ]
     },
@@ -8152,7 +8152,7 @@
         {"Start":{"Y":2022,"M":4,"D":5},"End":{"Y":2022,"M":4,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022)"}
+        {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Day 2)"}
       ]
     },
     {
@@ -9304,6 +9304,13 @@
       "Data": [
         {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"}
+      ]
+    },
+    {
+      "Species": 793,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022: Day 2)"}
       ]
     },
     {
