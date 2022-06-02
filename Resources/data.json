@@ -349,7 +349,7 @@
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":3,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola"},
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":9,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola / Season of GO"},
         {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":25},"End":{"Y":2022,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Alola to Alola)"}
       ]
@@ -1166,7 +1166,8 @@
         {"Start":{"Y":2021,"M":6,"D":8},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"A Very Slow Discovery"},
         {"Start":{"Y":2021,"M":6,"D":14},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Initial Release in Eggs"},
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
-        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"}
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"},
+        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of GO"}
       ]
     },
     {
@@ -1520,7 +1521,10 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2022,"M":1,"D":30},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Voltorb from the Hisui Region?!"}
+        {"Start":{"Y":2022,"M":1,"D":30},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Voltorb from the Hisui Region?!"},
+        {"Start":{"Y":2022,"M":1,"D":30},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Voltorb from the Hisui Region?!"},
+        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin (Electric Garden)"},
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2022: Seattle (Electric Garden)"}
       ]
     },
     {
