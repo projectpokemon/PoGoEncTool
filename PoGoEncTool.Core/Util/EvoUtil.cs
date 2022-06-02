@@ -29,10 +29,10 @@ namespace PoGoEncTool.Core
 
             EvolutionTree t;
             var pt = PersonalTable.LA;
-            if (((PersonalInfoLA)pt.GetFormEntry(species, form)).IsPresentInGame && !hisui.Contains(species))
-                t = EvolutionTree.GetEvolutionTree(new PA8 { Version = (int)GameVersion.PLA }, 8);
+            if (pt.IsPresentInGame(species, form) && !hisui.Contains(species))
+                t = EvolutionTree.GetEvolutionTree(EntityContext.Gen8a);
             else
-                t = EvolutionTree.GetEvolutionTree(gen);
+                t = EvolutionTree.GetEvolutionTree((EntityContext)gen);
 
             var tableEvos = t.GetEvolutions(species, form);
             foreach (var evo in tableEvos)

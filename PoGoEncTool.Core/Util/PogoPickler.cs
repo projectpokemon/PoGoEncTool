@@ -74,7 +74,7 @@ namespace PoGoEncTool.Core
 
             if (species <= 898) // Legal.MaxSpeciesID_8
             {
-                if (((PersonalInfoSWSH)PersonalTable.SWSH.GetFormEntry(species, form)).IsPresentInGame)
+                if (PersonalTable.SWSH.IsPresentInGame(species, form))
                     return PogoImportFormat.PK8;
             }
 
@@ -86,7 +86,7 @@ namespace PoGoEncTool.Core
 
             if (species <= 905) // Legal.MaxSpeciesID_8a
             {
-                if (((PersonalInfoLA)PersonalTable.LA.GetFormEntry(species, form)).IsPresentInGame)
+                if (PersonalTable.LA.IsPresentInGame(species, form))
                     return PogoImportFormat.PA8;
             }
 

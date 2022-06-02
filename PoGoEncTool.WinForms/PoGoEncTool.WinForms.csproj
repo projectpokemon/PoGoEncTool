@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="PKHeX.Core" Version="22.5.8" />
+    <PackageReference Include="PKHeX.Core" Version="22.6.1" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,9 +18,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="PKHeX.Core">
-      <HintPath>..\PoGoEncTool.Core\deps\PKHeX.Core.dll</HintPath>
-    </Reference>
     <Reference Include="PKHeX.Drawing">
       <HintPath>.\deps\PKHeX.Drawing.dll</HintPath>
     </Reference>
