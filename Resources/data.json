@@ -5806,8 +5806,7 @@
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2020)"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 5 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
-        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":6,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022: Day 1)"}
+        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":6,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
       ]
     },
     {
@@ -5823,8 +5822,7 @@
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2020)"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 5 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Lava Hour)"},
-        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022: Day 1)"},
-        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
+        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
       ]
     },
     {
@@ -8654,7 +8652,7 @@
         {"Start":{"Y":2021,"M":5,"D":11},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Global Challenge Reward)"},
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":3,"LocalizedStart":true,"Comment":"Luminous Legends Y"},
         {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022 (Rainforest Habitat)"},
-        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"}
+        {"Start":{"Y":2022,"M":6,"D":4},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022 (Rainforest Habitat)"}
       ]
     },
     {
