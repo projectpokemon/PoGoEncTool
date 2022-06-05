@@ -3126,7 +3126,9 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"},
-        {"Start":{"Y":2021,"M":7,"D":17},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"}
+        {"Start":{"Y":2021,"M":7,"D":17},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021"},
+        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2022: Adventure Week"},
+        {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Type":10,"LocalizedStart":true,"Comment":"T1 Raid Boss (Ultra Unlock 2022: Adventure Week)"}
       ]
     },
     {
@@ -8831,7 +8833,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Adventure Week 2022"},
-        {"Start":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Adventure Week 2022"}
+        {"Start":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Adventure Week 2022"},
+        {"Start":{"Y":2022,"M":6,"D":12},"End":{"Y":2022,"M":6,"D":12},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2022: Research Day"}
       ]
     },
     {
@@ -8844,7 +8847,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Adventure Week 2022"},
-        {"Start":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Adventure Week 2022"}
+        {"Start":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Adventure Week 2022"},
+        {"Start":{"Y":2022,"M":6,"D":12},"End":{"Y":2022,"M":6,"D":12},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2022: Research Day"}
       ]
     },
     {
