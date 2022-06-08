@@ -5794,7 +5794,7 @@
         {"Start":{"Y":2020,"M":7,"D":25},"End":{"Y":2020,"M":7,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2020)"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 5 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021, Frost Hour)"},
-        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":6,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
+        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":6,"D":10},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 5 Raid Boss"}
       ]
     },
     {
