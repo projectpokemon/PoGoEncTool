@@ -4766,6 +4766,7 @@
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (The Seasons Change: Part 2)"},
         {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Type":10,"Comment":"Tier 1 Raid Boss (Halloween 2020)"},
         {"Start":{"Y":2020,"M":11,"D":1},"Type":20,"Comment":"Field Research Tasks"},
+        {"Start":{"Y":2020,"M":11,"D":8},"End":{"Y":2020,"M":11,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Special Weekend (Matsumoto Kiyoshi / Grubhub)"},
         {"Start":{"Y":2020,"M":12,"D":2},"End":{"Y":2020,"M":12,"D":21},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Tier 1 During Secrets of the Jungle Event 2020)"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 3 Raid Boss (Hoenn Celebration Event)"},
@@ -5476,6 +5477,7 @@
         {"Start":{"Y":2020,"M":9,"D":10},"End":{"Y":2020,"M":9,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":10,"D":2},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":11,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2020,"M":11,"D":7},"End":{"Y":2020,"M":11,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Special Weekend (Softbank / Verizon)"},
         {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 3 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
@@ -9304,12 +9306,12 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":11,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Mystery Box"},
-        {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Type":1,"Comment":"Shiny Meltan Event #1"},
+        {"Start":{"Y":2019,"M":2,"D":5},"End":{"Y":2019,"M":3,"D":4},"Type":1,"Comment":"Mystery Box (Shiny Meltan Event #1)"},
         {"Start":{"Y":2019,"M":2,"D":5},"Type":20,"Comment":"Let's GO, Meltan"},
-        {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Type":1,"Comment":"Shiny Meltan Event #2"},
-        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon HOME Event"},
-        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO 5th Anniversary"},
-        {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":6,"D":30},"Type":1,"LocalizedStart":true,"Comment":"Pokémon TCG Crossover Event"}
+        {"Start":{"Y":2019,"M":4,"D":24},"End":{"Y":2019,"M":5,"D":5},"Type":1,"Comment":"Mystery Box (Shiny Meltan Event #2)"},
+        {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Mystery Box (Pokémon HOME Event)"},
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Mystery Box (Pokémon GO 5th Anniversary)"},
+        {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":6,"D":30},"Type":1,"LocalizedStart":true,"Comment":"Mystery Box (Pokémon TCG Crossover Event)"}
       ]
     },
     {
