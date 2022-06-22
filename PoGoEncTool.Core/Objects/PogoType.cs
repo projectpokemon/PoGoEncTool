@@ -4,39 +4,41 @@
     {
         None, // Don't use this.
 
-        /// <summary> Wild encounter, no special requirements </summary>
+        /// <summary> Pokémon captured in the wild. </summary>
         Wild,
 
-        /// <summary> Pokémon Egg, requires Lv. 1 and IV = 1 </summary>
+        /// <summary> Pokémon hatched from 2km, 5km, 7km, or 10km Eggs. </summary>
         Egg,
-        /// <summary> Strange Egg, requires Lv. 8 and IV = 1 </summary>
+        /// <summary> Pokémon hatched from Strange Eggs received from the Leaders of Team GO Rocket. </summary>
         EggS,
 
-        /// <summary> Raid Boss, requires Lv. 20 and IV = 1 </summary>
+        /// <summary> Pokémon captured after completing Raid Battles. </summary>
         Raid = 10,
-        /// <summary> Raid Boss (Mythical), requires Lv. 20 and IV = 10 </summary>
+        /// <summary> Mythical Pokémon captured after completing Raid Battles. </summary>
         RaidM,
 
-        /// <summary> Field Research Reward, requires Lv. 15 and IV = 1 </summary>
+        /// <summary> Pokémon captured after completing Field Research. </summary>
         Research = 20,
-        /// <summary> Field Research Reward (Mythical), requires Lv. 15 and IV = 10 </summary>
+        /// <summary> Mythical Pokémon captured after completing Field Research. </summary>
         ResearchM,
-        /// <summary> Field Research Reward, requires Lv. 15 and IV = 10 (Poké Ball only) </summary>
+        /// <summary> Mythical Pokémon captured after completing Field Research. Only Poké Balls can be used. </summary>
         ResearchP,
+        /// <summary> Ultra Beasts captured after completing Field Research. Only Beast Balls can be used. </summary>
+        ResearchUB,
 
-        /// <summary> GO Battle League Reward, requires Lv. 20 and IV = 1 </summary>
-        GBL,
-        /// <summary> GO Battle League Reward (Mythical), requires Lv. 20 and IV = 10 </summary>
+        /// <summary> Pokémon captured from the GO Battle League. </summary>
+        GBL = 30,
+        /// <summary> Mythical Pokémon captured from the GO Battle League. </summary>
         GBLM,
-        /// <summary> GO Battle League Reward, requires Lv. 20 and IV = 0 </summary>
+        /// <summary> Pokémon captured from the GO Battle League during GO Battle Day, excluding Legendary and Mythical Pokémon. </summary>
         /// <remarks> On GO Battle Day (September 18, 2021), IV floor and ceiling were both temporarily set to 0 for non-Legendary encounters. This was fixed at 14:43 UTC (September 17, 2021). </remarks>
         GBLZero,
-        /// <summary> GO Battle League Reward, requires Lv. 20 and IV = 0 </summary>
-        /// <remarks> On GO Battle Day (September 18, 2021), IV floor was set to 0 after a mishap that also set the IV ceiling to 0. </remarks>
+        /// <summary> Pokémon captured from the GO Battle League during GO Battle Day, excluding Legendary and Mythical Pokémon. </summary>
         GBLDay,
 
-        /// <summary> Purified, requires Lv. 8 and IV = 1 (Premier Ball only) </summary>
-        Shadow = 30,
+        /// <summary> Pokémon captured after defeating members of Team GO Rocket. Must become Purified before transferring to Pokémon HOME. </summary>
+        /// <remarks> Pokémon with this <see cref="PogoType"/> can not be moved to <see cref="GameVersion.GG"/>. </remarks>
+        Shadow = 40,
     }
 
     public static class PogoTypeExtensions
