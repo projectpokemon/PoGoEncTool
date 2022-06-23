@@ -9327,7 +9327,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022, Day 2)"},
-        {"Start":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"A Radiant World"}
+        {"Start":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"A Radiant World (Prior to Update 0.241)"},
+        {"Start":{"Y":2022,"M":6,"D":23},"Shiny":1,"Type":23,"Comment":"A Radiant World"}
       ]
     },
     {
