@@ -25,11 +25,9 @@ namespace PoGoEncTool.Core
             if (form >= table[species].FormCount)
                 yield break;
 
-            var hisui = new[] { 155, 156, 501, 502, 548, 627, 704, 712, 722, 723 }; // pre-evos with branched evo paths only possible in LA
-
             EvolutionTree t;
             var pt = PersonalTable.LA;
-            if (pt.IsPresentInGame(species, form) && !hisui.Contains(species))
+            if (pt.IsPresentInGame(species, form) && !HisuiOnlyEvos.Contains(species))
                 t = EvolutionTree.GetEvolutionTree(EntityContext.Gen8a);
             else
                 t = EvolutionTree.GetEvolutionTree((EntityContext)gen);
@@ -70,5 +68,22 @@ namespace PoGoEncTool.Core
                 _ => true,
             };
         }
+
+        /// <summary>
+        /// Pokémon that can only evolve into their Hisuian Forms in <a cref="PKHeX.Core.GameVersion.PLA"/>.
+        /// </summary>
+        private static readonly HashSet<int> HisuiOnlyEvos = new()
+        {
+            (int)Cyndaquil,
+            (int)Quilava,
+            (int)Oshawott,
+            (int)Dewott,
+            (int)Petilil,
+            (int)Rufflet,
+            (int)Goomy,
+            (int)Bergmite,
+            (int)Rowlet,
+            (int)Dartrix,
+        };
     }
 }
