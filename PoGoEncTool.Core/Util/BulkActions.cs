@@ -44,22 +44,23 @@ public static class BulkActions
             if (T3.Contains(pkm)) entry.Comment = "Tier 3 Raid Boss";
             if (T5.Contains(pkm)) entry.Comment = "Tier 5 Raid Boss";
 
-            // set debut species, and any of its evolutions, as available
+            // set species as available if this encounter is its debut
             if (!species.Available)
-            {
-                var evos = EvoUtil.GetEvoSpecForms(pkm, form)
-                    .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
-                    .Where(z => EvoUtil.IsAllowedEvolution(pkm, form, z.Species, z.Form)).ToArray();
-
-                foreach (var evo in evos)
-                {
-                    var parent = list.GetDetails(evo.Species, evo.Form);
-                    if (!parent.Available)
-                        parent.Available = true;
-                }
                 species.Available = true;
+
+            // set its evolutions as available as well
+            var evos = EvoUtil.GetEvoSpecForms(pkm, form)
+                .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
+                .Where(z => EvoUtil.IsAllowedEvolution(pkm, form, z.Species, z.Form)).ToArray();
+
+            foreach (var evo in evos)
+            {
+                var parent = list.GetDetails(evo.Species, evo.Form);
+                if (!parent.Available)
+                    parent.Available = true;
             }
-            species.Add(entry);
+
+            species.Add(entry); // add the entry!
         }
     }
 

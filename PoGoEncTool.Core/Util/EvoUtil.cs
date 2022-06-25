@@ -62,6 +62,11 @@ namespace PoGoEncTool.Core
                 Bergmite when destSpecies is Avalugg && destForm is 1 => false,
                 Rowlet or Dartrix when destSpecies is Decidueye && destForm is 1 => false,
 
+                // Future evolutions (temporary, to be removed when they debut in GO)
+                Stantler when destSpecies is Wyrdeer => false,
+                Scyther when destSpecies is Kleavor => false,
+                Teddiursa or Ursaring when destSpecies is Ursaluna => false,
+
                 _ => true,
             };
         }
