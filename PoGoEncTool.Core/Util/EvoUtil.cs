@@ -70,7 +70,7 @@ namespace PoGoEncTool.Core
         }
 
         /// <summary>
-        /// Pokémon that can only evolve into their Hisuian Forms in <a cref="PKHeX.Core.GameVersion.PLA"/>.
+        /// Pokémon that can only evolve into their Hisuian Forms in <see cref="PKHeX.Core.GameVersion.PLA"/>.
         /// </summary>
         private static readonly HashSet<int> HisuiOnlyEvos = new()
         {
