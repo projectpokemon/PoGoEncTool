@@ -6287,7 +6287,13 @@
     {
       "Species": 419,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Extraordinary Raid Week)"},
+        {"Start":{"Y":2020,"M":2,"D":7},"End":{"Y":2020,"M":2,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Sinnoh Celebration)"},
+        {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Throwback Challenge 2020: Sinnoh)"},
+        {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lake Legends Event)"},
+        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Solstice Event, Northern Hemisphere)"}
+      ]
     },
     {
       "Species": 420,
@@ -6571,6 +6577,11 @@
       "Species": 450,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss (Throwback Challenge 2020: Sinnoh)"},
+        {"Start":{"Y":2020,"M":9,"D":29},"End":{"Y":2020,"M":10,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2021,"M":1,"D":12},"End":{"Y":2021,"M":1,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Sinnoh Celebration Event)"},
+        {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (New Pokémon Snap Celebration)"},
         {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
@@ -8172,6 +8183,7 @@
       "Species": 623,
       "Available": true,
       "Data": [
+        {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Animation Week)"},
         {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":6},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Time)"},
         {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":6,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
