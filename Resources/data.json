@@ -95,7 +95,7 @@
         {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lunar New Year 2022)"},
         {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":4,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Air Adventures)"},
-        {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -214,7 +214,8 @@
         {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":3,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":4,"D":12},"End":{"Y":2022,"M":4,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2022,"M":5,"D":4},"End":{"Y":2022,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Accidental Release)"}
+        {"Start":{"Y":2022,"M":5,"D":4},"End":{"Y":2022,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Accidental Release)"},
+        {"Start":{"Y":2022,"M":7,"D":14},"End":{"Y":2022,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -1424,7 +1425,8 @@
         {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
         {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":11,"D":22},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2021,"M":11,"D":22},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -2404,7 +2406,8 @@
         {"Start":{"Y":2021,"M":2,"D":28},"End":{"Y":2021,"M":3,"D":31},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (The Higher They Fly...)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Frost Hour)"},
         {"Start":{"Y":2021,"M":11,"D":26},"End":{"Y":2021,"M":11,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound)"},
-        {"Start":{"Y":2022,"M":2,"D":27},"End":{"Y":2022,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Tour: Live)"}
+        {"Start":{"Y":2022,"M":2,"D":27},"End":{"Y":2022,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Tour: Live)"},
+        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
       ]
     },
     {
@@ -2424,7 +2427,8 @@
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":17},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (The Higher They Fly...)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Thunder Hour)"},
         {"Start":{"Y":2021,"M":11,"D":26},"End":{"Y":2021,"M":11,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound)"},
-        {"Start":{"Y":2022,"M":2,"D":27},"End":{"Y":2022,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Tour: Live)"}
+        {"Start":{"Y":2022,"M":2,"D":27},"End":{"Y":2022,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Tour: Live)"},
+        {"Start":{"Y":2022,"M":7,"D":7},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
       ]
     },
     {
@@ -2443,7 +2447,8 @@
         {"Start":{"Y":2021,"M":5,"D":1},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (The Higher They Fly...)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Lava Hour)"},
         {"Start":{"Y":2021,"M":11,"D":26},"End":{"Y":2021,"M":11,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound)"},
-        {"Start":{"Y":2022,"M":2,"D":27},"End":{"Y":2022,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Tour: Live)"}
+        {"Start":{"Y":2022,"M":2,"D":27},"End":{"Y":2022,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Tour: Live)"},
+        {"Start":{"Y":2022,"M":7,"D":14},"End":{"Y":2022,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
       ]
     },
     {
@@ -6865,7 +6870,9 @@
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2020, Day 2)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Thunder Hour)"},
         {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Ultra Unlock 2021: Time)"},
-        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":30},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"}
+        {"Start":{"Y":2021,"M":7,"D":23},"End":{"Y":2021,"M":8,"D":30},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":9,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"}
       ]
     },
     {
