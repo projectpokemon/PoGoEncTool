@@ -189,7 +189,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss (A Drive to Investigate)"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 1)"}
       ]
     },
     {
@@ -215,7 +215,7 @@
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":3,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 2)"},
         {"Start":{"Y":2022,"M":4,"D":12},"End":{"Y":2022,"M":4,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":4},"End":{"Y":2022,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Accidental Release)"},
         {"Start":{"Y":2022,"M":7,"D":14},"End":{"Y":2022,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
@@ -747,7 +747,7 @@
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"},
         {"Start":{"Y":2021,"M":8,"D":20},"Type":2,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
         {"Start":{"Y":2021,"M":8,"D":20},"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
-        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"}
+        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 2)"}
       ]
     },
     {
@@ -960,7 +960,7 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":6,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":14},"End":{"Y":2021,"M":6,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 1)"},
         {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2022,"M":1,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (New Year's 2022)"}
       ]
@@ -1124,7 +1124,7 @@
         {"Start":{"Y":2021,"M":5,"D":11},"Type":20,"LocalizedStart":true,"Comment":"Luminous Legends X (Global Challenge Reward)"},
         {"Start":{"Y":2021,"M":5,"D":24},"Type":2,"LocalizedStart":true,"Comment":"Luminous Legends X (After Event)"},
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2021: Day 1, No Costume)"},
-        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 2)"},
         {"Start":{"Y":2021,"M":9,"D":5},"End":{"Y":2021,"M":9,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Hoopa's Arrival"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin (Living Meadow Habitat)"},
         {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo (Living Meadow Habitat)"}
@@ -1171,7 +1171,7 @@
         {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (A Very Slow Discovery)"},
         {"Start":{"Y":2021,"M":6,"D":8},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"A Very Slow Discovery"},
         {"Start":{"Y":2021,"M":6,"D":14},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Initial Release in Eggs"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 1)"},
         {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"},
         {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of GO"}
       ]
@@ -1255,7 +1255,7 @@
         {"Start":{"Y":2020,"M":6,"D":28},"End":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Seasons 3, 4, and 5)"},
         {"Start":{"Y":2020,"M":10,"D":22},"End":{"Y":2020,"M":10,"D":23},"Shiny":1,"Type":1,"Comment":"Crown Tundra Release"},
         {"Start":{"Y":2021,"M":3,"D":17},"Shiny":1,"Type":20,"Comment":"Referral Program"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 1)"},
         {"Start":{"Y":2021,"M":8,"D":20},"Type":2,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
         {"Start":{"Y":2021,"M":8,"D":20},"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"}
       ]
@@ -1430,7 +1430,7 @@
         {"Start":{"Y":2020,"M":10,"D":24},"End":{"Y":2021,"M":1,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 2)"},
         {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":22},"End":{"Y":2021,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
@@ -1785,7 +1785,7 @@
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (The Seasons Change: Part 2)"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Luminous Legends Y: Part 1)"},
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2021)"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 1)"},
         {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022 (City Habitat)"},
         {"Start":{"Y":2022,"M":6,"D":4},"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022 (City Habitat)"}
       ]
@@ -2184,7 +2184,7 @@
         {"Start":{"Y":2020,"M":11,"D":13},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Kanto Celebration Event)"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":6,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Solstice Event 2021, Southern Hemisphere)"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 1)"},
         {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Dragonspiral Descent)"},
         {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Holidays 2021: Part 2)"},
         {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Air Adventures)"},
@@ -2396,7 +2396,7 @@
         {"Start":{"Y":2021,"M":2,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Kanto (Pokémon League)"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":40,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":13},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (A Very Slow Discovery)"},
-        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 2)"},
         {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022, Day 2)"},
         {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
@@ -4339,7 +4339,7 @@
         {"Start":{"Y":2021,"M":6,"D":1},"Type":2,"LocalizedStart":true,"Comment":"Shiny Released in Eggs"},
         {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2021: Day 1, No Costume)"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 1)"},
         {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
@@ -7551,7 +7551,7 @@
       "Data": [
         {"Start":{"Y":2020,"M":6,"D":3},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Throwback Challenge Champion 2020"},
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":31},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
-        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 2)"},
         {"Start":{"Y":2021,"M":12,"D":5},"End":{"Y":2021,"M":12,"D":5},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Incense Day: Ice- and Ground-type"},
         {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Holidays 2021: Part 2)"},
         {"Start":{"Y":2021,"M":12,"D":23},"Type":2,"LocalizedStart":true,"Comment":"Holidays 2021: Part 2"},
@@ -8179,7 +8179,7 @@
         {"Start":{"Y":2021,"M":7,"D":17},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2021 (Cave Habitat)"},
         {"Start":{"Y":2021,"M":8,"D":20},"Type":2,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
         {"Start":{"Y":2021,"M":8,"D":20},"Type":20,"LocalizedStart":true,"Comment":"Ultra Unlock 2021: Sword and Shield"},
-        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 2)"},
         {"Start":{"Y":2022,"M":2,"D":18},"End":{"Y":2022,"M":2,"D":25},"Type":1,"LocalizedStart":true,"Comment":"GO Tour Poké Ball Prep Rally"},
         {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":9,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of GO"}
       ]
@@ -9494,7 +9494,7 @@
       "Species": 888,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 1)"},
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"}
       ]
     },
@@ -9503,7 +9503,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
-        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Ultra Unlock 2021: Sword and Shield)"},
+        {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 2)"},
         {"Start":{"Y":2021,"M":9,"D":3},"End":{"Y":2021,"M":9,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Raid Hour Makeup Event)"},
         {"Start":{"Y":2021,"M":9,"D":4},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9, Accidental Release)"}
       ]
