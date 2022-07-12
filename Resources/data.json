@@ -17,7 +17,8 @@
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Kanto Celebration Event)"},
         {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (New Pokémon Snap Celebration)"},
         {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":7,"D":9},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"}
+        {"Start":{"Y":2022,"M":7,"D":9},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"},
+        {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -68,7 +69,8 @@
         {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (December 2021 Community Day)"},
         {"Start":{"Y":2022,"M":5,"D":8},"End":{"Y":2022,"M":7,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":9},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"}
+        {"Start":{"Y":2022,"M":7,"D":9},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"},
+        {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -118,7 +120,8 @@
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Pokémon GO Fest 2020, Day 2)"},
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Kanto Celebration Event)"},
         {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":7,"D":9},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"}
+        {"Start":{"Y":2022,"M":7,"D":9},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"},
+        {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -316,7 +319,8 @@
         {"Start":{"Y":2019,"M":12,"D":14},"End":{"Y":2019,"M":12,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (December 2019 Community Day)"},
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Kanto Celebration Event)"},
         {"Start":{"Y":2022,"M":1,"D":19},"End":{"Y":2022,"M":2,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Power Plant Event)"},
-        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2022, No Costume)"}
+        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2022, No Costume)"},
+        {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -550,7 +554,8 @@
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":21},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Valentine's Day 2019)"},
         {"Start":{"Y":2019,"M":11,"D":4},"End":{"Y":2019,"M":11,"D":7},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2019,"M":11,"D":14},"End":{"Y":2019,"M":11,"D":19},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2019,"M":11,"D":14},"End":{"Y":2019,"M":11,"D":19},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -2407,7 +2412,8 @@
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 2)"},
         {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022, Day 2)"},
-        {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -2499,7 +2505,7 @@
         {"Start":{"Y":2022,"M":5,"D":4},"End":{"Y":2022,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss (Accidental Release)"},
         {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":6},"End":{"Y":2022,"M":7,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO 6th Anniversary Event)"}
+        {"Start":{"Y":2022,"M":7,"D":6},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -4159,7 +4165,7 @@
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":11,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon Brilliant Diamond Event)"},
         {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":6},"End":{"Y":2022,"M":7,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO 6th Anniversary Event)"}
+        {"Start":{"Y":2022,"M":7,"D":6},"End":{"Y":2022,"M":7,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -8228,7 +8234,8 @@
         {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022, Day 2)"},
-        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Berlin)"}
+        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Berlin)"},
+        {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
