@@ -64,6 +64,9 @@ namespace PoGoEncTool.Core
                 Stantler when destSpecies is Wyrdeer => false,
                 Scyther when destSpecies is Kleavor => false,
                 Teddiursa or Ursaring when destSpecies is Ursaluna => false,
+                Growlithe when form is 1 && destSpecies is Arcanine && destForm is 1 => false,
+                Qwilfish when form is 1 && destSpecies is Overqwil => false,
+                Sneasel when form is 1 && destSpecies is Sneasler => false,
 
                 _ => true,
             };
