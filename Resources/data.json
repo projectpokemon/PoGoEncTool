@@ -4227,7 +4227,7 @@
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Frost Hour)"},
         {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2021,"M":11,"D":9},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni (With Light Comes Shadow...)"},
+        {"Start":{"Y":2021,"M":11,"D":9},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni"},
         {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Tour: Johto)"}
       ]
     },
@@ -8366,8 +8366,8 @@
       "Data": [
         {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change"},
         {"Start":{"Y":2021,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
-        {"Start":{"Y":2021,"M":11,"D":9},"Type":3,"LocalizedStart":true,"Comment":"With Light Comes Shadow..."},
-        {"Start":{"Y":2021,"M":11,"D":9},"Type":20,"LocalizedStart":true,"Comment":"With Light Comes Shadow..."}
+        {"Start":{"Y":2021,"M":11,"D":9},"Type":3,"LocalizedStart":true,"Comment":"A Looming Shadow Returns!"},
+        {"Start":{"Y":2021,"M":11,"D":9},"Type":20,"LocalizedStart":true,"Comment":"A Looming Shadow Returns!"}
       ]
     },
     {
