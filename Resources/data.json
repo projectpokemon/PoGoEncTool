@@ -862,6 +862,12 @@
       ]
     },
     {
+      "Species": 59,
+      "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 60,
       "Available": true,
       "Data": [
@@ -9640,6 +9646,16 @@
       "Data": [
         {"Start":{"Y":2021,"M":10,"D":1},"Shiny":1,"Type":21,"LocalizedStart":true,"Comment":"Search for Zarude!"}
       ]
+    },
+    {
+      "Species": 903,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 904,
+      "Available": true,
+      "Data": []
     }
   ]
 }
