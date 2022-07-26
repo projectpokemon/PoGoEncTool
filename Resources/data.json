@@ -1221,7 +1221,8 @@
         {"Start":{"Y":2019,"M":2,"D":13},"End":{"Y":2019,"M":2,"D":21},"Shiny":1,"Type":10,"Comment":"Tier 2 Raid Boss (Valentine's Day 2019)"},
         {"Start":{"Y":2020,"M":7,"D":3},"End":{"Y":2020,"M":7,"D":6},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":8},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":9,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":8,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -2926,7 +2927,8 @@
         {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":3,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Tier 3 During Charge Up!)"},
         {"Start":{"Y":2021,"M":5,"D":15},"End":{"Y":2021,"M":6,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":8,"D":25},"End":{"Y":2022,"M":8,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -3641,7 +3643,9 @@
     {
       "Species": 212,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2022,"M":8,"D":10},"End":{"Y":2022,"M":8,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+      ]
     },
     {
       "Species": 213,
@@ -6847,7 +6851,8 @@
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":1,"D":19},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":5,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2022,"M":1,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2022,"M":1,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":7,"D":31},"End":{"Y":2022,"M":8,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -7023,7 +7028,9 @@
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2020, Day 2)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Frost Hour)"},
         {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Ultra Unlock 2021: Space)"},
-        {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":30},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"}
+        {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":30},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
+        {"Start":{"Y":2022,"M":7,"D":31},"End":{"Y":2022,"M":8,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":7,"D":31},"End":{"Y":2022,"M":9,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"}
       ]
     },
     {
@@ -8646,6 +8653,14 @@
       ]
     },
     {
+      "Species": 649,
+      "Form": 4,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":8,"D":10},"End":{"Y":2022,"M":8,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
+      ]
+    },
+    {
       "Species": 650,
       "Available": true,
       "Data": [
@@ -9629,7 +9644,9 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 1)"},
-        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"}
+        {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
+        {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":8,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"}
       ]
     },
     {
@@ -9638,7 +9655,9 @@
       "Data": [
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2021,"M":9,"D":4},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9, Accidental Release)"}
+        {"Start":{"Y":2021,"M":9,"D":4},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9, Accidental Release)"},
+        {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":8,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"}
       ]
     },
     {
