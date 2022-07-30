@@ -13,45 +13,40 @@ public static class BulkActions
 {
     public static void AddRaidBosses(PogoEncounterList list)
     {
-        var T1 = new[] { (int)Bulbasaur };
-        var T3 = new[] { (int)Bulbasaur };
-        var T5 = Array.Empty<int>(); // usually manually added
-        var bosses = T1.Concat(T3).Concat(T5);
+        var T1 = new[] { (int)Bulbasaur }; // Tier 1
+        var T3 = new[] { (int)Bulbasaur }; // Tier 3
+        var SE = new[] { (int)Bulbasaur }; // Shiny eligible
+        var bosses = T1.Concat(T3);
 
-        foreach (var pkm in bosses)
+        foreach (var species in bosses)
         {
-            var form = pkm switch
+            var form = species switch
             {
                 (int)Rattata => 1,
                 _ => 0,
             };
 
-            var species = list.GetDetails(pkm, form);
+            var tier = T1.Contains(species) ? "1" : "3";
+            var pkm = list.GetDetails(species, form);
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
                 End   = new PogoDate(),
                 Type = PogoType.Raid,
                 LocalizedStart = true,
-                // NoEndTolerance = true,
-                // Gender = pkm is (int)Frillish ? PogoGender.MaleOnly : PogoGender.Random,
+                NoEndTolerance = false,
+                Comment = $"Tier {tier} Raid Boss",
+                Shiny = SE.Contains(species) ? PogoShiny.Random : PogoShiny.Never,
             };
 
-            if (pkm is not ((int)Bulbasaur))
-                entry.Shiny = PogoShiny.Random;
-
-            if (T1.Contains(pkm)) entry.Comment = "Tier 1 Raid Boss";
-            if (T3.Contains(pkm)) entry.Comment = "Tier 3 Raid Boss";
-            if (T5.Contains(pkm)) entry.Comment = "Tier 5 Raid Boss";
-
             // set species as available if this encounter is its debut
-            if (!species.Available)
-                species.Available = true;
+            if (!pkm.Available)
+                pkm.Available = true;
 
             // set its evolutions as available as well
-            var evos = EvoUtil.GetEvoSpecForms(pkm, form)
+            var evos = EvoUtil.GetEvoSpecForms(species, form)
                 .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
-                .Where(z => EvoUtil.IsAllowedEvolution(pkm, form, z.Species, z.Form)).ToArray();
+                .Where(z => EvoUtil.IsAllowedEvolution(species, form, z.Species, z.Form)).ToArray();
 
             foreach (var evo in evos)
             {
@@ -60,7 +55,7 @@ public static class BulkActions
                     parent.Available = true;
             }
 
-            species.Add(entry); // add the entry!
+            pkm.Add(entry); // add the entry!
         }
     }
 
@@ -78,10 +73,10 @@ public static class BulkActions
         };
 
         // add end dates for Shadows that have been removed
-        foreach (var pkm in removed)
+        foreach (var species in removed)
         {
-            var species = list.GetDetails(pkm, form);
-            var entries = species.Data;
+            var pkm = list.GetDetails(species, form);
+            var entries = pkm.Data;
 
             foreach (var entry in entries)
             {
@@ -91,20 +86,20 @@ public static class BulkActions
         }
 
         // add new Shadows
-        foreach (var pkm in added)
+        foreach (var species in added)
         {
-            var species = list.GetDetails(pkm, form);
+            var pkm = list.GetDetails(species, form);
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
                 Shiny = PogoShiny.Never,
                 Type = PogoType.Shadow,
                 LocalizedStart = true,
-                // NoEndTolerance = true,
+                NoEndTolerance = false,
                 Comment = "Team GO Rocket Grunt",
             };
 
-            species.Add(entry);
+            pkm.Add(entry);
         }
     }
 }
