@@ -6799,7 +6799,8 @@
       "Species": 456,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":1,"Comment":"Holidays 2018"}
+        {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":1,"Comment":"Holidays 2018"},
+        {"Start":{"Y":2022,"M":10,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Taipei City 2022)"}
       ]
     },
     {
