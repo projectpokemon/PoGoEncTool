@@ -2451,7 +2451,8 @@
         {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022, Day 2)"},
         {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"}
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
@@ -5821,7 +5822,8 @@
         {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022, Day 2)"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Berlin)"},
-        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"}
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
@@ -6979,7 +6981,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Pokémon GO Fest 2022: Berlin)"},
-        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":1,"Comment":"Surprise Encounter (Pokémon GO Fest 2022: Seattle)"}
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":1,"Comment":"Surprise Encounter (Pokémon GO Fest 2022: Seattle)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
@@ -7690,7 +7693,8 @@
         {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Holidays 2021: Part 2)"},
         {"Start":{"Y":2021,"M":12,"D":23},"Type":2,"LocalizedStart":true,"Comment":"Holidays 2021: Part 2"},
         {"Start":{"Y":2021,"M":12,"D":23},"Type":20,"LocalizedStart":true,"Comment":"Holidays 2021: Part 2"},
-        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022 (Tundra Habitat)"}
+        {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022 (Tundra Habitat)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo (Frozen Lake Habitat)"}
       ]
     },
     {
@@ -7777,7 +7781,8 @@
         {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Type":1,"Comment":"Halloween 2020"},
         {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":11,"D":2},"Type":1,"LocalizedStart":true,"Comment":"October Wild Encounter / Día de Muertos"},
         {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Halloween 2021)"},
-        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":1,"Comment":"Pokémon GO Fest 2022: Seattle (Dreamy Mindscape Habitat)"}
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":1,"Comment":"Pokémon GO Fest 2022: Seattle (Dreamy Mindscape Habitat)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo (Dreamy Mindscape Habitat)"}
       ]
     },
     {
@@ -8225,7 +8230,8 @@
         {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2022)"},
         {"Start":{"Y":2022,"M":6,"D":4},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022 (Plains Habitat)"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2022: Berlin)"},
-        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2022: Seattle)"}
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":10,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2022: Seattle)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
@@ -8357,7 +8363,8 @@
         {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022, Day 2)"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Berlin)"},
         {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"}
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
@@ -9286,7 +9293,8 @@
       "Data": [
         {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022)"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Berlin)"},
-        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"}
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
@@ -9307,7 +9315,8 @@
       "Data": [
         {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022)"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Berlin)"},
-        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"}
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
@@ -9328,7 +9337,8 @@
       "Data": [
         {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022)"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Berlin)"},
-        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"}
+        {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
@@ -9426,7 +9436,8 @@
         {"Start":{"Y":2022,"M":6,"D":13},"End":{"Y":2022,"M":6,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2022: Berlin)"},
         {"Start":{"Y":2022,"M":7,"D":14},"End":{"Y":2022,"M":7,"D":24},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":25},"Type":1,"Comment":"Daily Adventure Incense"}
+        {"Start":{"Y":2022,"M":7,"D":25},"Type":1,"Comment":"Daily Adventure Incense"},
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2022: Sapporo)"}
       ]
     },
     {
