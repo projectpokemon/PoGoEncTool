@@ -3403,7 +3403,8 @@
         {"Start":{"Y":2022,"M":2,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin"},
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Seattle"},
-        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo"}
+        {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo / Ultra Unlock 2022: Bug Out!"},
+        {"Start":{"Y":2022,"M":8,"D":10},"End":{"Y":2022,"M":8,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2022: Bug Out!)"}
       ]
     },
     {
@@ -7280,7 +7281,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
-        {"Start":{"Y":2022,"M":8,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo (Living Meadow Habitat)"}
+        {"Start":{"Y":2022,"M":8,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo (Living Meadow Habitat)"},
+        {"Start":{"Y":2022,"M":8,"D":10},"End":{"Y":2022,"M":8,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2022: Bug Out!)"}
       ]
     },
     {
