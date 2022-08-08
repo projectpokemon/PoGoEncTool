@@ -8967,7 +8967,6 @@
       "Species": 677,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":11,"D":30},"End":{"Y":2020,"M":12,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Kalos Celebration Event"},
         {"Start":{"Y":2020,"M":12,"D":18},"End":{"Y":2021,"M":1,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":14},"End":{"Y":2021,"M":2,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Valentine's Day 2021)"},
@@ -8990,7 +8989,9 @@
         {"Start":{"Y":2022,"M":5,"D":4},"End":{"Y":2022,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss (Accidental Release)"},
         {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":7,"D":14},"End":{"Y":2022,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":25},"Type":1,"Comment":"Daily Adventure Incense"}
+        {"Start":{"Y":2022,"M":7,"D":25},"Type":1,"Comment":"Daily Adventure Incense"},
+        {"Start":{"Y":2022,"M":8,"D":8},"End":{"Y":2022,"M":9,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Shinjuku Event)"},
+        {"Start":{"Y":2022,"M":8,"D":8},"End":{"Y":2022,"M":9,"D":5},"Shiny":2,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Shinjuku Event)"}
       ]
     },
     {
