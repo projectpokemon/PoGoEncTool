@@ -3233,7 +3233,9 @@
       "Form": 3,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"}
+        {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
+        {"Start":{"Y":2022,"M":8,"D":17},"End":{"Y":2022,"M":8,"D":23},"Type":1,"LocalizedStart":true,"Comment":"2022 Pokémon World Championships (In-Person Event)"},
+        {"Start":{"Y":2022,"M":8,"D":17},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"}
       ]
     },
     {
@@ -3328,7 +3330,8 @@
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin"},
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Seattle"},
         {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo"},
-        {"Start":{"Y":2022,"M":8,"D":14},"End":{"Y":2022,"M":8,"D":14},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Pokémon GO Fest 2022: Sapporo Makeup Event"}
+        {"Start":{"Y":2022,"M":8,"D":14},"End":{"Y":2022,"M":8,"D":14},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Pokémon GO Fest 2022: Sapporo Makeup Event"},
+        {"Start":{"Y":2022,"M":8,"D":17},"End":{"Y":2022,"M":8,"D":23},"Type":1,"LocalizedStart":true,"Comment":"2022 Pokémon World Championships (In-Person Event)"}
       ]
     },
     {
@@ -3345,8 +3348,9 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale"},
-        {"Start":{"Y":2022,"M":8,"D":27},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"}
+        {"Start":{"Y":2022,"M":8,"D":17},"End":{"Y":2022,"M":8,"D":23},"Type":1,"LocalizedStart":true,"Comment":"2022 Pokémon World Championships (In-Person Event)"},
+        {"Start":{"Y":2022,"M":8,"D":17},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"},
+        {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale"}
       ]
     },
     {
@@ -9738,7 +9742,7 @@
       "Data": [
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 1)"},
         {"Start":{"Y":2021,"M":8,"D":20},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
-        {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":8,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":8,"D":17},"End":{"Y":2022,"M":8,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"}
       ]
     },
@@ -9749,7 +9753,7 @@
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 8)"},
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":9,"D":4},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9, Accidental Release)"},
-        {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":8,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":8,"D":17},"End":{"Y":2022,"M":8,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"}
       ]
     },
