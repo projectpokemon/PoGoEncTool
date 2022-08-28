@@ -2637,7 +2637,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":3,"D":30},"Shiny":1,"Type":22,"Comment":"A Mythical Discovery"},
-        {"Start":{"Y":2021,"M":3,"D":21},"Shiny":2,"Type":21,"LocalizedStart":true,"Comment":"All-in-One #151"}
+        {"Start":{"Y":2021,"M":3,"D":21},"Shiny":2,"Type":21,"LocalizedStart":true,"Comment":"All-in-One #151"},
+        {"Start":{"Y":2022,"M":8,"D":3},"Shiny":1,"Type":21,"Comment":"A Mythical Discovery (Remember Last-Used Poké Ball)"}
       ]
     },
     {
@@ -4348,7 +4349,9 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":7,"D":14},"Shiny":1,"Type":22,"Comment":"Pokémon GO Fest 2018"},
-        {"Start":{"Y":2020,"M":12,"D":14},"Shiny":2,"Type":22,"LocalizedStart":true,"Comment":"Distracted by Something Shiny"}
+        {"Start":{"Y":2020,"M":12,"D":14},"Shiny":2,"Type":22,"LocalizedStart":true,"Comment":"Distracted by Something Shiny"},
+        {"Start":{"Y":2022,"M":8,"D":3},"Shiny":1,"Type":21,"Comment":"Pokémon GO Fest 2018 (Remember Last-Used Poké Ball)"},
+        {"Start":{"Y":2022,"M":8,"D":3},"Shiny":2,"Type":21,"Comment":"Distracted by Something Shiny (Remember Last-Used Poké Ball)"}
       ]
     },
     {
@@ -6063,7 +6066,8 @@
       "Species": 385,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":6,"D":13},"Shiny":1,"Type":22,"Comment":"Pokémon GO Fest 2019"}
+        {"Start":{"Y":2019,"M":6,"D":13},"Shiny":1,"Type":22,"Comment":"Pokémon GO Fest 2019"},
+        {"Start":{"Y":2022,"M":8,"D":3},"Shiny":1,"Type":21,"Comment":"Pokémon GO Fest 2019 (Remember Last-Used Poké Ball)"}
       ]
     },
     {
@@ -7195,7 +7199,8 @@
       "Species": 492,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2022,"M":6,"D":4},"Shiny":1,"Type":22,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022"}
+        {"Start":{"Y":2022,"M":6,"D":4},"Shiny":1,"Type":22,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022"},
+        {"Start":{"Y":2022,"M":8,"D":3},"Shiny":1,"Type":21,"Comment":"Pokémon GO Fest 2022 (Remember Last-Used Poké Ball)"}
       ]
     },
     {
@@ -8707,7 +8712,8 @@
       "Species": 648,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":7,"D":17},"Shiny":1,"Type":22,"LocalizedStart":true,"Comment":"The Melody Pokémon"}
+        {"Start":{"Y":2021,"M":7,"D":17},"Shiny":1,"Type":22,"LocalizedStart":true,"Comment":"The Melody Pokémon"},
+        {"Start":{"Y":2022,"M":8,"D":3},"Shiny":1,"Type":21,"Comment":"The Melody Pokémon (Remember Last-Used Poké Ball)"}
       ]
     },
     {
