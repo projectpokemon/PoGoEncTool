@@ -8126,7 +8126,8 @@
         {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Gender":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
         {"Start":{"Y":2022,"M":6,"D":1},"Shiny":1,"Gender":1,"Type":2,"LocalizedStart":true,"Comment":"Season of GO"},
         {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Gender":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"},
-        {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Shiny":1,"Gender":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale (Ultra Incursion: Nihilego)"}
+        {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Shiny":1,"Gender":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale (Ultra Incursion: Nihilego)"},
+        {"Start":{"Y":2022,"M":10,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Gender":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 12)"}
       ]
     },
     {
@@ -8409,7 +8410,7 @@
       "Species": 619,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Seasons 8 to 11 and Interlude Season)"},
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Seasons 8 to 12 and Interlude Season)"},
         {"Start":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Season of Mischief"},
         {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
         {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
