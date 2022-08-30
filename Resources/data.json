@@ -4558,7 +4558,7 @@
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":1,"Comment":"Initial Release in the Wild (Hoenn Aquatic Theme)"},
         {"Start":{"Y":2019,"M":3,"D":19},"End":{"Y":2019,"M":3,"D":26},"Shiny":1,"Type":10,"Comment":"Tier 1 Raid Boss (Equinox 2019)"},
-        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Limited Research"},
+        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Lotad Limited Research"},
         {"Start":{"Y":2019,"M":5,"D":7},"End":{"Y":2019,"M":5,"D":17},"Type":10,"Comment":"Tier 1 Raid Boss (Detective Pikachu Celebration)"},
         {"Start":{"Y":2019,"M":6,"D":18},"End":{"Y":2019,"M":7,"D":10},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2019: Yokohama)"},
@@ -5559,7 +5559,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":1,"Comment":"Initial Release in the Wild (Hoenn Aquatic Theme)"},
-        {"Start":{"Y":2019,"M":1,"D":19},"Type":1,"Comment":"Limited Research"},
+        {"Start":{"Y":2019,"M":1,"D":19},"Type":1,"Comment":"Feebas Limited Research"},
         {"Start":{"Y":2019,"M":1,"D":29},"End":{"Y":2019,"M":2,"D":13},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Type":10,"Comment":"Tier 2 Raid Boss (Extraordinary Raid Week)"},
@@ -5583,7 +5583,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":1,"Comment":"Initial Release in the Wild (Hoenn Sky Theme)"},
-        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Limited Research"}
+        {"Start":{"Y":2019,"M":3,"D":30},"Type":1,"Comment":"Castform Limited Research"}
       ]
     },
     {
@@ -5812,7 +5812,7 @@
       "Species": 366,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2019,"M":2,"D":23},"Type":1,"Comment":"Limited Research"},
+        {"Start":{"Y":2019,"M":2,"D":23},"Type":1,"Comment":"Clamperl Limited Research"},
         {"Start":{"Y":2019,"M":5,"D":21},"End":{"Y":2019,"M":5,"D":28},"Type":10,"Comment":"Tier 2 Raid Boss (Extraordinary Raid Week)"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"Tier 2 Raid Boss (Water Festival 2019)"}
       ]
@@ -7928,7 +7928,7 @@
       "Species": 572,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":2,"D":2},"Type":1,"LocalizedStart":true,"Comment":"Limited Research"},
+        {"Start":{"Y":2020,"M":2,"D":2},"Type":1,"LocalizedStart":true,"Comment":"Minccino Limited Research"},
         {"Start":{"Y":2020,"M":6,"D":3},"End":{"Y":2020,"M":6,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Throwback Challenge Champion 2020)"}
       ]
     },
