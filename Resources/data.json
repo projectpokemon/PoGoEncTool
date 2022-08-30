@@ -1582,7 +1582,8 @@
         {"Start":{"Y":2022,"M":1,"D":30},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Voltorb from the Hisui Region?!"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin (Electric Garden Habitat)"},
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":8,"D":2},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2022: Seattle (Electric Garden Habitat) / Hisuian Discoveries"},
-        {"Start":{"Y":2022,"M":7,"D":27},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Hisuian Discoveries"}
+        {"Start":{"Y":2022,"M":7,"D":27},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Hisuian Discoveries"},
+        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Light"}
       ]
     },
     {
@@ -6080,7 +6081,9 @@
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":11,"Comment":"Tier 5 Raid Boss (Global Challenge, Global Hatches)"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":11,"NoEndTolerance":true,"Comment":"Tier 5 Raid Boss (Enigma Week)"},
         {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":2,"D":19},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":3,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
+        {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":3,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":9,"D":13},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":12,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 12)"}
       ]
     },
     {
@@ -6091,7 +6094,9 @@
         {"Start":{"Y":2018,"M":12,"D":28},"End":{"Y":2019,"M":3,"D":26},"Shiny":1,"Type":11,"Comment":"EX Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":11,"Comment":"Tier 5 Raid Boss (Global Challenge, Global Hatches)"},
         {"Start":{"Y":2022,"M":2,"D":19},"End":{"Y":2022,"M":2,"D":22},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":19},"End":{"Y":2022,"M":3,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
+        {"Start":{"Y":2022,"M":2,"D":19},"End":{"Y":2022,"M":3,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":9,"D":13},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":12,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 12)"}
       ]
     },
     {
@@ -6104,7 +6109,9 @@
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":16},"Shiny":1,"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":8,"D":30},"Shiny":1,"Type":31,"Comment":"Reward Encounter (Season 8)"},
         {"Start":{"Y":2022,"M":2,"D":22},"End":{"Y":2022,"M":2,"D":25},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":22},"End":{"Y":2022,"M":3,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
+        {"Start":{"Y":2022,"M":2,"D":22},"End":{"Y":2022,"M":3,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":9,"D":13},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":12,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 12)"}
       ]
     },
     {
@@ -6115,7 +6122,9 @@
         {"Start":{"Y":2019,"M":7,"D":1},"End":{"Y":2019,"M":10,"D":4},"Shiny":1,"Type":11,"Comment":"EX Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":11,"Comment":"Tier 5 Raid Boss (Global Challenge, Global Hatches)"},
         {"Start":{"Y":2022,"M":2,"D":25},"End":{"Y":2022,"M":3,"D":1},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":25},"End":{"Y":2022,"M":3,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
+        {"Start":{"Y":2022,"M":2,"D":25},"End":{"Y":2022,"M":3,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":9,"D":13},"Type":11,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":12,"D":1},"Type":31,"LocalizedStart":true,"Comment":"Reward Encounter (Season 12)"}
       ]
     },
     {
@@ -8015,7 +8024,8 @@
       "Data": [
         {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Legends (Northern Hemisphere)"},
         {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief (Southern Hemisphere)"},
-        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Alola (Northern Hemisphere)"}
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Alola (Northern Hemisphere)"},
+        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Light (Southern Hemisphere)"}
       ]
     },
     {
@@ -8038,7 +8048,8 @@
         {"Start":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":20,"Comment":"The Seasons Change"},
         {"Start":{"Y":2021,"M":3,"D":1},"End":{"Y":2021,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Legends (Southern Hemisphere)"},
         {"Start":{"Y":2021,"M":9,"D":1},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Mischief (Northern Hemisphere)"},
-        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Alola (Southern Hemisphere)"}
+        {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Alola (Southern Hemisphere)"},
+        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Light (Northern Hemisphere)"}
       ]
     },
     {
@@ -9350,7 +9361,9 @@
       "Data": [
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Luminous Legends Y)"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":30,"Comment":"Reward Encounter (Season 7)"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Lava Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Lava Hour)"},
+        {"Start":{"Y":2022,"M":9,"D":27},"End":{"Y":2022,"M":10,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":9,"D":27},"End":{"Y":2022,"M":12,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 12)"}
       ]
     },
     {
