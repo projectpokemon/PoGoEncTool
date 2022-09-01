@@ -1,9 +1,8 @@
-﻿namespace PoGoEncTool.Core
+﻿namespace PoGoEncTool.Core;
+
+public enum PogoGender
 {
-    public enum PogoGender
-    {
-        Random,
-        MaleOnly,
-        FemaleOnly,
-    }
+    Random,
+    MaleOnly,
+    FemaleOnly,
 }

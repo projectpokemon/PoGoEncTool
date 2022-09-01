@@ -1,9 +1,8 @@
-﻿namespace PoGoEncTool.Core
+﻿namespace PoGoEncTool.Core;
+
+public enum PogoShiny
 {
-    public enum PogoShiny
-    {
-        Random,
-        Never,
-        Always,
-    }
+    Random,
+    Never,
+    Always,
 }

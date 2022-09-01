@@ -1,8 +1,7 @@
-﻿namespace PoGoEncTool.Core
+﻿namespace PoGoEncTool.Core;
+
+public class ProgramSettings
 {
-    public class ProgramSettings
-    {
-        private const string FileName = "data.json";
-        public string DataPath { get; set; } = FileName;
-    }
+    private const string FileName = "data.json";
+    public string DataPath { get; set; } = FileName;
 }

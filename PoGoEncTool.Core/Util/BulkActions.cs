@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using static PKHeX.Core.Species;
 
@@ -13,21 +12,21 @@ public static class BulkActions
 {
     public static void AddRaidBosses(PogoEncounterList list)
     {
-        var T1 = new[] { (int)Bulbasaur }; // Tier 1
-        var T3 = new[] { (int)Bulbasaur }; // Tier 3
-        var SE = new[] { (int)Bulbasaur }; // Shiny eligible
+        var T1 = new (ushort Species, byte Form)[] { new((int)Bulbasaur, 0) }; // Tier 1
+        var T3 = new (ushort Species, byte Form)[] { new((int)Bulbasaur, 0) }; // Tier 3
+        var SE = new (ushort Species, byte Form)[] { new((int)Bulbasaur, 0) }; // Shiny eligible
         var bosses = T1.Concat(T3);
 
-        foreach (var species in bosses)
+        foreach (var enc in bosses)
         {
-            var form = species switch
+            byte form = enc.Species switch
             {
-                (int)Rattata => 1,
+                (ushort)Rattata => 1,
                 _ => 0,
             };
 
-            var tier = T1.Contains(species) ? "1" : "3";
-            var pkm = list.GetDetails(species, form);
+            var tier = T1.Contains(enc) ? "1" : "3";
+            var pkm = list.GetDetails(enc.Species, form);
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
@@ -36,7 +35,7 @@ public static class BulkActions
                 LocalizedStart = true,
                 NoEndTolerance = false,
                 Comment = $"Tier {tier} Raid Boss",
-                Shiny = SE.Contains(species) ? PogoShiny.Random : PogoShiny.Never,
+                Shiny = SE.Contains(enc) ? PogoShiny.Random : PogoShiny.Never,
             };
 
             // set species as available if this encounter is its debut
@@ -44,13 +43,12 @@ public static class BulkActions
                 pkm.Available = true;
 
             // set its evolutions as available as well
-            var evos = EvoUtil.GetEvoSpecForms(species, form)
-                .Select(z => new { Species = z & 0x7FF, Form = z >> 11 })
-                .Where(z => EvoUtil.IsAllowedEvolution(species, form, z.Species, z.Form)).ToArray();
+            var evos = EvoUtil.GetEvoSpecForms(enc.Species, form)
+                .Where(z => EvoUtil.IsAllowedEvolution(enc.Species, form, z.Species, z.Form)).ToArray();
 
-            foreach (var evo in evos)
+            foreach ((ushort s, byte f) in evos)
             {
-                var parent = list.GetDetails(evo.Species, evo.Form);
+                var parent = list.GetDetails(s, f);
                 if (!parent.Available)
                     parent.Available = true;
             }
@@ -75,7 +73,7 @@ public static class BulkActions
         // add end dates for Shadows that have been removed
         foreach (var species in removed)
         {
-            var pkm = list.GetDetails(species, form);
+            var pkm = list.GetDetails((ushort)species, form);
             var entries = pkm.Data;
 
             foreach (var entry in entries)
@@ -88,7 +86,7 @@ public static class BulkActions
         // add new Shadows
         foreach (var species in added)
         {
-            var pkm = list.GetDetails(species, form);
+            var pkm = list.GetDetails((ushort)species, form);
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
