@@ -368,7 +368,7 @@
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":9,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola / Season of GO"},
         {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":25},"End":{"Y":2022,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Alola to Alola)"},
-        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":9,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":9,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -3264,7 +3264,8 @@
         {"Start":{"Y":2022,"M":7,"D":6},"End":{"Y":2022,"M":7,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2022: Anniversary Event)"},
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Seattle"},
         {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo"},
-        {"Start":{"Y":2022,"M":8,"D":14},"End":{"Y":2022,"M":8,"D":14},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Pokémon GO Fest 2022: Sapporo Makeup Event"}
+        {"Start":{"Y":2022,"M":8,"D":14},"End":{"Y":2022,"M":8,"D":14},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Pokémon GO Fest 2022: Sapporo Makeup Event"},
+        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":9,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Psychic Spectacular 2022)"}
       ]
     },
     {
@@ -3392,7 +3393,8 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale"},
-        {"Start":{"Y":2022,"M":8,"D":27},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"}
+        {"Start":{"Y":2022,"M":8,"D":27},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"},
+        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":9,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Psychic Spectacular 2022)"}
       ]
     },
     {
@@ -3432,7 +3434,8 @@
         {"Start":{"Y":2022,"M":7,"D":27},"End":{"Y":2022,"M":8,"D":2},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2022: Hisuian Discoveries)"},
         {"Start":{"Y":2022,"M":7,"D":27},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Ultra Unlock 2022: Hisuian Discoveries / Pokémon GO Fest 2022: Sapporo"},
         {"Start":{"Y":2022,"M":8,"D":14},"End":{"Y":2022,"M":8,"D":14},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Pokémon GO Fest 2022: Sapporo Makeup Event"},
-        {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale"}
+        {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale"},
+        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":9,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Psychic Spectacular 2022)"}
       ]
     },
     {
@@ -3556,7 +3559,8 @@
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":11,"D":8},"Shiny":1,"Type":40,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":13},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Psychic Spectacular 2021)"},
-        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":9,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Psychic Spectacular 2022)"}
       ]
     },
     {
@@ -3568,7 +3572,7 @@
         {"Start":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto (National Park)"},
         {"Start":{"Y":2022,"M":4,"D":3},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":40,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":9,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":9,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -8287,7 +8291,8 @@
       "Data": [
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Shiny":1,"Type":10,"NoEndTolerance":true,"Comment":"Tier 2 Raid Boss (Enigma Week)"},
         {"Start":{"Y":2020,"M":8,"D":7},"Shiny":1,"Type":1,"Comment":"Enigma Week"},
-        {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Space)"}
+        {"Start":{"Y":2021,"M":8,"D":6},"End":{"Y":2021,"M":8,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2021: Space)"},
+        {"Start":{"Y":2022,"M":9,"D":6},"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2022"}
       ]
     },
     {
@@ -9095,7 +9100,7 @@
         {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":7,"D":14},"End":{"Y":2022,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":7,"D":25},"Type":1,"Comment":"Daily Adventure Incense"},
-        {"Start":{"Y":2022,"M":8,"D":8},"End":{"Y":2022,"M":9,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":8,"D":8},"End":{"Y":2022,"M":9,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -9624,7 +9629,8 @@
       "Species": 765,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2022,"M":4,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week 2022"}
+        {"Start":{"Y":2022,"M":4,"D":20},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Sustainability Week 2022"},
+        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":9,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Psychic Spectacular 2022)"}
       ]
     },
     {
