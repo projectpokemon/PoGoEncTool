@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using static PKHeX.Core.Species;
+using static PoGoEncTool.Core.PogoShiny;
 
 #pragma warning disable RCS1041 // Remove empty initializer.
 // ReSharper disable RedundantEmptyObjectOrCollectionInitializer
@@ -12,9 +13,16 @@ public static class BulkActions
 {
     public static void AddRaidBosses(PogoEncounterList list)
     {
-        var T1 = new (ushort Species, byte Form)[] { new((int)Bulbasaur, 0) }; // Tier 1
-        var T3 = new (ushort Species, byte Form)[] { new((int)Bulbasaur, 0) }; // Tier 3
-        var SE = new (ushort Species, byte Form)[] { new((int)Bulbasaur, 0) }; // Shiny eligible
+        var T1 = new List<(ushort Species, byte Form, PogoShiny Shiny)>
+        {
+            new((int)Bulbasaur, 0, Random),
+        };
+
+        var T3 = new List<(ushort Species, byte Form, PogoShiny Shiny)>
+        {
+            new((int)Bulbasaur, 0, Random),
+        };
+
         var bosses = T1.Concat(T3);
 
         foreach (var enc in bosses)
@@ -29,7 +37,7 @@ public static class BulkActions
                 LocalizedStart = true,
                 NoEndTolerance = false,
                 Comment = $"Tier {tier} Raid Boss",
-                Shiny = SE.Contains(enc) ? PogoShiny.Random : PogoShiny.Never,
+                Shiny = enc.Shiny,
             };
 
             // set species as available if this encounter is its debut
