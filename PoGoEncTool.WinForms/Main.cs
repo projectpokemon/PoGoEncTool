@@ -157,10 +157,10 @@ public partial class Main : Form
 
     private void LoadEntry(PogoEntry entry)
     {
-        var species = (int)CB_Species.SelectedValue;
-        var form = CB_Form.SelectedIndex;
+        var species = Convert.ToUInt16(CB_Species.SelectedValue);
+        var form = (byte)CB_Form.SelectedIndex;
         var gender = (int)entry.Gender - 1;
-        var shiny = entry.Shiny == PogoShiny.Always;
+        var shiny = entry.Shiny == PogoShiny.Always ? Shiny.Always : Shiny.Never;
         PB_Poke.Image = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny);
 
         pogoRow1.LoadEntry(CurrentEntry = entry);

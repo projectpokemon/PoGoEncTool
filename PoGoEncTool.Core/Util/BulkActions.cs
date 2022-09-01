@@ -19,14 +19,8 @@ public static class BulkActions
 
         foreach (var enc in bosses)
         {
-            byte form = enc.Species switch
-            {
-                (ushort)Rattata => 1,
-                _ => 0,
-            };
-
             var tier = T1.Contains(enc) ? "1" : "3";
-            var pkm = list.GetDetails(enc.Species, form);
+            var pkm = list.GetDetails(enc.Species, enc.Form);
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
@@ -43,8 +37,8 @@ public static class BulkActions
                 pkm.Available = true;
 
             // set its evolutions as available as well
-            var evos = EvoUtil.GetEvoSpecForms(enc.Species, form)
-                .Where(z => EvoUtil.IsAllowedEvolution(enc.Species, form, z.Species, z.Form)).ToArray();
+            var evos = EvoUtil.GetEvoSpecForms(enc.Species, enc.Form)
+                .Where(z => EvoUtil.IsAllowedEvolution(enc.Species, enc.Form, z.Species, z.Form)).ToArray();
 
             foreach ((ushort s, byte f) in evos)
             {
