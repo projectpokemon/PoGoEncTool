@@ -15,32 +15,26 @@ public static class EvoUtil
             return new[] { melmetal };
         }
 
-        var la = Get(PersonalTable.LA,   8, species, form);
-        var ss = Get(PersonalTable.SWSH, 8, species, form);
-        var uu = Get(PersonalTable.USUM, 7, species, form);
+        var la = Get(PersonalTable.LA,   EntityContext.Gen8a, species, form);
+        var ss = Get(PersonalTable.SWSH, EntityContext.Gen8,  species, form);
+        var uu = Get(PersonalTable.USUM, EntityContext.Gen7,  species, form);
         return la.Concat(ss).Concat(uu).Distinct();
     }
 
-    private static IEnumerable<(ushort Species, byte Form)> Get(IPersonalTable table, int gen, ushort species, byte form)
+    private static IEnumerable<(ushort Species, byte Form)> Get(IPersonalTable table, EntityContext context, ushort species, byte form)
     {
         if (species > table.MaxSpeciesID)
             yield break;
         if (form >= table[species].FormCount)
             yield break;
 
-        EvolutionTree t;
-        var pt = PersonalTable.LA;
-        if (pt.IsPresentInGame(species, form) && !HisuiOnlyEvos.Contains(species))
-            t = EvolutionTree.GetEvolutionTree(EntityContext.Gen8a);
-        else
-            t = EvolutionTree.GetEvolutionTree((EntityContext)gen);
-
+        EvolutionTree t = EvolutionTree.GetEvolutionTree(context);
         var tableEvos = t.GetEvolutions(species, form);
         foreach (var evo in tableEvos)
             yield return evo;
     }
 
-    public static bool IsAllowedEvolution(in ushort species, in byte form, in ushort s, in int destForm)
+    public static bool IsAllowedEvolution(in ushort species, in byte form, in ushort s, in byte destForm)
     {
         // Outside of special events, regional form branched evolutions are not available.
         var destSpecies = (Species) s;
@@ -71,21 +65,4 @@ public static class EvoUtil
             _ => true,
         };
     }
-
-    /// <summary>
-    /// Pokémon that can only evolve into their Hisuian Forms in <see cref="PKHeX.Core.GameVersion.PLA"/>.
-    /// </summary>
-    private static readonly HashSet<int> HisuiOnlyEvos = new()
-    {
-        (int)Cyndaquil,
-        (int)Quilava,
-        (int)Oshawott,
-        (int)Dewott,
-        (int)Petilil,
-        (int)Rufflet,
-        (int)Goomy,
-        (int)Bergmite,
-        (int)Rowlet,
-        (int)Dartrix,
-    };
 }
