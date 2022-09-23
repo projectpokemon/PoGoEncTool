@@ -953,7 +953,8 @@
         {"Start":{"Y":2021,"M":11,"D":22},"End":{"Y":2021,"M":12,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":3,"D":30},"End":{"Y":2022,"M":4,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":10},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":9,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":9,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":9,"D":22},"End":{"Y":2022,"M":9,"D":22},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Accidental Release)"}
       ]
     },
     {
@@ -8773,7 +8774,8 @@
         {"Start":{"Y":2020,"M":12,"D":8},"End":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 6)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Frost Hour)"},
         {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2022,"M":1,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2022,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
+        {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2022,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":9,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
       ]
     },
     {
