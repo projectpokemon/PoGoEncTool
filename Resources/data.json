@@ -2226,7 +2226,8 @@
       "Data": [
         {"Start":{"Y":2020,"M":1,"D":24},"End":{"Y":2020,"M":2,"D":3},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":10,"D":8},"End":{"Y":2022,"M":10,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Raid Day: Mega Gyarados)"}
       ]
     },
     {
@@ -4832,7 +4833,8 @@
       "Species": 292,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"}
+        {"Start":{"Y":2018,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Research Breakthrough"},
+        {"Start":{"Y":2022,"M":10,"D":1},"Type":20,"Comment":"Research Breakthrough"}
       ]
     },
     {
@@ -5144,7 +5146,8 @@
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":4,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2022,"M":4,"D":5},"End":{"Y":2022,"M":4,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2022,"M":4,"D":5},"End":{"Y":2022,"M":4,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":10,"D":8},"End":{"Y":2022,"M":10,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -5647,7 +5650,8 @@
         {"Start":{"Y":2020,"M":4,"D":1},"End":{"Y":2020,"M":4,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Tricky Pokémon 2020)"},
         {"Start":{"Y":2020,"M":5,"D":15},"End":{"Y":2020,"M":5,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Throwback Challenge 2020: Hoenn)"},
         {"Start":{"Y":2020,"M":10,"D":23},"End":{"Y":2020,"M":11,"D":3},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Halloween 2020)"},
-        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Halloween 2021)"}
+        {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Halloween 2021)"},
+        {"Start":{"Y":2022,"M":10,"D":20},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -7203,7 +7207,9 @@
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2020, Day 2)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Wind Hour)"},
         {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":10,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":11,"D":29},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"}
+        {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":11,"D":29},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
+        {"Start":{"Y":2022,"M":10,"D":20},"End":{"Y":2022,"M":10,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":10,"D":20},"End":{"Y":2022,"M":12,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"}
       ]
     },
     {
@@ -7213,7 +7219,9 @@
       "Data": [
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":29},"Shiny":1,"Type":10,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":26},"End":{"Y":2020,"M":7,"D":26},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2020, Day 2)"},
-        {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
+        {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":10,"D":27},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":10,"D":27},"End":{"Y":2022,"M":12,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"}
       ]
     },
     {
@@ -9412,7 +9420,9 @@
       "Data": [
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Luminous Legends X)"},
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 7)"},
-        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Thunder Hour)"}
+        {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Thunder Hour)"},
+        {"Start":{"Y":2022,"M":10,"D":8},"End":{"Y":2022,"M":10,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":10,"D":8},"End":{"Y":2022,"M":12,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"}
       ]
     },
     {
