@@ -2643,7 +2643,7 @@
         {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2022,"M":2,"D":27},"End":{"Y":2022,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Tour: Live)"},
         {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11, Accidental IV Floor Removal)"}
+        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11, Accidental IV Floor Removal)"}
       ]
     },
     {
@@ -5747,7 +5747,7 @@
         {"Start":{"Y":2022,"M":1,"D":7},"End":{"Y":2022,"M":1,"D":13},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Mountains of Power)"},
         {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lunar New Year 2022)"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola (Northern Hemisphere)"},
-        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"},
+        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"},
         {"Start":{"Y":2022,"M":7,"D":25},"Type":1,"Comment":"Daily Adventure Incense"}
       ]
     },
@@ -7873,11 +7873,11 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Unova Celebration Event"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Team GO Rocket Celebration"},
         {"Start":{"Y":2021,"M":9,"D":5},"End":{"Y":2021,"M":9,"D":5},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Hoopa's Arrival"},
-        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
+        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
         {"Start":{"Y":2021,"M":9,"D":21},"End":{"Y":2021,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Fashion Week 2021)"},
         {"Start":{"Y":2021,"M":10,"D":15},"End":{"Y":2021,"M":10,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Halloween 2021 Part 1: Creepy Companions)"},
         {"Start":{"Y":2021,"M":11,"D":1},"End":{"Y":2021,"M":11,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
         {"Start":{"Y":2022,"M":2,"D":1},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Lunar New Year 2022"},
         {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":8,"D":23},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"2022 Pokémon World Championships Event"},
         {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":8,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (2022 Pokémon World Championships Event)"},
@@ -8184,12 +8184,12 @@
         {"Start":{"Y":2021,"M":3,"D":1},"Shiny":1,"Gender":2,"Type":1,"LocalizedStart":true,"Comment":"Season of Legends"},
         {"Start":{"Y":2021,"M":3,"D":3},"End":{"Y":2021,"M":5,"D":31},"Shiny":1,"Gender":1,"Type":30,"Comment":"Reward Encounter (Season 7)"},
         {"Start":{"Y":2021,"M":4,"D":1},"Shiny":1,"Gender":1,"Type":20,"Comment":"Research Breakthrough"},
-        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Gender":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
-        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Gender":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Gender":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
+        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Gender":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
         {"Start":{"Y":2022,"M":6,"D":1},"Shiny":1,"Gender":1,"Type":2,"LocalizedStart":true,"Comment":"Season of GO"},
-        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Gender":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"},
+        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Gender":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"},
         {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Shiny":1,"Gender":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale (Ultra Incursion: Nihilego)"},
-        {"Start":{"Y":2022,"M":10,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Gender":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"}
+        {"Start":{"Y":2022,"M":10,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Gender":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"}
       ]
     },
     {
@@ -8478,10 +8478,10 @@
       "Data": [
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter"},
         {"Start":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Season of Mischief"},
-        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
-        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
-        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"},
-        {"Start":{"Y":2022,"M":10,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"}
+        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
+        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"},
+        {"Start":{"Y":2022,"M":10,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"}
       ]
     },
     {
@@ -8558,10 +8558,10 @@
         {"Start":{"Y":2020,"M":12,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event 2020"},
         {"Start":{"Y":2020,"M":12,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event 2020"},
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Spring into Spring 2021)"},
-        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
+        {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
         {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Secrets of the Jungle Event 2021)"},
         {"Start":{"Y":2021,"M":10,"D":29},"End":{"Y":2021,"M":10,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2021)"},
-        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":9,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola / Season of GO"},
         {"Start":{"Y":2022,"M":7,"D":25},"Type":1,"Comment":"Daily Adventure Incense"}
       ]
@@ -9036,7 +9036,7 @@
         {"Start":{"Y":2021,"M":5,"D":18},"Shiny":1,"Type":3,"LocalizedStart":true,"Comment":"Luminous Legends Y"},
         {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022 (Rainforest Habitat)"},
         {"Start":{"Y":2022,"M":6,"D":4},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022 (Rainforest Habitat)"},
-        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":33,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"}
+        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"}
       ]
     },
     {
