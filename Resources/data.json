@@ -4164,7 +4164,7 @@
         {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Pokémon GO Tour: Johto)"},
         {"Start":{"Y":2022,"M":3,"D":15},"End":{"Y":2022,"M":3,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Festival of Colors 2022)"},
         {"Start":{"Y":2022,"M":5,"D":31},"End":{"Y":2022,"M":8,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Became Bug Out! 2022 Wild Encounters)"},
-        {"Start":{"Y":2022,"M":8,"D":16},"End":{"Y":2022,"M":9,"D":27},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Became Fashion Week 2022 Encounter)"},
+        {"Start":{"Y":2022,"M":8,"D":16},"End":{"Y":2022,"M":9,"D":27},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Became Furfrou and Fashionable Hat Diglett)"},
         {"Start":{"Y":2022,"M":10,"D":3},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter"}
       ]
     },
@@ -6393,10 +6393,11 @@
         {"Start":{"Y":2022,"M":1,"D":19},"End":{"Y":2022,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":2,"D":15},"End":{"Y":2022,"M":2,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":4,"D":5},"End":{"Y":2022,"M":4,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":9},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":7,"D":9},"End":{"Y":2022,"M":9,"D":27},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":8,"D":2},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale (Ultra Incursion: Xurkitree)"},
-        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":9,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":9,"D":1},"End":{"Y":2022,"M":9,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":10,"D":3},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
       ]
     },
     {
