@@ -400,7 +400,7 @@
         {"Start":{"Y":2019,"M":6,"D":28},"Type":2,"Comment":"Pokémon GO 3rd Anniversary Event"},
         {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2019: Yokohama"},
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":16},"Type":1,"Comment":"Global Challenge, Global Hatches"},
-        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2020)"},
+        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Philadelphia 2020"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon HOME Event"},
         {"Start":{"Y":2020,"M":12,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Seasonal Encounter"},
         {"Start":{"Y":2020,"M":12,"D":1},"Type":20,"Comment":"Field Research Tasks"},
@@ -547,7 +547,7 @@
         {"Start":{"Y":2020,"M":1,"D":21},"Type":20,"Comment":"Field Research Tasks"},
         {"Start":{"Y":2020,"M":3,"D":31},"End":{"Y":2020,"M":4,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2020,"M":4,"D":8},"End":{"Y":2020,"M":4,"D":28},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2020)"},
+        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Philadelphia 2020"},
         {"Start":{"Y":2020,"M":6,"D":19},"End":{"Y":2020,"M":6,"D":24},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Solstice Event 2020)"},
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":9,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2020,"M":11,"D":17},"End":{"Y":2020,"M":11,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon HOME Event)"},
@@ -620,7 +620,7 @@
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2020,"M":10,"D":16},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2019,"M":10,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (New Taipei City 2019)"},
+        {"Start":{"Y":2019,"M":10,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: New Taipei City 2019"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2020,"M":2,"D":2},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":40,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":11,"D":8},"Shiny":1,"Type":40,"Comment":"Team GO Rocket Grunt"}
@@ -797,7 +797,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2019,"M":1,"D":25},"Type":1,"Comment":"Pokémon GO Safari Zone (Porto Alegre 2019)"},
+        {"Start":{"Y":2019,"M":1,"D":25},"Type":1,"Comment":"Pokémon GO Safari Zone: Porto Alegre 2019"},
         {"Start":{"Y":2019,"M":5,"D":7},"End":{"Y":2019,"M":5,"D":17},"Type":10,"Comment":"Tier 1 Raid Boss (Detective Pikachu Celebration)"},
         {"Start":{"Y":2019,"M":9,"D":5},"End":{"Y":2020,"M":2,"D":2},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":2,"D":1},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
@@ -1580,7 +1580,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2016,"M":7,"D":6},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Launch Day"},
-        {"Start":{"Y":2020,"M":5,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2020)"},
+        {"Start":{"Y":2020,"M":5,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Philadelphia 2020"},
         {"Start":{"Y":2020,"M":9,"D":18},"End":{"Y":2020,"M":9,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":6},"End":{"Y":2021,"M":3,"D":9},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":3,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Charge Up!)"},
@@ -2167,7 +2167,7 @@
         {"Start":{"Y":2018,"M":4,"D":18},"End":{"Y":2018,"M":5,"D":1},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2018,"M":5,"D":15},"End":{"Y":2018,"M":5,"D":24},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2018,"M":6,"D":6},"End":{"Y":2018,"M":6,"D":7},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Tainan 2018)"},
+        {"Start":{"Y":2018,"M":11,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Tainan 2018"},
         {"Start":{"Y":2018,"M":11,"D":28},"End":{"Y":2018,"M":12,"D":18},"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Type":10,"Comment":"Tier 3 Raid Boss (Bug Out! 2019)"},
         {"Start":{"Y":2019,"M":11,"D":19},"End":{"Y":2019,"M":11,"D":26},"Type":10,"Comment":"Tier 3 Raid Boss (Supereffective Week)"},
@@ -2253,7 +2253,7 @@
         {"Start":{"Y":2018,"M":9,"D":13},"End":{"Y":2018,"M":9,"D":30},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Ultra Bonus Event)"},
         {"Start":{"Y":2018,"M":12,"D":18},"End":{"Y":2019,"M":1,"D":2},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Holidays 2018)"},
         {"Start":{"Y":2019,"M":2,"D":26},"End":{"Y":2019,"M":2,"D":28},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Pokémon Day 2019)"},
-        {"Start":{"Y":2019,"M":4,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Sentosa 2019)"},
+        {"Start":{"Y":2019,"M":4,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Sentosa 2019"},
         {"Start":{"Y":2019,"M":5,"D":25},"End":{"Y":2019,"M":5,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 4 Raid Boss (Raid Day: Lapras)"},
         {"Start":{"Y":2019,"M":6,"D":27},"End":{"Y":2019,"M":7,"D":10},"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2019,"M":7,"D":31},"End":{"Y":2019,"M":9,"D":2},"Type":10,"Comment":"Tier 4 Raid Boss"},
@@ -2845,7 +2845,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2020,"M":4,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Liverpool 2020)"},
+        {"Start":{"Y":2020,"M":4,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Liverpool 2020"},
         {"Start":{"Y":2020,"M":10,"D":9},"End":{"Y":2020,"M":10,"D":9},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Festival of Lights 2021)"},
         {"Start":{"Y":2022,"M":1,"D":14},"End":{"Y":2022,"M":1,"D":19},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
@@ -3109,7 +3109,7 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2018,"M":8,"D":20},"End":{"Y":2018,"M":8,"D":28},"Shiny":1,"Type":10,"Comment":"Tier 1 Raid Boss (Johto Festival)"},
-        {"Start":{"Y":2019,"M":9,"D":20},"Type":1,"Comment":"Pokémon GO Safari Zone (Montréal 2019)"},
+        {"Start":{"Y":2019,"M":9,"D":20},"Type":1,"Comment":"Pokémon GO Safari Zone: Montréal 2019"},
         {"Start":{"Y":2019,"M":12,"D":5},"End":{"Y":2019,"M":12,"D":12},"Type":10,"Comment":"Tier 2 Raid Boss (Evolution Event, Previously Tier 1)"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss (A Drive to Investigate)"},
         {"Start":{"Y":2020,"M":6,"D":26},"End":{"Y":2020,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss (Bug Out! 2020)"},
@@ -3238,13 +3238,13 @@
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":1,"NoEndTolerance":true,"Comment":"Enigma Week"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"Tier 2 Raid Boss (Enigma Week)"},
-        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Seville 2022"},
         {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin"},
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Seattle"},
         {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo"},
         {"Start":{"Y":2022,"M":8,"D":14},"End":{"Y":2022,"M":8,"D":14},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Pokémon GO Fest 2022: Sapporo Makeup Event"},
-        {"Start":{"Y":2022,"M":9,"D":23},"End":{"Y":2022,"M":9,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Goyang 2022)"}
+        {"Start":{"Y":2022,"M":9,"D":23},"End":{"Y":2022,"M":9,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Goyang 2022"}
       ]
     },
     {
@@ -3287,7 +3287,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Seville 2022"},
         {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":12},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin / Ultra Unlock 2022: Anniversary Event"},
         {"Start":{"Y":2022,"M":7,"D":6},"End":{"Y":2022,"M":7,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2022: Anniversary Event)"},
@@ -3295,7 +3295,7 @@
         {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo"},
         {"Start":{"Y":2022,"M":8,"D":14},"End":{"Y":2022,"M":8,"D":14},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Pokémon GO Fest 2022: Sapporo Makeup Event"},
         {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":9,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Psychic Spectacular 2022)"},
-        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Taipei 2022)"}
+        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Taipei 2022"}
       ]
     },
     {
@@ -3324,7 +3324,7 @@
         {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"},
         {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022"},
         {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale"},
-        {"Start":{"Y":2022,"M":9,"D":23},"End":{"Y":2022,"M":9,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Goyang 2022)"}
+        {"Start":{"Y":2022,"M":9,"D":23},"End":{"Y":2022,"M":9,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Goyang 2022"}
       ]
     },
     {
@@ -3341,7 +3341,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Seville 2022"},
         {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"}
       ]
     },
@@ -3371,7 +3371,7 @@
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":1,"NoEndTolerance":true,"Comment":"Enigma Week"},
         {"Start":{"Y":2020,"M":8,"D":7},"End":{"Y":2020,"M":8,"D":14},"Type":10,"NoEndTolerance":true,"Comment":"Tier 2 Raid Boss (Enigma Week)"},
-        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Seville 2022"},
         {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin"},
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Seattle"},
@@ -3397,7 +3397,7 @@
         {"Start":{"Y":2022,"M":8,"D":17},"End":{"Y":2022,"M":8,"D":23},"Type":1,"LocalizedStart":true,"Comment":"2022 Pokémon World Championships (In-Person Event)"},
         {"Start":{"Y":2022,"M":8,"D":17},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"},
         {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale"},
-        {"Start":{"Y":2022,"M":9,"D":23},"End":{"Y":2022,"M":9,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Goyang 2022)"}
+        {"Start":{"Y":2022,"M":9,"D":23},"End":{"Y":2022,"M":9,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Goyang 2022"}
       ]
     },
     {
@@ -3413,7 +3413,7 @@
         {"Start":{"Y":2022,"M":2,"D":26},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"},
         {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022"},
         {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale"},
-        {"Start":{"Y":2022,"M":9,"D":23},"End":{"Y":2022,"M":9,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Goyang 2022)"}
+        {"Start":{"Y":2022,"M":9,"D":23},"End":{"Y":2022,"M":9,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Goyang 2022"}
       ]
     },
     {
@@ -3425,7 +3425,7 @@
         {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale"},
         {"Start":{"Y":2022,"M":8,"D":27},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"},
         {"Start":{"Y":2022,"M":9,"D":6},"End":{"Y":2022,"M":9,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Psychic Spectacular 2022)"},
-        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Taipei 2022)"}
+        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Taipei 2022"}
       ]
     },
     {
@@ -3458,7 +3458,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Seville 2022"},
         {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Berlin"},
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Seattle"},
@@ -3483,7 +3483,7 @@
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Seattle"},
         {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo / Ultra Unlock 2022: Bug Out!"},
         {"Start":{"Y":2022,"M":8,"D":10},"End":{"Y":2022,"M":8,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Ultra Unlock 2022: Bug Out!)"},
-        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Taipei 2022)"}
+        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Taipei 2022"}
       ]
     },
     {
@@ -3515,7 +3515,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"},
+        {"Start":{"Y":2022,"M":5,"D":13},"End":{"Y":2022,"M":5,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Seville 2022"},
         {"Start":{"Y":2022,"M":5,"D":13},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"}
       ]
     },
@@ -3543,7 +3543,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2022,"M":9,"D":23},"End":{"Y":2022,"M":9,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Goyang 2022)"},
+        {"Start":{"Y":2022,"M":9,"D":23},"End":{"Y":2022,"M":9,"D":25},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Goyang 2022"},
         {"Start":{"Y":2022,"M":9,"D":23},"Type":20,"LocalizedStart":true,"Comment":"Level 50 Challenge"}
       ]
     },
@@ -3561,9 +3561,9 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":6,"D":12},"End":{"Y":2018,"M":6,"D":14},"Shiny":1,"Type":1,"Comment":"E3 2018"},
-        {"Start":{"Y":2018,"M":8,"D":29},"End":{"Y":2018,"M":9,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Yokosuka 2018)"},
+        {"Start":{"Y":2018,"M":8,"D":29},"End":{"Y":2018,"M":9,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Yokosuka 2018"},
         {"Start":{"Y":2018,"M":10,"D":5},"End":{"Y":2018,"M":10,"D":7},"Shiny":1,"Type":1,"Comment":"MAG 2018"},
-        {"Start":{"Y":2019,"M":4,"D":18},"End":{"Y":2019,"M":4,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Sentosa 2019)"},
+        {"Start":{"Y":2019,"M":4,"D":18},"End":{"Y":2019,"M":4,"D":22},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Sentosa 2019"},
         {"Start":{"Y":2019,"M":6,"D":13},"End":{"Y":2019,"M":6,"D":16},"Shiny":1,"Type":1,"Comment":"Pokémon GO Fest 2019: Chicago"},
         {"Start":{"Y":2019,"M":7,"D":4},"End":{"Y":2019,"M":7,"D":7},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2019: Dortmund"},
         {"Start":{"Y":2019,"M":8,"D":6},"End":{"Y":2019,"M":8,"D":12},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2019: Yokohama"}
@@ -3751,7 +3751,7 @@
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2018,"M":5,"D":24},"End":{"Y":2018,"M":6,"D":5},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Adventure Week 2018)"},
         {"Start":{"Y":2019,"M":4,"D":2},"End":{"Y":2019,"M":4,"D":9},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Bug Out! 2019)"},
-        {"Start":{"Y":2019,"M":4,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Sentosa 2019)"},
+        {"Start":{"Y":2019,"M":4,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Sentosa 2019"},
         {"Start":{"Y":2019,"M":4,"D":20},"End":{"Y":2019,"M":4,"D":22},"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2019,"M":6,"D":4},"End":{"Y":2019,"M":6,"D":11},"Type":10,"Comment":"Tier 3 Raid Boss (Adventure Week 2019)"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Type":10,"Comment":"Tier 3 Raid Boss (Johto Journey)"},
@@ -3854,7 +3854,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
-        {"Start":{"Y":2020,"M":3,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (St. Louis 2020)"},
+        {"Start":{"Y":2020,"M":3,"D":27},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: St. Louis 2020"},
         {"Start":{"Y":2020,"M":10,"D":12},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":40,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":6,"D":25},"Shiny":1,"Type":40,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2022,"M":1,"D":23},"Shiny":1,"Type":40,"Comment":"Team GO Rocket Grunt"},
@@ -4684,7 +4684,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":1,"Comment":"Initial Release in the Wild (Hoenn Sky Theme)"},
-        {"Start":{"Y":2018,"M":8,"D":29},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Yokosuka 2018)"},
+        {"Start":{"Y":2018,"M":8,"D":29},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Yokosuka 2018"},
         {"Start":{"Y":2019,"M":1,"D":15},"End":{"Y":2019,"M":1,"D":29},"Type":10,"Comment":"Tier 1 Raid Boss (Hoenn Celebration)"},
         {"Start":{"Y":2019,"M":8,"D":23},"End":{"Y":2019,"M":8,"D":30},"Type":10,"Comment":"Tier 1 Raid Boss (Water Festival 2019)"},
         {"Start":{"Y":2020,"M":7,"D":17},"End":{"Y":2020,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Summer Event)"},
@@ -4831,7 +4831,7 @@
       "Data": [
         {"Start":{"Y":2018,"M":11,"D":1},"Shiny":1,"Type":20,"Comment":"Field Research Tasks"},
         {"Start":{"Y":2019,"M":1,"D":15},"Shiny":1,"Type":2,"Comment":"Hoenn Celebration"},
-        {"Start":{"Y":2019,"M":9,"D":20},"End":{"Y":2019,"M":9,"D":22},"Shiny":1,"Type":1,"Comment":"Pokémon GO Safari Zone (Montréal 2019)"},
+        {"Start":{"Y":2019,"M":9,"D":20},"End":{"Y":2019,"M":9,"D":22},"Shiny":1,"Type":1,"Comment":"Pokémon GO Safari Zone: Montréal 2019"},
         {"Start":{"Y":2020,"M":3,"D":20},"End":{"Y":2020,"M":3,"D":23},"Type":1,"LocalizedStart":true,"Comment":"A Drive to Investigate"},
         {"Start":{"Y":2020,"M":3,"D":20},"Type":2,"LocalizedStart":true,"Comment":"A Drive to Investigate"},
         {"Start":{"Y":2020,"M":3,"D":20},"Type":20,"LocalizedStart":true,"Comment":"A Drive to Investigate"},
@@ -5214,7 +5214,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial Hoenn Release"},
-        {"Start":{"Y":2018,"M":6,"D":30},"Type":1,"Comment":"Pokémon GO Safari Zone (Dortmund 2018)"},
+        {"Start":{"Y":2018,"M":6,"D":30},"Type":1,"Comment":"Pokémon GO Safari Zone: Dortmund 2018"},
         {"Start":{"Y":2018,"M":8,"D":16},"End":{"Y":2018,"M":9,"D":13},"Type":10,"Comment":"Tier 2 Raid Boss"},
         {"Start":{"Y":2019,"M":3,"D":19},"End":{"Y":2019,"M":3,"D":26},"Type":10,"Comment":"Tier 2 Raid Boss (Equinox 2019)"},
         {"Start":{"Y":2019,"M":6,"D":27},"End":{"Y":2019,"M":7,"D":10},"Type":10,"Comment":"Tier 2 Raid Boss"},
@@ -5526,7 +5526,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":21},"Shiny":1,"Type":1,"Comment":"Initial Release in the Wild (Hoenn Aquatic Theme)"},
-        {"Start":{"Y":2022,"M":5,"D":13},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Seville 2022)"}
+        {"Start":{"Y":2022,"M":5,"D":13},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Seville 2022"}
       ]
     },
     {
@@ -6063,7 +6063,7 @@
         {"Start":{"Y":2022,"M":4,"D":3},"End":{"Y":2022,"M":7,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni"},
         {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":7},"End":{"Y":2022,"M":5,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Pokémon Air Adventures: Okinawa, Day 1)"},
-        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Pokémon GO Safari Zone, Taipei 2022)"}
+        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Pokémon GO Safari Zone: Taipei 2022)"}
       ]
     },
     {
@@ -6080,7 +6080,7 @@
         {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":8},"End":{"Y":2022,"M":5,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Pokémon Air Adventures: Okinawa, Day 2)"},
         {"Start":{"Y":2022,"M":7,"D":9},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni"},
-        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Pokémon GO Safari Zone, Taipei 2022)"}
+        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Pokémon GO Safari Zone: Taipei 2022)"}
       ]
     },
     {
@@ -6959,7 +6959,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":1,"Comment":"Holidays 2018"},
-        {"Start":{"Y":2022,"M":10,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Taipei 2022)"}
+        {"Start":{"Y":2022,"M":10,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Taipei 2022"}
       ]
     },
     {
@@ -7414,7 +7414,7 @@
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
         {"Start":{"Y":2022,"M":7,"D":9},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":11,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Singapore 2022)"}
+        {"Start":{"Y":2022,"M":11,"D":18},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Singapore 2022"}
       ]
     },
     {
@@ -8589,8 +8589,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":3,"D":13},"End":{"Y":2020,"M":5,"D":1},"Shiny":1,"Type":30,"Comment":"Reward Encounter (Season 1)"},
-        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2020)"},
-        {"Start":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2020)"},
+        {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":10},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Philadelphia 2020"},
+        {"Start":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Philadelphia 2020"},
         {"Start":{"Y":2020,"M":10,"D":19},"Shiny":1,"Type":2,"Comment":"Initial Release in Eggs"},
         {"Start":{"Y":2020,"M":12,"D":14},"End":{"Y":2020,"M":12,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Secrets of the Jungle Event 2020)"},
         {"Start":{"Y":2020,"M":12,"D":14},"Type":2,"LocalizedStart":true,"Comment":"Secrets of the Jungle Event 2020"},
@@ -8598,7 +8598,7 @@
         {"Start":{"Y":2021,"M":4,"D":4},"End":{"Y":2021,"M":4,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Spring into Spring 2021)"},
         {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
         {"Start":{"Y":2021,"M":10,"D":1},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Secrets of the Jungle Event 2021)"},
-        {"Start":{"Y":2021,"M":10,"D":29},"End":{"Y":2021,"M":10,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Philadelphia 2021)"},
+        {"Start":{"Y":2021,"M":10,"D":29},"End":{"Y":2021,"M":10,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Philadelphia 2021"},
         {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":9,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola / Season of GO"},
         {"Start":{"Y":2022,"M":7,"D":25},"Type":1,"Comment":"Daily Adventure Incense"}
@@ -9196,7 +9196,7 @@
       "Data": [
         {"Start":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Luminous Legends X"},
         {"Start":{"Y":2022,"M":5,"D":10},"End":{"Y":2022,"M":5,"D":25},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":9,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone (Goyang 2022)"},
+        {"Start":{"Y":2022,"M":9,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Goyang 2022"},
         {"Start":{"Y":2022,"M":9,"D":24},"End":{"Y":2022,"M":9,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
