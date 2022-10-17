@@ -3882,7 +3882,8 @@
         {"Start":{"Y":2019,"M":2,"D":22},"End":{"Y":2019,"M":2,"D":26},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2019,"M":9,"D":2},"End":{"Y":2019,"M":9,"D":9},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Johto Journey)"},
         {"Start":{"Y":2020,"M":5,"D":8},"End":{"Y":2020,"M":5,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss (Throwback Challenge 2020: Johto)"},
-        {"Start":{"Y":2022,"M":1,"D":7},"End":{"Y":2022,"M":1,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Mountains of Power)"}
+        {"Start":{"Y":2022,"M":1,"D":7},"End":{"Y":2022,"M":1,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Mountains of Power)"},
+        {"Start":{"Y":2022,"M":11,"D":12},"End":{"Y":2022,"M":11,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss (November 2022 Community Day)"}
       ]
     },
     {
@@ -10020,6 +10021,11 @@
       "Data": [
         {"Start":{"Y":2021,"M":10,"D":1},"Shiny":1,"Type":21,"LocalizedStart":true,"Comment":"Search for Zarude!"}
       ]
+    },
+    {
+      "Species": 901,
+      "Available": true,
+      "Data": []
     },
     {
       "Species": 903,

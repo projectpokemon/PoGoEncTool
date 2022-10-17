@@ -60,7 +60,6 @@ public static class EvoUtil
             // Future evolutions (temporary, to be removed when they debut in GO)
             Stantler when destSpecies is Wyrdeer => false,
             Scyther when destSpecies is Kleavor => false,
-            Teddiursa or Ursaring when destSpecies is Ursaluna => false,
 
             _ => true,
         };
