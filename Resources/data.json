@@ -2507,7 +2507,8 @@
         {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"},
         {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Sapporo)"},
-        {"Start":{"Y":2022,"M":8,"D":24},"End":{"Y":2022,"M":8,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":8,"D":24},"End":{"Y":2022,"M":8,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Safari Zone: Taipei 2022)"}
       ]
     },
     {
@@ -3986,7 +3987,8 @@
       "Data": [
         {"Start":{"Y":2017,"M":2,"D":16},"Shiny":1,"Type":1,"Comment":"Initial Johto Release"},
         {"Start":{"Y":2022,"M":2,"D":26},"End":{"Y":2022,"M":2,"D":26},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Tour: Johto)"},
-        {"Start":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"}
+        {"Start":{"Y":2022,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Johto"},
+        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Safari Zone: Taipei 2022)"}
       ]
     },
     {
