@@ -770,7 +770,7 @@
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Team GO Rocket Event"},
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":2,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Team GO Rocket Celebration)"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2021,"M":5,"D":24},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Luminous Legends Y: Part 1)"},
-        {"Start":{"Y":2021,"M":9,"D":28},"End":{"Y":2021,"M":9,"D":28},"Type":1,"LocalizedStart":true,"Comment":"Spotlight Hour"},
+        {"Start":{"Y":2021,"M":9,"D":28},"End":{"Y":2021,"M":9,"D":28},"Type":1,"LocalizedStart":true,"Comment":"Pokémon Spotlight Hour: Alolan Meowth"},
         {"Start":{"Y":2022,"M":3,"D":1},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Alola"},
         {"Start":{"Y":2022,"M":10,"D":4},"End":{"Y":2022,"M":10,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":11,"D":18},"End":{"Y":2022,"M":11,"D":20},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Safari Zone: Singapore 2022"}
@@ -3610,7 +3610,7 @@
         {"Start":{"Y":2017,"M":8,"D":9},"End":{"Y":2017,"M":8,"D":15},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss (Pokémon GO Park)"},
         {"Start":{"Y":2019,"M":11,"D":7},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":40,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2020,"M":4,"D":1},"End":{"Y":2020,"M":4,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Tricky Pokémon 2020)"},
-        {"Start":{"Y":2020,"M":4,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Spotlight Hour"},
+        {"Start":{"Y":2020,"M":4,"D":21},"Type":1,"LocalizedStart":true,"Comment":"Pokémon Spotlight Hour: Wobbuffet"},
         {"Start":{"Y":2020,"M":11,"D":6},"End":{"Y":2020,"M":11,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Animation Week)"},
         {"Start":{"Y":2020,"M":11,"D":24},"End":{"Y":2020,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lake Legends Event)"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":11,"D":8},"Shiny":1,"Type":40,"Comment":"Team GO Rocket Grunt"},
@@ -8051,7 +8051,7 @@
       "Species": 570,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2022,"M":10,"D":25},"End":{"Y":2022,"M":10,"D":25},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Disguise Encounter (Spotlight Hour, Ended Early)"}
+        {"Start":{"Y":2022,"M":10,"D":25},"End":{"Y":2022,"M":10,"D":25},"Shiny":1,"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Disguise Encounter (Pokémon Spotlight Hour: Shuppet, Ended Early)"}
       ]
     },
     {
@@ -8500,7 +8500,7 @@
         {"Start":{"Y":2020,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Holidays 2020)"},
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Dragonspiral Descent)"},
-        {"Start":{"Y":2021,"M":12,"D":28},"End":{"Y":2021,"M":12,"D":28},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Spotlight Hour (No Costume)"},
+        {"Start":{"Y":2021,"M":12,"D":28},"End":{"Y":2021,"M":12,"D":28},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Pokémon Spotlight Hour: Cubchoo (No Costume)"},
         {"Start":{"Y":2021,"M":12,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Holidays 2021)"}
       ]
     },
