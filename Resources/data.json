@@ -2253,7 +2253,8 @@
         {"Start":{"Y":2020,"M":1,"D":24},"End":{"Y":2020,"M":2,"D":3},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":6,"D":17},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2022,"M":10,"D":8},"End":{"Y":2022,"M":10,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Raid Day: Mega Gyarados)"}
+        {"Start":{"Y":2022,"M":10,"D":8},"End":{"Y":2022,"M":10,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Raid Day: Mega Gyarados)"},
+        {"Start":{"Y":2022,"M":11,"D":8},"End":{"Y":2022,"M":11,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -4111,7 +4112,8 @@
         {"Start":{"Y":2021,"M":5,"D":15},"End":{"Y":2021,"M":6,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":7,"D":1},"End":{"Y":2021,"M":7,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":10,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":11,"D":23},"End":{"Y":2022,"M":12,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -9917,7 +9919,8 @@
         {"Start":{"Y":2022,"M":6,"D":5},"End":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2022, Day 2)"},
         {"Start":{"Y":2022,"M":6,"D":5},"Shiny":1,"Type":20,"LocalizedStart":true,"Comment":"A Radiant World"},
         {"Start":{"Y":2022,"M":6,"D":23},"Shiny":1,"Type":23,"Comment":"A Radiant World"},
-        {"Start":{"Y":2022,"M":9,"D":27},"End":{"Y":2022,"M":10,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
+        {"Start":{"Y":2022,"M":9,"D":27},"End":{"Y":2022,"M":10,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":11,"D":23},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
       ]
     },
     {
@@ -9955,6 +9958,14 @@
       "Data": [
         {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":9,"D":27},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Northern Hemisphere)"},
         {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light, Northern Hemisphere)"}
+      ]
+    },
+    {
+      "Species": 799,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":11,"D":8},"End":{"Y":2022,"M":11,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":11,"D":8},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"}
       ]
     },
     {
