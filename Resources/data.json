@@ -2693,7 +2693,7 @@
         {"Start":{"Y":2020,"M":9,"D":22},"End":{"Y":2020,"M":9,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Mega September: Mega Buddy Challenge)"},
         {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Dragonspiral Descent)"},
         {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":6,"D":30},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon TCG Crossover Event)"},
-        {"Start":{"Y":2022,"M":11,"D":1},"End":{"Y":2022,"M":11,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Día de Muertos 2022)"}
+        {"Start":{"Y":2022,"M":11,"D":1},"End":{"Y":2022,"M":11,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -3287,7 +3287,8 @@
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":40,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":10,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":2,"D":16},"End":{"Y":2022,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":11,"D":3},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -5074,7 +5075,7 @@
         {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":10,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":10,"D":20},"End":{"Y":2022,"M":11,"D":2},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Tier 3 During Día de Muertos 2022)"}
+        {"Start":{"Y":2022,"M":10,"D":20},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Later Became Tier 3)"}
       ]
     },
     {
@@ -5782,7 +5783,7 @@
         {"Start":{"Y":2022,"M":5,"D":4},"End":{"Y":2022,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss (Accidental Release)"},
         {"Start":{"Y":2022,"M":5,"D":9},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":7,"D":9},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":11,"D":2},"End":{"Y":2022,"M":11,"D":2},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Día de Muertos 2022, No Costume)"}
+        {"Start":{"Y":2022,"M":11,"D":2},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -5999,7 +6000,8 @@
         {"Start":{"Y":2020,"M":12,"D":12},"End":{"Y":2020,"M":12,"D":13},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (December 2020 Community Day)"},
         {"Start":{"Y":2021,"M":1,"D":19},"End":{"Y":2021,"M":1,"D":26},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss (Hoenn Celebration Event)"},
         {"Start":{"Y":2021,"M":5,"D":4},"End":{"Y":2021,"M":5,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Luminous Legends X)"},
-        {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":3},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"}
+        {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":3},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"},
+        {"Start":{"Y":2022,"M":11,"D":3},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -6734,7 +6736,8 @@
         {"Start":{"Y":2020,"M":5,"D":22},"End":{"Y":2020,"M":5,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Throwback Challenge 2020: Sinnoh)"},
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss (Pokémon GO 4th Anniversary Event, Previously Tier 1)"},
         {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":10,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":11,"D":21},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon Brilliant Diamond and Pokémon Shining Pearl Event)"}
+        {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":11,"D":21},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon Brilliant Diamond and Pokémon Shining Pearl Event)"},
+        {"Start":{"Y":2022,"M":11,"D":3},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -8654,7 +8657,7 @@
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"},
         {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Sapporo)"},
         {"Start":{"Y":2022,"M":8,"D":24},"End":{"Y":2022,"M":8,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":11,"D":1},"End":{"Y":2022,"M":11,"D":2},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Día de Muertos 2022)"}
+        {"Start":{"Y":2022,"M":11,"D":1},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -8662,7 +8665,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2019,"M":9,"D":16},"Shiny":1,"Type":1,"Comment":"A Unova Unveiling"},
-        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Dragonspiral Descent)"}
+        {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Dragonspiral Descent)"},
+        {"Start":{"Y":2022,"M":11,"D":3},"End":{"Y":2022,"M":11,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
