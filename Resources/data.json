@@ -22,7 +22,7 @@
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Kanto Celebration Event)"},
         {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (New Pokémon Snap Celebration)"},
         {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":7,"D":9},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"},
+        {"Start":{"Y":2022,"M":7,"D":9},"End":{"Y":2022,"M":11,"D":14},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"},
         {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
@@ -79,7 +79,7 @@
         {"Start":{"Y":2021,"M":12,"D":18},"End":{"Y":2021,"M":12,"D":19},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (December 2021 Community Day)"},
         {"Start":{"Y":2022,"M":5,"D":8},"End":{"Y":2022,"M":7,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":6},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":9},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"},
+        {"Start":{"Y":2022,"M":7,"D":9},"End":{"Y":2022,"M":11,"D":14},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"},
         {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
@@ -135,7 +135,7 @@
         {"Start":{"Y":2020,"M":11,"D":3},"End":{"Y":2020,"M":11,"D":3},"Type":10,"Comment":"Tier 1 Raid Boss (Halloween 2020, No Costume)"},
         {"Start":{"Y":2021,"M":2,"D":21},"End":{"Y":2021,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Kanto Celebration Event)"},
         {"Start":{"Y":2022,"M":1,"D":24},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":7,"D":9},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"},
+        {"Start":{"Y":2022,"M":7,"D":9},"End":{"Y":2022,"M":11,"D":14},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"},
         {"Start":{"Y":2022,"M":7,"D":13},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
@@ -867,7 +867,8 @@
         {"Start":{"Y":2019,"M":11,"D":26},"End":{"Y":2019,"M":12,"D":5},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2019,"M":12,"D":13},"End":{"Y":2019,"M":12,"D":17},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":13},"End":{"Y":2021,"M":4,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Rivals' Week)"},
-        {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2021,"M":6,"D":21},"End":{"Y":2021,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":11,"D":9},"End":{"Y":2022,"M":11,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Greedy Gluttons)"}
       ]
     },
     {
@@ -1012,7 +1013,8 @@
         {"Start":{"Y":2022,"M":4,"D":3},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":40,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2022,"M":8,"D":3},"End":{"Y":2022,"M":8,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":8,"D":24},"End":{"Y":2022,"M":8,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":8,"D":24},"End":{"Y":2022,"M":8,"D":25},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":11,"D":14},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"}
       ]
     },
     {
@@ -2546,7 +2548,8 @@
         {"Start":{"Y":2022,"M":7,"D":22},"End":{"Y":2022,"M":7,"D":24},"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Seattle)"},
         {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Sapporo)"},
         {"Start":{"Y":2022,"M":8,"D":24},"End":{"Y":2022,"M":8,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Safari Zone: Taipei 2022)"}
+        {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Safari Zone: Taipei 2022)"},
+        {"Start":{"Y":2022,"M":11,"D":9},"End":{"Y":2022,"M":11,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Greedy Gluttons)"}
       ]
     },
     {
@@ -2713,7 +2716,8 @@
         {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2022,"M":2,"D":27},"End":{"Y":2022,"M":2,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Tour: Live)"},
         {"Start":{"Y":2022,"M":6,"D":16},"End":{"Y":2022,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11, Accidental IV Floor Removal)"}
+        {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11, Accidental IV Floor Removal)"},
+        {"Start":{"Y":2022,"M":11,"D":14},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni"}
       ]
     },
     {
@@ -3986,7 +3990,8 @@
         {"Start":{"Y":2021,"M":9,"D":20},"End":{"Y":2021,"M":9,"D":22},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt (Accidental Release)"},
         {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2021,"M":12,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Holidays 2021: Part 1)"},
         {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":6,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":6,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":11,"D":9},"End":{"Y":2022,"M":11,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Greedy Gluttons)"}
       ]
     },
     {
@@ -5076,7 +5081,8 @@
         {"Start":{"Y":2021,"M":7,"D":16},"End":{"Y":2021,"M":7,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":10,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":10,"D":20},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Later Became Tier 3)"}
+        {"Start":{"Y":2022,"M":10,"D":20},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Later Became Tier 3)"},
+        {"Start":{"Y":2022,"M":11,"D":14},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"}
       ]
     },
     {
@@ -5122,7 +5128,9 @@
         {"Start":{"Y":2022,"M":2,"D":15},"End":{"Y":2022,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":9,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":10,"D":4},"End":{"Y":2022,"M":10,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":10,"D":12},"End":{"Y":2022,"M":10,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":10,"D":12},"End":{"Y":2022,"M":10,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":11,"D":9},"End":{"Y":2022,"M":11,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Greedy Gluttons)"},
+        {"Start":{"Y":2022,"M":11,"D":14},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"}
       ]
     },
     {
@@ -5316,7 +5324,8 @@
       "Species": 317,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Team GO Rocket Event)"}
+        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Team GO Rocket Event)"},
+        {"Start":{"Y":2022,"M":11,"D":9},"End":{"Y":2022,"M":11,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Greedy Gluttons)"}
       ]
     },
     {
@@ -5359,7 +5368,8 @@
         {"Start":{"Y":2019,"M":9,"D":9},"End":{"Y":2019,"M":9,"D":23},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2019,"M":10,"D":17},"End":{"Y":2019,"M":11,"D":1},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Halloween 2019)"},
         {"Start":{"Y":2020,"M":2,"D":25},"End":{"Y":2020,"M":3,"D":2},"Shiny":1,"Type":10,"Comment":"Tier 3 Raid Boss (Pokémon Day 2020)"},
-        {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (New Pokémon Snap Celebration)"}
+        {"Start":{"Y":2021,"M":4,"D":29},"End":{"Y":2021,"M":5,"D":2},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (New Pokémon Snap Celebration)"},
+        {"Start":{"Y":2022,"M":11,"D":9},"End":{"Y":2022,"M":11,"D":17},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Greedy Gluttons)"}
       ]
     },
     {
@@ -5429,7 +5439,8 @@
       "Data": [
         {"Start":{"Y":2017,"M":12,"D":8},"Shiny":1,"Type":1,"Comment":"Initial Hoenn Release"},
         {"Start":{"Y":2019,"M":2,"D":4},"Type":1,"Comment":"Lunar New Year 2019"},
-        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":30},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Psychic Spectacular 2020)"}
+        {"Start":{"Y":2020,"M":3,"D":27},"End":{"Y":2020,"M":3,"D":30},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Psychic Spectacular 2020)"},
+        {"Start":{"Y":2022,"M":11,"D":9},"End":{"Y":2022,"M":11,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Greedy Gluttons)"}
       ]
     },
     {
@@ -6162,7 +6173,7 @@
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Wind Hour)"},
         {"Start":{"Y":2022,"M":5,"D":3},"End":{"Y":2022,"M":5,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":8},"End":{"Y":2022,"M":5,"D":8},"Type":1,"LocalizedStart":true,"Comment":"Surprise Encounter (Pokémon Air Adventures: Okinawa, Day 2)"},
-        {"Start":{"Y":2022,"M":7,"D":9},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni"},
+        {"Start":{"Y":2022,"M":7,"D":9},"End":{"Y":2022,"M":11,"D":13},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Boss Giovanni"},
         {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Pokémon GO Safari Zone: Taipei 2022)"}
       ]
     },
@@ -6929,7 +6940,8 @@
       "Species": 446,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":2,"Comment":"Holidays 2018"}
+        {"Start":{"Y":2018,"M":12,"D":18},"Shiny":1,"Type":2,"Comment":"Holidays 2018"},
+        {"Start":{"Y":2022,"M":11,"D":9},"Type":2,"LocalizedStart":true,"Comment":"Greedy Gluttons"}
       ]
     },
     {
@@ -7427,7 +7439,8 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss (Unova Celebration Event)"},
         {"Start":{"Y":2021,"M":7,"D":3},"Type":1,"LocalizedStart":true,"Comment":"July 2021 Community Day"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":11,"D":9},"End":{"Y":2022,"M":11,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Greedy Gluttons)"}
       ]
     },
     {
@@ -8687,7 +8700,9 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":10,"D":12},"Shiny":1,"Type":3,"Comment":"The Seasons Change"},
-        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"Comment":"Level 43 Challenge"}
+        {"Start":{"Y":2020,"M":11,"D":30},"Shiny":1,"Type":20,"Comment":"Level 43 Challenge"},
+        {"Start":{"Y":2022,"M":11,"D":14},"Type":3,"LocalizedStart":true,"Comment":"Greedy Gluttons"},
+        {"Start":{"Y":2022,"M":11,"D":14},"Type":20,"LocalizedStart":true,"Comment":"Level 43 Challenge"}
       ]
     },
     {
