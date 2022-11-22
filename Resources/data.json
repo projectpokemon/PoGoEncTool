@@ -1103,7 +1103,8 @@
       "Data": [
         {"Start":{"Y":2017,"M":11,"D":4},"End":{"Y":2018,"M":2,"D":9},"Shiny":1,"Type":10,"Comment":"Tier 2 Raid Boss"},
         {"Start":{"Y":2018,"M":6,"D":7},"End":{"Y":2018,"M":6,"D":21},"Shiny":1,"Type":10,"Comment":"Tier 2 Raid Boss (Water Festival 2018)"},
-        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Team GO Rocket Event, Previously Tier 2)"}
+        {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2020,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Team GO Rocket Event, Previously Tier 2)"},
+        {"Start":{"Y":2022,"M":11,"D":23},"End":{"Y":2022,"M":11,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Astral Eclipse)"}
       ]
     },
     {
@@ -6772,7 +6773,8 @@
         {"Start":{"Y":2020,"M":7,"D":7},"End":{"Y":2020,"M":7,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss (Pokémon GO 4th Anniversary Event, Previously Tier 1)"},
         {"Start":{"Y":2021,"M":10,"D":12},"End":{"Y":2021,"M":10,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":16},"End":{"Y":2021,"M":11,"D":21},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon Brilliant Diamond and Pokémon Shining Pearl Event)"},
-        {"Start":{"Y":2022,"M":11,"D":3},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":11,"D":3},"End":{"Y":2022,"M":11,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2022,"M":11,"D":23},"End":{"Y":2022,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Astral Eclipse)"}
       ]
     },
     {
@@ -8373,7 +8375,8 @@
         {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Shiny":1,"Gender":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale (Ultra Incursion: Nihilego)"},
         {"Start":{"Y":2022,"M":10,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Gender":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"},
         {"Start":{"Y":2022,"M":10,"D":16},"End":{"Y":2022,"M":10,"D":16},"Shiny":1,"Gender":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"},
-        {"Start":{"Y":2022,"M":11,"D":13},"End":{"Y":2022,"M":11,"D":13},"Shiny":1,"Gender":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"}
+        {"Start":{"Y":2022,"M":11,"D":13},"End":{"Y":2022,"M":11,"D":13},"Shiny":1,"Gender":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"},
+        {"Start":{"Y":2022,"M":11,"D":23},"End":{"Y":2022,"M":11,"D":28},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Astral Eclipse)"}
       ]
     },
     {
@@ -8775,7 +8778,7 @@
         {"Start":{"Y":2022,"M":7,"D":31},"End":{"Y":2022,"M":7,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Raid Day: Hisuian Braviary)"},
         {"Start":{"Y":2022,"M":10,"D":14},"End":{"Y":2022,"M":10,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Festival of Lights 2022)"},
         {"Start":{"Y":2022,"M":11,"D":8},"End":{"Y":2022,"M":11,"D":9},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":11,"D":18},"End":{"Y":2022,"M":11,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":11,"D":18},"End":{"Y":2022,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
       ]
     },
     {
@@ -9389,7 +9392,8 @@
       "Data": [
         {"Start":{"Y":2021,"M":9,"D":8},"End":{"Y":2021,"M":9,"D":13},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Psychic Spectacular 2021)"},
         {"Start":{"Y":2021,"M":9,"D":8},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Psychic Spectacular 2021"},
-        {"Start":{"Y":2022,"M":9,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Inkay Limited Research"}
+        {"Start":{"Y":2022,"M":9,"D":3},"Type":1,"LocalizedStart":true,"Comment":"Inkay Limited Research"},
+        {"Start":{"Y":2022,"M":11,"D":23},"End":{"Y":2022,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Astral Eclipse)"}
       ]
     },
     {
@@ -9820,7 +9824,7 @@
         {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":9,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":9,"D":22},"End":{"Y":2022,"M":9,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":11,"D":8},"End":{"Y":2022,"M":11,"D":9},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":11,"D":18},"End":{"Y":2022,"M":11,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":11,"D":18},"End":{"Y":2022,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
       ]
     },
     {
@@ -10055,7 +10059,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":9,"D":27},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Southern Hemisphere)"},
-        {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light, Southern Hemisphere)"}
+        {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light, Southern Hemisphere)"},
+        {"Start":{"Y":2022,"M":11,"D":27},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Ultra Beast Arrival: Global"}
       ]
     },
     {
@@ -10063,7 +10068,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":9,"D":27},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Northern Hemisphere)"},
-        {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light, Northern Hemisphere)"}
+        {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light, Northern Hemisphere)"},
+        {"Start":{"Y":2022,"M":11,"D":27},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Ultra Beast Arrival: Global"}
       ]
     },
     {
@@ -10071,7 +10077,8 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2022,"M":11,"D":8},"End":{"Y":2022,"M":11,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":11,"D":8},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"}
+        {"Start":{"Y":2022,"M":11,"D":8},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"},
+        {"Start":{"Y":2022,"M":11,"D":27},"Shiny":1,"Type":23,"LocalizedStart":true,"Comment":"Ultra Beast Arrival: Global"}
       ]
     },
     {
