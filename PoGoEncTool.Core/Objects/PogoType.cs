@@ -16,6 +16,8 @@ public enum PogoType : byte
     Raid = 10,
     /// <summary> Mythical Pokémon captured after completing Raid Battles. </summary>
     RaidM,
+    /// <summary> Ultra Beasts captured after completing Raid Battles. Only Beast Balls can be used. </summary>
+    RaidUB,
 
     /// <summary> Pokémon captured after completing Field Research. </summary>
     Research = 20,
