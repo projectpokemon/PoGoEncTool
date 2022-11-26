@@ -56,6 +56,7 @@ public static class PogoPickler
         PB7 = 1,
         PK8 = 2,
         PA8 = 3,
+        PK9 = 4,
     }
 
     private static PogoImportFormat GetGroup(ushort species, byte form)
@@ -64,6 +65,7 @@ public static class PogoPickler
         // If it can exist in LGP/E, it uses LGP/E's move data for the initial import.
         // Else, if it can exist in SW/SH, it uses SW/SH's move data for the initial import.
         // Else, if it can exist in PLA, it uses PLA move data for the initial import.
+        // Else, if it can exist in SV, it uses SV move data for the initial import.
         // Else, it must exist in US/UM, thus it uses US/UM for the initial import.
 
         if (species is (<= 151 or 808 or 809))
@@ -88,6 +90,12 @@ public static class PogoPickler
         {
             if (PersonalTable.LA.IsPresentInGame(species, form))
                 return PogoImportFormat.PA8;
+        }
+
+        if (species <= 1010) // Legal.MaxSpeciesID_9
+        {
+            if (PersonalTable.SV.IsPresentInGame(species, form))
+                return PogoImportFormat.PK9;
         }
 
         if (species <= 807) // Legal.MaxSpeciesID_7_USUM

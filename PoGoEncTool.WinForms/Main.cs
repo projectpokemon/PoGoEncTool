@@ -24,6 +24,8 @@ public partial class Main : Form
     public Main()
     {
         InitializeComponent();
+        SpriteUtil.ChangeMode(SpriteBuilderMode.SpritesArtwork5668);
+        SpriteName.AllowShinySprite = true;
 
         Entries = DataLoader.GetData(Application.StartupPath, out Settings);
         // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = Core.PogoType.Shadow);
@@ -32,8 +34,6 @@ public partial class Main : Form
 
         LoadEntries();
         InitializeDataSources();
-        SpriteBuilderUtil.SpriterPreference = SpriteBuilderPreference.ForceSprites;
-        SpriteName.AllowShinySprite = true;
     }
 
     private void InitializeDataSources()
@@ -49,7 +49,7 @@ public partial class Main : Form
     private void LoadEntries()
     {
         var species = GameInfo.Strings.Species;
-        var entries = species.Select((z, i) => $"{i:000} - {z}").ToArray();
+        var entries = species.Select((z, i) => $"{i:0000} - {z}").ToArray();
         LB_Species.Items.AddRange(entries);
     }
 

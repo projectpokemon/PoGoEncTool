@@ -15,10 +15,11 @@ public static class EvoUtil
             return new[] { melmetal };
         }
 
+        var sv = Get(PersonalTable.SV,   EntityContext.Gen9,  species, form);
         var la = Get(PersonalTable.LA,   EntityContext.Gen8a, species, form);
         var ss = Get(PersonalTable.SWSH, EntityContext.Gen8,  species, form);
         var uu = Get(PersonalTable.USUM, EntityContext.Gen7,  species, form);
-        return la.Concat(ss).Concat(uu).Distinct();
+        return sv.Concat(la).Concat(ss).Concat(uu).Distinct();
     }
 
     private static IEnumerable<(ushort Species, byte Form)> Get(IPersonalTable table, EntityContext context, ushort species, byte form)
@@ -60,6 +61,10 @@ public static class EvoUtil
             // Future evolutions (temporary, to be removed when they debut in GO)
             Stantler when destSpecies is Wyrdeer => false,
             Scyther when destSpecies is Kleavor => false,
+            Dunsparce when destSpecies is Dudunsparce => false,
+            Girafarig when destSpecies is Farigiraf => false,
+            Pawniard or Bisharp when destSpecies is Kingambit => false,
+            Mankey or Primeape when destSpecies is Annihilape => false,
 
             _ => true,
         };
