@@ -2092,7 +2092,8 @@
         {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale (Ultra Incursion: Pheromosa)"},
         {"Start":{"Y":2022,"M":8,"D":27},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Finale (Ultra Incursion: Pheromosa)"},
         {"Start":{"Y":2022,"M":10,"D":16},"End":{"Y":2022,"M":10,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"},
-        {"Start":{"Y":2022,"M":11,"D":13},"End":{"Y":2022,"M":11,"D":13},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"}
+        {"Start":{"Y":2022,"M":11,"D":13},"End":{"Y":2022,"M":11,"D":13},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"},
+        {"Start":{"Y":2022,"M":12,"D":1},"Type":20,"Comment":"Research Breakthrough"}
       ]
     },
     {
@@ -3931,7 +3932,9 @@
       "Form": 1,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2022,"M":7,"D":27},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Hisuian Discoveries"}
+        {"Start":{"Y":2022,"M":7,"D":27},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Hisuian Discoveries"},
+        {"Start":{"Y":2022,"M":12,"D":4},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"},
+        {"Start":{"Y":2023,"M":1,"D":14},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
     },
     {
@@ -4517,7 +4520,9 @@
     {
       "Species": 254,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2022,"M":12,"D":3},"End":{"Y":2022,"M":12,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Raid Day: Heading to Hoenn)"}
+      ]
     },
     {
       "Species": 255,
@@ -4555,7 +4560,8 @@
         {"Start":{"Y":2019,"M":11,"D":14},"End":{"Y":2019,"M":11,"D":19},"Shiny":1,"Type":10,"Comment":"Tier 4 Raid Boss"},
         {"Start":{"Y":2021,"M":2,"D":9},"End":{"Y":2021,"M":2,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Lunar New Year 2021)"},
         {"Start":{"Y":2021,"M":2,"D":19},"End":{"Y":2021,"M":2,"D":20},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":1,"D":5},"End":{"Y":2022,"M":1,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":1,"D":5},"End":{"Y":2022,"M":1,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":12,"D":3},"End":{"Y":2022,"M":12,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Raid Day: Heading to Hoenn)"}
       ]
     },
     {
@@ -4592,7 +4598,8 @@
       "Species": 260,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss"}
+        {"Start":{"Y":2020,"M":3,"D":10},"End":{"Y":2020,"M":3,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss"},
+        {"Start":{"Y":2022,"M":12,"D":3},"End":{"Y":2022,"M":12,"D":3},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Raid Day: Heading to Hoenn)"}
       ]
     },
     {
@@ -5197,7 +5204,8 @@
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":6,"D":7},"End":{"Y":2022,"M":6,"D":12},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Adventure Week 2022)"},
-        {"Start":{"Y":2022,"M":9,"D":16},"End":{"Y":2022,"M":9,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2022,"M":9,"D":16},"End":{"Y":2022,"M":9,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":12,"D":8},"End":{"Y":2022,"M":12,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -5935,7 +5943,8 @@
         {"Start":{"Y":2021,"M":4,"D":26},"End":{"Y":2021,"M":4,"D":29},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":5,"D":3},"End":{"Y":2021,"M":5,"D":4},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":3,"D":21},"End":{"Y":2022,"M":3,"D":22},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"}
+        {"Start":{"Y":2022,"M":4,"D":26},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
+        {"Start":{"Y":2022,"M":12,"D":15},"End":{"Y":2023,"M":1,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -7136,7 +7145,8 @@
         {"Start":{"Y":2021,"M":3,"D":16},"End":{"Y":2021,"M":4,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":4,"D":20},"End":{"Y":2021,"M":5,"D":4},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":23},"End":{"Y":2022,"M":1,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
-        {"Start":{"Y":2022,"M":7,"D":31},"End":{"Y":2022,"M":8,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2022,"M":7,"D":31},"End":{"Y":2022,"M":8,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2022,"M":12,"D":1},"End":{"Y":2022,"M":12,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -8271,7 +8281,8 @@
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Celebration (Southern Hemisphere)"},
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Discovery (Northern Hemisphere)"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Heritage (Southern Hemisphere)"},
-        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of GO (Northern Hemisphere)"}
+        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of GO (Northern Hemisphere)"},
+        {"Start":{"Y":2022,"M":12,"D":1},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Mythical Wishes (Southern Hemisphere)"}
       ]
     },
     {
@@ -8295,7 +8306,8 @@
         {"Start":{"Y":2020,"M":12,"D":1},"End":{"Y":2021,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Celebration (Northern Hemisphere)"},
         {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Discovery (Southern Hemisphere)"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Heritage (Northern Hemisphere)"},
-        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of GO (Southern Hemisphere)"}
+        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of GO (Southern Hemisphere)"},
+        {"Start":{"Y":2022,"M":12,"D":1},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Season of Mythical Wishes (Northern Hemisphere)"}
       ]
     },
     {
@@ -8667,14 +8679,15 @@
       "Species": 619,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter"},
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter"},
         {"Start":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Season of Mischief"},
         {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
         {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
         {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"},
         {"Start":{"Y":2022,"M":10,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"},
         {"Start":{"Y":2022,"M":10,"D":16},"End":{"Y":2022,"M":10,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"},
-        {"Start":{"Y":2022,"M":11,"D":13},"End":{"Y":2022,"M":11,"D":13},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"}
+        {"Start":{"Y":2022,"M":11,"D":13},"End":{"Y":2022,"M":11,"D":13},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"},
+        {"Start":{"Y":2023,"M":1,"D":14},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
     },
     {
@@ -8848,7 +8861,9 @@
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Thunder Hour)"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":29},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
-        {"Start":{"Y":2021,"M":11,"D":29},"End":{"Y":2021,"M":11,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound, Day 4)"}
+        {"Start":{"Y":2021,"M":11,"D":29},"End":{"Y":2021,"M":11,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound, Day 4)"},
+        {"Start":{"Y":2022,"M":12,"D":15},"End":{"Y":2022,"M":12,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":12,"D":15},"End":{"Y":2023,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
     },
     {
@@ -8862,7 +8877,9 @@
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Lava Hour)"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":29},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
-        {"Start":{"Y":2021,"M":11,"D":29},"End":{"Y":2021,"M":11,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound, Day 4)"}
+        {"Start":{"Y":2021,"M":11,"D":29},"End":{"Y":2021,"M":11,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound, Day 4)"},
+        {"Start":{"Y":2022,"M":12,"D":8},"End":{"Y":2022,"M":12,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":12,"D":8},"End":{"Y":2023,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
     },
     {
@@ -8876,7 +8893,9 @@
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Wind Hour)"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":29},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
-        {"Start":{"Y":2021,"M":11,"D":29},"End":{"Y":2021,"M":11,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound, Day 4)"}
+        {"Start":{"Y":2021,"M":11,"D":29},"End":{"Y":2021,"M":11,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound, Day 4)"},
+        {"Start":{"Y":2022,"M":12,"D":1},"End":{"Y":2022,"M":12,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":12,"D":6},"End":{"Y":2023,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
     },
     {
@@ -8977,7 +8996,16 @@
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Frost Hour)"},
         {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2022,"M":1,"D":7},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2022,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
-        {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":9,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
+        {"Start":{"Y":2022,"M":9,"D":13},"End":{"Y":2022,"M":9,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":12,"D":23},"End":{"Y":2023,"M":1,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2022,"M":12,"D":23},"End":{"Y":2023,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
+      ]
+    },
+    {
+      "Species": 647,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":12,"D":10},"Shiny":1,"Type":21,"LocalizedStart":true,"Comment":"Something Extraordinary: Keldeo Special Research"}
       ]
     },
     {
@@ -9607,6 +9635,14 @@
       "Species": 713,
       "Available": true,
       "Data": []
+    },
+    {
+      "Species": 713,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {"Start":{"Y":2022,"M":12,"D":24},"End":{"Y":2022,"M":12,"D":24},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Raid Day: Hisuian Avalugg)"}
+      ]
     },
     {
       "Species": 714,
