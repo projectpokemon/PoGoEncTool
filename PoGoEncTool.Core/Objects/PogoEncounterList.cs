@@ -155,8 +155,8 @@ public class PogoEncounterList
 
     private static PogoDate? GetEndDate(ISpeciesForm evo) => evo.Species switch
     {
-        (int)Species.Exeggutor when evo.Form == 1 => new PogoDate(2022, 4, 29), // An Egg-citing Spring Surprise Makeup Event
-        (int)Species.Marowak when evo.Form == 1 => new PogoDate(2022, 5, 31), // Alola to Alola
+        (int)Species.Exeggutor when evo.Form == 1 => new PogoDate(2022, 11, 26), // Ultra Beast Arrival: London / Los Angeles
+        (int)Species.Marowak   when evo.Form == 1 => new PogoDate(2022, 11, 26), // Ultra Beast Arrival: London / Los Angeles
         _ => null,
     };
 
