@@ -3941,6 +3941,7 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2022,"M":7,"D":27},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Hisuian Discoveries"},
+        {"Start":{"Y":2022,"M":12,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"Comment":"Reward Encounter (Season of Light, Accidental Release)"},
         {"Start":{"Y":2022,"M":12,"D":4},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"},
         {"Start":{"Y":2023,"M":1,"D":14},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
@@ -8103,7 +8104,8 @@
         {"Start":{"Y":2022,"M":2,"D":1},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Lunar New Year 2022"},
         {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":8,"D":23},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"2022 Pokémon World Championships Event"},
         {"Start":{"Y":2022,"M":8,"D":18},"End":{"Y":2022,"M":8,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (2022 Pokémon World Championships Event)"},
-        {"Start":{"Y":2022,"M":9,"D":27},"End":{"Y":2022,"M":10,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":9,"D":27},"End":{"Y":2022,"M":10,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2023,"M":1,"D":14},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
     },
     {
@@ -8435,7 +8437,8 @@
         {"Start":{"Y":2022,"M":10,"D":16},"End":{"Y":2022,"M":10,"D":16},"Shiny":1,"Gender":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"},
         {"Start":{"Y":2022,"M":11,"D":13},"End":{"Y":2022,"M":11,"D":13},"Shiny":1,"Gender":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"},
         {"Start":{"Y":2022,"M":11,"D":23},"End":{"Y":2022,"M":11,"D":28},"Shiny":1,"Gender":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Astral Eclipse)"},
-        {"Start":{"Y":2022,"M":11,"D":23},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Gender":2,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":11,"D":23},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Gender":2,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2023,"M":1,"D":14},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Gender":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
     },
     {
@@ -8727,15 +8730,14 @@
       "Species": 619,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter"},
+        {"Start":{"Y":2021,"M":6,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter"},
         {"Start":{"Y":2021,"M":9,"D":1},"Shiny":1,"Type":2,"LocalizedStart":true,"Comment":"Season of Mischief"},
         {"Start":{"Y":2021,"M":9,"D":18},"End":{"Y":2021,"M":11,"D":29},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
         {"Start":{"Y":2022,"M":1,"D":8},"End":{"Y":2022,"M":3,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
         {"Start":{"Y":2022,"M":6,"D":18},"End":{"Y":2022,"M":9,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season 11)"},
         {"Start":{"Y":2022,"M":10,"D":1},"End":{"Y":2022,"M":12,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Light)"},
         {"Start":{"Y":2022,"M":10,"D":16},"End":{"Y":2022,"M":10,"D":16},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"},
-        {"Start":{"Y":2022,"M":11,"D":13},"End":{"Y":2022,"M":11,"D":13},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"},
-        {"Start":{"Y":2023,"M":1,"D":14},"End":{"Y":2023,"M":3,"D":1},"Shiny":1,"Type":32,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
+        {"Start":{"Y":2022,"M":11,"D":13},"End":{"Y":2022,"M":11,"D":13},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"}
       ]
     },
     {
@@ -8942,6 +8944,7 @@
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2021,"M":11,"D":5},"End":{"Y":2021,"M":11,"D":29},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 9)"},
         {"Start":{"Y":2021,"M":11,"D":29},"End":{"Y":2021,"M":11,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound, Day 4)"},
+        {"Start":{"Y":2022,"M":12,"D":1},"End":{"Y":2022,"M":12,"D":1},"Type":30,"Comment":"Reward Encounter (Season of Light)"},
         {"Start":{"Y":2022,"M":12,"D":1},"End":{"Y":2022,"M":12,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2022,"M":12,"D":6},"End":{"Y":2023,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
