@@ -9149,13 +9149,16 @@
       "Available": true,
       "Data": [
         {"Start":{"Y":2020,"M":12,"D":2},"Shiny":1,"Type":1,"LocalizedStart":true,"Comment":"Kalos Celebration Event"},
-        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO 5th Anniversary Event)"}
+        {"Start":{"Y":2021,"M":7,"D":6},"End":{"Y":2021,"M":7,"D":15},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO 5th Anniversary Event)"},
+        {"Start":{"Y":2023,"M":1,"D":7},"Type":1,"LocalizedStart":true,"Comment":"January 2023 Community Day"}
       ]
     },
     {
       "Species": 651,
       "Available": true,
-      "Data": []
+      "Data": [
+        {"Start":{"Y":2023,"M":1,"D":7},"End":{"Y":2023,"M":1,"D":7},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 4 Raid Boss (January 2023 Community Day)"}
+      ]
     },
     {
       "Species": 652,
