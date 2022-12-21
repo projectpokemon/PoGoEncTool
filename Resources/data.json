@@ -346,13 +346,13 @@
         {"Start":{"Y":2021,"M":4,"D":8},"End":{"Y":2021,"M":4,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Spring into Spring 2021, No Costume)"},
         {"Start":{"Y":2021,"M":7,"D":15},"End":{"Y":2021,"M":7,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO 5th Anniversary Event, No Costume)"},
         {"Start":{"Y":2021,"M":10,"D":10},"End":{"Y":2021,"M":10,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Secrets of the Jungle Event 2021, No Costume)"},
-        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2021, No Costume)"},
+        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2021: Part 2, No Costume)"},
         {"Start":{"Y":2022,"M":1,"D":19},"End":{"Y":2022,"M":2,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Power Plant Event)"},
         {"Start":{"Y":2022,"M":6,"D":4},"End":{"Y":2022,"M":6,"D":5},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Pokémon GO Fest 2022, No Costume)"},
         {"Start":{"Y":2022,"M":7,"D":12},"End":{"Y":2022,"M":7,"D":14},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":8,"D":23},"End":{"Y":2022,"M":8,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (2022 Pokémon World Championships Event, No Costume)"},
         {"Start":{"Y":2022,"M":8,"D":27},"End":{"Y":2022,"M":8,"D":27},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Pokémon GO Fest 2022: Finale, No Costume)"},
-        {"Start":{"Y":2022,"M":12,"D":23},"End":{"Y":2022,"M":12,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2022: Part 1, No Costume)"}
+        {"Start":{"Y":2022,"M":12,"D":31},"End":{"Y":2022,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2022: Part 2, No Costume)"}
       ]
     },
     {
@@ -439,7 +439,8 @@
         {"Start":{"Y":2021,"M":6,"D":14},"End":{"Y":2021,"M":6,"D":17},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2021,"M":12,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2021: Part 1)"},
         {"Start":{"Y":2022,"M":4,"D":3},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":40,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2022,"M":12,"D":23},"End":{"Y":2022,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2022: Part 2)"}
       ]
     },
     {
@@ -1503,7 +1504,7 @@
         {"Start":{"Y":2020,"M":5,"D":1},"End":{"Y":2020,"M":5,"D":8},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 2 Raid Boss (Throwback Challenge 2020: Kanto)"},
         {"Start":{"Y":2021,"M":5,"D":18},"End":{"Y":2022,"M":1,"D":23},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":12,"D":16},"End":{"Y":2021,"M":12,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2021: Part 1)"},
-        {"Start":{"Y":2022,"M":12,"D":15},"End":{"Y":2022,"M":12,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2022: Part 1)"}
+        {"Start":{"Y":2022,"M":12,"D":15},"End":{"Y":2022,"M":12,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2022)"}
       ]
     },
     {
@@ -2350,7 +2351,7 @@
         {"Start":{"Y":2022,"M":5,"D":20},"End":{"Y":2022,"M":5,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Water Festival 2022, No Costume)"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2022,"M":8,"D":25},"End":{"Y":2022,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":12,"D":15},"End":{"Y":2022,"M":12,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2022: Part 1)"}
+        {"Start":{"Y":2022,"M":12,"D":15},"End":{"Y":2022,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2022)"}
       ]
     },
     {
@@ -2373,7 +2374,8 @@
         {"Start":{"Y":2021,"M":4,"D":8},"End":{"Y":2021,"M":4,"D":8},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Spring into Spring 2021, No Costume)"},
         {"Start":{"Y":2021,"M":5,"D":25},"End":{"Y":2021,"M":5,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Luminous Legends Y: Part 2)"},
         {"Start":{"Y":2022,"M":7,"D":1},"End":{"Y":2022,"M":7,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":12,"D":17},"End":{"Y":2022,"M":12,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (December 2022 Community Day)"}
+        {"Start":{"Y":2022,"M":12,"D":17},"End":{"Y":2022,"M":12,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (December 2022 Community Day)"},
+        {"Start":{"Y":2022,"M":12,"D":31},"End":{"Y":2022,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2022: Part 2, No Costume)"}
       ]
     },
     {
@@ -4110,8 +4112,12 @@
         {"Start":{"Y":2019,"M":12,"D":24},"End":{"Y":2020,"M":1,"D":2},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":12,"D":1},"End":{"Y":2021,"M":12,"D":16},"Type":1,"LocalizedStart":true,"Comment":"Season of Heritage (Northern Hemisphere)"},
         {"Start":{"Y":2021,"M":12,"D":1},"Type":20,"Comment":"Field Research Tasks"},
-        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2021, No Costume)"},
-        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Heritage / Season of Alola (Northern Hemisphere)"}
+        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2021: Part 2, No Costume)"},
+        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2022,"M":6,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Heritage / Season of Alola (Northern Hemisphere)"},
+        {"Start":{"Y":2022,"M":6,"D":1},"End":{"Y":2022,"M":9,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of GO (Southern Hemisphere)"},
+        {"Start":{"Y":2022,"M":12,"D":1},"End":{"Y":2022,"M":12,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Season of Mythical Wishes (Northern Hemisphere)"},
+        {"Start":{"Y":2022,"M":12,"D":31},"End":{"Y":2022,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2022: Part 2, No Costume)"},
+        {"Start":{"Y":2022,"M":12,"D":31},"End":{"Y":2023,"M":3,"D":1},"Type":1,"LocalizedStart":true,"Comment":"Season of Mythical Wishes (Northern Hemisphere)"}
       ]
     },
     {
@@ -4262,10 +4268,10 @@
         {"Start":{"Y":2020,"M":1,"D":1},"Type":20,"Comment":"Field Research Tasks"},
         {"Start":{"Y":2020,"M":3,"D":7},"End":{"Y":2020,"M":3,"D":7},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"},
         {"Start":{"Y":2020,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":16},"Type":1,"Comment":"Returned to the Wild (After Holidays 2020)"},
-        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2021, No Costume)"},
+        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2021: Part 2, No Costume)"},
         {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2022,"M":12,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Winter Holiday 2021)"},
         {"Start":{"Y":2022,"M":12,"D":23},"End":{"Y":2022,"M":12,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2022: Part 1, No Costume)"},
-        {"Start":{"Y":2022,"M":12,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Winter Holiday 2022)"}
+        {"Start":{"Y":2022,"M":12,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Winter Holiday 2022: Part 1)"}
       ]
     },
     {
@@ -6007,11 +6013,11 @@
         {"Start":{"Y":2021,"M":2,"D":2},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":40,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2022,"M":4,"D":2},"Shiny":1,"Type":40,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":12,"D":16},"Type":20,"LocalizedStart":true,"Comment":"Winter Holiday 2021"},
-        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2021, No Costume)"},
+        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2021: Part 2, No Costume)"},
         {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2022,"M":12,"D":15},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Winter Holiday 2021)"},
         {"Start":{"Y":2022,"M":12,"D":17},"End":{"Y":2022,"M":12,"D":18},"Type":1,"LocalizedStart":true,"Comment":"December 2022 Community Day"},
         {"Start":{"Y":2022,"M":12,"D":23},"End":{"Y":2022,"M":12,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2022: Part 1, No Costume)"},
-        {"Start":{"Y":2022,"M":12,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Winter Holiday 2022)"}
+        {"Start":{"Y":2022,"M":12,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Winter Holiday 2022: Part 1)"}
       ]
     },
     {
@@ -7277,8 +7283,8 @@
       "Species": 471,
       "Available": true,
       "Data": [
-        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2021, No Costume)"},
-        {"Start":{"Y":2022,"M":12,"D":23},"End":{"Y":2022,"M":12,"D":23},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2022: Part 1, No Costume)"}
+        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2021: Part 2, No Costume)"},
+        {"Start":{"Y":2022,"M":12,"D":31},"End":{"Y":2022,"M":12,"D":31},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Winter Holiday 2022: Part 2, No Costume)"}
       ]
     },
     {
@@ -8072,7 +8078,7 @@
         {"Start":{"Y":2022,"M":8,"D":5},"End":{"Y":2022,"M":8,"D":7},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Fest 2022: Sapporo (Frozen Lake Habitat)"},
         {"Start":{"Y":2022,"M":8,"D":14},"End":{"Y":2022,"M":8,"D":14},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Pokémon GO Fest 2022: Sapporo Makeup Event"},
         {"Start":{"Y":2022,"M":10,"D":14},"End":{"Y":2022,"M":10,"D":17},"Type":1,"LocalizedStart":true,"Comment":"Festival of Lights 2022"},
-        {"Start":{"Y":2022,"M":12,"D":15},"End":{"Y":2022,"M":12,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2022: Part 1)"}
+        {"Start":{"Y":2022,"M":12,"D":15},"End":{"Y":2022,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2022)"}
       ]
     },
     {
@@ -8698,8 +8704,10 @@
         {"Start":{"Y":2021,"M":1,"D":5},"End":{"Y":2021,"M":1,"D":5},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2021,"M":12,"D":7},"End":{"Y":2021,"M":12,"D":12},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Dragonspiral Descent)"},
         {"Start":{"Y":2021,"M":12,"D":28},"End":{"Y":2021,"M":12,"D":28},"Type":1,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Pokémon Spotlight Hour: Cubchoo (No Costume)"},
-        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2021, No Costume)"},
-        {"Start":{"Y":2021,"M":12,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Winter Holiday 2021)"}
+        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2021,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2021: Part 2, No Costume)"},
+        {"Start":{"Y":2021,"M":12,"D":31},"End":{"Y":2022,"M":12,"D":23},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Winter Holiday 2021)"},
+        {"Start":{"Y":2022,"M":12,"D":31},"End":{"Y":2022,"M":12,"D":31},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Winter Holiday 2022: Part 2, No Costume)"},
+        {"Start":{"Y":2022,"M":12,"D":31},"Type":1,"LocalizedStart":true,"Comment":"Returned to the Wild (After Winter Holiday 2022: Part 2)"}
       ]
     },
     {
