@@ -59,50 +59,23 @@ public static class PogoPickler
         PK9 = 4,
     }
 
-    private static PogoImportFormat GetGroup(ushort species, byte form)
+    private static PogoImportFormat GetGroup(ushort species, byte form) => species switch
     {
         // Transfer Rules:
         // If it can exist in LGP/E, it uses LGP/E's move data for the initial import.
         // Else, if it can exist in SW/SH, it uses SW/SH's move data for the initial import.
         // Else, if it can exist in PLA, it uses PLA move data for the initial import.
-        // Else, if it can exist in SV, it uses SV move data for the initial import.
+        // Else, if it can exist in S/V, it uses S/V move data for the initial import.
         // Else, it must exist in US/UM, thus it uses US/UM for the initial import.
 
-        if (species is (<= 151 or 808 or 809))
-        {
-            if (form == 0 || PersonalTable.GG[species].HasForm(form))
-                return PogoImportFormat.PB7;
-        }
-
-        if (species <= 898) // Legal.MaxSpeciesID_8
-        {
-            if (PersonalTable.SWSH.IsPresentInGame(species, form))
-                return PogoImportFormat.PK8;
-        }
-
-        if (species <= 807) // Legal.MaxSpeciesID_7_USUM
-        {
-            if (form == 0 || PersonalTable.USUM[species].HasForm(form))
-                return PogoImportFormat.PK7;
-        }
-
-        if (species <= 905) // Legal.MaxSpeciesID_8a
-        {
-            if (PersonalTable.LA.IsPresentInGame(species, form))
-                return PogoImportFormat.PA8;
-        }
-
-        if (species <= 1010) // Legal.MaxSpeciesID_9
-        {
-            if (PersonalTable.SV.IsPresentInGame(species, form))
-                return PogoImportFormat.PK9;
-        }
-
-        if (species <= 807) // Legal.MaxSpeciesID_7_USUM
-            return PogoImportFormat.PK7;
-
-        throw new ArgumentOutOfRangeException(nameof(species));
-    }
+        <=  151 or 808 or 809 when form == 0 || PersonalTable.GG[species].HasForm(form) => PogoImportFormat.PB7,
+        <=  898 when PersonalTable.SWSH.IsPresentInGame(species, form) => PogoImportFormat.PK8,
+        <=  807 when form == 0 || PersonalTable.USUM[species].HasForm(form) => PogoImportFormat.PK7,
+        <=  905 when PersonalTable.LA.IsPresentInGame(species, form) => PogoImportFormat.PA8,
+        <= 1010 when PersonalTable.SV.IsPresentInGame(species, form) => PogoImportFormat.PK9,
+        <=  807 => PogoImportFormat.PK7,
+        _ => throw new ArgumentOutOfRangeException(nameof(species)),
+    };
 
     private static byte PogoToHex(PogoShiny type) => type switch
     {
