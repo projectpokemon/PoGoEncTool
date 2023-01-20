@@ -61,21 +61,20 @@ public static class BulkActions
 
     public static void AddNewShadows(PogoEncounterList list)
     {
-        const int form = 0;
-        var removed = new List<int>
+        var removed = new List<(ushort Species, byte Form)>
         {
-
+            new((int)Bulbasaur, 0),
         };
 
-        var added = new List<int>
+        var added = new List<(ushort Species, byte Form)>
         {
-
+            new((int)Bulbasaur, 0),
         };
 
         // add end dates for Shadows that have been removed
-        foreach (var species in removed)
+        foreach ((ushort s, byte f) in removed)
         {
-            var pkm = list.GetDetails((ushort)species, form);
+            var pkm = list.GetDetails(s, f);
             var entries = pkm.Data;
 
             foreach (var entry in entries)
@@ -86,13 +85,13 @@ public static class BulkActions
         }
 
         // add new Shadows
-        foreach (var species in added)
+        foreach ((ushort s, byte f) in added)
         {
-            var pkm = list.GetDetails((ushort)species, form);
+            var pkm = list.GetDetails(s, f);
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
-                Shiny = PogoShiny.Never,
+                Shiny = Never,
                 Type = PogoType.Shadow,
                 LocalizedStart = true,
                 NoEndTolerance = false,
