@@ -87,8 +87,8 @@ public partial class Main : Form
         if (ChangingFields)
             return;
         ChangingFields = true;
-        var species = (int)CB_Species.SelectedValue;
-        LB_Species.SelectedIndex = species;
+        var species = (Core.PogoType)((int?)CB_Species.SelectedValue ?? 0);
+        LB_Species.SelectedIndex = (int)species;
         ChangingFields = false;
         LoadSpecies((ushort)species);
     }
@@ -116,7 +116,7 @@ public partial class Main : Form
 
     private void CB_Form_SelectedIndexChanged(object sender, EventArgs e)
     {
-        var species = (int)CB_Species.SelectedValue;
+        var species = (int?)CB_Species.SelectedValue ?? 0;
         var form = CB_Form.SelectedIndex;
         if (form < 0)
             return;

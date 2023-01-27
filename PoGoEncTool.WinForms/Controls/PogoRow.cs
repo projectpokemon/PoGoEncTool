@@ -60,7 +60,7 @@ public sealed partial class PogoRow : UserControl
         entry.Start = !DT_Start.Checked ? null : new PogoDate(DT_Start.Value);
         entry.End = !DT_End.Checked ? null : new PogoDate(DT_End.Value);
 
-        entry.Type = (PogoType)(int)CB_Type.SelectedValue;
+        entry.Type = (PogoType)((int?)CB_Type.SelectedValue ?? 0);
 
         entry.LocalizedStart = CHK_Localized.Checked;
         entry.NoEndTolerance = !CHK_EndTolerance.Checked;
