@@ -87,8 +87,8 @@ public partial class Main : Form
         if (ChangingFields)
             return;
         ChangingFields = true;
-        var species = (Core.PogoType)((int?)CB_Species.SelectedValue ?? 0);
-        LB_Species.SelectedIndex = (int)species;
+        var species = (int?)CB_Species.SelectedValue ?? 0;
+        LB_Species.SelectedIndex = species;
         ChangingFields = false;
         LoadSpecies((ushort)species);
     }
