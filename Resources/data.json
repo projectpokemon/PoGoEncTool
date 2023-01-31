@@ -510,7 +510,8 @@
         {"Start":{"Y":2019,"M":7,"D":10},"End":{"Y":2019,"M":7,"D":25},"Type":10,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2020,"M":7,"D":10},"End":{"Y":2021,"M":4,"D":10},"Shiny":1,"Type":40,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2022,"M":5,"D":3},"Shiny":1,"Type":40,"NoEndTolerance":true,"Comment":"Team GO Rocket Grunt"},
-        {"Start":{"Y":2022,"M":5,"D":8},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"}
+        {"Start":{"Y":2022,"M":5,"D":8},"End":{"Y":2023,"M":1,"D":31},"Shiny":1,"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Grunt"},
+        {"Start":{"Y":2023,"M":2,"D":1},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Arlo"}
       ]
     },
     {
@@ -1349,7 +1350,8 @@
         {"Start":{"Y":2021,"M":12,"D":13},"End":{"Y":2021,"M":12,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":1,"D":15},"End":{"Y":2022,"M":1,"D":19},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
         {"Start":{"Y":2022,"M":2,"D":9},"End":{"Y":2022,"M":2,"D":10},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":15},"End":{"Y":2022,"M":2,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"}
+        {"Start":{"Y":2022,"M":2,"D":15},"End":{"Y":2022,"M":2,"D":16},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss"},
+        {"Start":{"Y":2023,"M":2,"D":1},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Cliff"}
       ]
     },
     {
@@ -6200,7 +6202,8 @@
         {"Start":{"Y":2021,"M":4,"D":22},"End":{"Y":2021,"M":5,"D":18},"Type":40,"Comment":"Team GO Rocket Leader Arlo"},
         {"Start":{"Y":2022,"M":1,"D":7},"End":{"Y":2022,"M":1,"D":13},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Mountains of Power)"},
         {"Start":{"Y":2022,"M":1,"D":19},"End":{"Y":2022,"M":2,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Power Plant Event)"},
-        {"Start":{"Y":2022,"M":9,"D":16},"End":{"Y":2022,"M":9,"D":21},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Test Your Mettle)"}
+        {"Start":{"Y":2022,"M":9,"D":16},"End":{"Y":2022,"M":9,"D":21},"Type":10,"LocalizedStart":true,"Comment":"Tier 1 Raid Boss (Test Your Mettle)"},
+        {"Start":{"Y":2023,"M":2,"D":1},"Type":40,"LocalizedStart":true,"Comment":"Team GO Rocket Leader Sierra"}
       ]
     },
     {
