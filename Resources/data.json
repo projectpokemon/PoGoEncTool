@@ -246,7 +246,8 @@
         {"Start":{"Y":2021,"M":8,"D":26},"End":{"Y":2021,"M":9,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Ultra Unlock 2021: Sword and Shield, Week 2)"},
         {"Start":{"Y":2022,"M":4,"D":12},"End":{"Y":2022,"M":4,"D":29},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2022,"M":5,"D":4},"End":{"Y":2022,"M":5,"D":4},"Type":10,"LocalizedStart":true,"NoEndTolerance":true,"Comment":"Mega Raid Boss (Accidental Release)"},
-        {"Start":{"Y":2022,"M":7,"D":14},"End":{"Y":2022,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
+        {"Start":{"Y":2022,"M":7,"D":14},"End":{"Y":2022,"M":7,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
+        {"Start":{"Y":2023,"M":2,"D":15},"End":{"Y":2023,"M":2,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -4942,7 +4943,8 @@
       "Data": [
         {"Start":{"Y":2021,"M":9,"D":14},"End":{"Y":2021,"M":9,"D":21},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
         {"Start":{"Y":2021,"M":9,"D":29},"End":{"Y":2021,"M":10,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":10},"End":{"Y":2022,"M":2,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Valentine's Day 2022)"}
+        {"Start":{"Y":2022,"M":2,"D":10},"End":{"Y":2022,"M":2,"D":14},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 3 Raid Boss (Valentine's Day 2022)"},
+        {"Start":{"Y":2023,"M":2,"D":8},"End":{"Y":2023,"M":2,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"}
       ]
     },
     {
@@ -6252,7 +6254,9 @@
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Lava Hour)"},
         {"Start":{"Y":2021,"M":11,"D":28},"End":{"Y":2021,"M":11,"D":28},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Mischief Unbound, Day 3)"},
         {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":2,"D":9},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
-        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"}
+        {"Start":{"Y":2022,"M":2,"D":1},"End":{"Y":2022,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season 10)"},
+        {"Start":{"Y":2023,"M":2,"D":15},"End":{"Y":2023,"M":2,"D":22},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2023,"M":2,"D":15},"End":{"Y":2023,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
     },
     {
@@ -6314,7 +6318,7 @@
         {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Pokémon GO Safari Zone: Taipei 2022)"},
         {"Start":{"Y":2022,"M":11,"D":18},"End":{"Y":2022,"M":11,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Pokémon GO Safari Zone: Singapore 2022)"},
         {"Start":{"Y":2023,"M":2,"D":18},"End":{"Y":2023,"M":2,"D":19},"Type":1,"Comment":"Surprise Encounter (Pokémon GO Tour: Hoenn – Las Vegas)"},
-        {"Start":{"Y":2023,"M":2,"D":22},"End":{"Y":2023,"M":2,"D":24},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Primal Rumblings)"},
+        {"Start":{"Y":2023,"M":2,"D":22},"End":{"Y":2023,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2023,"M":2,"D":25},"End":{"Y":2023,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Hoenn – Global"}
       ]
     },
@@ -6335,7 +6339,7 @@
         {"Start":{"Y":2022,"M":10,"D":21},"End":{"Y":2022,"M":10,"D":23},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Pokémon GO Safari Zone: Taipei 2022)"},
         {"Start":{"Y":2022,"M":11,"D":18},"End":{"Y":2022,"M":11,"D":20},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Pokémon GO Safari Zone: Singapore 2022)"},
         {"Start":{"Y":2023,"M":2,"D":18},"End":{"Y":2023,"M":2,"D":19},"Type":1,"Comment":"Surprise Encounter (Pokémon GO Tour: Hoenn – Las Vegas)"},
-        {"Start":{"Y":2023,"M":2,"D":22},"End":{"Y":2023,"M":2,"D":24},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss (Primal Rumblings)"},
+        {"Start":{"Y":2023,"M":2,"D":22},"End":{"Y":2023,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Mega Raid Boss"},
         {"Start":{"Y":2023,"M":2,"D":25},"End":{"Y":2023,"M":2,"D":26},"Type":1,"LocalizedStart":true,"Comment":"Pokémon GO Tour: Hoenn – Global"}
       ]
     },
@@ -6386,7 +6390,7 @@
         {"Start":{"Y":2021,"M":1,"D":19},"Type":20,"LocalizedStart":true,"Comment":"Hoenn Celebration Research"},
         {"Start":{"Y":2021,"M":3,"D":27},"End":{"Y":2021,"M":3,"D":28},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Special Raid Weekend)"},
         {"Start":{"Y":2021,"M":7,"D":18},"End":{"Y":2021,"M":7,"D":18},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Pokémon GO Fest 2021: Day 2, Thunder Hour)"},
-        {"Start":{"Y":2023,"M":2,"D":22},"End":{"Y":2023,"M":2,"D":24},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss (Primal Rumblings)"}
+        {"Start":{"Y":2023,"M":2,"D":22},"End":{"Y":2023,"M":3,"D":1},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
       ]
     },
     {
@@ -10586,7 +10590,9 @@
       "Data": [
         {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":4,"D":5},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
         {"Start":{"Y":2022,"M":3,"D":22},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Interlude Season)"},
-        {"Start":{"Y":2022,"M":5,"D":25},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"}
+        {"Start":{"Y":2022,"M":5,"D":25},"End":{"Y":2022,"M":6,"D":1},"Shiny":1,"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2023,"M":2,"D":8},"End":{"Y":2023,"M":2,"D":15},"Type":10,"LocalizedStart":true,"Comment":"Tier 5 Raid Boss"},
+        {"Start":{"Y":2023,"M":2,"D":8},"End":{"Y":2023,"M":3,"D":1},"Type":30,"LocalizedStart":true,"Comment":"Reward Encounter (Season of Mythical Wishes)"}
       ]
     },
     {
