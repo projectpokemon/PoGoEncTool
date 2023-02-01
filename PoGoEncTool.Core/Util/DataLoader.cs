@@ -1,20 +1,12 @@
 ﻿using System;
 using System.IO;
-using Newtonsoft.Json;
-using PoGoEncTool.WinForms;
+using System.Text.Json;
 
 namespace PoGoEncTool.Core;
 
 public static class DataLoader
 {
     private const string SettingsPath = "settings.json";
-
-    private static JsonSerializerSettings GetSettings() => new()
-    {
-        Formatting = Formatting.Indented,
-        DefaultValueHandling = DefaultValueHandling.IgnoreAndPopulate,
-        NullValueHandling = NullValueHandling.Ignore,
-    };
 
     public static PogoEncounterList GetData(string exePath, out ProgramSettings settings)
     {
@@ -24,15 +16,23 @@ public static class DataLoader
 
         if (args.Length > 1)
             settings.DataPath = args[1];
-        File.WriteAllText(settingsPath, JsonConvert.SerializeObject(settings));
+
+        var context = ProgramSettingsContext.Default;
+        var json = JsonSerializer.Serialize(settings, context.ProgramSettings);
+        File.WriteAllText(settingsPath, json);
 
         return GetList(settings.DataPath);
     }
 
     private static PogoEncounterList GetList(string fn)
     {
-        var str = File.Exists(fn) ? File.ReadAllText(fn) : string.Empty;
-        return JsonConvert.DeserializeObject<PogoEncounterList?>(str, GetSettings()) ?? new PogoEncounterList();
+        if (!File.Exists(fn))
+            return new();
+
+        var json = File.ReadAllText(fn);
+        var context = PogoEncounterListContext.Default;
+        var list = JsonSerializer.Deserialize(json, context.PogoEncounterList);
+        return list ?? new();
     }
 
     private static ProgramSettings GetSettings(string settingsPath)
@@ -40,7 +40,8 @@ public static class DataLoader
         if (!File.Exists(SettingsPath))
             return new ProgramSettings();
         var text = File.ReadAllText(settingsPath);
-        var result = JsonConvert.DeserializeObject<ProgramSettings>(text);
+        var context = ProgramSettingsContext.Default;
+        var result = JsonSerializer.Deserialize(text, context.ProgramSettings);
         return result ?? new ProgramSettings();
     }
 
@@ -58,7 +59,9 @@ public static class DataLoader
     /// <param name="listJsonPath">Encounter json path to save to. If left null, will not be saved.</param>
     public static void SaveAllData(string binDestinationPath, PogoEncounterList entries, string? listJsonPath = null)
     {
-        var clone = JsonConvert.DeserializeObject<PogoEncounterList>(JsonConvert.SerializeObject(entries));
+        var context = PogoEncounterListContext.Default;
+        var json = JsonSerializer.Serialize(entries, context.PogoEncounterList);
+        var clone = JsonSerializer.Deserialize(json, context.PogoEncounterList);
         if (clone is null || clone.Data.Count != entries.Data.Count)
             throw new NullReferenceException("Should have been able to create a clone from original object.");
 
@@ -77,9 +80,8 @@ public static class DataLoader
 
     private static void SaveList(string jsonPath, PogoEncounterList clone)
     {
-        var settings = GetSettings();
-        settings.Converters.Add(new FlatConverter<PogoEntry>());
-        var contents = JsonConvert.SerializeObject(clone, settings);
-        File.WriteAllText(jsonPath, contents);
+        var context = PogoEncounterListContext.Default;
+        var json = JsonSerializer.Serialize(clone, context.PogoEncounterList);
+        File.WriteAllText(jsonPath, json);
     }
 }
