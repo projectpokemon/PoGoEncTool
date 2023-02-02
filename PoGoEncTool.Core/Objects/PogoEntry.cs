@@ -7,10 +7,10 @@ public sealed record PogoEntry : IComparable<PogoEntry>
 {
     public PogoDate? Start { get; set; }
     public PogoDate? End { get; set; }
-    public PogoShiny Shiny { get; set; } = PogoShiny.Never;
+    public PogoShiny Shiny { get; set; }
     public PogoGender Gender { get; set; }
     public PogoType Type { get; set; }
-    public bool LocalizedStart { get; set; } = true;
+    public bool LocalizedStart { get; set; }
     public bool NoEndTolerance { get; set; }
     public string Comment { get; set; } = string.Empty;
 
