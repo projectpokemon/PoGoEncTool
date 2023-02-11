@@ -54436,6 +54436,21 @@
           "Start": {
             "Y": 2023,
             "M": 2,
+            "D": 12
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season of Mythical Wishes, Released Early)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
             "D": 15
           },
           "End": {
@@ -54446,21 +54461,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2023,
-            "M": 2,
-            "D": 15
-          },
-          "End": {
-            "Y": 2023,
-            "M": 3,
-            "D": 1
-          },
-          "Type": 30,
-          "LocalizedStart": true,
-          "Comment": "Reward Encounter (Season of Mythical Wishes)"
         }
       ]
     },
