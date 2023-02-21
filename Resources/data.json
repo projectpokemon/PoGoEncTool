@@ -54599,6 +54599,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 18
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Legends: #377"
         }
       ]
     },
@@ -54824,6 +54834,16 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season of Mythical Wishes)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 18
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Legends: #378"
         }
       ]
     },
@@ -55046,6 +55066,16 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 18
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Legends: #379"
         }
       ]
     },
@@ -55831,6 +55861,7 @@
             "D": 19
           },
           "Type": 10,
+          "LocalizedStart": true,
           "Comment": "Primal Raid Boss (Pok\u00E9mon GO Tour: Hoenn \u2013 Las Vegas)"
         },
         {
@@ -55957,7 +55988,7 @@
           "Start": {
             "Y": 2023,
             "M": 2,
-            "D": 22
+            "D": 18
           },
           "End": {
             "Y": 2023,
@@ -55965,7 +55996,6 @@
             "D": 1
           },
           "Type": 10,
-          "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
         }
       ]
