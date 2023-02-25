@@ -45885,6 +45885,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Hoenn \u2013 Global (Verdant Earth)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -46898,6 +46913,22 @@
             "Y": 2022,
             "M": 12,
             "D": 6
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
           },
           "Shiny": 1,
           "Type": 10,
@@ -47959,6 +47990,21 @@
             "Y": 2022,
             "M": 11,
             "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -50628,6 +50674,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -50758,6 +50819,21 @@
           "Shiny": 1,
           "Type": 40,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -53065,6 +53141,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Winter Holiday 2022: Part 1)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -53336,6 +53427,21 @@
           },
           "Type": 10,
           "Comment": "Tier 2 Raid Boss (Water Festival 2019)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -53680,7 +53786,24 @@
     {
       "Species": 372,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        }
+      ]
     },
     {
       "Species": 373,
@@ -54171,6 +54294,22 @@
             "Y": 2023,
             "M": 2,
             "D": 8
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
           },
           "Shiny": 1,
           "Type": 10,
