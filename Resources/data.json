@@ -568,6 +568,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 6th Anniversary Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -1237,6 +1252,21 @@
             "Y": 2022,
             "M": 7,
             "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -8587,6 +8617,21 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Mega Raid Boss (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -40203,6 +40248,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss (Pok\u00E9mon GO Tour: Johto)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -40365,6 +40425,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss (Pok\u00E9mon GO Tour: Johto)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -46977,10 +47052,24 @@
             "M": 3,
             "D": 1
           },
-          "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss"
+          "Comment": "Tier 3 Raid Boss (Shiny Released Early)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -73908,6 +73997,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season of Rising Heroes)"
         }
       ]
     },
@@ -74058,6 +74177,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season of Rising Heroes)"
         }
       ]
     },
