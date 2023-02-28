@@ -34979,13 +34979,13 @@
           },
           "End": {
             "Y": 2023,
-            "M": 3,
+            "M": 6,
             "D": 1
           },
           "Shiny": 1,
           "Type": 30,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (Season of Mythical Wishes)"
+          "Comment": "Reward Encounter (Season of Mythical Wishes / Season of Rising Heroes)"
         },
         {
           "Start": {
@@ -35002,6 +35002,22 @@
           "Type": 32,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season of Mythical Wishes)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season of Rising Heroes)"
         }
       ]
     },
@@ -69971,6 +69987,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Season of Rising Heroes"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Gender": 1,
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season of Rising Heroes)"
         }
       ]
     },
