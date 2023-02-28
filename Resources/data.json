@@ -33725,6 +33725,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Special Wild Encounter (Elite Raid Boss: Hoopa Unbound)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season of Rising Heroes"
         }
       ]
     },
@@ -45900,6 +45916,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season of Rising Heroes"
         }
       ]
     },
@@ -68095,6 +68126,22 @@
           "Type": 32,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season of Mythical Wishes)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season of Rising Heroes (Southern Hemisphere)"
         }
       ]
     },
@@ -69105,6 +69152,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Season of Light (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season of Rising Heroes (Northern Hemisphere)"
         }
       ]
     },
@@ -69288,6 +69351,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Season of Light (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season of Rising Heroes (Southern Hemisphere)"
         }
       ]
     },
@@ -69876,6 +69955,22 @@
           "Type": 32,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season of Mythical Wishes)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Gender": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season of Rising Heroes"
         }
       ]
     },
