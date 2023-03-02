@@ -10993,6 +10993,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Evolving Stars)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 4 Raid Boss (March 2023 Community Day)"
         }
       ]
     },
@@ -11096,6 +11111,31 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Daily Adventure Incense"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 4 Raid Boss (March 2023 Community Day)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 18
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "March 2023 Community Day"
         }
       ]
     },
