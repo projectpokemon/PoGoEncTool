@@ -21,6 +21,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         Shiny = PogoShiny.Never,
         Gender = PogoGender.Random,
         Type = PogoType.Wild,
+        LocalizedStart = true,
     };
 
     public override string ToString()
