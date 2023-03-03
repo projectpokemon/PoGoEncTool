@@ -14857,6 +14857,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Lush Jungle)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Festival of Colors 2023)"
         }
       ]
     },
@@ -15399,6 +15415,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Festival of Colors 2023)"
         }
       ]
     },
@@ -38608,6 +38639,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Surprise Encounter"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Festival of Colors 2023)"
         }
       ]
     },
@@ -41821,6 +41867,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "December 2022 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Festival of Colors 2023"
         }
       ]
     },
@@ -72187,6 +72248,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Holidays 2020)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Festival of Colors 2023)"
         }
       ]
     },
@@ -72918,6 +72995,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Festival of Colors 2023)"
         }
       ]
     },
@@ -76860,6 +76952,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Valentine\u0027s Day 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Festival of Colors 2023)"
         }
       ]
     },
@@ -78905,6 +79012,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Festival of Colors 2023)"
         }
       ]
     },
@@ -78949,6 +79071,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Fashion Week 2022"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Festival of Colors 2023)"
         }
       ]
     },
@@ -79199,6 +79337,39 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Test Your Mettle"
+        }
+      ]
+    },
+    {
+      "Species": 779,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Festival of Colors 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Festival of Colors 2023"
         }
       ]
     },
