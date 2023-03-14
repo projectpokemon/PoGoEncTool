@@ -25,7 +25,6 @@ public partial class Main : Form
     {
         InitializeComponent();
         SpriteUtil.ChangeMode(SpriteBuilderMode.SpritesArtwork5668);
-        SpriteName.AllowShinySprite = true;
 
         Entries = DataLoader.GetData(Application.StartupPath, out Settings);
         // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = Core.PogoType.Shadow);
