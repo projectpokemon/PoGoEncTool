@@ -4496,6 +4496,11 @@
             "M": 2,
             "D": 1
           },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
+          },
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
@@ -11512,6 +11517,11 @@
             "Y": 2023,
             "M": 2,
             "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
           },
           "Type": 40,
           "LocalizedStart": true,
@@ -54523,6 +54533,11 @@
             "M": 2,
             "D": 1
           },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
+          },
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Sierra"
@@ -55328,6 +55343,17 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Legends: #378"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Boss Giovanni"
         }
       ]
     },
@@ -55545,6 +55571,11 @@
             "Y": 2023,
             "M": 2,
             "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
           },
           "Shiny": 1,
           "Type": 40,
@@ -80084,6 +80115,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Mystery Box (Pok\u00E9mon TCG Crossover Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 29
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Mystery Box (Let\u0027s GO)"
         }
       ]
     },
