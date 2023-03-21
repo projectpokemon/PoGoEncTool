@@ -3192,6 +3192,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -12380,6 +12396,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Power Plant Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -27970,6 +28002,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -36512,6 +36559,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Evolving Stars)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -69611,6 +69674,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Holidays 2020"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -70047,6 +70126,22 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Tier 1 Raid Boss (Celebrate Carnival, Day 2)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -71577,7 +71672,24 @@
     {
       "Species": 603,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        }
+      ]
     },
     {
       "Species": 604,
@@ -72389,6 +72501,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Winter Holiday 2022: Part 2)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -77833,6 +77960,21 @@
             "Y": 2023,
             "M": 2,
             "D": 8
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
           },
           "Type": 10,
           "LocalizedStart": true,
