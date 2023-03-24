@@ -29802,10 +29802,25 @@
             "M": 2,
             "D": 1
           },
+          "End": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
+          },
           "Shiny": 1,
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Sierra"
         }
       ]
     },
@@ -35481,6 +35496,16 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Cliff"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Arlo"
         }
       ]
     },
@@ -39921,6 +39946,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Pok\u00E9mon TCG Crossover Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 25
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Cliff"
         }
       ]
     },

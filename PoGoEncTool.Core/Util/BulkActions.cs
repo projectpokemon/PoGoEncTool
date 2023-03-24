@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using PKHeX.Core;
+using System.Collections.Generic;
 using System.Linq;
 using static PKHeX.Core.Species;
 using static PoGoEncTool.Core.PogoShiny;
@@ -66,9 +67,9 @@ public static class BulkActions
             new((int)Bulbasaur, 0),
         };
 
-        var added = new List<(ushort Species, byte Form)>
+        var added = new List<(ushort Species, byte Form, PogoShiny Shiny)>
         {
-            new((int)Bulbasaur, 0),
+            new((int)Bulbasaur, 0, Never),
         };
 
         // add end dates for Shadows that have been removed
@@ -85,13 +86,13 @@ public static class BulkActions
         }
 
         // add new Shadows
-        foreach ((ushort s, byte f) in added)
+        foreach ((ushort s, byte f, PogoShiny shiny) in added)
         {
             var pkm = list.GetDetails(s, f);
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
-                Shiny = Never,
+                Shiny = shiny,
                 Type = PogoType.Shadow,
                 LocalizedStart = true,
                 NoEndTolerance = false,
