@@ -8463,6 +8463,22 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -11090,6 +11106,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 4 Raid Boss (March 2023 Community Day)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -13152,6 +13183,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (December 2021 Community Day)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -35326,6 +35372,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -43667,6 +43728,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -49460,6 +49536,22 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Tier 3 Raid Boss (Hoenn Celebration Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -66459,6 +66551,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -71941,6 +72048,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "October 2022 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -73775,7 +73897,24 @@
     {
       "Species": 628,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 3,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        }
+      ]
     },
     {
       "Species": 628,
