@@ -1810,6 +1810,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 6th Anniversary Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -8745,7 +8760,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -11408,6 +11423,21 @@
             "Y": 2022,
             "M": 8,
             "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 17
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -40832,7 +40862,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -61271,6 +61301,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -75549,6 +75594,36 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season 7)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season of Rising Heroes)"
         }
       ]
     },
@@ -79510,6 +79585,28 @@
       ]
     },
     {
+      "Species": 742,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Spring into Spring 2023"
+        }
+      ]
+    },
+    {
+      "Species": 743,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 744,
       "Available": true,
       "Data": [
@@ -80343,6 +80440,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 17
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 17
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season of Rising Heroes)"
         }
       ]
     },
