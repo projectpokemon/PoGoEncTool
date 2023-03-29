@@ -3170,6 +3170,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Spring into Spring 2023, No Costume)"
         }
       ]
     },
@@ -5794,6 +5809,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Spring into Spring 2023)"
         }
       ]
     },
@@ -8523,7 +8553,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 4
           },
           "Shiny": 1,
           "Type": 10,
@@ -11182,7 +11212,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -13295,7 +13325,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -15139,6 +15169,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Festival of Colors 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Spring into Spring 2023)"
         }
       ]
     },
@@ -15696,6 +15742,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Festival of Colors 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Spring into Spring 2023)"
         }
       ]
     },
@@ -18255,6 +18316,11 @@
             "M": 4,
             "D": 18
           },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 4
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Spring into Spring 2022)"
@@ -18318,6 +18384,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Later Became Tier 3)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Spring into Spring 2023, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Spring into Spring 2023)"
         }
       ]
     },
@@ -22150,6 +22241,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Winter Holiday 2022: Part 2, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Spring into Spring 2023, No Costume)"
         }
       ]
     },
@@ -27823,6 +27929,11 @@
             "M": 4,
             "D": 18
           },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 4
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Spring into Spring 2022 (After Event)"
@@ -27886,6 +27997,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Spring into Spring 2023, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Spring into Spring 2023)"
         },
         {
           "Start": {
@@ -35504,7 +35640,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -43904,7 +44040,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -49722,7 +49858,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 4
           },
           "Shiny": 1,
           "Type": 10,
@@ -61155,6 +61291,11 @@
             "M": 4,
             "D": 18
           },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 4
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Spring into Spring 2022)"
@@ -61188,6 +61329,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Spring into Spring 2023)"
         }
       ]
     },
@@ -66795,7 +66946,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -72297,7 +72448,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -74151,7 +74302,7 @@
           "End": {
             "Y": 2023,
             "M": 4,
-            "D": 10
+            "D": 4
           },
           "Shiny": 1,
           "Type": 10,
@@ -79588,6 +79739,22 @@
       "Species": 742,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 4,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Spring into Spring 2023)"
+        },
         {
           "Start": {
             "Y": 2023,
