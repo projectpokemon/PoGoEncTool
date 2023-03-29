@@ -81267,6 +81267,28 @@
       "Species": 904,
       "Available": true,
       "Data": []
+    },
+    {
+      "Species": 999,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Coin Bag"
+        }
+      ]
+    },
+    {
+      "Species": 1000,
+      "Available": true,
+      "Data": []
     }
   ]
 }
