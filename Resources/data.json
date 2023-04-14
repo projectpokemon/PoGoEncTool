@@ -67394,6 +67394,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 20
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Sustainability Week 2023"
         }
       ]
     },
@@ -80466,6 +80476,33 @@
     },
     {
       "Species": 760,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 761,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 4,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Sustainability Week 2023"
+        }
+      ]
+    },
+    {
+      "Species": 762,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 763,
       "Available": true,
       "Data": []
     },
