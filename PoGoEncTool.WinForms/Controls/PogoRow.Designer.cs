@@ -29,165 +29,163 @@ namespace PoGoEncTool.WinForms
         /// </summary>
         private void InitializeComponent()
         {
-            this.DT_End = new System.Windows.Forms.DateTimePicker();
-            this.DT_Start = new System.Windows.Forms.DateTimePicker();
-            this.L_Start = new System.Windows.Forms.Label();
-            this.FLP_Parent = new System.Windows.Forms.FlowLayoutPanel();
-            this.CHK_Localized = new System.Windows.Forms.CheckBox();
-            this.L_End = new System.Windows.Forms.Label();
-            this.CHK_EndTolerance = new System.Windows.Forms.CheckBox();
-            this.CB_Type = new System.Windows.Forms.ComboBox();
-            this.CHK_Shiny = new System.Windows.Forms.CheckBox();
-            this.CHK_MaleOnly = new System.Windows.Forms.CheckBox();
-            this.CHK_FemaleOnly = new System.Windows.Forms.CheckBox();
-            this.TB_Comment = new System.Windows.Forms.TextBox();
-            this.FLP_Parent.SuspendLayout();
-            this.SuspendLayout();
+            DT_End = new System.Windows.Forms.DateTimePicker();
+            DT_Start = new System.Windows.Forms.DateTimePicker();
+            L_Start = new System.Windows.Forms.Label();
+            FLP_Parent = new System.Windows.Forms.FlowLayoutPanel();
+            CHK_Localized = new System.Windows.Forms.CheckBox();
+            L_End = new System.Windows.Forms.Label();
+            CHK_EndTolerance = new System.Windows.Forms.CheckBox();
+            CB_Type = new System.Windows.Forms.ComboBox();
+            CHK_Shiny = new System.Windows.Forms.CheckBox();
+            CHK_MaleOnly = new System.Windows.Forms.CheckBox();
+            CHK_FemaleOnly = new System.Windows.Forms.CheckBox();
+            TB_Comment = new System.Windows.Forms.TextBox();
+            FLP_Parent.SuspendLayout();
+            SuspendLayout();
             // 
             // DT_End
             // 
-            this.DT_End.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.DT_End.Location = new System.Drawing.Point(230, 3);
-            this.DT_End.MinDate = new System.DateTime(2010, 1, 1, 0, 0, 0, 0);
-            this.DT_End.Name = "DT_End";
-            this.DT_End.ShowCheckBox = true;
-            this.DT_End.Size = new System.Drawing.Size(102, 23);
-            this.DT_End.TabIndex = 0;
+            DT_End.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            DT_End.Location = new System.Drawing.Point(230, 3);
+            DT_End.MinDate = new System.DateTime(2010, 1, 1, 0, 0, 0, 0);
+            DT_End.Name = "DT_End";
+            DT_End.ShowCheckBox = true;
+            DT_End.Size = new System.Drawing.Size(102, 23);
+            DT_End.TabIndex = 0;
             // 
             // DT_Start
             // 
-            this.DT_Start.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            this.DT_Start.Location = new System.Drawing.Point(43, 3);
-            this.DT_Start.MinDate = new System.DateTime(2010, 1, 1, 0, 0, 0, 0);
-            this.DT_Start.Name = "DT_Start";
-            this.DT_Start.ShowCheckBox = true;
-            this.DT_Start.Size = new System.Drawing.Size(102, 23);
-            this.DT_Start.TabIndex = 1;
+            DT_Start.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            DT_Start.Location = new System.Drawing.Point(43, 3);
+            DT_Start.MinDate = new System.DateTime(2010, 1, 1, 0, 0, 0, 0);
+            DT_Start.Name = "DT_Start";
+            DT_Start.ShowCheckBox = true;
+            DT_Start.Size = new System.Drawing.Size(102, 23);
+            DT_Start.TabIndex = 1;
             // 
             // L_Start
             // 
-            this.L_Start.AutoSize = true;
-            this.L_Start.Location = new System.Drawing.Point(3, 7);
-            this.L_Start.Margin = new System.Windows.Forms.Padding(3, 7, 3, 0);
-            this.L_Start.Name = "L_Start";
-            this.L_Start.Size = new System.Drawing.Size(34, 15);
-            this.L_Start.TabIndex = 2;
-            this.L_Start.Text = "Start:";
+            L_Start.AutoSize = true;
+            L_Start.Location = new System.Drawing.Point(3, 7);
+            L_Start.Margin = new System.Windows.Forms.Padding(3, 7, 3, 0);
+            L_Start.Name = "L_Start";
+            L_Start.Size = new System.Drawing.Size(34, 15);
+            L_Start.TabIndex = 2;
+            L_Start.Text = "Start:";
             // 
             // FLP_Parent
             // 
-            this.FLP_Parent.Controls.Add(this.L_Start);
-            this.FLP_Parent.Controls.Add(this.DT_Start);
-            this.FLP_Parent.Controls.Add(this.CHK_Localized);
-            this.FLP_Parent.Controls.Add(this.L_End);
-            this.FLP_Parent.Controls.Add(this.DT_End);
-            this.FLP_Parent.Controls.Add(this.CHK_EndTolerance);
-            this.FLP_Parent.Controls.Add(this.CB_Type);
-            this.FLP_Parent.Controls.Add(this.CHK_Shiny);
-            this.FLP_Parent.Controls.Add(this.CHK_MaleOnly);
-            this.FLP_Parent.Controls.Add(this.CHK_FemaleOnly);
-            this.FLP_Parent.Controls.Add(this.TB_Comment);
-            this.FLP_Parent.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.FLP_Parent.Location = new System.Drawing.Point(0, 0);
-            this.FLP_Parent.Name = "FLP_Parent";
-            this.FLP_Parent.Size = new System.Drawing.Size(625, 89);
-            this.FLP_Parent.TabIndex = 3;
+            FLP_Parent.Controls.Add(L_Start);
+            FLP_Parent.Controls.Add(DT_Start);
+            FLP_Parent.Controls.Add(CHK_Localized);
+            FLP_Parent.Controls.Add(L_End);
+            FLP_Parent.Controls.Add(DT_End);
+            FLP_Parent.Controls.Add(CHK_EndTolerance);
+            FLP_Parent.Controls.Add(CB_Type);
+            FLP_Parent.Controls.Add(CHK_Shiny);
+            FLP_Parent.Controls.Add(CHK_MaleOnly);
+            FLP_Parent.Controls.Add(CHK_FemaleOnly);
+            FLP_Parent.Controls.Add(TB_Comment);
+            FLP_Parent.Dock = System.Windows.Forms.DockStyle.Fill;
+            FLP_Parent.Location = new System.Drawing.Point(0, 0);
+            FLP_Parent.Name = "FLP_Parent";
+            FLP_Parent.Size = new System.Drawing.Size(625, 89);
+            FLP_Parent.TabIndex = 3;
             // 
             // CHK_Localized
             // 
-            this.CHK_Localized.AutoSize = true;
-            this.CHK_Localized.Location = new System.Drawing.Point(151, 5);
-            this.CHK_Localized.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
-            this.CHK_Localized.Name = "CHK_Localized";
-            this.CHK_Localized.Size = new System.Drawing.Size(37, 19);
-            this.CHK_Localized.TabIndex = 8;
-            this.CHK_Localized.Text = "-1";
-            this.CHK_Localized.UseVisualStyleBackColor = true;
+            CHK_Localized.AutoSize = true;
+            CHK_Localized.Location = new System.Drawing.Point(151, 5);
+            CHK_Localized.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            CHK_Localized.Name = "CHK_Localized";
+            CHK_Localized.Size = new System.Drawing.Size(37, 19);
+            CHK_Localized.TabIndex = 8;
+            CHK_Localized.Text = "-1";
+            CHK_Localized.UseVisualStyleBackColor = true;
             // 
             // L_End
             // 
-            this.L_End.AutoSize = true;
-            this.L_End.Location = new System.Drawing.Point(194, 7);
-            this.L_End.Margin = new System.Windows.Forms.Padding(3, 7, 3, 0);
-            this.L_End.Name = "L_End";
-            this.L_End.Size = new System.Drawing.Size(30, 15);
-            this.L_End.TabIndex = 3;
-            this.L_End.Text = "End:";
+            L_End.AutoSize = true;
+            L_End.Location = new System.Drawing.Point(194, 7);
+            L_End.Margin = new System.Windows.Forms.Padding(3, 7, 3, 0);
+            L_End.Name = "L_End";
+            L_End.Size = new System.Drawing.Size(30, 15);
+            L_End.TabIndex = 3;
+            L_End.Text = "End:";
             // 
             // CHK_EndTolerance
             // 
-            this.CHK_EndTolerance.AutoSize = true;
-            this.CHK_EndTolerance.Location = new System.Drawing.Point(338, 5);
-            this.CHK_EndTolerance.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
-            this.CHK_EndTolerance.Name = "CHK_EndTolerance";
-            this.CHK_EndTolerance.Size = new System.Drawing.Size(40, 19);
-            this.CHK_EndTolerance.TabIndex = 9;
-            this.CHK_EndTolerance.Text = "+1";
-            this.CHK_EndTolerance.UseVisualStyleBackColor = true;
+            CHK_EndTolerance.AutoSize = true;
+            CHK_EndTolerance.Location = new System.Drawing.Point(338, 5);
+            CHK_EndTolerance.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            CHK_EndTolerance.Name = "CHK_EndTolerance";
+            CHK_EndTolerance.Size = new System.Drawing.Size(40, 19);
+            CHK_EndTolerance.TabIndex = 9;
+            CHK_EndTolerance.Text = "+1";
+            CHK_EndTolerance.UseVisualStyleBackColor = true;
             // 
             // CB_Type
             // 
-            this.CB_Type.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.CB_Type.FormattingEnabled = true;
-            this.CB_Type.Location = new System.Drawing.Point(384, 3);
-            this.CB_Type.Name = "CB_Type";
-            this.CB_Type.Size = new System.Drawing.Size(86, 23);
-            this.CB_Type.TabIndex = 5;
+            CB_Type.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            CB_Type.FormattingEnabled = true;
+            CB_Type.Location = new System.Drawing.Point(384, 3);
+            CB_Type.Name = "CB_Type";
+            CB_Type.Size = new System.Drawing.Size(103, 23);
+            CB_Type.TabIndex = 5;
             // 
             // CHK_Shiny
             // 
-            this.CHK_Shiny.AutoSize = true;
-            this.CHK_Shiny.Location = new System.Drawing.Point(476, 5);
-            this.CHK_Shiny.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
-            this.CHK_Shiny.Name = "CHK_Shiny";
-            this.CHK_Shiny.Size = new System.Drawing.Size(55, 19);
-            this.CHK_Shiny.TabIndex = 6;
-            this.CHK_Shiny.Text = "Shiny";
-            this.CHK_Shiny.ThreeState = true;
-            this.CHK_Shiny.UseVisualStyleBackColor = true;
+            CHK_Shiny.AutoSize = true;
+            CHK_Shiny.Location = new System.Drawing.Point(493, 5);
+            CHK_Shiny.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            CHK_Shiny.Name = "CHK_Shiny";
+            CHK_Shiny.Size = new System.Drawing.Size(55, 19);
+            CHK_Shiny.TabIndex = 6;
+            CHK_Shiny.Text = "Shiny";
+            CHK_Shiny.ThreeState = true;
+            CHK_Shiny.UseVisualStyleBackColor = true;
             // 
             // CHK_MaleOnly
             // 
-            this.CHK_MaleOnly.AutoSize = true;
-            this.CHK_MaleOnly.Location = new System.Drawing.Point(537, 5);
-            this.CHK_MaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
-            this.CHK_MaleOnly.Name = "CHK_MaleOnly";
-            this.CHK_MaleOnly.Size = new System.Drawing.Size(64, 19);
-            this.CHK_MaleOnly.TabIndex = 10;
-            this.CHK_MaleOnly.Text = "Only ♂";
-            this.CHK_MaleOnly.UseVisualStyleBackColor = true;
+            CHK_MaleOnly.AutoSize = true;
+            CHK_MaleOnly.Location = new System.Drawing.Point(554, 5);
+            CHK_MaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            CHK_MaleOnly.Name = "CHK_MaleOnly";
+            CHK_MaleOnly.Size = new System.Drawing.Size(66, 19);
+            CHK_MaleOnly.TabIndex = 10;
+            CHK_MaleOnly.Text = "Only ♂";
+            CHK_MaleOnly.UseVisualStyleBackColor = true;
             // 
             // CHK_FemaleOnly
             // 
-            this.CHK_FemaleOnly.AutoSize = true;
-            this.CHK_FemaleOnly.Location = new System.Drawing.Point(3, 34);
-            this.CHK_FemaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
-            this.CHK_FemaleOnly.Name = "CHK_FemaleOnly";
-            this.CHK_FemaleOnly.Size = new System.Drawing.Size(63, 19);
-            this.CHK_FemaleOnly.TabIndex = 11;
-            this.CHK_FemaleOnly.Text = "Only ♀";
-            this.CHK_FemaleOnly.UseVisualStyleBackColor = true;
+            CHK_FemaleOnly.AutoSize = true;
+            CHK_FemaleOnly.Location = new System.Drawing.Point(3, 34);
+            CHK_FemaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            CHK_FemaleOnly.Name = "CHK_FemaleOnly";
+            CHK_FemaleOnly.Size = new System.Drawing.Size(66, 19);
+            CHK_FemaleOnly.TabIndex = 11;
+            CHK_FemaleOnly.Text = "Only ♀";
+            CHK_FemaleOnly.UseVisualStyleBackColor = true;
             // 
             // TB_Comment
             // 
-            this.TB_Comment.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.TB_Comment.Location = new System.Drawing.Point(72, 32);
-            this.TB_Comment.Name = "TB_Comment";
-            this.TB_Comment.Size = new System.Drawing.Size(529, 23);
-            this.TB_Comment.TabIndex = 7;
+            TB_Comment.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
+            TB_Comment.Location = new System.Drawing.Point(75, 32);
+            TB_Comment.Name = "TB_Comment";
+            TB_Comment.Size = new System.Drawing.Size(529, 23);
+            TB_Comment.TabIndex = 7;
             // 
             // PogoRow
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.FLP_Parent);
-            this.Name = "PogoRow";
-            this.Size = new System.Drawing.Size(625, 89);
-            this.FLP_Parent.ResumeLayout(false);
-            this.FLP_Parent.PerformLayout();
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            Controls.Add(FLP_Parent);
+            Name = "PogoRow";
+            Size = new System.Drawing.Size(625, 89);
+            FLP_Parent.ResumeLayout(false);
+            FLP_Parent.PerformLayout();
+            ResumeLayout(false);
         }
 
         #endregion
