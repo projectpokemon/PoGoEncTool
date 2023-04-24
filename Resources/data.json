@@ -65745,6 +65745,16 @@
           "Shiny": 1,
           "Type": 2,
           "Comment": "Holidays 2018"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "An Instinctive Hero"
         }
       ]
     },
@@ -77716,6 +77726,28 @@
     },
     {
       "Species": 635,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 636,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "An Instinctive Hero"
+        }
+      ]
+    },
+    {
+      "Species": 637,
       "Available": true,
       "Data": []
     },
