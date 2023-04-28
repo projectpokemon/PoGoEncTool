@@ -84933,6 +84933,27 @@
       ]
     },
     {
+      "Species": 900,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 6
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Raid Day: Kleavor)"
+        }
+      ]
+    },
+    {
       "Species": 901,
       "Available": true,
       "Data": []
