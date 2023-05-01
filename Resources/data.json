@@ -79489,13 +79489,40 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Pok\u00E9mon GO 5th Anniversary Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 21
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "May 2023 Community Day"
         }
       ]
     },
     {
       "Species": 654,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 4 Raid Boss (May 2023 Community Day)"
+        }
+      ]
     },
     {
       "Species": 655,
