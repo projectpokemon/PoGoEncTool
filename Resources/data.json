@@ -28238,6 +28238,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Mega September: Mega Battle Challenge"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -36223,6 +36238,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -46510,6 +46540,22 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Tier 4 Raid Boss (Bug Out! 2019)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -48695,6 +48741,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -69999,6 +70060,22 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Tier 3 Raid Boss (Unova Celebration Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -71760,6 +71837,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -74311,6 +74403,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -79766,7 +79874,24 @@
     {
       "Species": 662,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        }
+      ]
     },
     {
       "Species": 663,
@@ -83008,6 +83133,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Bug Out! 2022"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
