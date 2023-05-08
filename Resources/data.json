@@ -5173,6 +5173,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -10036,6 +10051,21 @@
           },
           "Type": 1,
           "Comment": "Supereffective Week"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -12527,6 +12557,22 @@
             "Y": 2023,
             "M": 2,
             "D": 8
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
           },
           "Shiny": 1,
           "Type": 10,
@@ -22978,6 +23024,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -29744,6 +29805,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -48797,7 +48873,7 @@
           "End": {
             "Y": 2023,
             "M": 5,
-            "D": 9
+            "D": 24
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -61055,7 +61131,24 @@
     {
       "Species": 395,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        }
+      ]
     },
     {
       "Species": 396,
@@ -81767,6 +81860,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Rivals\u0027 Week"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -83065,6 +83174,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
