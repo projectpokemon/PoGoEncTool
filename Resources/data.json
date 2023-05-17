@@ -36798,6 +36798,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Mega Raid Boss (Accidental Release)"
         }
       ]
     },
