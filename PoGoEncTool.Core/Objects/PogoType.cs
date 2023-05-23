@@ -30,6 +30,9 @@ public enum PogoType : byte
     ResearchP,
     /// <summary> Ultra Beasts captured after completing Field Research. Only Beast Balls can be used. </summary>
     ResearchUB,
+    /// <summary> Mythical Pokémon captured after completing Field Research. No HUD is visible during these encounters. </summary>
+    /// <remarks> Under normal circumstances, only Poké Balls can be used, but Great Balls and Ultra Balls can be used with the Remember Last-Used Poké Ball setting. </remarks>
+    ResearchNH,
 
     /// <summary> Pokémon captured from the GO Battle League. </summary>
     GBL = 30,
