@@ -5889,6 +5889,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -40356,6 +40371,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -51138,6 +51168,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -58350,6 +58395,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -63593,6 +63653,22 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Daily Adventure Incense"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -71163,7 +71239,24 @@
     {
       "Species": 526,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        }
+      ]
     },
     {
       "Species": 527,
@@ -76918,6 +77011,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -78844,6 +78952,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (A Valorous Hero)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -84325,7 +84448,24 @@
     {
       "Species": 713,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        }
+      ]
     },
     {
       "Species": 713,
@@ -85577,6 +85717,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 5,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
