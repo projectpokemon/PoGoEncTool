@@ -1867,6 +1867,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Water Festival 2023: Beach Week)"
         }
       ]
     },
@@ -7253,6 +7268,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Water Festival 2023: Beach Week)"
         }
       ]
     },
@@ -7671,6 +7701,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season 11: Hidden Gems"
         }
       ]
     },
@@ -12154,6 +12199,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season 11: Hidden Gems"
         }
       ]
     },
@@ -13081,7 +13141,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Season of Rising Heroes"
+          "Comment": "Season 10: Rising Heroes"
         }
       ]
     },
@@ -17595,6 +17655,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue {Cubone}"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season 11: Hidden Gems (Southern Hemisphere)"
         }
       ]
     },
@@ -22967,6 +23042,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Water Festival 2023: Beach Week)"
         }
       ]
     },
@@ -23515,6 +23605,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 12
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Water Festival 2023: Beach Week, No Costume)"
         }
       ]
     },
@@ -26262,6 +26367,186 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 11
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 17
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 18
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 24
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 25
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 2
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 9
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 23
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 30
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 12
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 13
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 19
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 27
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
         }
       ]
     },
@@ -36864,7 +37149,23 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Season of Rising Heroes"
+          "Comment": "Season 10: Rising Heroes"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Water Festival 2023: Beach Week)"
         }
       ]
     },
@@ -38242,7 +38543,7 @@
           "Shiny": 1,
           "Type": 30,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (Season of Mythical Wishes / Season of Rising Heroes)"
+          "Comment": "Reward Encounter (Season of Mythical Wishes / Season 10: Rising Heroes)"
         },
         {
           "Start": {
@@ -44178,6 +44479,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Raid Day: Heading to Hoenn)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -44951,6 +45267,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Raid Day: Heading to Hoenn)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -45313,6 +45644,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season 11: Hidden Gems"
         }
       ]
     },
@@ -49907,7 +50253,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Season of Rising Heroes"
+          "Comment": "Season 10: Rising Heroes"
         },
         {
           "Start": {
@@ -52226,6 +52572,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Water Festival 2023: Beach Week)"
         }
       ]
     },
@@ -55457,6 +55818,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Water Festival 2023: Beach Week)"
         }
       ]
     },
@@ -68243,6 +68619,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Shiny Released in the Wild"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -68347,6 +68738,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Shiny Released in the Wild"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -68450,6 +68856,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Shiny Released in the Wild"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -68831,6 +69252,36 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season 10)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season 11: Hidden Gems)"
         }
       ]
     },
@@ -73931,7 +74382,7 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Season of Rising Heroes (Southern Hemisphere)"
+          "Comment": "Season 10: Rising Heroes (Southern Hemisphere)"
         },
         {
           "Start": {
@@ -73947,6 +74398,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Clay)"
         }
       ]
     },
@@ -75102,7 +75569,7 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Season of Rising Heroes (Northern Hemisphere)"
+          "Comment": "Season 10: Rising Heroes (Northern Hemisphere)"
         }
       ]
     },
@@ -75301,7 +75768,7 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Season of Rising Heroes (Southern Hemisphere)"
+          "Comment": "Season 10: Rising Heroes (Southern Hemisphere)"
         },
         {
           "Start": {
@@ -75969,7 +76436,7 @@
           "Gender": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Season of Rising Heroes"
+          "Comment": "Season 10: Rising Heroes"
         },
         {
           "Start": {
@@ -75984,6 +76451,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Clay)"
         }
       ]
     },
@@ -76060,6 +76542,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Water Festival 2023: Beach Week)"
         }
       ]
     },
@@ -80416,7 +80913,7 @@
           },
           "Type": 30,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (Season of Rising Heroes)"
+          "Comment": "Reward Encounter (Season 10: Rising Heroes)"
         }
       ]
     },
@@ -80596,7 +81093,7 @@
           },
           "Type": 30,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (Season of Rising Heroes)"
+          "Comment": "Reward Encounter (Season 10: Rising Heroes)"
         }
       ]
     },
@@ -80973,7 +81470,7 @@
           },
           "Type": 30,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (Season of Rising Heroes, Released Early)"
+          "Comment": "Reward Encounter (Season 10: Rising Heroes, Released Early)"
         },
         {
           "Start": {
@@ -83773,6 +84270,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Rivals\u0027 Week"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 6
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Water Festival 2023: Beach Week"
         }
       ]
     },
@@ -83963,7 +84470,7 @@
           },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Season of Rising Heroes"
+          "Comment": "Season 10: Rising Heroes"
         }
       ]
     },
@@ -86099,6 +86606,44 @@
       "Data": []
     },
     {
+      "Species": 769,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Water Festival 2023: Beach Week)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 6
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Water Festival 2023: Beach Week"
+        }
+      ]
+    },
+    {
+      "Species": 770,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 777,
       "Available": true,
       "Data": [
@@ -86454,7 +86999,7 @@
           },
           "Type": 30,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (Season of Rising Heroes)"
+          "Comment": "Reward Encounter (Season 10: Rising Heroes)"
         }
       ]
     },
@@ -86522,7 +87067,7 @@
           },
           "Type": 30,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (Season of Rising Heroes)"
+          "Comment": "Reward Encounter (Season 10: Rising Heroes)"
         }
       ]
     },
@@ -86679,6 +87224,22 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Tier 5 Raid Boss (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
