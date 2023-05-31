@@ -26432,6 +26432,21 @@
           "Start": {
             "Y": 2023,
             "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
             "D": 8
           },
           "End": {
@@ -26845,6 +26860,21 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -27127,6 +27157,21 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -69813,6 +69858,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -87236,7 +87296,6 @@
             "M": 6,
             "D": 29
           },
-          "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
@@ -87882,6 +87941,38 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Elite Raid Boss: Regieleki"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season 11: Hidden Gems)"
         }
       ]
     },
@@ -87920,6 +88011,38 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Elite Raid Boss: Regidrago (Makeup Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season 11: Hidden Gems)"
         }
       ]
     },
