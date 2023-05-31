@@ -78166,7 +78166,24 @@
     {
       "Species": 611,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 4 Raid Boss (June 2023 Community Day)"
+        }
+      ]
     },
     {
       "Species": 612,
