@@ -1,5 +1,4 @@
-﻿using PKHeX.Core;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using static PKHeX.Core.Species;
 using static PoGoEncTool.Core.PogoShiny;
@@ -25,19 +24,22 @@ public static class BulkActions
         };
 
         var bosses = T1.Concat(T3);
+        bool shadow = false;
 
         foreach (var enc in bosses)
         {
-            var tier = T1.Contains(enc) ? "1" : "3";
             var pkm = list.GetDetails(enc.Species, enc.Form);
+            var tier = T1.Contains(enc) ? "1" : "3";
+            var boss = shadow ? "Shadow Raid Boss" : "Raid Boss";
+            var type = shadow ? PogoType.RaidS : PogoType.Raid;
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
                 End   = new PogoDate(),
-                Type = PogoType.Raid,
+                Type = type,
                 LocalizedStart = true,
                 NoEndTolerance = false,
-                Comment = $"Tier {tier} Raid Boss",
+                Comment = $"Tier {tier} {boss}",
                 Shiny = enc.Shiny,
             };
 
