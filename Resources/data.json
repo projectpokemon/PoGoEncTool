@@ -8432,6 +8432,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Shadow Raid Boss"
         }
       ]
     },
@@ -26463,6 +26473,22 @@
           "Start": {
             "Y": 2023,
             "M": 6,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Tier 5 Shadow Raid Boss (Released Early)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
             "D": 10
           },
           "End": {
@@ -28205,6 +28231,22 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Tier 5 Shadow Raid Boss (Accidental Release)"
         }
       ]
     },
@@ -36696,6 +36738,16 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Shadow Raid Boss"
         }
       ]
     },
@@ -38723,6 +38775,16 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 3 Shadow Raid Boss (Rising Shadows)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Shadow Raid Boss"
         }
       ]
     },
@@ -63213,6 +63275,17 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Shadow Raid Boss"
         }
       ]
     },
@@ -73250,6 +73323,17 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2021 (Desert Mountain Habitat)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Shadow Raid Boss"
         }
       ]
     },
@@ -73276,6 +73360,17 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2021 (Ocean Beach Habitat)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Shadow Raid Boss"
         }
       ]
     },
