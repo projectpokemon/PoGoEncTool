@@ -3918,6 +3918,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season 11: Hidden Gems (Northern Hemisphere)"
         }
       ]
     },
@@ -37393,13 +37408,13 @@
           },
           "End": {
             "Y": 2023,
-            "M": 6,
+            "M": 9,
             "D": 1
           },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Season 10: Rising Heroes"
+          "Comment": "Season 10: Rising Heroes / Season 11: Hidden Gems"
         },
         {
           "Start": {
@@ -76085,6 +76100,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Season of Mythical Wishes (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season 11: Hidden Gems (Northern Hemisphere)"
         }
       ]
     },
@@ -76299,6 +76330,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Season of Mythical Wishes (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Season 11: Hidden Gems (Southern Hemisphere)"
         }
       ]
     },
@@ -76858,13 +76905,13 @@
           },
           "End": {
             "Y": 2023,
-            "M": 6,
+            "M": 9,
             "D": 1
           },
           "Gender": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Season 10: Rising Heroes"
+          "Comment": "Season 10: Rising Heroes / Season 11: Hidden Gems"
         },
         {
           "Start": {
@@ -76879,21 +76926,6 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
-        },
-        {
-          "Start": {
-            "Y": 2023,
-            "M": 7,
-            "D": 1
-          },
-          "End": {
-            "Y": 2023,
-            "M": 9,
-            "D": 1
-          },
-          "Type": 32,
-          "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Weekend: Clay)"
         }
       ]
     },
