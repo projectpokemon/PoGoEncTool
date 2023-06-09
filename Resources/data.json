@@ -88227,6 +88227,26 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "A Radiant World"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "Type": 23,
+          "LocalizedStart": true,
+          "Comment": "Ultra Beast Arrival"
         }
       ]
     },
@@ -88243,6 +88263,17 @@
           "Shiny": 1,
           "Type": 23,
           "Comment": "Pok\u00E9mon GO Fest 2022: Seattle \u2013 City Experience"
+        },
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 8,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "A Radiant Reunion"
         }
       ]
     },
@@ -88260,6 +88291,17 @@
           "Type": 23,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2022: Berlin"
+        },
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 8,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "A Radiant Reunion"
         }
       ]
     },
@@ -88276,6 +88318,17 @@
           "Shiny": 1,
           "Type": 23,
           "Comment": "Pok\u00E9mon GO Fest 2022: Seattle \u2013 Park Experience (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 8,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "A Radiant Reunion"
         }
       ]
     },
@@ -88324,7 +88377,7 @@
           "Shiny": 1,
           "Type": 23,
           "LocalizedStart": true,
-          "Comment": "Ultra Beast Arrival: Global"
+          "Comment": "Ultra Beast Arrival"
         }
       ]
     },
@@ -88373,7 +88426,7 @@
           "Shiny": 1,
           "Type": 23,
           "LocalizedStart": true,
-          "Comment": "Ultra Beast Arrival: Global"
+          "Comment": "Ultra Beast Arrival"
         }
       ]
     },
@@ -88422,7 +88475,7 @@
           "Shiny": 1,
           "Type": 23,
           "LocalizedStart": true,
-          "Comment": "Ultra Beast Arrival: Global"
+          "Comment": "Ultra Beast Arrival"
         }
       ]
     },
