@@ -30,6 +30,7 @@ public partial class Main : Form
         // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = Core.PogoType.Shadow);
         // BulkActions.AddRaidBosses(Entries);
         // BulkActions.AddNewShadows(Entries);
+        // BulkActions.AddMonthlyRaidBosses(Entries);
 
         LoadEntries();
         InitializeDataSources();

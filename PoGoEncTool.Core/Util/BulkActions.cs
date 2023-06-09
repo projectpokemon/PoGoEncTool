@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using PKHeX.Core;
+using System.Collections.Generic;
 using System.Linq;
 using static PKHeX.Core.Species;
 using static PoGoEncTool.Core.PogoShiny;
@@ -13,23 +14,16 @@ public static class BulkActions
 {
     public static void AddRaidBosses(PogoEncounterList list)
     {
-        var T1 = new List<(ushort Species, byte Form, PogoShiny Shiny)>
+        var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, byte Tier)>
         {
-            new((int)Bulbasaur, 0, Random),
+            new((int)Bulbasaur, 0, Random, 1),
         };
 
-        var T3 = new List<(ushort Species, byte Form, PogoShiny Shiny)>
-        {
-            new((int)Bulbasaur, 0, Random),
-        };
-
-        var bosses = T1.Concat(T3);
         bool shadow = false;
 
         foreach (var enc in bosses)
         {
             var pkm = list.GetDetails(enc.Species, enc.Form);
-            var tier = T1.Contains(enc) ? "1" : "3";
             var boss = shadow ? "Shadow Raid Boss" : "Raid Boss";
             var type = shadow ? PogoType.RaidS : PogoType.Raid;
             var entry = new PogoEntry
@@ -39,7 +33,7 @@ public static class BulkActions
                 Type = type,
                 LocalizedStart = true,
                 NoEndTolerance = false,
-                Comment = $"Tier {tier} {boss}",
+                Comment = $"Tier {enc.Tier} {boss}",
                 Shiny = enc.Shiny,
             };
 
@@ -59,6 +53,70 @@ public static class BulkActions
             }
 
             pkm.Add(entry); // add the entry!
+        }
+    }
+
+    public static void AddMonthlyRaidBosses(PogoEncounterList list)
+    {
+        var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, PogoDate Start, PogoDate End, bool IsMega)>
+        {
+            // Five-Star
+            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), false),
+
+            // Mega
+            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), true),
+        };
+
+        foreach (var enc in bosses)
+        {
+            var pkm = list.GetDetails(enc.Species, enc.Form);
+            var comment = enc.IsMega ? "Mega Raid Boss" : "Tier 5 Raid Boss";
+            var type = enc.Species switch
+            {
+                _ when SpeciesCategory.IsMythical(enc.Species) => PogoType.RaidM,
+                _ when SpeciesCategory.IsUltraBeast(enc.Species) => PogoType.RaidUB,
+                _ => PogoType.Raid,
+            };
+
+            var entry = new PogoEntry
+            {
+                Start = enc.Start,
+                End = enc.End,
+                Type = type,
+                LocalizedStart = true,
+                NoEndTolerance = false,
+                Comment = comment,
+                Shiny = enc.Shiny,
+            };
+
+            // set species as available if this encounter is its debut
+            if (!pkm.Available)
+                pkm.Available = true;
+
+            pkm.Add(entry); // add the raid entry!
+
+            // add an extra GBL encounter if it has not appeared in wild/research before with the same shiny eligibility
+            if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM && z.Shiny == enc.Shiny))
+                AddGBL(enc.Species, enc.Form, enc.Shiny, enc.Start);
+        }
+
+        void AddGBL(ushort species, byte form, PogoShiny shiny, PogoDate start)
+        {
+            var end = new PogoDate();
+            var pkm = list.GetDetails(species, form);
+            var type = SpeciesCategory.IsMythical(species) ? PogoType.GBLM : PogoType.GBL;
+            var entry = new PogoEntry
+            {
+                Start = start,
+                End = end,
+                Type = type,
+                LocalizedStart = true,
+                NoEndTolerance = false,
+                Comment = "Reward Encounter",
+                Shiny = shiny,
+            };
+
+            pkm.Add(entry); // add the GBL entry!
         }
     }
 
