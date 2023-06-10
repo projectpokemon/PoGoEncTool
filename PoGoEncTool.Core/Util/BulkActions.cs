@@ -73,6 +73,7 @@ public static class BulkActions
             var comment = enc.IsMega ? "Mega Raid Boss" : "Tier 5 Raid Boss";
             var type = enc.Species switch
             {
+                (int)Meltan or (int)Melmetal => PogoType.Raid, // only Mythicals that can be traded
                 _ when SpeciesCategory.IsMythical(enc.Species) => PogoType.RaidM,
                 _ when SpeciesCategory.IsUltraBeast(enc.Species) => PogoType.RaidUB,
                 _ => PogoType.Raid,
@@ -95,8 +96,8 @@ public static class BulkActions
 
             pkm.Add(entry); // add the raid entry!
 
-            // add an extra GBL encounter if it has not appeared in wild/research before with the same shiny eligibility
-            if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM && z.Shiny == enc.Shiny))
+            // add an accompanying GBL encounter if it has not appeared in research before, or continues to appear in the wild
+            if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM && z.Shiny == enc.Shiny && z.End == null))
                 AddGBL(enc.Species, enc.Form, enc.Shiny, enc.Start);
         }
 
