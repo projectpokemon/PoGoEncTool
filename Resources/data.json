@@ -28063,8 +28063,8 @@
           },
           "End": {
             "Y": 2023,
-            "M": 2,
-            "D": 1
+            "M": 1,
+            "D": 31
           },
           "Shiny": 1,
           "Type": 40,
@@ -32403,8 +32403,8 @@
           },
           "End": {
             "Y": 2023,
-            "M": 3,
-            "D": 25
+            "M": 6,
+            "D": 21
           },
           "Type": 40,
           "LocalizedStart": true,
@@ -39133,6 +39133,11 @@
             "M": 3,
             "D": 25
           },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 21
+          },
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
@@ -43749,6 +43754,11 @@
             "Y": 2023,
             "M": 3,
             "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 21
           },
           "Type": 40,
           "LocalizedStart": true,
@@ -60305,6 +60315,17 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Boss Giovanni"
         }
       ]
     },
@@ -60546,6 +60567,11 @@
             "Y": 2023,
             "M": 3,
             "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 20
           },
           "Shiny": 1,
           "Type": 40,
@@ -80371,7 +80397,7 @@
           },
           "Type": 3,
           "LocalizedStart": true,
-          "Comment": "Greedy Gluttons"
+          "Comment": "Team GO Rocket Takeover (Greedy Gluttons)"
         },
         {
           "Start": {
@@ -83916,6 +83942,26 @@
           "Type": 32,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Day: Mankey)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 21
+          },
+          "Type": 3,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Takeover (Solstice Horizons)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 21
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2022: Global (Rainforest Habitat)"
         }
       ]
     },
