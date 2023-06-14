@@ -9664,6 +9664,36 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 1 Shadow Raid Boss (Rising Shadows)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -13673,6 +13703,36 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -15300,6 +15360,36 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -18899,6 +18989,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Crackling Voltage)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -29279,17 +29399,17 @@
           "Start": {
             "Y": 2023,
             "M": 6,
-            "D": 16
+            "D": 15
           },
           "End": {
             "Y": 2023,
             "M": 6,
-            "D": 25
+            "D": 29
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Solstice Horizons)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -31308,6 +31428,36 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -32062,28 +32212,12 @@
           "End": {
             "Y": 2023,
             "M": 6,
-            "D": 15
-          },
-          "Shiny": 1,
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2023,
-            "M": 6,
-            "D": 16
-          },
-          "End": {
-            "Y": 2023,
-            "M": 6,
             "D": 25
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Solstice Horizons)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -54189,6 +54323,36 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -55703,6 +55867,36 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -68316,6 +68510,38 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -72338,6 +72564,36 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
