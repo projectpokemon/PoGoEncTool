@@ -29274,6 +29274,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (The Seasons Change: Part 1)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Solstice Horizons)"
         }
       ]
     },
@@ -32052,6 +32068,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Solstice Horizons)"
         }
       ]
     },
@@ -32233,6 +32265,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Halloween 2022)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Solstice Horizons)"
         }
       ]
     },
@@ -38956,6 +39004,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 3 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Solstice Horizons)"
         }
       ]
     },
@@ -39037,6 +39100,38 @@
           "Type": 32,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Day: Palmer)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Solstice Horizons (Daytime)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Solstice Horizons)"
         }
       ]
     },
@@ -63573,6 +63668,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Solstice Horizons)"
         }
       ]
     },
@@ -87090,6 +87201,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Solstice Horizons)"
         }
       ]
     },
@@ -87219,6 +87345,31 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 6,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Solstice Horizons)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Solstice Horizons (Daytime)"
         }
       ]
     },
