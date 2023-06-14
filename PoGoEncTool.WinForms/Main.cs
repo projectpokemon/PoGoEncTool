@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.IO;
 using System.Linq;
 using System.Windows.Forms;
 using PKHeX.Core;
@@ -289,7 +290,7 @@ public partial class Main : Form
             if (f == form)
                 continue;
             var entry = CB_Form.Items[f];
-            var combo = new ComboItem((string) entry, f);
+            var combo = new ComboItem((string)entry, f);
             entries.Add(combo);
         }
 
@@ -309,6 +310,57 @@ public partial class Main : Form
                 continue;
             parent.Add(detail);
         }
+        System.Media.SystemSounds.Asterisk.Play();
+    }
+
+    private void B_DumpAll_Click(object sender, EventArgs e)
+    {
+        var names = GameInfo.Strings.Species;
+        var species = CB_Species.Items;
+        var list = new List<string>();
+
+        for (int i = 1; i < species.Count; i++)
+        {
+            for (int f = 0; f <= CB_Form.Items.Count; f++)
+            {
+                var current = Entries.GetDetails((ushort)i, (byte)f);
+                if (current.Data.Count == 0)
+                    continue;
+
+                var form = f == 0 ? string.Empty : $"-{f}";
+                var name = $"{i:0000} {names[current.Species]}{form}";
+                list.Add(name);
+
+                foreach (var enc in current.Data)
+                {
+                    var start = enc.Start?.ToString();
+                    var end = enc.End == null ? "XXXX.XX.XX" : enc.End.ToString();
+
+                    var shiny = enc.Shiny switch
+                    {
+                        PogoShiny.Random => " (Shiny: Random)",
+                        PogoShiny.Always => " (Shiny: Always)",
+                        _ => " (Shiny:  Never)",
+                    };
+
+                    var gender = enc.Gender switch
+                    {
+                        PogoGender.MaleOnly => " (Gender: ♂)",
+                        PogoGender.FemaleOnly => " (Gender: ♀)",
+                        _ => string.Empty,
+                    };
+
+                    var type = $" ({enc.Type}) ".PadRight(16, ' ');
+                    var line = $"{start} to {end}{type}{shiny}{gender} - {enc.Comment}";
+                    list.Add(line);
+                }
+
+                list.Add("");
+            }
+        }
+
+        var path = Path.Combine(Directory.GetCurrentDirectory(), "encounter_dump.txt");
+        File.WriteAllLines(path, list);
         System.Media.SystemSounds.Asterisk.Play();
     }
 }

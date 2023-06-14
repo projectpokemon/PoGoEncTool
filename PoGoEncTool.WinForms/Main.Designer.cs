@@ -44,6 +44,7 @@ namespace PoGoEncTool.WinForms
             CHK_Available = new System.Windows.Forms.CheckBox();
             B_CopyToForms = new System.Windows.Forms.Button();
             B_DeleteAll = new System.Windows.Forms.Button();
+            B_DumpAll = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)PB_Poke).BeginInit();
             SuspendLayout();
             // 
@@ -119,7 +120,7 @@ namespace PoGoEncTool.WinForms
             // B_DeleteSelected
             // 
             B_DeleteSelected.Anchor = System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left;
-            B_DeleteSelected.Location = new System.Drawing.Point(159, 578);
+            B_DeleteSelected.Location = new System.Drawing.Point(160, 582);
             B_DeleteSelected.Name = "B_DeleteSelected";
             B_DeleteSelected.Size = new System.Drawing.Size(68, 23);
             B_DeleteSelected.TabIndex = 10;
@@ -183,7 +184,7 @@ namespace PoGoEncTool.WinForms
             // 
             // B_CopyToForms
             // 
-            B_CopyToForms.Location = new System.Drawing.Point(158, 260);
+            B_CopyToForms.Location = new System.Drawing.Point(158, 263);
             B_CopyToForms.Name = "B_CopyToForms";
             B_CopyToForms.Size = new System.Drawing.Size(70, 45);
             B_CopyToForms.TabIndex = 18;
@@ -194,7 +195,7 @@ namespace PoGoEncTool.WinForms
             // B_DeleteAll
             // 
             B_DeleteAll.Anchor = System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left;
-            B_DeleteAll.Location = new System.Drawing.Point(159, 604);
+            B_DeleteAll.Location = new System.Drawing.Point(160, 608);
             B_DeleteAll.Name = "B_DeleteAll";
             B_DeleteAll.Size = new System.Drawing.Size(68, 23);
             B_DeleteAll.TabIndex = 19;
@@ -202,11 +203,22 @@ namespace PoGoEncTool.WinForms
             B_DeleteAll.UseVisualStyleBackColor = true;
             B_DeleteAll.Click += B_DeleteAll_Click;
             // 
+            // B_DumpAll
+            // 
+            B_DumpAll.Location = new System.Drawing.Point(158, 314);
+            B_DumpAll.Name = "B_DumpAll";
+            B_DumpAll.Size = new System.Drawing.Size(70, 45);
+            B_DumpAll.TabIndex = 20;
+            B_DumpAll.Text = "Dump All";
+            B_DumpAll.UseVisualStyleBackColor = true;
+            B_DumpAll.Click += B_DumpAll_Click;
+            // 
             // Main
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(999, 647);
+            Controls.Add(B_DumpAll);
             Controls.Add(B_DeleteAll);
             Controls.Add(B_CopyToForms);
             Controls.Add(CHK_Available);
@@ -250,6 +262,7 @@ namespace PoGoEncTool.WinForms
         private System.Windows.Forms.CheckBox CHK_Available;
         private System.Windows.Forms.Button B_CopyToForms;
         private System.Windows.Forms.Button B_DeleteAll;
+        private System.Windows.Forms.Button B_DumpAll;
     }
 }
 
