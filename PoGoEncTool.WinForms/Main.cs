@@ -321,7 +321,8 @@ public partial class Main : Form
 
         for (int i = 1; i < species.Count; i++)
         {
-            for (int f = 0; f <= CB_Form.Items.Count; f++)
+            var forms = FormConverter.GetFormList((ushort)i, GameInfo.Strings.Types, GameInfo.Strings.forms, GameInfo.GenderSymbolASCII, PKX.Context);
+            for (int f = 0; f <= forms.Length; f++)
             {
                 var current = Entries.GetDetails((ushort)i, (byte)f);
                 if (current.Data.Count == 0)
