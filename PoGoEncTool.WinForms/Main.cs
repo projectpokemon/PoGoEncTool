@@ -318,6 +318,7 @@ public partial class Main : Form
         var names = GameInfo.Strings.Species;
         var species = CB_Species.Items;
         var list = new List<string>();
+        const string filter = "";
 
         for (int i = 1; i < species.Count; i++)
         {
@@ -327,6 +328,8 @@ public partial class Main : Form
                 var current = Entries.GetDetails((ushort)i, (byte)f);
                 if (current.Data.Count == 0)
                     continue;
+                if (!current.Data.Any(z => z.Comment.Contains(filter)))
+                    continue;
 
                 var form = f == 0 ? string.Empty : $"-{f}";
                 var name = $"{i:0000} {names[current.Species]}{form}";
@@ -334,6 +337,9 @@ public partial class Main : Form
 
                 foreach (var enc in current.Data)
                 {
+                    if (!enc.Comment.Contains(filter))
+                        continue;
+
                     var start = enc.Start?.ToString();
                     var end = enc.End == null ? "XXXX.XX.XX" : enc.End.ToString();
 
