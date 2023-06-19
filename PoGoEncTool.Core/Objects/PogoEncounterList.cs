@@ -27,7 +27,7 @@ public class PogoEncounterList
 
     public void Clean()
     {
-        CleanDuplicatesForEvolutions();
+        // CleanDuplicatesForEvolutions();
         foreach (var d in Data)
             d.Clean();
         Data.RemoveAll(z => !z.Available);
