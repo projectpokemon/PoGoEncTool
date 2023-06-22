@@ -17906,6 +17906,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Season 11: Hidden Gems (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Dark Flames)"
         }
       ]
     },
@@ -24707,6 +24722,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Lunar New Year 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Dark Flames)"
         }
       ]
     },
@@ -32571,6 +32602,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Solstice Horizons)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Dark Flames)"
         }
       ]
     },
@@ -39309,6 +39356,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 3 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Dark Flames)"
         }
       ]
     },
@@ -50397,6 +50459,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -74995,6 +75072,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Dark Flames)"
         }
       ]
     },
@@ -75733,6 +75825,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Dark Flames)"
         },
         {
           "Start": {
@@ -81716,6 +81824,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Dark Flames)"
         }
       ]
     },
@@ -88394,6 +88517,37 @@
       "Species": 770,
       "Available": true,
       "Data": []
+    },
+    {
+      "Species": 776,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Dark Flames)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Dark Flames"
+        }
+      ]
     },
     {
       "Species": 777,
