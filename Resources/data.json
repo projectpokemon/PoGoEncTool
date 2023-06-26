@@ -1882,6 +1882,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Water Festival 2023: Beach Week)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -44814,6 +44829,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -45891,6 +45921,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Lunar New Year 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
