@@ -159,7 +159,13 @@ public partial class Main : Form
     private void LoadEntry(PogoEntry entry)
     {
         var species = Convert.ToUInt16(CB_Species.SelectedValue);
-        var form = (byte)CB_Form.SelectedIndex;
+        var comment = entry.Comment;
+        var form = comment switch
+        {
+            _ when comment.Contains("Mega Charizard Y") || comment.Contains("Mega Mewtwo Y") => (byte)2,
+            _ when comment.Contains("Mega Raid Boss") || comment.Contains("Primal Raid Boss") => (byte)1,
+            _ => (byte)CB_Form.SelectedIndex,
+        };
         var gender = (int)entry.Gender - 1;
         var shiny = entry.Shiny == PogoShiny.Always ? Shiny.Always : Shiny.Never;
         PB_Poke.Image = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny);

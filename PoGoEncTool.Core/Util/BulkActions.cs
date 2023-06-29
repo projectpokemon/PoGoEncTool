@@ -58,19 +58,29 @@ public static class BulkActions
 
     public static void AddMonthlyRaidBosses(PogoEncounterList list)
     {
-        var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, PogoDate Start, PogoDate End, bool IsMega)>
+        var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, PogoDate Start, PogoDate End, bool IsMega, byte MegaForm)>
         {
             // Five-Star
-            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), false),
+            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), false, 0),
 
             // Mega
-            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), true),
+            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), true, 0),
         };
 
         foreach (var enc in bosses)
         {
             var pkm = list.GetDetails(enc.Species, enc.Form);
-            var comment = enc.IsMega ? "Mega Raid Boss" : "Tier 5 Raid Boss";
+            var comment = "Raid Boss";
+            if (enc.IsMega)
+            {
+                comment = enc.MegaForm switch
+                {
+                    0 when enc.Species is (int)Charizard or (int)Mewtwo => $"Mega Raid Boss (Mega {(Species)enc.Species} X)",
+                    1 when enc.Species is (int)Charizard or (int)Mewtwo => $"Mega Raid Boss (Mega {(Species)enc.Species} Y)",
+                    _ => "Mega Raid Boss",
+                };
+            }
+
             var type = enc.Species switch
             {
                 (int)Meltan or (int)Melmetal => PogoType.Raid, // only Mythicals that can be traded
