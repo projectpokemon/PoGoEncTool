@@ -338,6 +338,21 @@
           "Start": {
             "Y": 2023,
             "M": 7,
+            "D": 12
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
             "D": 28
           },
           "End": {
@@ -1024,6 +1039,21 @@
           "Start": {
             "Y": 2023,
             "M": 7,
+            "D": 12
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
             "D": 28
           },
           "End": {
@@ -1671,6 +1701,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party, No Costume)"
         },
         {
           "Start": {
@@ -3436,6 +3481,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party, No Costume)"
         },
         {
           "Start": {
@@ -11970,6 +12030,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (A Valorous Hero)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO 7th Anniversary Party"
         }
       ]
     },
@@ -13174,6 +13249,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party)"
         }
       ]
     },
@@ -24145,6 +24236,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Water Festival 2023: Beach Week, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party)"
         }
       ]
     },
@@ -24930,6 +25036,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Dark Flames)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party)"
         }
       ]
     },
@@ -26637,6 +26759,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party)"
         },
         {
           "Start": {
@@ -59540,7 +59677,24 @@
     {
       "Species": 364,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party)"
+        }
+      ]
     },
     {
       "Species": 365,
