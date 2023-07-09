@@ -29,9 +29,9 @@ public static class EvoUtil
         if (form >= table[species].FormCount)
             yield break;
 
-        EvolutionTree t = EvolutionTree.GetEvolutionTree(context);
-        var tableEvos = t.GetEvolutions(species, form);
-        foreach (var evo in tableEvos)
+        var tree = EvolutionTree.GetEvolutionTree(context);
+        var evos = tree.Forward.GetEvolutions(species, form);
+        foreach (var evo in evos)
             yield return evo;
     }
 
