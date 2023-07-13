@@ -3500,6 +3500,21 @@
         {
           "Start": {
             "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
             "M": 8,
             "D": 26
           },
@@ -7356,6 +7371,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -8710,6 +8740,22 @@
           "Shiny": 1,
           "Type": 20,
           "Comment": "Field Research Tasks"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         },
         {
           "Start": {
@@ -11088,6 +11134,22 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -13321,12 +13383,12 @@
           "End": {
             "Y": 2023,
             "M": 7,
-            "D": 12
+            "D": 13
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -16289,6 +16351,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -24323,11 +24400,11 @@
           "End": {
             "Y": 2023,
             "M": 7,
-            "D": 12
+            "D": 13
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -24540,6 +24617,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -25123,12 +25215,12 @@
           "End": {
             "Y": 2023,
             "M": 7,
-            "D": 12
+            "D": 13
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -26846,26 +26938,11 @@
           "End": {
             "Y": 2023,
             "M": 7,
-            "D": 12
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party)"
-        },
-        {
-          "Start": {
-            "Y": 2023,
-            "M": 7,
-            "D": 15
-          },
-          "End": {
-            "Y": 2023,
-            "M": 7,
             "D": 16
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Catching Some Z\u0027s)"
+          "Comment": "Tier 3 Raid Boss"
         },
         {
           "Start": {
@@ -30351,6 +30428,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 2 Raid Boss (Buddy Up)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -41591,6 +41684,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Season 9: Mythical Wishes (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 18
+          },
+          "Type": 1,
+          "Comment": "Surprise Encounter (Limited Partner Research: Amazon Prime Gaming)"
         }
       ]
     },
@@ -42707,6 +42814,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -53068,6 +53190,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -59780,12 +59917,12 @@
           "End": {
             "Y": 2023,
             "M": 7,
-            "D": 12
+            "D": 13
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO 7th Anniversary Party)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -65883,7 +66020,24 @@
     {
       "Species": 404,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        }
+      ]
     },
     {
       "Species": 405,
@@ -68955,6 +69109,22 @@
             "Y": 2023,
             "M": 4,
             "D": 17
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
           },
           "Shiny": 1,
           "Type": 10,
@@ -73444,6 +73614,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -79913,6 +80098,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -80826,6 +81027,21 @@
             "Y": 2023,
             "M": 3,
             "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 13
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -86836,6 +87052,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2022: Research Day"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 27
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Adventure Week 2023"
         }
       ]
     },
@@ -86880,6 +87106,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2022: Research Day"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 27
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Adventure Week 2023"
         }
       ]
     },
