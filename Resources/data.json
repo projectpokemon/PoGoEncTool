@@ -34321,6 +34321,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Barcelona 2023"
         }
       ]
     },
@@ -34367,6 +34382,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Barcelona 2023"
         }
       ]
     },
@@ -34630,6 +34660,36 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Seoul 2023"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 5
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO City Safari: Mexico City 2023"
         }
       ]
     },
@@ -35397,6 +35457,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 5
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO City Safari: Mexico City 2023"
         }
       ]
     },
@@ -35542,6 +35616,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Barcelona 2023"
         }
       ]
     },
@@ -35732,6 +35821,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Seoul 2023"
         }
       ]
     },
@@ -36176,6 +36281,22 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Seoul 2023"
         }
       ]
     },
@@ -36734,6 +36855,20 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 5
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO City Safari: Mexico City 2023"
         }
       ]
     },
@@ -85867,6 +86002,62 @@
       "Data": []
     },
     {
+      "Species": 672,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Seoul 2023"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Barcelona 2023"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 5
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO City Safari: Mexico City 2023"
+        }
+      ]
+    },
+    {
+      "Species": 673,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 674,
       "Available": true,
       "Data": [
@@ -89809,6 +90000,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Water Festival 2023: Beach Week"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 13
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Barcelona 2023"
         }
       ]
     },
