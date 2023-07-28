@@ -23873,6 +23873,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Pok\u00E9mon Air Adventures 2023 \u2013 Jeju Island)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -61089,6 +61104,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 27
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -63159,7 +63204,7 @@
           "Start": {
             "Y": 2023,
             "M": 8,
-            "D": 26
+            "D": 23
           },
           "End": {
             "Y": 2023,
@@ -63168,7 +63213,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Primal Raid Boss (Pok\u00E9mon GO Fest 2023: Global)"
+          "Comment": "Primal Raid Boss"
         }
       ]
     },
@@ -63366,7 +63411,7 @@
           "Start": {
             "Y": 2023,
             "M": 8,
-            "D": 26
+            "D": 23
           },
           "End": {
             "Y": 2023,
@@ -63375,7 +63420,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Primal Raid Boss (Pok\u00E9mon GO Fest 2023: Global)"
+          "Comment": "Primal Raid Boss"
         }
       ]
     },
@@ -88321,15 +88366,46 @@
           "Start": {
             "Y": 2023,
             "M": 8,
-            "D": 18
+            "D": 16
           },
           "End": {
             "Y": 2023,
             "M": 8,
-            "D": 20
+            "D": 23
           },
           "Type": 10,
-          "Comment": "Tier 5 Raid Boss (Pok\u00E9mon GO Fest 2023: New York City)"
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season 11: Hidden Gems)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 27
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -88433,15 +88509,46 @@
           "Start": {
             "Y": 2023,
             "M": 8,
-            "D": 18
+            "D": 16
           },
           "End": {
             "Y": 2023,
             "M": 8,
-            "D": 20
+            "D": 23
           },
           "Type": 10,
-          "Comment": "Tier 5 Raid Boss (Pok\u00E9mon GO Fest 2023: New York City)"
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Season 11: Hidden Gems)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 27
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
