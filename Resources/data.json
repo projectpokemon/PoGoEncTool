@@ -8310,6 +8310,22 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 30
+          },
+          "End": {
+            "Y": 2023,
+            "M": 7,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Tier 4 Raid Boss (July 2023 Community Day, Accidental Release)"
         }
       ]
     },
