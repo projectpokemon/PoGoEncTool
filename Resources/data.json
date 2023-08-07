@@ -3516,6 +3516,21 @@
           "Start": {
             "Y": 2023,
             "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (2023 Pok\u00E9mon World Championships Event, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
             "D": 26
           },
           "End": {
@@ -4513,6 +4528,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (2023 Pok\u00E9mon World Championships Event)"
         }
       ]
     },
@@ -42595,6 +42625,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (2023 Pok\u00E9mon World Championships Event)"
         }
       ]
     },
@@ -77365,6 +77410,71 @@
           "Type": 32,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Weekend: Clay)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 15
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "2023 Pok\u00E9mon World Championships Event"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (2023 Pok\u00E9mon World Championships Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (2023 Pok\u00E9mon World Championships Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 3,
+          "LocalizedStart": true,
+          "Comment": "2023 Pok\u00E9mon World Championships Event"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "2023 Pok\u00E9mon World Championships Event"
         }
       ]
     },
@@ -82079,6 +82189,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (A Valorous Hero)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (2023 Pok\u00E9mon World Championships Event)"
         }
       ]
     },
@@ -90319,6 +90444,39 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global (Malachite Wilderness Habitat)"
+        }
+      ]
+    },
+    {
+      "Species": 766,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (2023 Pok\u00E9mon World Championships Event)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "2023 Pok\u00E9mon World Championships Event"
         }
       ]
     },
