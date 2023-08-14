@@ -34566,7 +34566,7 @@
           "End": {
             "Y": 2022,
             "M": 8,
-            "D": 23
+            "D": 21
           },
           "Type": 1,
           "LocalizedStart": true,
@@ -35494,7 +35494,7 @@
           "End": {
             "Y": 2022,
             "M": 8,
-            "D": 23
+            "D": 21
           },
           "Type": 1,
           "LocalizedStart": true,
@@ -35640,7 +35640,7 @@
           "End": {
             "Y": 2022,
             "M": 8,
-            "D": 23
+            "D": 21
           },
           "Type": 1,
           "LocalizedStart": true,
@@ -35934,6 +35934,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: London / Osaka"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 13
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "2023 Pok\u00E9mon World Championships (In-Person Event)"
         },
         {
           "Start": {
@@ -37067,6 +37082,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 13
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "2023 Pok\u00E9mon World Championships (In-Person Event)"
         }
       ]
     },
@@ -90451,6 +90481,22 @@
       "Species": 766,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "2023 Pok\u00E9mon World Championships (In-Person Event)"
+        },
         {
           "Start": {
             "Y": 2023,
