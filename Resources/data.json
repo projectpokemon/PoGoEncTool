@@ -26926,6 +26926,20 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO Fest 2023: London / Osaka, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 10,
+          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO Fest 2023: New York City, No Costume)"
         }
       ]
     },
@@ -88844,7 +88858,7 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2023: London / Osaka (Fairy Garden Habitat)"
+          "Comment": "Pok\u00E9mon GO Fest 2023: London / Osaka"
         },
         {
           "Start": {
@@ -88861,6 +88875,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 2 Raid Boss (Pok\u00E9mon GO Fest 2023: London / Osaka)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO Fest 2023: New York City"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Tier 2 Raid Boss (Pok\u00E9mon GO Fest 2023: New York City)"
         },
         {
           "Start": {
