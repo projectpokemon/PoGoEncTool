@@ -341,7 +341,7 @@ public partial class Main : Form
                 if (!current.Data.Any(z => z.Comment.Contains(filter)))
                     continue;
 
-                var form = f == 0 ? string.Empty : $"-{f}";
+                var form = f == 0 ? string.Empty : $"-{f} ({forms[f]})";
                 var name = $"{i:0000} {names[current.Species]}{form}";
                 list.Add(name);
 
