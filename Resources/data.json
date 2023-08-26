@@ -68610,7 +68610,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2023: Global (Aquamarine Shores Habitat)"
+          "Comment": "Pok\u00E9mon GO Fest 2023: Global (Quartz Terrarium Habitat)"
         }
       ]
     },
@@ -68653,7 +68653,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2023: Global (Quartz Terrarium Habitat)"
+          "Comment": "Pok\u00E9mon GO Fest 2023: Global (Aquamarine Shores Habitat)"
         }
       ]
     },
@@ -84036,6 +84036,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global (Pyrite Sands Habitat)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 26
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2023: Global"
         }
       ]
     },
@@ -89242,8 +89252,24 @@
             "D": 20
           },
           "Shiny": 1,
-          "Type": 1,
+          "Type": 10,
           "Comment": "Tier 2 Raid Boss (Pok\u00E9mon GO Fest 2023: New York City)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2023: Global"
         },
         {
           "Start": {
