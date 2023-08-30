@@ -28270,6 +28270,201 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 17
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 24
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 15
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 22
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 28
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 29
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 5
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 12
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 26
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
         }
       ]
     },
@@ -93832,6 +94027,17 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2023: Paldea"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "First Debut in Pok\u00E9mon Eggs"
         }
       ]
     },
