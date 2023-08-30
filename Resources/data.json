@@ -363,21 +363,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Pok\u00E9mon Air Adventures 2023 \u2013 Jeju Island)"
-        },
-        {
-          "Start": {
-            "Y": 2023,
-            "M": 9,
-            "D": 5
-          },
-          "End": {
-            "Y": 2023,
-            "M": 9,
-            "D": 10
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (A Paldean Adventure)"
         }
       ]
     },
@@ -34749,11 +34734,11 @@
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 10
+            "D": 15
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (A Paldean Adventure)"
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -35072,11 +35057,11 @@
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 10
+            "D": 15
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (A Paldean Adventure)"
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -35250,11 +35235,11 @@
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 10
+            "D": 15
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (A Paldean Adventure)"
+          "Comment": "Tier 1 Raid Boss"
         },
         {
           "Start": {
@@ -35976,11 +35961,11 @@
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 10
+            "D": 15
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (A Paldean Adventure)"
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -36559,11 +36544,11 @@
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 10
+            "D": 15
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (A Paldean Adventure)"
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -91962,6 +91947,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Noxious Swamp)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -93475,6 +93475,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Raid Day: Kleavor)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Ultra Unlock 2023: Paldea)"
         }
       ]
     },
@@ -93704,6 +93719,129 @@
     {
       "Species": 916,
       "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 919,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Ultra Unlock 2023: Paldea"
+        }
+      ]
+    },
+    {
+      "Species": 920,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 921,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Ultra Unlock 2023: Paldea"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Ultra Unlock 2023: Paldea"
+        }
+      ]
+    },
+    {
+      "Species": 922,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 923,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 962,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Ultra Unlock 2023: Paldea)"
+        }
+      ]
+    },
+    {
+      "Species": 996,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Ultra Unlock 2023: Paldea"
+        }
+      ]
+    },
+    {
+      "Species": 997,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 998,
       "Available": true,
       "Data": []
     },
