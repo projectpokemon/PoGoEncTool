@@ -363,6 +363,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Pok\u00E9mon Air Adventures 2023 \u2013 Jeju Island)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (A Paldean Adventure)"
         }
       ]
     },
@@ -10726,6 +10741,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (New Year\u0027s 2022)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (A Paldean Adventure)"
         }
       ]
     },
@@ -34708,6 +34739,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (A Paldean Adventure)"
         }
       ]
     },
@@ -35016,6 +35062,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (A Paldean Adventure)"
         }
       ]
     },
@@ -35179,6 +35240,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (A Paldean Adventure)"
         },
         {
           "Start": {
@@ -35890,6 +35966,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (A Paldean Adventure)"
         }
       ]
     },
@@ -36458,6 +36549,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (A Paldean Adventure)"
         }
       ]
     },
@@ -56181,6 +56287,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (A Paldean Adventure)"
         }
       ]
     },
@@ -62733,6 +62855,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (A Paldean Adventure)"
         }
       ]
     },
@@ -93352,6 +93490,220 @@
     },
     {
       "Species": 904,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 906,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        }
+      ]
+    },
+    {
+      "Species": 907,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 908,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 909,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        }
+      ]
+    },
+    {
+      "Species": 910,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 911,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 912,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        }
+      ]
+    },
+    {
+      "Species": 913,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 914,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 915,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "A Paldean Adventure"
+        }
+      ]
+    },
+    {
+      "Species": 916,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 916,
+      "Form": 1,
       "Available": true,
       "Data": []
     },
