@@ -7878,6 +7878,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Shadow Raid Boss"
         }
       ]
     },
@@ -8669,7 +8684,7 @@
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 1
+            "D": 5
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -10246,6 +10261,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Shadow Raid Boss"
         }
       ]
     },
@@ -10731,17 +10761,17 @@
           "Start": {
             "Y": 2023,
             "M": 9,
-            "D": 5
+            "D": 1
           },
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 10
+            "D": 16
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (A Paldean Adventure)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -22965,6 +22995,22 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Shadow Raid Boss"
         }
       ]
     },
@@ -23309,6 +23355,52 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -33577,6 +33669,52 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -38549,6 +38687,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Shadow Raid Boss"
         }
       ]
     },
@@ -39006,7 +39159,7 @@
           },
           "End": {
             "Y": 2023,
-            "M": 9,
+            "M": 12,
             "D": 1
           },
           "Type": 13,
@@ -49778,6 +49931,36 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -56472,17 +56655,17 @@
           "Start": {
             "Y": 2023,
             "M": 9,
-            "D": 5
+            "D": 1
           },
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 10
+            "D": 16
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (A Paldean Adventure)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -63040,17 +63223,17 @@
           "Start": {
             "Y": 2023,
             "M": 9,
-            "D": 5
+            "D": 1
           },
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 10
+            "D": 16
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (A Paldean Adventure)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -76879,6 +77062,36 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global (Pyrite Sands Habitat)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -92147,12 +92360,12 @@
           "Start": {
             "Y": 2023,
             "M": 9,
-            "D": 5
+            "D": 1
           },
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 15
+            "D": 16
           },
           "Type": 10,
           "LocalizedStart": true,
