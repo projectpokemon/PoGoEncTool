@@ -91275,13 +91275,40 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "September 2023 Community Day"
         }
       ]
     },
     {
       "Species": 737,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 4 Raid Boss (September 2023 Community Day)"
+        }
+      ]
     },
     {
       "Species": 738,
