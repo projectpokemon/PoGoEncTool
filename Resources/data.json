@@ -12498,6 +12498,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO 7th Anniversary Party"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Adventures Abound (Southern Hemisphere)"
         }
       ]
     },
@@ -16955,6 +16970,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Adventures Abound"
         }
       ]
     },
@@ -48731,12 +48762,12 @@
           },
           "End": {
             "Y": 2023,
-            "M": 9,
+            "M": 12,
             "D": 1
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Season 11: Hidden Gems"
+          "Comment": "Season 11: Hidden Gems / Pok\u00E9mon GO: Adventures Abound"
         }
       ]
     },
@@ -81121,17 +81152,18 @@
         {
           "Start": {
             "Y": 2023,
-            "M": 10,
-            "D": 7
+            "M": 9,
+            "D": 1
           },
           "End": {
             "Y": 2023,
             "M": 12,
             "D": 1
           },
-          "Type": 32,
+          "Gender": 1,
+          "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Weekend: Adventures Abound)"
+          "Comment": "Pok\u00E9mon GO: Adventures Abound"
         }
       ]
     },
