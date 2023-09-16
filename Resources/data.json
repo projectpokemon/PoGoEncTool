@@ -14239,6 +14239,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 20
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -16452,6 +16467,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Catching Some Z\u0027s)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 20
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -22455,6 +22485,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 20
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -30543,6 +30588,22 @@
             "Y": 2022,
             "M": 1,
             "D": 24
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 20
           },
           "Shiny": 1,
           "Type": 10,
@@ -39576,6 +39637,21 @@
             "Y": 2023,
             "M": 8,
             "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 20
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -66560,6 +66636,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 4 Raid Boss (Sinnoh Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -82599,6 +82691,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 20
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -89058,7 +89165,7 @@
           "Start": {
             "Y": 2023,
             "M": 9,
-            "D": 20
+            "D": 16
           },
           "End": {
             "Y": 2023,
@@ -89067,7 +89174,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (Psychic Spectacular 2023)"
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -94324,11 +94431,11 @@
           "End": {
             "Y": 2023,
             "M": 9,
-            "D": 15
+            "D": 20
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Ultra Unlock 2023: Paldea)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
