@@ -9022,6 +9022,26 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global (Quartz Terrarium Habitat)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Out to Play"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Out to Play"
         }
       ]
     },
@@ -40090,6 +40110,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Noxious Swamp)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Out to Play"
         }
       ]
     },
@@ -41598,6 +41629,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Noxious Swamp)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Out to Play"
         }
       ]
     },
