@@ -77390,13 +77390,45 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 15
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "October 2023 Community Day"
         }
       ]
     },
     {
       "Species": 533,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 4 Raid Boss (October 2023 Community Day)"
+        }
+      ]
     },
     {
       "Species": 534,
