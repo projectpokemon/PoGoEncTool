@@ -70,7 +70,7 @@ public static class BulkActions
         foreach (var enc in bosses)
         {
             var pkm = list.GetDetails(enc.Species, enc.Form);
-            var comment = "Raid Boss";
+            var comment = "Tier 5 Raid Boss";
             if (enc.IsMega)
             {
                 comment = enc.MegaForm switch
@@ -85,7 +85,6 @@ public static class BulkActions
             {
                 (int)Meltan or (int)Melmetal => PogoType.Raid, // only Mythicals that can be traded
                 _ when SpeciesCategory.IsMythical(enc.Species) => PogoType.RaidM,
-                _ when SpeciesCategory.IsUltraBeast(enc.Species) => PogoType.RaidUB,
                 _ => PogoType.Raid,
             };
 
@@ -113,6 +112,7 @@ public static class BulkActions
 
         void AddGBL(ushort species, byte form, PogoShiny shiny, PogoDate start)
         {
+            var season = "";
             var end = new PogoDate();
             var pkm = list.GetDetails(species, form);
             var type = SpeciesCategory.IsMythical(species) ? PogoType.GBLM : PogoType.GBL;
@@ -123,7 +123,7 @@ public static class BulkActions
                 Type = type,
                 LocalizedStart = true,
                 NoEndTolerance = false,
-                Comment = "Reward Encounter",
+                Comment = $"Reward Encounter ({season})",
                 Shiny = shiny,
             };
 
