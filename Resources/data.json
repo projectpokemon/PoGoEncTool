@@ -12814,6 +12814,11 @@
             "M": 1,
             "D": 4
           },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 5
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After New Year\u0027s 2022)"
@@ -12906,6 +12911,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Catching Some Z\u0027s)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Detective Pikachu Returns Event)"
         }
       ]
     },
@@ -45423,10 +45438,15 @@
             "M": 1,
             "D": 16
           },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 5
+          },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Surprise Encounter"
+          "Comment": "Surprise Encounter (Became Detective Pikachu)"
         },
         {
           "Start": {
@@ -45442,6 +45462,17 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Surprise Encounter (Festival of Colors 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter"
         }
       ]
     },
@@ -93913,6 +93944,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 6
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Adventures Abound)"
         },
         {
           "Start": {
