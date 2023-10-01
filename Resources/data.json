@@ -28956,6 +28956,21 @@
           "Start": {
             "Y": 2023,
             "M": 10,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
             "D": 7
           },
           "End": {
@@ -28963,7 +28978,6 @@
             "M": 10,
             "D": 8
           },
-          "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 5 Shadow Raid Boss"
@@ -28979,7 +28993,6 @@
             "M": 10,
             "D": 15
           },
-          "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 5 Shadow Raid Boss"
@@ -28995,7 +29008,6 @@
             "M": 10,
             "D": 22
           },
-          "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 5 Shadow Raid Boss"
@@ -29011,7 +29023,6 @@
             "M": 10,
             "D": 29
           },
-          "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 5 Shadow Raid Boss"
