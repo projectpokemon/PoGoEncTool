@@ -90599,7 +90599,7 @@
           "Start": {
             "Y": 2023,
             "M": 10,
-            "D": 17
+            "D": 12
           },
           "End": {
             "Y": 2023,
@@ -90608,7 +90608,17 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon Spotlight Hour: Pumpkaboo"
+          "Comment": "Harvest Festival"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 12
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Harvest Festival"
         }
       ]
     },
@@ -90664,7 +90674,7 @@
           "Start": {
             "Y": 2023,
             "M": 10,
-            "D": 17
+            "D": 12
           },
           "End": {
             "Y": 2023,
@@ -90673,7 +90683,17 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon Spotlight Hour: Pumpkaboo"
+          "Comment": "Harvest Festival"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 12
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Harvest Festival"
         }
       ]
     },
@@ -90718,7 +90738,7 @@
           "Start": {
             "Y": 2023,
             "M": 10,
-            "D": 17
+            "D": 12
           },
           "End": {
             "Y": 2023,
@@ -90727,7 +90747,17 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon Spotlight Hour: Pumpkaboo"
+          "Comment": "Harvest Festival"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 12
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Harvest Festival"
         }
       ]
     },
@@ -90772,7 +90802,7 @@
           "Start": {
             "Y": 2023,
             "M": 10,
-            "D": 17
+            "D": 12
           },
           "End": {
             "Y": 2023,
@@ -90781,7 +90811,17 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon Spotlight Hour: Pumpkaboo"
+          "Comment": "Harvest Festival"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 12
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Harvest Festival"
         }
       ]
     },
@@ -94736,6 +94776,33 @@
     },
     {
       "Species": 923,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 928,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Harvest Festival"
+        }
+      ]
+    },
+    {
+      "Species": 929,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 930,
       "Available": true,
       "Data": []
     },
