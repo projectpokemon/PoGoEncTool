@@ -87321,6 +87321,22 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season 9: Mythical Wishes)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Tier 5 Raid Boss (Accidental Release)"
         }
       ]
     },
