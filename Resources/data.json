@@ -30097,6 +30097,20 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Tier 5 Shadow Raid Boss (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 15
+          },
+          "Type": 10,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
