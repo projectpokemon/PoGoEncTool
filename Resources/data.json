@@ -5803,6 +5803,11 @@
             "M": 11,
             "D": 1
           },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Halloween 2022 Part II)"
@@ -5861,6 +5866,16 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Halloween 2023 Part II)"
         }
       ]
     },
@@ -15455,6 +15470,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Halloween 2023 Part II)"
         }
       ]
     },
@@ -16013,6 +16043,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Tier 3 During Halloween 2023 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Halloween 2023 Part II, No Costume)"
         }
       ]
     },
@@ -35216,11 +35261,11 @@
           "End": {
             "Y": 2023,
             "M": 10,
-            "D": 26
+            "D": 31
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (Halloween 2023 Part I)"
+          "Comment": "Tier 1 Raid Boss (Halloween 2023)"
         }
       ]
     },
@@ -67175,6 +67220,11 @@
             "M": 11,
             "D": 1
           },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Halloween 2022 Part II)"
@@ -67192,6 +67242,16 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Halloween 2023 Part II)"
         }
       ]
     },
@@ -79842,7 +79902,7 @@
           "Start": {
             "Y": 2023,
             "M": 10,
-            "D": 31
+            "D": 26
           },
           "End": {
             "Y": 2023,
@@ -79851,7 +79911,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon Spotlight Hour: Yamask"
+          "Comment": "Halloween 2023 Part II"
         }
       ]
     },
@@ -80182,6 +80242,16 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Disguise Encounter"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Disguise Encounter (Halloween 2023 Part II)"
         }
       ]
     },
@@ -90789,6 +90859,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Halloween 2023 Part I"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Halloween 2023 Part II)"
         }
       ]
     },
