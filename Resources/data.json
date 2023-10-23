@@ -18474,6 +18474,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (D\u00EDa de Muertos 2023, No Costume)"
         }
       ]
     },
@@ -21571,6 +21586,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -33328,6 +33358,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (D\u00EDa de Muertos 2023)"
         }
       ]
     },
@@ -34734,6 +34780,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (D\u00EDa de Muertos 2023)"
         }
       ]
     },
@@ -44837,6 +44899,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -52538,6 +52615,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (D\u00EDa de Muertos 2023)"
         }
       ]
     },
@@ -86441,6 +86534,36 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season 9: Mythical Wishes)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Adventures Abound)"
         }
       ]
     },
@@ -86596,6 +86719,36 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season 9: Mythical Wishes)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Adventures Abound)"
         }
       ]
     },
@@ -86765,6 +86918,36 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season 9: Mythical Wishes)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Adventures Abound)"
         }
       ]
     },
@@ -87850,6 +88033,21 @@
             "D": 12
           },
           "Shiny": 1,
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 9
+          },
           "Type": 11,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
@@ -95469,6 +95667,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (D\u00EDa de Muertos 2023)"
         }
       ]
     },
