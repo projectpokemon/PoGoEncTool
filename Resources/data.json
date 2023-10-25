@@ -93418,6 +93418,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Festival of Lights 2022"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 7
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Festival of Lights 2023"
         }
       ]
     },
@@ -95646,6 +95656,28 @@
     },
     {
       "Species": 930,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 938,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Festival of Lights 2023"
+        }
+      ]
+    },
+    {
+      "Species": 939,
       "Available": true,
       "Data": []
     },
