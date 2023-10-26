@@ -5880,6 +5880,11 @@
             "M": 2,
             "D": 1
           },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
           "Shiny": 1,
           "Type": 40,
           "LocalizedStart": true,
@@ -5908,6 +5913,17 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Halloween 2023 Part II)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
