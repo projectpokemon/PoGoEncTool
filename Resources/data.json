@@ -35769,6 +35769,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 9
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Tainan 2024"
         }
       ]
     },
@@ -36747,6 +36762,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Psychic Spectacular 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 9
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Tainan 2024"
         }
       ]
     },
@@ -38161,6 +38191,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 9
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Tainan 2024"
         }
       ]
     },
@@ -89597,6 +89642,16 @@
           "Start": {
             "Y": 2023,
             "M": 10,
+            "D": 7
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Seoul 2023"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
             "D": 13
           },
           "End": {
@@ -89621,6 +89676,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO City Safari: Mexico City 2023"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 9
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Tainan 2024"
         }
       ]
     },
