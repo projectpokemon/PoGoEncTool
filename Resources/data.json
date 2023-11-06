@@ -13281,21 +13281,6 @@
         {
           "Start": {
             "Y": 2023,
-            "M": 6,
-            "D": 1
-          },
-          "End": {
-            "Y": 2023,
-            "M": 9,
-            "D": 1
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Season 11: Hidden Gems"
-        },
-        {
-          "Start": {
-            "Y": 2023,
             "M": 8,
             "D": 4
           },
@@ -13322,21 +13307,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2023,
-            "M": 9,
-            "D": 20
-          },
-          "End": {
-            "Y": 2023,
-            "M": 9,
-            "D": 24
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Psychic Spectacular 2023"
         }
       ]
     },
@@ -78538,6 +78508,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "October 2023 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 16
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "December 2023 Community Day"
         }
       ]
     },
