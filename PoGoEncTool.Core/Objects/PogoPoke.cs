@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using PKHeX.Core;
 
 namespace PoGoEncTool.Core;
@@ -64,6 +65,11 @@ public class PogoPoke : IComparable, ISpeciesForm
         {
             var app = Data[i];
             string fail(string msg) => $"{msg}: {(Species) Species}-{Form} -- appear[{i}] {app}";
+            if (app.Comment.Any(char.IsWhiteSpace))
+            {
+                app.Comment = app.Comment.Trim();
+            }
+
             if (app.Start == null)
             {
                 yield return fail("No Start Date");
