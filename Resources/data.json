@@ -2164,6 +2164,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Fashion Week 2023, No Costume)"
         }
       ]
     },
@@ -7633,6 +7649,11 @@
             "M": 10,
             "D": 3
           },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Fashion Week 2022)"
@@ -7665,6 +7686,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Fashion Week 2023, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Fashion Week 2023)"
         }
       ]
     },
@@ -30149,6 +30195,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Pok\u00E9mon Air Adventures 2023 \u2013 Jeju Island)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Fashion Week 2023, No Costume)"
         }
       ]
     },
@@ -34234,9 +34296,34 @@
             "M": 2,
             "D": 16
           },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "First Debut in the Wild (Johto Region)"
+        },
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 2,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "First Debut in Pok\u00E9mon Eggs (Johto Region)"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Field Research Tasks"
         },
         {
           "Start": {
@@ -34259,7 +34346,30 @@
             "M": 12,
             "D": 10
           },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
           "Type": 1,
+          "Comment": "Wooper Watch"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 12,
+            "D": 10
+          },
+          "Type": 2,
+          "Comment": "Wooper Watch"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 12,
+            "D": 10
+          },
+          "Type": 20,
           "Comment": "Wooper Watch"
         },
         {
@@ -34349,6 +34459,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 4 Raid Boss (November 2023 Community Day)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Fashion Week 2023, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Fashion Week 2023)"
         }
       ]
     },
@@ -42119,6 +42254,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Fashion Week 2023, No Costume)"
         }
       ]
     },
@@ -51312,6 +51462,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Fashion Week 2023, No Costume)"
         }
       ]
     },
@@ -62000,6 +62166,11 @@
             "M": 7,
             "D": 25
           },
+          "End": {
+            "Y": 2022,
+            "M": 9,
+            "D": 27
+          },
           "Type": 1,
           "Comment": "Daily Adventure Incense"
         },
@@ -62017,6 +62188,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 10,
+            "D": 3
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense"
         },
         {
           "Start": {
@@ -62046,6 +62232,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Fashion Week 2023, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense"
         }
       ]
     },
@@ -72762,6 +72973,11 @@
             "M": 10,
             "D": 3
           },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Fashion Week 2022)"
@@ -72795,6 +73011,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Fashion Week 2023)"
         }
       ]
     },
@@ -81021,6 +81247,16 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Fashion Week 2023"
         }
       ]
     },
@@ -89975,6 +90211,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Fashion Week 2023)"
         }
       ]
     },
