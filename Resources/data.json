@@ -6304,6 +6304,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -11219,6 +11234,22 @@
             "Y": 2023,
             "M": 5,
             "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
           },
           "Shiny": 1,
           "Type": 10,
@@ -32753,6 +32784,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -33814,6 +33861,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -39290,6 +39352,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -69239,7 +69316,7 @@
           "End": {
             "Y": 2023,
             "M": 11,
-            "D": 9
+            "D": 15
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -94496,7 +94573,7 @@
           "End": {
             "Y": 2023,
             "M": 11,
-            "D": 9
+            "D": 15
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -94549,6 +94626,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -96274,6 +96367,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Harvest Festival"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 9
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
