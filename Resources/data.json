@@ -9498,6 +9498,20 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 1 Shadow Raid Boss (Rising Shadows)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 13,
+          "Comment": "Tier 1 Shadow Raid Boss"
         }
       ]
     },
@@ -13767,11 +13781,10 @@
         {
           "Start": {
             "Y": 2023,
-            "M": 10,
-            "D": 26
+            "M": 11,
+            "D": 11
           },
           "Type": 40,
-          "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
         }
       ]
@@ -34492,6 +34505,11 @@
             "Y": 2023,
             "M": 6,
             "D": 21
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 11
           },
           "Shiny": 1,
           "Type": 40,
@@ -69264,6 +69282,11 @@
             "M": 10,
             "D": 3
           },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 11
+          },
           "Shiny": 1,
           "Type": 40,
           "LocalizedStart": true,
@@ -77122,6 +77145,11 @@
             "Y": 2023,
             "M": 2,
             "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 11,
+            "D": 11
           },
           "Shiny": 1,
           "Type": 40,
