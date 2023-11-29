@@ -76499,6 +76499,28 @@
       "Data": []
     },
     {
+      "Species": 503,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Raid Day: Hisuian Samurott)"
+        }
+      ]
+    },
+    {
       "Species": 504,
       "Available": true,
       "Data": [
@@ -96683,6 +96705,27 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season 11: Hidden Gems)"
+        }
+      ]
+    },
+    {
+      "Species": 899,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 23
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Raid Day: Wyrdeer)"
         }
       ]
     },
