@@ -42737,6 +42737,22 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Timeless Travels)"
         }
       ]
     },
@@ -83240,6 +83256,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Adventures Abound"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 1
+          },
+          "Gender": 1,
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Timeless Travels)"
         }
       ]
     },
@@ -92333,6 +92365,22 @@
           "Type": 32,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Weekend: Adventures Abound)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Timeless Travels)"
         }
       ]
     },
