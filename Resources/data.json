@@ -42975,6 +42975,26 @@
         },
         {
           "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 5
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Along the Routes"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 5
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Along the Routes"
+        },
+        {
+          "Start": {
             "Y": 2024,
             "M": 1,
             "D": 19
@@ -42984,7 +43004,6 @@
             "M": 3,
             "D": 1
           },
-          "Shiny": 1,
           "Type": 32,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Week: Timeless Travels)"
