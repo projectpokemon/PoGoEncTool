@@ -21588,6 +21588,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Adamant Time)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 4 Raid Boss (February 2024 Community Day)"
         }
       ]
     },
@@ -94428,6 +94443,16 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "January 2024 Community Day"
         }
       ]
     },
@@ -94513,6 +94538,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO Fest 2022: Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 4 Raid Boss (January 2024 Community Day)"
         }
       ]
     },
