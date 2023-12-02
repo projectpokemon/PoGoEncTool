@@ -8336,6 +8336,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Halloween 2023 Part I"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Timeless Travels (Southern Hemisphere)"
         }
       ]
     },
@@ -41580,6 +41595,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Out to Play"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Timeless Travels"
         }
       ]
     },
@@ -81825,13 +81856,13 @@
             "D": 1
           },
           "End": {
-            "Y": 2023,
-            "M": 12,
+            "Y": 2024,
+            "M": 3,
             "D": 1
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Adventures Abound"
+          "Comment": "Pok\u00E9mon GO: Adventures Abound / Pok\u00E9mon GO: Timeless Travels"
         }
       ]
     },
@@ -84114,30 +84145,14 @@
             "D": 1
           },
           "End": {
-            "Y": 2023,
-            "M": 12,
-            "D": 1
-          },
-          "Gender": 1,
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Adventures Abound"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 1,
-            "D": 19
-          },
-          "End": {
             "Y": 2024,
             "M": 3,
             "D": 1
           },
           "Gender": 1,
-          "Type": 32,
+          "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Week: Timeless Travels)"
+          "Comment": "Pok\u00E9mon GO: Adventures Abound / Pok\u00E9mon GO: Timeless Travels"
         }
       ]
     },
