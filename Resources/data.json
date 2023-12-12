@@ -3614,6 +3614,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 1, No Costume)"
         }
       ]
     },
@@ -4691,6 +4706,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (December 2023 Community Day)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 1)"
         }
       ]
     },
@@ -15012,6 +15042,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023: Part 1)"
         }
       ]
     },
@@ -26062,6 +26108,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023: Part 1)"
         }
       ]
     },
@@ -46920,6 +46981,11 @@
             "M": 12,
             "D": 23
           },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 18
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Winter Holiday 2022: Part 1)"
@@ -46937,6 +47003,31 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023: Part 1, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Winter Holiday 2023: Part 1)"
         }
       ]
     },
@@ -64178,6 +64269,11 @@
             "M": 12,
             "D": 23
           },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 18
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Winter Holiday 2022: Part 1)"
@@ -64240,6 +64336,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (December 2023 Community Day)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 1, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Winter Holiday 2023: Part 1)"
         }
       ]
     },
@@ -75346,6 +75467,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Winter Holiday 2022: Part 2, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023: Part 1, No Costume)"
         }
       ]
     },
@@ -81495,6 +81632,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: London / Osaka (Hypnotic Glacier Habitat)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Winter Holiday 2023: Part 1"
         }
       ]
     },
@@ -95330,6 +95482,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Mythic Blade"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 1)"
         }
       ]
     },
@@ -98522,6 +98690,44 @@
     },
     {
       "Species": 972,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 974,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 18
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 1)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Winter Holiday 2023: Part 1"
+        }
+      ]
+    },
+    {
+      "Species": 975,
       "Available": true,
       "Data": []
     },
