@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -108,9 +108,15 @@ public partial class Main : Form
     private void LoadSpecies(in ushort species)
     {
         var forms = FormConverter.GetFormList(species, GameInfo.Strings.Types, GameInfo.Strings.forms, GameInfo.GenderSymbolASCII, PKX.Context);
+        var prefer = species switch
+        {
+          //(ushort)Species.Minior => 7,
+            (ushort)Species.Gimmighoul => 1,
+            _ => 0,
+        };
         CB_Form.Items.Clear();
         CB_Form.Items.AddRange(forms);
-        CB_Form.SelectedIndex = 0;
+        CB_Form.SelectedIndex = prefer;
         CB_Form.Enabled = forms.Length > 1;
         CurrentSpecies = species;
     }

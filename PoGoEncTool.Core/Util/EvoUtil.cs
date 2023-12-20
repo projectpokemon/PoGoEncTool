@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 using PKHeX.Core;
 using static PKHeX.Core.Species;
@@ -65,6 +65,8 @@ public static class EvoUtil
             Girafarig when destSpecies is Farigiraf => false,
             Dunsparce when destSpecies is Dudunsparce => false,
             Pawniard or Bisharp when destSpecies is Kingambit => false,
+            Duraludon when destSpecies is Archaludon => false,
+            Applin when destSpecies is Dipplin or Hydrapple => false,
 
             _ => true,
         };
