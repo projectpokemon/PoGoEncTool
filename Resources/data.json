@@ -3619,16 +3619,16 @@
           "Start": {
             "Y": 2023,
             "M": 12,
-            "D": 25
+            "D": 31
           },
           "End": {
             "Y": 2023,
             "M": 12,
-            "D": 25
+            "D": 31
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 1, No Costume)"
+          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 2, No Costume)"
         }
       ]
     },
@@ -6452,6 +6452,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 2)"
         }
       ]
     },
@@ -8654,6 +8669,11 @@
             "M": 7,
             "D": 6
           },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
@@ -8661,8 +8681,24 @@
         },
         {
           "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 6
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "First Debut in Pok\u00E9mon Eggs (Kanto Region)"
+        },
+        {
+          "Start": {
             "Y": 2019,
             "M": 1,
+            "D": 25
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
             "D": 25
           },
           "Type": 1,
@@ -8681,6 +8717,15 @@
           },
           "Type": 10,
           "Comment": "Tier 1 Raid Boss (Detective Pikachu Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 8,
+            "D": 23
+          },
+          "Type": 2,
+          "Comment": "Water Festival 2019"
         },
         {
           "Start": {
@@ -8713,6 +8758,16 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 11,
+            "D": 6
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Animation Week Research"
         },
         {
           "Start": {
@@ -8845,6 +8900,16 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Tier 4 Raid Boss (July 2023 Community Day, Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Winter Holiday 2023: Part 2)"
         }
       ]
     },
@@ -15052,12 +15117,12 @@
           "End": {
             "Y": 2023,
             "M": 12,
-            "D": 25
+            "D": 31
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023: Part 1)"
+          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023)"
         }
       ]
     },
@@ -26118,11 +26183,11 @@
           "End": {
             "Y": 2023,
             "M": 12,
-            "D": 25
+            "D": 31
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023: Part 1)"
+          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023)"
         }
       ]
     },
@@ -45227,9 +45292,39 @@
             "D": 1
           },
           "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Timeless Travels (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 31
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023: Part 2, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 31
+          },
+          "End": {
             "Y": 2024,
             "M": 3,
-            "D": 21
+            "D": 1
           },
           "Type": 1,
           "LocalizedStart": true,
@@ -75472,17 +75567,17 @@
           "Start": {
             "Y": 2023,
             "M": 12,
-            "D": 25
+            "D": 31
           },
           "End": {
             "Y": 2023,
             "M": 12,
-            "D": 25
+            "D": 31
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023: Part 1, No Costume)"
+          "Comment": "Tier 3 Raid Boss (Winter Holiday 2023: Part 2, No Costume)"
         }
       ]
     },
@@ -81642,7 +81737,7 @@
           "End": {
             "Y": 2023,
             "M": 12,
-            "D": 25
+            "D": 31
           },
           "Type": 1,
           "LocalizedStart": true,
@@ -83462,11 +83557,11 @@
           "Start": {
             "Y": 2023,
             "M": 12,
-            "D": 26
+            "D": 25
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon Spotlight Hour: Vanillite"
+          "Comment": "Winter Holiday 2023: Part 2"
         }
       ]
     },
@@ -86838,6 +86933,11 @@
             "M": 12,
             "D": 31
           },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 25
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Winter Holiday 2022: Part 2)"
@@ -86871,6 +86971,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 31
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 2, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Winter Holiday 2023: Part 2)"
         }
       ]
     },
@@ -95492,12 +95617,12 @@
           "End": {
             "Y": 2023,
             "M": 12,
-            "D": 25
+            "D": 31
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 1)"
+          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023)"
         }
       ]
     },
@@ -98716,12 +98841,12 @@
           "End": {
             "Y": 2023,
             "M": 12,
-            "D": 25
+            "D": 31
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 1)"
+          "Comment": "Tier 1 Raid Boss (Winter Holiday 2023)"
         },
         {
           "Start": {
