@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using PKHeX.Core;
@@ -11,7 +11,7 @@ public class PogoPoke : IComparable, ISpeciesForm
     public ushort Species { get; set; }
     public byte Form { get; set; }
     public bool Available { get; set; }
-    public List<PogoEntry> Data { get; set; } = new();
+    public List<PogoEntry> Data { get; set; } = [];
 
     public PogoEntry this[int index]  { get => Data[index]; set => Data[index] = value; }
     public void Add(PogoEntry entry) => Data.Add(entry);

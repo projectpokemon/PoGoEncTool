@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text.Json;
 
@@ -27,12 +27,12 @@ public static class DataLoader
     private static PogoEncounterList GetList(string fn)
     {
         if (!File.Exists(fn))
-            return new();
+            return new PogoEncounterList();
 
         var json = File.ReadAllText(fn);
         var context = PogoEncounterListContext.Default;
         var list = JsonSerializer.Deserialize(json, context.PogoEncounterList);
-        return list ?? new();
+        return list ?? new PogoEncounterList();
     }
 
     private static ProgramSettings GetSettings(string settingsPath)

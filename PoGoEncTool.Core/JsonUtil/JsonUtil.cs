@@ -4,8 +4,8 @@ namespace PoGoEncTool.Core;
 
 [JsonSerializable(typeof(ProgramSettings))]
 [JsonSourceGenerationOptions(WriteIndented = true, DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingDefault)]
-public sealed partial class ProgramSettingsContext : JsonSerializerContext { }
+public sealed partial class ProgramSettingsContext : JsonSerializerContext;
 
 [JsonSerializable(typeof(PogoEncounterList))]
 [JsonSourceGenerationOptions(WriteIndented = true, DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingDefault)]
-public sealed partial class PogoEncounterListContext : JsonSerializerContext { }
+public sealed partial class PogoEncounterListContext : JsonSerializerContext;

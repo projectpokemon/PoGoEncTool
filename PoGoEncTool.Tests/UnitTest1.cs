@@ -9,7 +9,7 @@ public class UnitTest1
     public void Test1()
     {
         var exeggcute = EvoUtil.GetEvoSpecForms((int)PKHeX.Core.Species.Exeggcute, 0);
-        foreach (var t in exeggcute)
+        foreach (var (_, _) in exeggcute)
         {
         }
     }

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Linq;
@@ -9,7 +9,7 @@ namespace PoGoEncTool.Core;
 [Serializable]
 public class PogoEncounterList
 {
-    public List<PogoPoke> Data { get; set; } = new();
+    public List<PogoPoke> Data { get; set; } = [];
 
     public PogoEncounterList() { }
     public PogoEncounterList(IEnumerable<PogoPoke> seed) => Data.AddRange(seed);

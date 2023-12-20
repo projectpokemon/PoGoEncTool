@@ -1,17 +1,20 @@
-﻿using PKHeX.Core;
+using PKHeX.Core;
 using System.Collections.Generic;
 using System.Linq;
 using static PKHeX.Core.Species;
 using static PoGoEncTool.Core.PogoShiny;
 
-#pragma warning disable RCS1041 // Remove empty initializer.
 // ReSharper disable RedundantEmptyObjectOrCollectionInitializer
 // ReSharper disable CollectionNeverUpdated.Local
 
 namespace PoGoEncTool.Core;
 
+#if DEBUG
 public static class BulkActions
 {
+    public static bool Shadow { get; set; }
+    public static string Season { get; set; } = "";
+
     public static void AddRaidBosses(PogoEncounterList list)
     {
         var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, byte Tier)>
@@ -19,13 +22,11 @@ public static class BulkActions
             new((int)Bulbasaur, 0, Random, 1),
         };
 
-        bool shadow = false;
-
         foreach (var enc in bosses)
         {
             var pkm = list.GetDetails(enc.Species, enc.Form);
-            var boss = shadow ? "Shadow Raid Boss" : "Raid Boss";
-            var type = shadow ? PogoType.RaidS : PogoType.Raid;
+            var boss = Shadow ? "Shadow Raid Boss" : "Raid Boss";
+            var type = Shadow ? PogoType.RaidS : PogoType.Raid;
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
@@ -107,28 +108,27 @@ public static class BulkActions
 
             // add an accompanying GBL encounter if it has not appeared in research before, or continues to appear in the wild
             if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM && z.Shiny == enc.Shiny && z.End == null))
-                AddGBL(enc.Species, enc.Form, enc.Shiny, enc.Start);
+                AddGBL(list, enc.Species, enc.Form, enc.Shiny, enc.Start);
         }
+    }
 
-        void AddGBL(ushort species, byte form, PogoShiny shiny, PogoDate start)
+    private static void AddGBL(PogoEncounterList list, ushort species, byte form, PogoShiny shiny, PogoDate start)
+    {
+        var end = new PogoDate();
+        var pkm = list.GetDetails(species, form);
+        var type = SpeciesCategory.IsMythical(species) ? PogoType.GBLM : PogoType.GBL;
+        var entry = new PogoEntry
         {
-            var season = "";
-            var end = new PogoDate();
-            var pkm = list.GetDetails(species, form);
-            var type = SpeciesCategory.IsMythical(species) ? PogoType.GBLM : PogoType.GBL;
-            var entry = new PogoEntry
-            {
-                Start = start,
-                End = end,
-                Type = type,
-                LocalizedStart = true,
-                NoEndTolerance = false,
-                Comment = $"Reward Encounter ({season})",
-                Shiny = shiny,
-            };
+            Start = start,
+            End = end,
+            Type = type,
+            LocalizedStart = true,
+            NoEndTolerance = false,
+            Comment = $"Reward Encounter ({Season})",
+            Shiny = shiny,
+        };
 
-            pkm.Add(entry); // add the GBL entry!
-        }
+        pkm.Add(entry); // add the GBL entry!
     }
 
     public static void AddNewShadows(PogoEncounterList list)
@@ -151,7 +151,7 @@ public static class BulkActions
 
             foreach (var entry in entries)
             {
-                if (entry.Type == PogoType.Shadow && entry.End == null)
+                if (entry is { Type: PogoType.Shadow, End: null })
                     entry.End = new PogoDate();
             }
         }
@@ -174,3 +174,4 @@ public static class BulkActions
         }
     }
 }
+#endif

@@ -294,12 +294,12 @@ public partial class Main : Form
 
         var species = (ushort)CurrentSpecies;
         var form = (byte)CB_Form.SelectedIndex;
-        List<ComboItem> entries = new();
+        List<ComboItem> entries = [];
         for (int f = 0; f < CB_Form.Items.Count; f++)
         {
             if (f == form)
                 continue;
-            var entry = CB_Form.Items[f];
+            var entry = CB_Form.Items[f]!;
             var combo = new ComboItem((string)entry, f);
             entries.Add(combo);
         }
