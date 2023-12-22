@@ -30357,6 +30357,66 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss (Eight Views of Asakusa Routes)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 7
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 13
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 14
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 20
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 21
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 28
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
         }
       ]
     },
@@ -32032,6 +32092,28 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        }
+      ]
+    },
+    {
+      "Species": 157,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Raid Day: Hisuian Typhlosion)"
         }
       ]
     },
@@ -34061,6 +34143,21 @@
             "Y": 2022,
             "M": 9,
             "D": 6
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -41394,6 +41491,21 @@
             "Y": 2023,
             "M": 1,
             "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 31
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -49649,7 +49761,7 @@
           },
           "Type": 13,
           "LocalizedStart": true,
-          "Comment": "Tier 5 Shadow Raid Boss"
+          "Comment": "Tier 5 Shadow Raid Boss (Shadow Raid Weekend: Lugia)"
         }
       ]
     },
@@ -49841,6 +49953,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 28
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss (Shadow Raid Weekend: Ho-Oh)"
         }
       ]
     },
@@ -57413,6 +57540,21 @@
             "Y": 2023,
             "M": 3,
             "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -89938,6 +90080,36 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle League \u2013 Interlude Season)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Timeless Travels)"
         }
       ]
     },
@@ -90133,6 +90305,36 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle League \u2013 Interlude Season)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 17
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 17
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Timeless Travels)"
         }
       ]
     },
@@ -90632,6 +90834,36 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle League \u2013 Interlude Season)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Timeless Travels)"
         }
       ]
     },
@@ -97730,6 +97962,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "A Radiant Reunion"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -97758,6 +98006,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "A Radiant Reunion"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -97785,6 +98049,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "A Radiant Reunion"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
