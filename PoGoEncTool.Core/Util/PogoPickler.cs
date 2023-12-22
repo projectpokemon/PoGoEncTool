@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -68,12 +68,12 @@ public static class PogoPickler
         // Else, if it can exist in S/V, it uses S/V move data for the initial import.
         // Else, it must exist in US/UM, thus it uses US/UM for the initial import.
 
-        <=  151 or 808 or 809 when form == 0 || PersonalTable.GG[species].HasForm(form) => PogoImportFormat.PB7,
-        <=  898 when PersonalTable.SWSH.IsPresentInGame(species, form) => PogoImportFormat.PK8,
-        <=  807 when form == 0 || PersonalTable.USUM[species].HasForm(form) => PogoImportFormat.PK7,
-        <=  905 when PersonalTable.LA.IsPresentInGame(species, form) => PogoImportFormat.PA8,
-        <= 1010 when PersonalTable.SV.IsPresentInGame(species, form) => PogoImportFormat.PK9,
-        <=  807 => PogoImportFormat.PK7,
+        <= 0151 or 0808 or 0809 when form == 0 || PersonalTable.GG[species].HasForm(form) => PogoImportFormat.PB7,
+        <= 0898 when PersonalTable.SWSH.IsPresentInGame(species, form) => PogoImportFormat.PK8,
+        <= 0807 when form == 0 || PersonalTable.USUM[species].HasForm(form) => PogoImportFormat.PK7,
+        <= 0905 when PersonalTable.LA.IsPresentInGame(species, form) => PogoImportFormat.PA8,
+        <= 1025 when PersonalTable.SV.IsPresentInGame(species, form) => PogoImportFormat.PK9,
+        <= 0807 => PogoImportFormat.PK7,
         _ => throw new ArgumentOutOfRangeException(nameof(species)),
     };
 
