@@ -9619,6 +9619,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Lustrous Odyssey)"
         }
       ]
     },
@@ -21207,6 +21222,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Lustrous Odyssey)"
         }
       ]
     },
@@ -26315,6 +26345,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Lustrous Odyssey)"
         }
       ]
     },
@@ -28482,6 +28527,21 @@
           },
           "Type": 10,
           "Comment": "Tier 3 Raid Boss (Pok\u00E9mon GO Fest 2023: New York City, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Lustrous Odyssey)"
         }
       ]
     },
@@ -43845,6 +43905,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Along the Routes"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Lustrous Odyssey)"
         },
         {
           "Start": {
@@ -81615,6 +81690,24 @@
       ]
     },
     {
+      "Species": 550,
+      "Form": 2,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": ""
+        }
+      ]
+    },
+    {
       "Species": 551,
       "Available": true,
       "Data": [
@@ -89093,6 +89186,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Lustrous Odyssey)"
         }
       ]
     },
@@ -96686,6 +96794,48 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Lustrous Odyssey)"
+        }
+      ]
+    },
+    {
+      "Species": 744,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Lustrous Odyssey"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Lustrous Odyssey"
         }
       ]
     },
@@ -96697,6 +96847,12 @@
     {
       "Species": 745,
       "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 745,
+      "Form": 2,
       "Available": true,
       "Data": []
     },
@@ -99039,6 +99195,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Winter Wonderland 2023: Collection Challenge"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Lustrous Odyssey)"
         }
       ]
     },
@@ -99080,6 +99251,17 @@
     },
     {
       "Species": 901,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 902,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 902,
+      "Form": 1,
       "Available": true,
       "Data": []
     },
