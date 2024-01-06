@@ -91335,6 +91335,22 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Timeless Travels)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Tier 5 Raid Boss (Accidental Release)"
         }
       ]
     },
@@ -96934,6 +96950,21 @@
       "Form": 1,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Lustrous Odyssey)"
+        },
         {
           "Start": {
             "Y": 2024,
