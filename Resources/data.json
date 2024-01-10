@@ -90370,10 +90370,43 @@
           "End": {
             "Y": 2024,
             "M": 1,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Tier 5 Raid Boss (Shiny Disabled)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Timeless Travels, Shiny Disabled)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
             "D": 17
           },
           "Type": 10,
-          "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
         },
         {
@@ -90388,7 +90421,6 @@
             "D": 1
           },
           "Type": 30,
-          "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Timeless Travels)"
         }
       ]
