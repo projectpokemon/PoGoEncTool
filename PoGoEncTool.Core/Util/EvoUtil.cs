@@ -61,6 +61,7 @@ public static class EvoUtil
             // Future evolutions (temporary, to be removed when they debut in GO)
             Stantler when destSpecies is Wyrdeer => false,
             Scyther when destSpecies is Kleavor => false,
+            Basculin when destSpecies is Basculegion => false,
             Mankey or Primeape when destSpecies is Annihilape => false,
             Girafarig when destSpecies is Farigiraf => false,
             Dunsparce when destSpecies is Dudunsparce => false,
