@@ -9365,6 +9365,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Raging Battles)"
         }
       ]
     },
@@ -25888,6 +25903,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Raging Battles)"
         }
       ]
     },
@@ -42072,6 +42102,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Raging Battles)"
         }
       ]
     },
@@ -46786,6 +46831,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 3 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Raging Battles)"
         }
       ]
     },
@@ -90037,6 +90097,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 4 Raid Boss (June 2022 Community Day)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Raging Battles)"
         }
       ]
     },
@@ -93561,6 +93637,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2022: Rainforest Habitat (Collection Challenge)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Raging Battles)"
         }
       ]
     },
@@ -97643,6 +97734,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Festival of Colors 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Raging Battles)"
         }
       ]
     },
@@ -100452,6 +100559,11 @@
     },
     {
       "Species": 975,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 979,
       "Available": true,
       "Data": []
     },
