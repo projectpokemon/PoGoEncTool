@@ -316,6 +316,11 @@
             "M": 3,
             "D": 25
           },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 1
+          },
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
@@ -1047,6 +1052,11 @@
             "M": 3,
             "D": 25
           },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 1
+          },
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
@@ -1743,6 +1753,11 @@
             "Y": 2023,
             "M": 3,
             "D": 25
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 1
           },
           "Type": 40,
           "LocalizedStart": true,
@@ -9483,6 +9498,7 @@
             "M": 1,
             "D": 24
           },
+          "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Raging Battles)"
