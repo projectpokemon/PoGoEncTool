@@ -31432,6 +31432,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Lunar New Year 2024: Dragons Unleashed)"
         }
       ]
     },
@@ -89898,6 +89913,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Lunar New Year 2024: Dragons Unleashed)"
         }
       ]
     },
@@ -90863,6 +90893,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Lunar New Year 2024: Dragons Unleashed)"
         }
       ]
     },
@@ -96181,6 +96226,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global (Aquamarine Shores Habitat)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Lunar New Year 2024: Dragons Unleashed)"
         }
       ]
     },
@@ -99186,6 +99246,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Lunar New Year 2024: Dragons Unleashed)"
         }
       ]
     },
@@ -99283,6 +99358,37 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Festival of Colors 2023"
+        }
+      ]
+    },
+    {
+      "Species": 780,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Lunar New Year 2024: Dragons Unleashed)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Lunar New Year 2024: Dragons Unleashed"
         }
       ]
     },
