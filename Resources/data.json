@@ -101735,6 +101735,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2023: Paldea"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 1,
+            "D": 27
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Taken Treasures (Accidental Release)"
         }
       ]
     },
