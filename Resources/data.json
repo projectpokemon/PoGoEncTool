@@ -30146,6 +30146,66 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 4
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 11
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 17
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 18
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 24
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 25
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
         }
       ]
     },
@@ -65413,6 +65473,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Daily Adventure Incense"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 15
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -68807,6 +68882,21 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 1,
+            "D": 31
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 3,
             "D": 2
           },
@@ -69100,6 +69190,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon Air Adventures 2023 \u2013 Jeju Island)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 31
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         },
         {
           "Start": {
@@ -75609,6 +75714,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -77879,11 +77999,11 @@
           "End": {
             "Y": 2024,
             "M": 2,
-            "D": 21
+            "D": 22
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 5 Raid Boss (Road to Sinnoh, Day 3)"
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -78013,11 +78133,11 @@
           "End": {
             "Y": 2024,
             "M": 2,
-            "D": 21
+            "D": 22
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 5 Raid Boss (Road to Sinnoh, Day 3)"
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -78146,11 +78266,11 @@
           "End": {
             "Y": 2024,
             "M": 2,
-            "D": 21
+            "D": 22
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 5 Raid Boss (Road to Sinnoh, Day 3)"
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -78639,12 +78759,12 @@
           },
           "End": {
             "Y": 2024,
-            "M": 2,
-            "D": 22
+            "M": 3,
+            "D": 1
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 5 Raid Boss (Road to Sinnoh, Day 4)"
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -79064,11 +79184,11 @@
           "End": {
             "Y": 2024,
             "M": 2,
-            "D": 23
+            "D": 26
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 5 Raid Boss (Road to Sinnoh, Day 5)"
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -79257,11 +79377,26 @@
           "End": {
             "Y": 2024,
             "M": 2,
-            "D": 20
+            "D": 21
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 5 Raid Boss (Road to Sinnoh, Day 2)"
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 26
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -79452,16 +79587,16 @@
           "Start": {
             "Y": 2024,
             "M": 2,
-            "D": 19
+            "D": 15
           },
           "End": {
             "Y": 2024,
             "M": 2,
-            "D": 19
+            "D": 20
           },
           "Type": 11,
           "LocalizedStart": true,
-          "Comment": "Tier 5 Raid Boss (Road to Sinnoh, Day 1)"
+          "Comment": "Tier 5 Raid Boss"
         },
         {
           "Start": {
@@ -97912,6 +98047,21 @@
           "Start": {
             "Y": 2024,
             "M": 2,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Raid Day: Hisuian Decidueye)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
             "D": 17
           },
           "End": {
@@ -101499,6 +101649,28 @@
       "Species": 904,
       "Available": true,
       "Data": []
+    },
+    {
+      "Species": 905,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Elite Raid Boss"
+        }
+      ]
     },
     {
       "Species": 906,
