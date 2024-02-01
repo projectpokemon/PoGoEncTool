@@ -6992,6 +6992,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -25679,6 +25709,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -42967,6 +43027,38 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -52471,6 +52563,38 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -52764,11 +52888,26 @@
           "End": {
             "Y": 2024,
             "M": 2,
-            "D": 1
+            "D": 5
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 1 Raid Boss (Taken Treasures)"
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -65828,6 +65967,36 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -84367,7 +84536,40 @@
     {
       "Species": 558,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        }
+      ]
     },
     {
       "Species": 559,
@@ -88289,6 +88491,36 @@
             "Y": 2024,
             "M": 1,
             "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 13
           },
           "Type": 10,
           "LocalizedStart": true,
