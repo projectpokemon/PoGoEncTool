@@ -96997,6 +96997,21 @@
           "Type": 32,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Week: Timeless Travels)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Knoxville Regional Championships (In-Person Event)"
         }
       ]
     },
