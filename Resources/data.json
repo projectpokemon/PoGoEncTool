@@ -67390,6 +67390,20 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 7
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 11
+          },
+          "Type": 10,
+          "Comment": "Tier 3 Raid Boss (Lunar New Year 2024: Dragons Unleashed, Global Challenge Reward)"
         }
       ]
     },
@@ -100304,6 +100318,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Season of Alola"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 7
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Tier 1 Raid Boss (Lunar New Year 2024: Dragons Unleashed, Global Challenge Reward)"
         }
       ]
     },
