@@ -18861,6 +18861,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Spring into Spring 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 40,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -19368,6 +19378,11 @@
             "Y": 2022,
             "M": 5,
             "D": 8
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 5
           },
           "Shiny": 1,
           "Type": 40,
