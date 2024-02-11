@@ -7020,7 +7020,6 @@
             "D": 15
           },
           "Type": 10,
-          "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
         }
       ]
@@ -18868,6 +18867,11 @@
             "M": 2,
             "D": 5
           },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 40,
           "Comment": "Team GO Rocket Grunt"
@@ -19378,11 +19382,6 @@
             "Y": 2022,
             "M": 5,
             "D": 8
-          },
-          "End": {
-            "Y": 2024,
-            "M": 2,
-            "D": 5
           },
           "Shiny": 1,
           "Type": 40,
@@ -25752,7 +25751,6 @@
             "D": 15
           },
           "Type": 10,
-          "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
         }
       ]
@@ -43072,7 +43070,6 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
         }
       ]
@@ -52592,7 +52589,6 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
         }
       ]
@@ -52905,7 +52901,6 @@
             "D": 15
           },
           "Type": 10,
-          "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
         }
       ]
@@ -65994,7 +65989,6 @@
             "D": 15
           },
           "Type": 10,
-          "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
         }
       ]
@@ -84590,7 +84584,6 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
         }
       ]
@@ -88547,7 +88540,6 @@
             "D": 15
           },
           "Type": 10,
-          "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
         }
       ]
