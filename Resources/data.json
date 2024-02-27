@@ -3770,6 +3770,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Winter Holiday 2023: Part 2, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event, No Costume)"
         }
       ]
     },
@@ -21824,6 +21839,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Lustrous Odyssey)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event)"
         }
       ]
     },
@@ -22627,6 +22657,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 4 Raid Boss (February 2024 Community Day)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event)"
         }
       ]
     },
@@ -33651,6 +33696,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event)"
         }
       ]
     },
@@ -49187,6 +49248,22 @@
             "Y": 2023,
             "M": 10,
             "D": 9
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Became Pok\u00E9mon Horizons: The Series Celebration Event Wild Encounters)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 11
           },
           "Shiny": 1,
           "Type": 1,
@@ -68144,6 +68221,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event)"
         }
       ]
     },
@@ -99671,6 +99764,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss (Lustrous Odyssey)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event)"
         }
       ]
     },
@@ -102584,6 +102692,33 @@
     },
     {
       "Species": 930,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 935,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon Horizons: The Series Celebration Event"
+        }
+      ]
+    },
+    {
+      "Species": 936,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 937,
       "Available": true,
       "Data": []
     },
