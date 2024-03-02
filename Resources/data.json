@@ -10104,7 +10104,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: World of Wonders"
+          "Comment": "Pok\u00E9mon GO: World of Wonders (Northern Hemisphere)"
         }
       ]
     },
@@ -18664,7 +18664,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: World of Wonders"
+          "Comment": "Pok\u00E9mon GO: World of Wonders (Southern Hemisphere)"
         }
       ]
     },
@@ -88068,13 +88068,13 @@
           },
           "End": {
             "Y": 2024,
-            "M": 3,
+            "M": 6,
             "D": 1
           },
           "Gender": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Adventures Abound / Pok\u00E9mon GO: Timeless Travels"
+          "Comment": "Pok\u00E9mon GO: Adventures Abound / Timeless Travels / World of Wonders"
         },
         {
           "Start": {
@@ -88091,22 +88091,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 4,
-            "D": 3
-          },
-          "End": {
-            "Y": 2024,
-            "M": 6,
-            "D": 1
-          },
-          "Gender": 1,
-          "Type": 32,
-          "LocalizedStart": true,
-          "Comment": "Reward Encounter (2024 Pok\u00E9mon Europe International Championships Bonus)"
         }
       ]
     },
