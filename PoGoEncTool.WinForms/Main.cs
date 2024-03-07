@@ -28,7 +28,9 @@ public partial class Main : Form
         SpriteUtil.ChangeMode(SpriteBuilderMode.SpritesArtwork5668);
 
         Entries = DataLoader.GetData(Application.StartupPath, out Settings);
-        // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = Core.PogoType.Shadow);
+        Entries.ModifyAll(e => e.Comment.Contains("Shadow Raid Boss (Taken Treasures)"), e => e.End = new PogoDate(2024, 3, 26));
+        Entries.ModifyAll(e => e.Comment.Contains("Tier 1 Shadow Raid Boss (Taken Treasures)"), e => e.Comment = "Tier 1 Shadow Raid Boss");
+        Entries.ModifyAll(e => e.Comment.Contains("Tier 3 Shadow Raid Boss (Taken Treasures)"), e => e.Comment = "Tier 3 Shadow Raid Boss");
         // BulkActions.AddRaidBosses(Entries);
         // BulkActions.AddNewShadows(Entries);
         // BulkActions.AddMonthlyRaidBosses(Entries);
