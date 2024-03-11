@@ -176,7 +176,7 @@ public partial class Main : Form
         if (!pogoRow1.Visible)
             form = (byte)CB_Form.SelectedIndex;
 
-        var gender = (int)entry.Gender - 1;
+        var gender = (byte)(entry.Gender - 1);
         var shiny = entry.Shiny == PogoShiny.Always ? Shiny.Always : Shiny.Never;
         PB_Poke.Image = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny);
 
