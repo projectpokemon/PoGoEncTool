@@ -84743,8 +84743,23 @@
             "M": 8,
             "D": 14
           },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
           "Shiny": 1,
           "Type": 1,
+          "Comment": "Unova Week"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 8,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 2,
           "Comment": "Unova Week"
         },
         {
@@ -84761,6 +84776,16 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Tier 1 Raid Boss (Fashion Week 2020)"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 11,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Field Research Tasks"
         },
         {
           "Start": {
@@ -84783,7 +84808,22 @@
             "M": 3,
             "D": 22
           },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
           "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Lush Jungle"
+        },
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 3,
+            "D": 22
+          },
+          "Type": 20,
           "LocalizedStart": true,
           "Comment": "Lush Jungle"
         },
@@ -84815,6 +84855,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 25
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Verdant Wonders)"
         }
       ]
     },
@@ -96410,6 +96460,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Valentine\u0027s Day 2022"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Verdant Wonders"
         }
       ]
     },
@@ -96428,6 +96488,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Valentine\u0027s Day 2022"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Verdant Wonders"
         }
       ]
     },
@@ -96446,6 +96516,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Valentine\u0027s Day 2022"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Verdant Wonders"
         }
       ]
     },
@@ -96464,6 +96544,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Valentine\u0027s Day 2022"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Verdant Wonders"
         }
       ]
     },
@@ -96482,6 +96572,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Valentine\u0027s Day 2022"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Verdant Wonders"
         }
       ]
     },
