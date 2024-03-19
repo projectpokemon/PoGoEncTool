@@ -6835,6 +6835,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -11971,6 +11986,22 @@
             "Y": 2024,
             "M": 2,
             "D": 19
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
           },
           "Shiny": 1,
           "Type": 10,
@@ -67308,6 +67339,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -67550,6 +67596,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Winter Holiday 2023: Part 1)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -81198,6 +81259,24 @@
       "Data": []
     },
     {
+      "Species": 493,
+      "Form": 8,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": ""
+        }
+      ]
+    },
+    {
       "Species": 494,
       "Available": true,
       "Data": [
@@ -84322,6 +84401,21 @@
             "Y": 2024,
             "M": 2,
             "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -87661,6 +87755,21 @@
             "Y": 2024,
             "M": 1,
             "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -91417,6 +91526,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Catch Mastery: Ice"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
@@ -99468,6 +99592,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Winter Holiday 2022: Part 1"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 1 Raid Boss"
         }
       ]
     },
@@ -102379,11 +102518,11 @@
           "End": {
             "Y": 2024,
             "M": 3,
-            "D": 18
+            "D": 21
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Tier 3 Raid Boss (Weather Week 2024)"
+          "Comment": "Tier 3 Raid Boss"
         }
       ]
     },
