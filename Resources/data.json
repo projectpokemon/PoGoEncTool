@@ -1524,6 +1524,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 3 Raid Boss (Weather Week 2024)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Mega Charizard X)"
         }
       ]
     },
@@ -44951,6 +44966,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 13
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -51074,6 +51104,66 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 7
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 13
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 14
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 20
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 21
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 28
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
         }
       ]
     },
@@ -51248,6 +51338,66 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 12
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 19
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 25
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 26
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Shadow Raid Boss"
         }
       ]
     },
@@ -59821,6 +59971,21 @@
             "Y": 2022,
             "M": 12,
             "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 2
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -70158,6 +70323,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
         }
       ]
     },
@@ -103153,6 +103333,36 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season 10: Rising Heroes)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: World of Wonders)"
         }
       ]
     },
@@ -103655,6 +103865,46 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Adventures Abound)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: World of Wonders, Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 4
+          },
+          "Type": 23,
+          "LocalizedStart": true,
+          "Comment": "Ultra Beast Arrival"
         }
       ]
     },
@@ -103752,6 +104002,46 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Adventures Abound)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Tier 5 Raid Boss (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: World of Wonders, Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 4
+          },
+          "Type": 23,
+          "LocalizedStart": true,
+          "Comment": "Ultra Beast Arrival"
         }
       ]
     },
