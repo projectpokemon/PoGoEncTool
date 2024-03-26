@@ -80,6 +80,11 @@ public class PogoPoke : IComparable, ISpeciesForm
             {
                 yield return fail("End Date before Start Date");
             }
+
+            if (app.Start.Year < 2016)
+            {
+                yield return fail("Start Date year is before Pokémon GO's release");
+            }
         }
     }
 }
