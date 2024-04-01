@@ -27,6 +27,7 @@ public static class BulkActions
             var pkm = list.GetDetails(enc.Species, enc.Form);
             var boss = Shadow ? "Shadow Raid Boss" : "Raid Boss";
             var type = Shadow ? PogoType.RaidS : PogoType.Raid;
+            var stars = GetRaidBossTier(enc.Tier);
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
@@ -34,7 +35,7 @@ public static class BulkActions
                 Type = type,
                 LocalizedStart = true,
                 NoEndTolerance = false,
-                Comment = $"Tier {enc.Tier} {boss}",
+                Comment = $"{stars}-Star {boss}",
                 Shiny = enc.Shiny,
             };
 
@@ -57,6 +58,16 @@ public static class BulkActions
         }
     }
 
+    private static string GetRaidBossTier(byte tier) => tier switch
+    {
+        1 => "One",
+        2 => "Two",
+        3 => "Three",
+        4 => "Four",
+        5 => "Five",
+        _ => string.Empty,
+    };
+
     public static void AddMonthlyRaidBosses(PogoEncounterList list)
     {
         var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, PogoDate Start, PogoDate End, bool IsMega, byte MegaForm)>
@@ -71,7 +82,7 @@ public static class BulkActions
         foreach (var enc in bosses)
         {
             var pkm = list.GetDetails(enc.Species, enc.Form);
-            var comment = "Tier 5 Raid Boss";
+            var comment = "Five-Star Raid Boss";
             if (enc.IsMega)
             {
                 comment = enc.MegaForm switch
@@ -108,11 +119,16 @@ public static class BulkActions
 
             // add an accompanying GBL encounter if it has not appeared in research before, or continues to appear in the wild
             if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM && z.Shiny == enc.Shiny && z.End == null))
-                AddGBL(list, enc.Species, enc.Form, enc.Shiny, enc.Start);
+            {
+                // some Legendary and Mythical Pokmon are exempt because one of their forms have been in research, and they revert or can be changed upon transfer to HOME
+                if (enc.Species is (int)Giratina or (int)Genesect)
+                    continue;
+                AddEncounterGBL(list, enc.Species, enc.Form, enc.Shiny, enc.Start);
+            }
         }
     }
 
-    private static void AddGBL(PogoEncounterList list, ushort species, byte form, PogoShiny shiny, PogoDate start)
+    private static void AddEncounterGBL(PogoEncounterList list, ushort species, byte form, PogoShiny shiny, PogoDate start)
     {
         var end = new PogoDate(2024, 06, 01);
         var pkm = list.GetDetails(species, form);

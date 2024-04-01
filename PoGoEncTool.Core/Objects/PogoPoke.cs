@@ -81,9 +81,14 @@ public class PogoPoke : IComparable, ISpeciesForm
                 yield return fail("End Date before Start Date");
             }
 
-            if (app.Start.Year < 2016)
+            if (app.Start?.CompareTo(new PogoDate(2016, 7, 6)) == -1)
             {
                 yield return fail("Start Date year is before Pokémon GO's release");
+            }
+
+            if (app.Comment.StartsWith("-Star"))
+            {
+                yield return fail("Comment does not denote Raid Boss tier");
             }
         }
     }
