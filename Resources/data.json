@@ -12270,6 +12270,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 20
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (April 2024 Community Day)"
         }
       ]
     },
