@@ -20,15 +20,6 @@ public static class BulkActions
         var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, byte Tier)>
         {
             new((int)Bulbasaur, 0, Random, 1),
-            new((int)Bulbasaur, 0, Random, 1),
-            new((int)Bulbasaur, 0, Random, 1),
-            new((int)Bulbasaur, 0, Random, 1),
-            new((int)Bulbasaur, 0, Random, 1),
-
-            new((int)Bulbasaur, 0, Random, 3),
-            new((int)Bulbasaur, 0, Random, 3),
-            new((int)Bulbasaur, 0, Random, 3),
-            new((int)Bulbasaur, 0, Random, 3),
         };
 
         foreach (var enc in bosses)
@@ -39,8 +30,8 @@ public static class BulkActions
             var stars = GetRaidBossTier(enc.Tier);
             var entry = new PogoEntry
             {
-                Start = new PogoDate(2024, 4, 10),
-                End   = new PogoDate(2024, 4, 12),
+                Start = new PogoDate(),
+                End   = new PogoDate(),
                 Type = type,
                 LocalizedStart = true,
                 NoEndTolerance = false,
