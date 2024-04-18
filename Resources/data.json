@@ -16228,6 +16228,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Noxious Swamp)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -34569,7 +34584,24 @@
     {
       "Species": 169,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 170,
@@ -44534,6 +44566,22 @@
           },
           "Shiny": 1,
           "Type": 10,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
         }
       ]
@@ -57298,11 +57346,11 @@
           "End": {
             "Y": 2024,
             "M": 4,
-            "D": 17
+            "D": 25
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Bug Out! 2024)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -85693,6 +85741,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Catching Some Z\u0027s)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -85980,6 +86044,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Verdant Wonders)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -100230,6 +100309,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Halloween 2023 Part II)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -102737,6 +102831,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Raging Battles)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -106089,6 +106199,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Taken Treasures)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 4,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 4,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
