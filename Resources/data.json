@@ -2759,6 +2759,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -11398,6 +11413,21 @@
             "Y": 2023,
             "M": 4,
             "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 16
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -27219,6 +27249,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pikachu\u0027s Indonesia Journey: Surabaya)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -70455,6 +70500,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -104468,6 +104528,36 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Season 10: Rising Heroes)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: World of Wonders)"
         }
       ]
     },
@@ -105325,6 +105415,82 @@
           "Type": 23,
           "LocalizedStart": true,
           "Comment": "World of Wonders"
+        }
+      ]
+    },
+    {
+      "Species": 805,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Eastern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: World of Wonders, Eastern Hemisphere)"
+        }
+      ]
+    },
+    {
+      "Species": 806,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Western Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: World of Wonders, Western Hemisphere)"
         }
       ]
     },
