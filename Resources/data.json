@@ -103689,13 +103689,40 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 19
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "May 2024 Community Day"
         }
       ]
     },
     {
       "Species": 762,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (May 2024 Community Day)"
+        }
+      ]
     },
     {
       "Species": 763,
