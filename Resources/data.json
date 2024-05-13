@@ -22510,6 +22510,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Sizeable Surprises)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Space Wonders)"
         }
       ]
     },
@@ -37731,6 +37746,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "November 2023 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Space Wonders)"
         }
       ]
     },
@@ -45115,6 +45145,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Hisui \u2013 Global (Geothermal Lagoon)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Space Wonders)"
         }
       ]
     },
@@ -46850,6 +46895,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Hisui \u2013 Global (Geothermal Lagoon)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Space Wonders)"
         },
         {
           "Start": {
@@ -69511,6 +69571,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Space Wonders)"
         }
       ]
     },
@@ -94098,6 +94173,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Lunar New Year 2024: Dragons Unleashed)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Space Wonders)"
         }
       ]
     },
@@ -95129,6 +95219,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Lunar New Year 2024: Dragons Unleashed)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Space Wonders)"
         }
       ]
     },
@@ -103407,6 +103512,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Ultra Space Wonders"
         }
       ]
     },
@@ -104148,6 +104263,21 @@
           "Type": 2,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: World of Wonders"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Space Wonders)"
         }
       ]
     },
@@ -105636,6 +105766,11 @@
       ]
     },
     {
+      "Species": 804,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 805,
       "Available": true,
       "Data": [
@@ -106588,11 +106723,6 @@
         },
         {
           "Start": {
-            "Y": 2024,
-            "M": 1,
-            "D": 27
-          },
-          "End": {
             "Y": 2024,
             "M": 1,
             "D": 27
