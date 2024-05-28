@@ -83036,7 +83036,7 @@
             "D": 26
           },
           "Shiny": 1,
-          "Type": 21,
+          "Type": 24,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2020: Rocket Straight to Victory"
         },
@@ -101151,7 +101151,24 @@
     {
       "Species": 705,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 9
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (June 2024 Community Day)"
+        }
+      ]
     },
     {
       "Species": 706,
