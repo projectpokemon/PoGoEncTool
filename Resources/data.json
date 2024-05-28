@@ -94050,6 +94050,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Stadium Sights"
         }
       ]
     },
