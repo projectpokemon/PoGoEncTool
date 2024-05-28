@@ -169,7 +169,7 @@ public partial class Main : Form
         byte form = comment switch
         {
             _ when comment.Contains("Mega Charizard Y") || comment.Contains("Mega Mewtwo Y") => 2,
-            _ when comment.Contains("Mega Raid Boss") || comment.Contains("Primal Raid Boss") => 1,
+            _ when comment.Contains("Mega Raid Boss") || comment.Contains("Primal Raid Boss") || comment.Contains("Elite Raid: Mega") => 1,
             _ => (byte)CB_Form.SelectedIndex,
         };
 

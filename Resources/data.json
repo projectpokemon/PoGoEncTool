@@ -1569,6 +1569,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Mega Charizard X)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Mega Charizard Y)"
         }
       ]
     },
@@ -10448,6 +10463,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Shared Skies (Northern Hemisphere)"
         }
       ]
     },
@@ -11550,6 +11580,21 @@
             "Y": 2024,
             "M": 5,
             "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -21203,6 +21248,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Shared Skies)"
         }
       ]
     },
@@ -27435,6 +27495,21 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 8,
             "D": 24
           },
@@ -31895,6 +31970,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -47080,6 +47170,21 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Shared Skies (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 7,
             "D": 13
           },
@@ -51837,6 +51942,81 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 2
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 8
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 9
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 15
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 23
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 30
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -53163,6 +53343,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -53575,6 +53770,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss (Shadow Raid Weekend: Ho-Oh)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -72892,6 +73102,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2023: Global, Day 2)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 29
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Elite Raid Boss (Elite Raid: Mega Rayquaza)"
         }
       ]
     },
@@ -88376,6 +88601,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Adventures Abound / Timeless Travels / World of Wonders"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Shared Skies)"
         }
       ]
     },
@@ -89927,6 +90167,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Timeless Travels (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Shared Skies (Northern Hemisphere)"
         }
       ]
     },
@@ -90221,6 +90477,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Tainan 2024"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Shared Skies (Southern Hemisphere)"
         }
       ]
     },
@@ -90899,6 +91171,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2024: Sendai (Star Parade)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Shared Skies)"
         }
       ]
     },
@@ -97034,6 +97321,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Shared Skies)"
         }
       ]
     },
@@ -101029,6 +101346,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2024: Global (Darkest Night)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 32,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Shared Skies)"
         }
       ]
     },
@@ -102208,6 +102541,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Shared Skies)"
         }
       ]
     },
@@ -102257,7 +102620,7 @@
           "Shiny": 1,
           "Type": 11,
           "LocalizedStart": true,
-          "Comment": "Elite Raid Boss (Hoopa Unbound)"
+          "Comment": "Elite Raid Boss (Elite Raid: Hoopa Unbound)"
         },
         {
           "Start": {
@@ -102273,7 +102636,7 @@
           "Shiny": 1,
           "Type": 11,
           "LocalizedStart": true,
-          "Comment": "Elite Raid Boss (Hoopa Unbound)"
+          "Comment": "Elite Raid Boss (Elite Raid: Hoopa Unbound)"
         },
         {
           "Start": {
@@ -102289,7 +102652,7 @@
           "Shiny": 1,
           "Type": 11,
           "LocalizedStart": true,
-          "Comment": "Elite Raid Boss (Hoopa Unbound)"
+          "Comment": "Elite Raid Boss (Elite Raid: Hoopa Unbound)"
         },
         {
           "Start": {
@@ -106639,7 +107002,7 @@
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Elite Raid Boss"
+          "Comment": "Elite Raid Boss (Elite Raid: Regieleki)"
         },
         {
           "Start": {
@@ -106693,7 +107056,7 @@
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Elite Raid Boss"
+          "Comment": "Elite Raid Boss (Elite Raid: Regidrago)"
         },
         {
           "Start": {
@@ -106709,7 +107072,7 @@
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Elite Raid Boss (Makeup Event)"
+          "Comment": "Elite Raid Boss (Elite Raid: Regidrago Makeup Event)"
         },
         {
           "Start": {
@@ -106913,7 +107276,7 @@
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Elite Raid Boss"
+          "Comment": "Elite Raid Boss (Elite Raid: Incarnate Forme Enamorus)"
         }
       ]
     },
