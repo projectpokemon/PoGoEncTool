@@ -99592,6 +99592,16 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 5,
+            "D": 30
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2024: Sendai"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 6,
             "D": 14
           },
@@ -105986,6 +105996,50 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Five-Star Raid Boss (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 30
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Sendai)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Madrid)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 7
+          },
+          "Type": 10,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: New York City)"
         }
       ]
     },
@@ -106029,6 +106083,20 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 7
+          },
+          "Type": 10,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: New York City)"
         },
         {
           "Start": {
@@ -106098,6 +106166,21 @@
             "M": 6,
             "D": 14
           },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Madrid)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 14
+          },
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "A Radiant Reunion"
@@ -106154,6 +106237,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 30
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Sendai)"
         },
         {
           "Start": {
@@ -106448,6 +106546,50 @@
           "Type": 23,
           "LocalizedStart": true,
           "Comment": "Ultra Beast Arrival"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 30
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Sendai)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Madrid)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 7
+          },
+          "Type": 10,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: New York City)"
         }
       ]
     },
@@ -106537,6 +106679,50 @@
           "Type": 23,
           "LocalizedStart": true,
           "Comment": "Ultra Beast Arrival"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 30
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Sendai)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Madrid)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 7
+          },
+          "Type": 10,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: New York City)"
         }
       ]
     },
@@ -106553,7 +106739,7 @@
           "Shiny": 1,
           "Type": 22,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2024"
+          "Comment": "Pok\u00E9mon GO Fest 2024: Sendai Park Escapade"
         }
       ]
     },
@@ -106873,7 +107059,24 @@
     {
       "Species": 865,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 30
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2024: Sendai"
+        }
+      ]
     },
     {
       "Species": 866,
