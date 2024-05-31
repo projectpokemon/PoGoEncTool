@@ -106792,9 +106792,9 @@
             "D": 1
           },
           "Shiny": 1,
-          "Type": 10,
+          "Type": 30,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Eastern Hemisphere)"
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: World of Wonders, Eastern Hemisphere)"
         },
         {
           "Start": {
@@ -106805,12 +106805,12 @@
           "End": {
             "Y": 2024,
             "M": 6,
-            "D": 1
+            "D": 2
           },
           "Shiny": 1,
-          "Type": 30,
+          "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (Pok\u00E9mon GO: World of Wonders, Eastern Hemisphere)"
+          "Comment": "Five-Star Raid Boss (Eastern Hemisphere / Pok\u00E9mon GO Fest 2024: Sendai)"
         }
       ]
     },
@@ -106849,6 +106849,37 @@
           "Type": 30,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: World of Wonders, Western Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Madrid)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: New York City)"
         }
       ]
     },
