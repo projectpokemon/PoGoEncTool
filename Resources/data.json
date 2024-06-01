@@ -13177,6 +13177,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -25986,6 +26001,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -57756,6 +57786,22 @@
           "Shiny": 1,
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -61936,6 +61982,21 @@
             "Y": 2023,
             "M": 7,
             "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -88254,6 +88315,21 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -101042,6 +101118,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Weather Week 2024)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -107597,6 +107688,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Bug Out! 2024)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
