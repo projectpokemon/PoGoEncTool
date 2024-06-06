@@ -58194,12 +58194,12 @@
           },
           "End": {
             "Y": 2024,
-            "M": 6,
-            "D": 1
+            "M": 9,
+            "D": 3
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: World of Wonders"
+          "Comment": "Pok\u00E9mon GO: World of Wonders / Shared Skies"
         },
         {
           "Start": {
@@ -76333,6 +76333,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Sinnoh \u2013 Global (Toxic Digs)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Shared Skies (Southern Hemisphere)"
         }
       ]
     },
@@ -86595,6 +86610,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Shared Skies"
         }
       ]
     },
@@ -101573,76 +101603,13 @@
           },
           "End": {
             "Y": 2024,
-            "M": 6,
-            "D": 2
-          },
-          "Shiny": 1,
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: World of Wonders / Pok\u00E9mon GO Fest 2024: Sendai (Mountain Brook)"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 6,
-            "D": 14
-          },
-          "End": {
-            "Y": 2024,
-            "M": 6,
-            "D": 18
-          },
-          "Shiny": 1,
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2024: Madrid (Sunrise Gateway) / Spelunker\u0027s Cove"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 7,
-            "D": 5
-          },
-          "End": {
-            "Y": 2024,
-            "M": 7,
-            "D": 7
-          },
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Pok\u00E9mon GO Fest 2024: New York City (Rugged Quarry)"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 7,
-            "D": 13
-          },
-          "End": {
-            "Y": 2024,
-            "M": 7,
-            "D": 14
-          },
-          "Shiny": 1,
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2024: Global (Darkest Night)"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 8,
-            "D": 16
-          },
-          "End": {
-            "Y": 2024,
             "M": 9,
             "D": 3
           },
           "Shiny": 1,
-          "Type": 32,
+          "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Week: Shared Skies)"
+          "Comment": "Pok\u00E9mon GO: World of Wonders / Shared Skies"
         }
       ]
     },
@@ -104972,7 +104939,7 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Timeless Travels / Pok\u00E9mon GO: World of Wonders"
+          "Comment": "Pok\u00E9mon GO: Timeless Travels / World of Wonders"
         },
         {
           "Start": {
@@ -105133,6 +105100,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Halloween 2023 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Shared Skies"
         }
       ]
     },
