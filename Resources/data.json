@@ -51467,6 +51467,22 @@
             "M": 3,
             "D": 11
           },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Became Slumbering Sands Wild Encounters)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 12
+          },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
@@ -57908,9 +57924,34 @@
             "M": 12,
             "D": 8
           },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "First Debut in the Wild (Hoenn Region)"
+        },
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 12,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "First Debut in Pok\u00E9mon Eggs (Hoenn Region)"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 5,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Field Research Tasks"
         },
         {
           "Start": {
@@ -57933,9 +57974,34 @@
             "M": 6,
             "D": 8
           },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 7
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "June 2019 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 6,
+            "D": 8
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "June 2019 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 12,
+            "D": 14
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "December 2019 Community Day"
         },
         {
           "Start": {
@@ -57980,6 +58046,16 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Slumbering Sands)"
         }
       ]
     },
@@ -105352,6 +105428,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Catching Some Z\u0027s"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 7
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Slumbering Sands"
         }
       ]
     },
