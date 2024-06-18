@@ -22984,6 +22984,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -24252,6 +24267,21 @@
             "Y": 2023,
             "M": 12,
             "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -26582,6 +26612,21 @@
             "Y": 2024,
             "M": 4,
             "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -60957,6 +61002,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: World of Wonders"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -70986,6 +71046,21 @@
             "Y": 2024,
             "M": 5,
             "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -104032,7 +104107,24 @@
     {
       "Species": 738,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 739,
@@ -105405,6 +105497,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Spelunker\u0027s Cove)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
