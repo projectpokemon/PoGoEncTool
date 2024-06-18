@@ -352,7 +352,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO 7th Anniversary Party, No Costume)"
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 7th Anniversary Party, No Costume)"
         },
         {
           "Start": {
@@ -413,6 +413,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pikachu\u0027s Indonesia Journey: Surabaya)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 8th Anniversary Party, No Costume)"
         },
         {
           "Start": {
@@ -1133,7 +1148,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO 7th Anniversary Party, No Costume)"
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 7th Anniversary Party, No Costume)"
         },
         {
           "Start": {
@@ -1194,6 +1209,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pikachu\u0027s Indonesia Journey: Surabaya)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 8th Anniversary Party, No Costume)"
         },
         {
           "Start": {
@@ -1910,7 +1940,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO 7th Anniversary Party, No Costume)"
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 7th Anniversary Party, No Costume)"
         },
         {
           "Start": {
@@ -1971,6 +2001,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pikachu\u0027s Indonesia Journey: Surabaya)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 8th Anniversary Party, No Costume)"
         },
         {
           "Start": {
@@ -3900,7 +3945,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO 7th Anniversary Party, No Costume)"
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 7th Anniversary Party, No Costume)"
         },
         {
           "Start": {
@@ -4006,6 +4051,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 8th Anniversary Party, No Costume)"
         },
         {
           "Start": {
@@ -14297,7 +14357,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO 7th Anniversary Party"
+          "Comment": "Pok\u00E9mon GO\u0027s 7th Anniversary Party"
         },
         {
           "Start": {
@@ -16356,6 +16416,11 @@
             "M": 7,
             "D": 6
           },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
@@ -16363,11 +16428,46 @@
         },
         {
           "Start": {
+            "Y": 2016,
+            "M": 7,
+            "D": 6
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "First Debut in Pok\u00E9mon Eggs (Kanto Region)"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 4,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Field Research Tasks"
+        },
+        {
+          "Start": {
             "Y": 2018,
             "M": 9,
             "D": 13
           },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
           "Type": 1,
+          "Comment": "Ultra Bonus Event"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 9,
+            "D": 13
+          },
+          "Type": 20,
           "Comment": "Ultra Bonus Event"
         },
         {
@@ -16533,6 +16633,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 8th Anniversary Party, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Pok\u00E9mon GO\u0027s 8th Anniversary Party)"
         }
       ]
     },
@@ -107467,6 +107592,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 28
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Mystery Box (Pok\u00E9mon GO\u0027s 8th Anniversary Party)"
         }
       ]
     },
