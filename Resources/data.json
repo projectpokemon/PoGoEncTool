@@ -93156,6 +93156,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 21
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "July 2024 Community Day"
         }
       ]
     },
@@ -93194,6 +93204,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (July 2024 Community Day)"
         }
       ]
     },
