@@ -31781,6 +31781,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -55285,6 +55300,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -61662,6 +61692,21 @@
             "Y": 2024,
             "M": 5,
             "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 3
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -97268,6 +97313,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Eight Views of Asakusa Routes)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Shared Skies)"
         }
       ]
     },
@@ -106751,6 +106826,21 @@
           },
           "Type": 10,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: New York City)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 9
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -106826,6 +106916,21 @@
           },
           "Type": 23,
           "Comment": "Pok\u00E9mon GO Fest 2022: Seattle \u2013 City Experience"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -106905,6 +107010,21 @@
           "Type": 23,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2022: Berlin"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -106983,6 +107103,21 @@
           "Type": 23,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2022: Sapporo \u2013 City Experience"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -107120,6 +107255,46 @@
           "Type": 23,
           "LocalizedStart": true,
           "Comment": "Ultra Beast Arrival"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Inbound from Ultra Space"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Shared Skies, Southern Hemisphere)"
         }
       ]
     },
@@ -107301,6 +107476,46 @@
           },
           "Type": 10,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: New York City)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Inbound from Ultra Space"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Shared Skies, Northern Hemisphere)"
         }
       ]
     },
@@ -107434,6 +107649,46 @@
           },
           "Type": 10,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: New York City)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Shared Skies)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Inbound from Ultra Space"
         }
       ]
     },
@@ -107522,6 +107777,33 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Eastern Hemisphere / Pok\u00E9mon GO Fest 2024: Sendai)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Inbound from Ultra Space"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Eastern Hemisphere)"
         }
       ]
     },
@@ -107591,6 +107873,33 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: New York City)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Inbound from Ultra Space"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 12
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Western Hemisphere)"
         }
       ]
     },
