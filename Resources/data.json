@@ -33923,6 +33923,20 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss (Shadow Raid Weekend: Mewtwo)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 10,
+          "Comment": "Five-Star Raid Boss (Latin American Spanish Localization Release)"
         }
       ]
     },
@@ -109093,6 +109107,16 @@
           "Type": 2,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon Horizons: The Series Celebration Event"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Partner Research: Google Play Points"
         }
       ]
     },
