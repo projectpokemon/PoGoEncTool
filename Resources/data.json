@@ -7569,12 +7569,12 @@
           "End": {
             "Y": 2024,
             "M": 7,
-            "D": 3
+            "D": 8
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO\u0027s 8th Anniversary Party)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -11109,12 +11109,12 @@
           "End": {
             "Y": 2024,
             "M": 7,
-            "D": 3
+            "D": 8
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO\u0027s 8th Anniversary Party)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -18646,11 +18646,11 @@
           "End": {
             "Y": 2024,
             "M": 7,
-            "D": 3
+            "D": 8
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO\u0027s 8th Anniversary Party)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -87135,6 +87135,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Shared Skies"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -91931,6 +91946,38 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 7,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Gender": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 6
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 9
+          },
+          "Gender": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Aquatic Paradise"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 8,
             "D": 16
           },
@@ -92229,6 +92276,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global (Pyrite Sands)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -94748,6 +94810,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Stunfisk Limited Research"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 8
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
