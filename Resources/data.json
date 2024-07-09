@@ -21496,17 +21496,11 @@
         {
           "Start": {
             "Y": 2024,
-            "M": 8,
-            "D": 16
+            "M": 7,
+            "D": 9
           },
-          "End": {
-            "Y": 2024,
-            "M": 9,
-            "D": 3
-          },
-          "Type": 32,
-          "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Week: Shared Skies)"
+          "Type": 1,
+          "Comment": "Adventure Effect: Moongeist Beam"
         }
       ]
     },
@@ -55935,6 +55929,15 @@
           },
           "Type": 10,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 9
+          },
+          "Type": 1,
+          "Comment": "Adventure Effect: Moongeist Beam"
         }
       ]
     },
@@ -105114,6 +105117,15 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 9
+          },
+          "Type": 1,
+          "Comment": "Adventure Effect: Sunsteel Strike / Moongeist Beam"
         }
       ]
     },
