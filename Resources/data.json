@@ -107842,6 +107842,82 @@
       ]
     },
     {
+      "Species": 800,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 30
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Sendai)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 30
+          },
+          "Type": 30,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2024: Sendai City Skies"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 6,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Madrid)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: New York City)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 14
+          },
+          "Type": 12,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Global)"
+        }
+      ]
+    },
+    {
       "Species": 802,
       "Available": true,
       "Data": [
