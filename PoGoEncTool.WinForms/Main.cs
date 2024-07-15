@@ -380,10 +380,10 @@ public partial class Main : Form
                         3 => "Strange Egg",
                         10 or 11 or 12 => "Raid",
                         13 => "Shadow Raid",
-                        >= 20 and <= 29 or 200 or 201 => "Research",
-                        30 or 31 => "GO Battle League",
-                        32 => "GO Battle Day",
-                        40 => "Shadow",
+                        >= 20 and <= 39 or 200 or 201 => "Research",
+                        40 or 41 => "GO Battle League",
+                        42 => "GO Battle Day",
+                        50 => "Shadow",
                         _ => throw new Exception("Invalid PogoType"),
                     };
 
