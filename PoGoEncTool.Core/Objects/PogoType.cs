@@ -30,12 +30,14 @@ public enum PogoType : byte
     ResearchMP,
     /// <summary> Ultra Beasts captured after completing Field Research. Only Beast Balls can be used. </summary>
     ResearchUB,
+
     /// <summary> Mythical Pokémon captured after completing Field Research. No HUD is visible during these encounters. </summary>
     /// <remarks>
     /// Under normal circumstances, only Poké Balls can be used, but Great Balls and Ultra Balls can be used with the Remember Last-Used Poké Ball setting.
     /// This was rendered unusable as of version 0.277.3.
     /// </remarks>
     ResearchMH,
+
     /// <summary> Pokémon captured after completing Field Research. No HUD is visible during these encounters. </summary>
     /// <remarks>
     /// The encounter defaults to the player's stock of Poké Balls. If they have none, it falls back to Great Balls, and then to Ultra Balls.
@@ -43,8 +45,16 @@ public enum PogoType : byte
     /// </remarks>
     ResearchNH,
 
+    /// <summary> Pokémon captured after completing Field Research. </summary>
+    /// <remarks> Unlike standard Field Research encounters, these are boosted to Level 20. </remarks>
+    Research20,
+
+    /// <summary> Pokémon captured after completing Field Research. Only Beast Balls can be used. </summary>
+    /// <remarks> Unlike standard Field Research encounters, these are boosted to Level 20. </remarks>
+    ResearchUB20,
+
     /// <summary> Pokémon captured from the GO Battle League. </summary>
-    GBL = 30,
+    GBL = 40,
     /// <summary> Mythical Pokémon captured from the GO Battle League. </summary>
     GBLM,
     /// <summary> Pokémon captured from the GO Battle League during GO Battle Day events. Excludes Legendary Pokémon, Mythical Pokémon, and Ultra Beasts. </summary>
@@ -52,7 +62,7 @@ public enum PogoType : byte
 
     /// <summary> Pokémon captured after defeating members of Team GO Rocket. Must be Purified before transferring to Pokémon HOME. </summary>
     /// <remarks> Pokémon with this <see cref="PogoType"/> can not be moved to <see cref="PKHeX.Core.GameVersion.GG"/>. </remarks>
-    Shadow = 40,
+    Shadow = 50,
 
     /// <summary> Pokémon captured from Special Research or Timed Research with a Premier Ball. </summary>
     /// <remarks>
