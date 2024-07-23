@@ -104915,6 +104915,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 31
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "August 2024 Community Day"
         }
       ]
     },
@@ -105000,6 +105010,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Fest 2022: Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 31
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (August 2024 Community Day)"
         }
       ]
     },
