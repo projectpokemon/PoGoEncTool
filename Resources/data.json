@@ -2530,6 +2530,11 @@
             "M": 11,
             "D": 9
           },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -2997,6 +3002,17 @@
             "Y": 2023,
             "M": 6,
             "D": 20
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
           },
           "Shiny": 1,
           "Type": 50,
@@ -9077,6 +9093,16 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -13349,6 +13375,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -15527,11 +15564,11 @@
           "Start": {
             "Y": 2024,
             "M": 8,
-            "D": 16
+            "D": 8
           },
-          "Type": 13,
+          "Type": 50,
           "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -18708,6 +18745,11 @@
             "M": 1,
             "D": 27
           },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -19389,6 +19431,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -26392,6 +26445,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -29929,6 +29993,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -33466,16 +33540,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Lunar New Year 2024: Dragons Unleashed)"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 8,
-            "D": 16
-          },
-          "Type": 13,
-          "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -34362,6 +34426,17 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -34629,6 +34704,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Tour: Hisui \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -36902,6 +36988,11 @@
             "M": 5,
             "D": 8
           },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -38750,33 +38841,6 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 8,
-            "D": 8
-          },
-          "End": {
-            "Y": 2024,
-            "M": 8,
-            "D": 16
-          },
-          "Shiny": 1,
-          "Type": 13,
-          "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 8,
-            "D": 16
-          },
-          "Shiny": 1,
-          "Type": 13,
-          "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -45449,16 +45513,6 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 8,
-            "D": 16
-          },
-          "Type": 13,
-          "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -52487,6 +52541,11 @@
             "M": 1,
             "D": 27
           },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -55193,6 +55252,11 @@
             "M": 1,
             "D": 27
           },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -55498,6 +55562,11 @@
             "Y": 2024,
             "M": 1,
             "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
           },
           "Shiny": 1,
           "Type": 50,
@@ -55981,6 +56050,11 @@
             "Y": 2024,
             "M": 1,
             "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
           },
           "Shiny": 1,
           "Type": 50,
@@ -58464,17 +58538,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Fashion Week 2023, No Costume)"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 8,
-            "D": 16
-          },
-          "Shiny": 1,
-          "Type": 13,
-          "LocalizedStart": true,
-          "Comment": "Three-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -61153,11 +61216,11 @@
           "Start": {
             "Y": 2024,
             "M": 8,
-            "D": 16
+            "D": 8
           },
-          "Type": 13,
+          "Type": 50,
           "LocalizedStart": true,
-          "Comment": "Three-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -62237,6 +62300,17 @@
             "Y": 2024,
             "M": 3,
             "D": 26
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
           },
           "Shiny": 1,
           "Type": 50,
@@ -65904,15 +65978,10 @@
             "M": 8,
             "D": 8
           },
-          "End": {
-            "Y": 2024,
-            "M": 8,
-            "D": 16
-          },
           "Shiny": 1,
-          "Type": 13,
+          "Type": 50,
           "LocalizedStart": true,
-          "Comment": "Three-Star Shadow Raid Boss"
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -68809,6 +68878,11 @@
             "M": 3,
             "D": 27
           },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -70458,6 +70532,11 @@
             "Y": 2024,
             "M": 1,
             "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
           },
           "Shiny": 1,
           "Type": 50,
@@ -72449,6 +72528,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -75870,6 +75960,11 @@
             "M": 1,
             "D": 27
           },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -76224,6 +76319,11 @@
             "M": 1,
             "D": 27
           },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -76544,6 +76644,11 @@
             "Y": 2024,
             "M": 1,
             "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
           },
           "Shiny": 1,
           "Type": 50,
@@ -78256,6 +78361,11 @@
             "M": 10,
             "D": 26
           },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -78388,6 +78498,11 @@
             "Y": 2023,
             "M": 10,
             "D": 26
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
           },
           "Shiny": 1,
           "Type": 50,
@@ -82151,6 +82266,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -88374,6 +88500,17 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 9,
             "D": 21
           },
@@ -91025,6 +91162,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -91085,6 +91233,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -92750,6 +92909,11 @@
             "Y": 2023,
             "M": 6,
             "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
           },
           "Shiny": 1,
           "Type": 50,
