@@ -35396,6 +35396,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (New Year\u0027s 2024, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -36515,6 +36545,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -37296,6 +37356,36 @@
             "Y": 2024,
             "M": 5,
             "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -60433,6 +60523,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -91523,7 +91643,40 @@
     {
       "Species": 578,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 579,
@@ -106205,6 +106358,36 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Dazzling Dream"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -110453,6 +110636,36 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO Tour: Hisui \u2013 Los Angeles (Mountain Hot Springs)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
