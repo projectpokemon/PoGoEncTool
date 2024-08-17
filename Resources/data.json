@@ -28044,6 +28044,20 @@
           "Start": {
             "Y": 2024,
             "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 10,
+          "Comment": "Mega Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships, In-Person Event)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
             "D": 24
           },
           "End": {
@@ -41506,6 +41520,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2024: Global"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 1,
+          "Comment": "Honolulu 2024 Pok\u00E9mon World Championships (In-Person Event)"
         }
       ]
     },
@@ -42372,6 +42400,20 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 1,
+          "Comment": "Honolulu 2024 Pok\u00E9mon World Championships (In-Person Event)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 9,
             "D": 27
           },
@@ -42633,6 +42675,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Sinnoh \u2013 Global"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 1,
+          "Comment": "Honolulu 2024 Pok\u00E9mon World Championships (In-Person Event)"
         }
       ]
     },
@@ -69475,6 +69531,20 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 10,
+          "Comment": "Three-Star Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships, In-Person Event)"
         }
       ]
     },
@@ -85001,6 +85071,16 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 26,
+          "LocalizedStart": true,
+          "Comment": "2024 Worlds Premium Timed Research"
         }
       ]
     },
@@ -96749,6 +96829,20 @@
             "M": 8,
             "D": 20
           },
+          "Type": 1,
+          "Comment": "Honolulu 2024 Pok\u00E9mon World Championships (In-Person Event)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
@@ -104109,6 +104203,17 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 26,
+          "LocalizedStart": true,
+          "Comment": "2024 Worlds Premium Timed Research"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 9,
             "D": 21
           },
@@ -109827,7 +109932,7 @@
             "M": 5,
             "D": 30
           },
-          "Type": 26,
+          "Type": 27,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2024: Sendai City Skies"
         },
@@ -109882,7 +109987,7 @@
             "M": 7,
             "D": 13
           },
-          "Type": 27,
+          "Type": 28,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2024: The Dusk Settles"
         }

@@ -46,6 +46,10 @@ public enum PogoType : byte
     ResearchNH,
 
     /// <summary> Pokémon captured after completing Field Research. </summary>
+    /// <remarks> Unlike standard Field Research encounters, these are lowered to Level 10. </remarks>
+    Research10,
+
+    /// <summary> Pokémon captured after completing Field Research. </summary>
     /// <remarks> Unlike standard Field Research encounters, these are boosted to Level 20. </remarks>
     Research20,
 
