@@ -5219,6 +5219,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -7143,6 +7158,21 @@
             "Y": 2024,
             "M": 3,
             "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -14250,6 +14280,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (September 2024 Community Day)"
         }
       ]
     },
@@ -14539,6 +14584,36 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "September 2024 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (September 2024 Community Day)"
         }
       ]
     },
@@ -28049,7 +28124,7 @@
           "End": {
             "Y": 2024,
             "M": 8,
-            "D": 20
+            "D": 18
           },
           "Type": 10,
           "Comment": "Mega Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships, In-Person Event)"
@@ -37057,6 +37132,17 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -41530,7 +41616,7 @@
           "End": {
             "Y": 2024,
             "M": 8,
-            "D": 20
+            "D": 18
           },
           "Type": 1,
           "Comment": "Honolulu 2024 Pok\u00E9mon World Championships (In-Person Event)"
@@ -42406,7 +42492,7 @@
           "End": {
             "Y": 2024,
             "M": 8,
-            "D": 20
+            "D": 18
           },
           "Type": 1,
           "Comment": "Honolulu 2024 Pok\u00E9mon World Championships (In-Person Event)"
@@ -42685,7 +42771,7 @@
           "End": {
             "Y": 2024,
             "M": 8,
-            "D": 20
+            "D": 18
           },
           "Type": 1,
           "Comment": "Honolulu 2024 Pok\u00E9mon World Championships (In-Person Event)"
@@ -44669,6 +44755,11 @@
             "Y": 2024,
             "M": 8,
             "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
           },
           "Shiny": 1,
           "Type": 13,
@@ -57420,6 +57511,17 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -58749,6 +58851,21 @@
             "Y": 2023,
             "M": 11,
             "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -63790,6 +63907,17 @@
             "Y": 2024,
             "M": 8,
             "D": 16
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
           },
           "Shiny": 1,
           "Type": 13,
@@ -69541,7 +69669,7 @@
           "End": {
             "Y": 2024,
             "M": 8,
-            "D": 20
+            "D": 18
           },
           "Type": 10,
           "Comment": "Three-Star Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships, In-Person Event)"
@@ -72868,6 +72996,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -78456,6 +78600,17 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -78589,6 +78744,17 @@
             "Y": 2024,
             "M": 8,
             "D": 16
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
           },
           "Shiny": 1,
           "Type": 13,
@@ -81990,6 +82156,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -85077,6 +85259,11 @@
             "Y": 2024,
             "M": 8,
             "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 18
           },
           "Type": 10,
           "Comment": "Five-Star Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships, In-Person Event)"
@@ -96836,7 +97023,7 @@
           "End": {
             "Y": 2024,
             "M": 8,
-            "D": 20
+            "D": 18
           },
           "Type": 1,
           "Comment": "Honolulu 2024 Pok\u00E9mon World Championships (In-Person Event)"
@@ -104895,6 +105082,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -107224,6 +107426,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Ultra Space Wonders"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -108353,6 +108570,21 @@
           "Type": 2,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2024: Global \u2013 Early Access Eggs-travaganza!"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 13
+          },
+          "End": {
+            "Y": 2024,
+            "M": 7,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2024: Global"
         },
         {
           "Start": {
