@@ -19770,6 +19770,21 @@
           "Start": {
             "Y": 2024,
             "M": 9,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Max Out (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
             "D": 27
           },
           "End": {
@@ -46625,6 +46640,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Ultra Space Wonders)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Max Out (Northern Hemisphere)"
         }
       ]
     },
@@ -89777,6 +89807,16 @@
           },
           "Type": 1,
           "Comment": "Route Encounter (Pok\u00E9mon GO Tour: Hisui \u2013 Los Angeles)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Max Out"
         }
       ]
     },
@@ -91090,6 +91130,21 @@
           "Type": 42,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Week: Shared Skies)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Max Out"
         }
       ]
     },
@@ -92577,6 +92632,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: World of Wonders (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Max Out (Southern Hemisphere)"
         }
       ]
     },
@@ -92871,6 +92942,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: World of Wonders (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Max Out (Northern Hemisphere)"
         }
       ]
     },
@@ -97516,6 +97603,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Space Wonders)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Max Out"
         }
       ]
     },
@@ -108198,13 +108295,13 @@
           },
           "End": {
             "Y": 2024,
-            "M": 9,
+            "M": 12,
             "D": 3
           },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Shared Skies"
+          "Comment": "Pok\u00E9mon GO: Shared Skies / Max Out"
         }
       ]
     },
@@ -108551,6 +108648,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Max Out"
         }
       ]
     },

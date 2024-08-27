@@ -13,7 +13,7 @@ namespace PoGoEncTool.Core;
 public static class BulkActions
 {
     public static bool Shadow { get; set; }
-    public static string Season { get; set; } = "Pokémon GO: Shared Skies";
+    public static string Season { get; set; } = "Pokémon GO: Max Out";
 
     public static void AddRaidBosses(PogoEncounterList list)
     {
@@ -130,7 +130,7 @@ public static class BulkActions
 
     private static void AddEncounterGBL(PogoEncounterList list, ushort species, byte form, PogoShiny shiny, PogoDate start)
     {
-        var end = new PogoDate(2024, 09, 03);
+        var end = new PogoDate(2024, 12, 03);
         var pkm = list.GetDetails(species, form);
         var type = SpeciesCategory.IsMythical(species) ? PogoType.GBLM : PogoType.GBL;
         var entry = new PogoEntry
