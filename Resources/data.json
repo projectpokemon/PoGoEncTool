@@ -48455,6 +48455,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2024: Global (Shining Day)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Max Out)"
         }
       ]
     },
@@ -91488,6 +91503,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Max Out)"
         }
       ]
     },
@@ -93836,9 +93866,26 @@
             "M": 9,
             "D": 3
           },
+          "Gender": 1,
           "Type": 42,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Week: Shared Skies)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Gender": 1,
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Max Out)"
         }
       ]
     },
@@ -97194,6 +97241,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Honolulu 2024 Pok\u00E9mon World Championships"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Max Out)"
         }
       ]
     },
@@ -104574,6 +104636,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Jakarta 2024"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Max Out)"
         }
       ]
     },
