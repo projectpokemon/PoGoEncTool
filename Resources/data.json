@@ -101328,6 +101328,17 @@
         },
         {
           "Start": {
+            "Y": 2020,
+            "M": 12,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Kalos Celebration Event"
+        },
+        {
+          "Start": {
             "Y": 2021,
             "M": 7,
             "D": 6
@@ -101344,11 +101355,32 @@
         },
         {
           "Start": {
+            "Y": 2021,
+            "M": 7,
+            "D": 6
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO 5th Anniversary Event"
+        },
+        {
+          "Start": {
             "Y": 2023,
             "M": 8,
             "D": 13
           },
           "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "August 2023 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 13
+          },
+          "Type": 20,
           "LocalizedStart": true,
           "Comment": "August 2023 Community Day"
         }
