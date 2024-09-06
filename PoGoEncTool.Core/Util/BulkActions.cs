@@ -12,8 +12,8 @@ namespace PoGoEncTool.Core;
 #if DEBUG
 public static class BulkActions
 {
-    public static bool Shadow { get; set; }
-    public static string Season { get; set; } = "Pokémon GO: Max Out";
+    public static BossType Type { get; set; } = BossType.Normal;
+    public static string Season { get; set; } = "Max Out";
 
     public static void AddRaidBosses(PogoEncounterList list)
     {
@@ -25,8 +25,14 @@ public static class BulkActions
         foreach (var enc in bosses)
         {
             var pkm = list.GetDetails(enc.Species, enc.Form);
-            var boss = Shadow ? "Shadow Raid Boss" : "Raid Boss";
-            var type = Shadow ? PogoType.RaidS : PogoType.Raid;
+            var boss = Type switch
+            {
+                BossType.Shadow => "Shadow Raid Boss",
+                BossType.PowerSpot => "Power Spot Boss",
+                _ => "Raid Boss"
+            };
+
+            var type = Type is BossType.Shadow ? PogoType.RaidS : PogoType.Raid;
             var stars = GetRaidBossTier(enc.Tier);
             var entry = new PogoEntry
             {
@@ -140,7 +146,7 @@ public static class BulkActions
             Type = type,
             LocalizedStart = true,
             NoEndTolerance = false,
-            Comment = $"Reward Encounter ({Season})",
+            Comment = $"Reward Encounter (Pokémon GO: {Season})",
             Shiny = shiny,
         };
 
@@ -188,6 +194,13 @@ public static class BulkActions
 
             pkm.Add(entry);
         }
+    }
+
+    public enum BossType : byte
+    {
+        Normal = 0,
+        Shadow = 1,
+        PowerSpot = 2,
     }
 }
 #endif
