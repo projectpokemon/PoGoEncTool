@@ -73045,6 +73045,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss (Psychic Spectacular 2024)"
         }
       ]
     },
@@ -111677,6 +111692,33 @@
     },
     {
       "Species": 832,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 856,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Psychic Spectacular 2024"
+        }
+      ]
+    },
+    {
+      "Species": 857,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 858,
       "Available": true,
       "Data": []
     },
