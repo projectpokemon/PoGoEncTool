@@ -68,6 +68,11 @@ public enum PogoType : byte
     /// <remarks> Pokémon with this <see cref="PogoType"/> can not be moved to <see cref="PKHeX.Core.GameVersion.GG"/>. </remarks>
     Shadow = 50,
 
+    /// <summary> Pokémon captured after completing Max Battles. </summary>
+    MaxBattle = 60,
+    /// <summary> Mythical Pokémon captured after completing Max Battles. </summary>
+    MaxBattleM,
+
     /// <summary> Pokémon captured from Special Research or Timed Research with a Premier Ball. </summary>
     /// <remarks>
     /// Niantic released version 0.269.0 on April 22, 2023, which contained an issue with the Remember Last-Used Poké Ball setting.

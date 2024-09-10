@@ -32,7 +32,13 @@ public static class BulkActions
                 _ => "Raid Boss"
             };
 
-            var type = Type is BossType.Shadow ? PogoType.RaidS : PogoType.Raid;
+            var type = Type switch
+            {
+                BossType.Shadow => PogoType.RaidS,
+                BossType.PowerSpot => PogoType.MaxBattle,
+                _ => PogoType.Raid,
+            };
+
             var stars = GetRaidBossTier(enc.Tier);
             var entry = new PogoEntry
             {
