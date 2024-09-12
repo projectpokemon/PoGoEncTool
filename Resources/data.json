@@ -48719,8 +48719,8 @@
         {
           "Start": {
             "Y": 2024,
-            "M": 11,
-            "D": 2
+            "M": 9,
+            "D": 12
           },
           "End": {
             "Y": 2024,
@@ -48728,8 +48728,7 @@
             "D": 3
           },
           "Type": 42,
-          "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Weekend: Max Out)"
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out, Accidental IV Floor Removal)"
         }
       ]
     },
@@ -86072,6 +86071,20 @@
           "Type": 21,
           "LocalizedStart": true,
           "Comment": "Road to Sinnoh: Raid Challenge"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 42,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out, Accidental Release and IV Floor Removal)"
         }
       ]
     },
@@ -94420,8 +94433,8 @@
         {
           "Start": {
             "Y": 2024,
-            "M": 11,
-            "D": 2
+            "M": 9,
+            "D": 12
           },
           "End": {
             "Y": 2024,
@@ -94430,8 +94443,7 @@
           },
           "Gender": 1,
           "Type": 42,
-          "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Weekend: Max Out)"
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out, Accidental IV Floor Removal)"
         }
       ]
     },
@@ -105233,6 +105245,21 @@
           "Start": {
             "Y": 2024,
             "M": 9,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 42,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out, Accidental IV Floor Removal)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
             "D": 21
           },
           "End": {
@@ -105244,22 +105271,6 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Jakarta 2024"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 11,
-            "D": 2
-          },
-          "End": {
-            "Y": 2024,
-            "M": 12,
-            "D": 3
-          },
-          "Shiny": 1,
-          "Type": 42,
-          "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Weekend: Max Out)"
         }
       ]
     },
