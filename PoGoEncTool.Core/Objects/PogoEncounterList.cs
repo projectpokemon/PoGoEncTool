@@ -157,6 +157,7 @@ public class PogoEncounterList
     {
         (int)Species.Exeggutor when evo.Form == 1 => new PogoDate(2024, 03, 10), // Pokémon GO City Safari: Tainan 2024
         (int)Species.Marowak   when evo.Form == 1 => new PogoDate(2022, 11, 26), // Ultra Beast Arrival: London / Los Angeles
+        (int)Species.Weezing   when evo.Form == 1 => new PogoDate(2024, 10, 01), // Legendary Heroes
         _ => null,
     };
 

@@ -45,7 +45,6 @@ public static class EvoUtil
             Pichu or Pikachu when destSpecies is Raichu && destForm is 1 => false,
 
             // Galarian
-            Koffing when destSpecies is Weezing && destForm is 1 => false,
             MimeJr when destSpecies is MrMime && destForm is 1 => false,
             MimeJr when destSpecies is MrRime && destForm is 0 => false,
 
