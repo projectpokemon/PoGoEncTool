@@ -384,6 +384,7 @@ public partial class Main : Form
                         40 or 41 => "GO Battle League",
                         42 => "GO Battle Day",
                         50 => "Shadow",
+                        >= 60 and <= 69 => "Max Battle",
                         _ => throw new Exception("Invalid PogoType"),
                     };
 
