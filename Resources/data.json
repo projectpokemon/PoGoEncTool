@@ -32362,6 +32362,16 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Daily Adventure Incense"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense (Galarian Expedition)"
         }
       ]
     },
@@ -32869,6 +32879,16 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Daily Adventure Incense"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense (Galarian Expedition)"
         }
       ]
     },
@@ -33315,6 +33335,16 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Daily Adventure Incense"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense (Galarian Expedition)"
         }
       ]
     },
@@ -78856,6 +78886,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Shared Skies (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 11
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Galarian Expedition"
         }
       ]
     },
