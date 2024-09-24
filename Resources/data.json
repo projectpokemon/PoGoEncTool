@@ -450,6 +450,11 @@
             "M": 9,
             "D": 10
           },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 1
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -1271,6 +1276,11 @@
             "M": 9,
             "D": 10
           },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 1
+          },
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -2087,6 +2097,11 @@
             "Y": 2024,
             "M": 9,
             "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 1
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -54113,6 +54128,66 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 5
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 13
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 20
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -56518,6 +56593,21 @@
             "Y": 2023,
             "M": 7,
             "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 14
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -61989,6 +62079,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -69731,6 +69836,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -73238,12 +73358,12 @@
           },
           "End": {
             "Y": 2024,
-            "M": 9,
-            "D": 22
+            "M": 10,
+            "D": 1
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "Three-Star Power Spot Boss (Psychic Spectacular 2024)"
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -85803,6 +85923,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -86275,16 +86410,17 @@
         {
           "Start": {
             "Y": 2024,
-            "M": 9,
-            "D": 12
+            "M": 10,
+            "D": 28
           },
           "End": {
             "Y": 2024,
-            "M": 12,
-            "D": 3
+            "M": 11,
+            "D": 4
           },
-          "Type": 41,
-          "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out, Accidental Release)"
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -111902,6 +112038,11 @@
             "M": 10,
             "D": 1
           },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 1
+          },
           "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
@@ -111940,6 +112081,11 @@
             "M": 10,
             "D": 1
           },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 1
+          },
           "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
@@ -111976,6 +112122,11 @@
           "Start": {
             "Y": 2024,
             "M": 10,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
             "D": 1
           },
           "Shiny": 1,
@@ -112025,6 +112176,11 @@
             "Y": 2024,
             "M": 9,
             "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 1
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -112084,6 +112240,11 @@
             "Y": 2024,
             "M": 9,
             "D": 10
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 1
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -112226,6 +112387,11 @@
           "Start": {
             "Y": 2024,
             "M": 10,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
             "D": 1
           },
           "Type": 60,
@@ -112461,6 +112627,36 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle League \u2013 Season 11)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out)"
         }
       ]
     },
