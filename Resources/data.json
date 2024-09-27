@@ -22907,6 +22907,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 26
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Legendary Heroes)"
         }
       ]
     },
@@ -73499,8 +73514,8 @@
           },
           "End": {
             "Y": 2024,
-            "M": 10,
-            "D": 1
+            "M": 9,
+            "D": 25
           },
           "Type": 60,
           "LocalizedStart": true,
