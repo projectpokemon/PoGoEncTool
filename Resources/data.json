@@ -762,6 +762,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global, Day 2)"
         }
       ]
     },
@@ -20018,6 +20033,36 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Safari Zone: Incheon 2024"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area: Fukuoka"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area: Global"
         }
       ]
     },
@@ -47207,6 +47252,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area: Fukuoka"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area: Global"
         }
       ]
     },
@@ -79394,6 +79469,36 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Galarian Expedition"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area: Fukuoka"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area: Global"
         }
       ]
     },
@@ -79448,6 +79553,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global, Day 1)"
         }
       ]
     },
@@ -84433,7 +84553,23 @@
     {
       "Species": 466,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global, Day 2)"
+        }
+      ]
     },
     {
       "Species": 467,
@@ -90563,7 +90699,23 @@
     {
       "Species": 545,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global, Day 1)"
+        }
+      ]
     },
     {
       "Species": 546,
@@ -112550,6 +112702,175 @@
       "Species": 832,
       "Available": true,
       "Data": []
+    },
+    {
+      "Species": 848,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area: Fukuoka"
+        }
+      ]
+    },
+    {
+      "Species": 849,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area: Fukuoka)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 17
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Fukuoka)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area: Fukuoka"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Global)"
+        }
+      ]
+    },
+    {
+      "Species": 849,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area: Fukuoka)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 17
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Fukuoka)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Wild Area: Fukuoka"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss (Pok\u00E9mon GO Wild Area: Global)"
+        }
+      ]
     },
     {
       "Species": 856,
