@@ -73118,21 +73118,6 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 10,
-            "D": 2
-          },
-          "End": {
-            "Y": 2024,
-            "M": 10,
-            "D": 4
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -89259,6 +89244,21 @@
             "Y": 2024,
             "M": 8,
             "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 2
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
