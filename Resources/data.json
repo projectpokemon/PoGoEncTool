@@ -18084,6 +18084,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Weather Week 2024)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 1
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -35609,6 +35624,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2024: Better Together)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2024 Part I)"
         }
       ]
     },
@@ -40123,6 +40153,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Fest 2024: Global, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2024 Part I)"
         }
       ]
     },
@@ -48898,6 +48943,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2024 Part I)"
         }
       ]
     },
@@ -62446,6 +62506,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2024 Part I)"
         }
       ]
     },
@@ -92867,6 +92942,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Max Out"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2024 Part I)"
         }
       ]
     },
@@ -92975,6 +93065,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2024 Part I)"
         },
         {
           "Start": {
@@ -107696,6 +107801,28 @@
         },
         {
           "Start": {
+            "Y": 2022,
+            "M": 3,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Welcome to Alola"
+        },
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 3,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Welcome to Alola"
+        },
+        {
+          "Start": {
             "Y": 2023,
             "M": 4,
             "D": 22
@@ -107716,6 +107843,16 @@
             "D": 6
           },
           "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "January 2024 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 20,
           "LocalizedStart": true,
           "Comment": "January 2024 Community Day"
         },
@@ -113279,6 +113416,23 @@
       ]
     },
     {
+      "Species": 877,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2024 Part I"
+        }
+      ]
+    },
+    {
       "Species": 885,
       "Available": true,
       "Data": [
@@ -114414,6 +114568,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2024 Part I)"
         }
       ]
     },
