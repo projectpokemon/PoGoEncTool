@@ -18089,6 +18089,21 @@
           "Start": {
             "Y": 2024,
             "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
             "D": 22
           },
           "End": {
@@ -35629,7 +35644,7 @@
           "Start": {
             "Y": 2024,
             "M": 10,
-            "D": 22
+            "D": 14
           },
           "End": {
             "Y": 2024,
@@ -35638,7 +35653,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Halloween 2024 Part I)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -40158,6 +40173,22 @@
           "Start": {
             "Y": 2024,
             "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
             "D": 22
           },
           "End": {
@@ -40867,6 +40898,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -48948,7 +48994,7 @@
           "Start": {
             "Y": 2024,
             "M": 10,
-            "D": 22
+            "D": 14
           },
           "End": {
             "Y": 2024,
@@ -48957,7 +49003,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Halloween 2024 Part I)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -61415,6 +61461,22 @@
             "Y": 2023,
             "M": 11,
             "D": 3
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
           },
           "Shiny": 1,
           "Type": 10,
@@ -93070,7 +93132,7 @@
           "Start": {
             "Y": 2024,
             "M": 10,
-            "D": 22
+            "D": 14
           },
           "End": {
             "Y": 2024,
@@ -93079,7 +93141,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Halloween 2024 Part I)"
+          "Comment": "One-Star Raid Boss"
         },
         {
           "Start": {
@@ -93410,6 +93472,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Disguise Encounter (Halloween 2023 Part II)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -114573,7 +114650,7 @@
           "Start": {
             "Y": 2024,
             "M": 10,
-            "D": 22
+            "D": 14
           },
           "End": {
             "Y": 2024,
