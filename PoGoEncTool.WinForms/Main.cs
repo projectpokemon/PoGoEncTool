@@ -29,7 +29,7 @@ public partial class Main : Form
 
         Entries = DataLoader.GetData(Application.StartupPath, out Settings);
         // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = Core.PogoType.Shadow);
-        // BulkActions.AddRaidBosses(Entries);
+        // BulkActions.AddBossEncounters(Entries);
         // BulkActions.AddNewShadows(Entries);
         // BulkActions.AddMonthlyRaidBosses(Entries);
 

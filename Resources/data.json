@@ -766,6 +766,21 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Six-Star Power Spot Boss (GO Bigger)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 11,
             "D": 24
           },
@@ -1689,6 +1704,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Mega Charizard Y)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Six-Star Power Spot Boss (GO Bigger)"
         }
       ]
     },
@@ -2392,6 +2422,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Six-Star Power Spot Boss (GO Bigger)"
         }
       ]
     },
@@ -12309,14 +12354,9 @@
             "M": 10,
             "D": 8
           },
-          "End": {
-            "Y": 2024,
-            "M": 10,
-            "D": 11
-          },
           "Type": 13,
           "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss (Galarian Expedition: Taken Over)"
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -17163,14 +17203,9 @@
             "M": 10,
             "D": 8
           },
-          "End": {
-            "Y": 2024,
-            "M": 10,
-            "D": 11
-          },
           "Type": 13,
           "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss (Galarian Expedition: Taken Over)"
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -20323,14 +20358,9 @@
             "M": 10,
             "D": 8
           },
-          "End": {
-            "Y": 2024,
-            "M": 10,
-            "D": 11
-          },
           "Type": 13,
           "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss (Galarian Expedition: Taken Over)"
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -27912,14 +27942,9 @@
             "M": 10,
             "D": 8
           },
-          "End": {
-            "Y": 2024,
-            "M": 10,
-            "D": 11
-          },
           "Type": 13,
           "LocalizedStart": true,
-          "Comment": "Three-Star Shadow Raid Boss (Galarian Expedition: Taken Over)"
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -38823,15 +38848,10 @@
             "M": 10,
             "D": 8
           },
-          "End": {
-            "Y": 2024,
-            "M": 10,
-            "D": 11
-          },
           "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss (Galarian Expedition: Taken Over)"
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -62545,14 +62565,9 @@
             "M": 10,
             "D": 8
           },
-          "End": {
-            "Y": 2024,
-            "M": 10,
-            "D": 11
-          },
           "Type": 13,
           "LocalizedStart": true,
-          "Comment": "Three-Star Shadow Raid Boss (Galarian Expedition: Taken Over)"
+          "Comment": "Three-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -63468,14 +63483,9 @@
             "M": 10,
             "D": 8
           },
-          "End": {
-            "Y": 2024,
-            "M": 10,
-            "D": 11
-          },
           "Type": 13,
           "LocalizedStart": true,
-          "Comment": "Three-Star Shadow Raid Boss (Galarian Expedition: Taken Over)"
+          "Comment": "Three-Star Shadow Raid Boss"
         },
         {
           "Start": {

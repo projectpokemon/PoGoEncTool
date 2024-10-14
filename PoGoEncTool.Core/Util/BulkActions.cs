@@ -15,7 +15,7 @@ public static class BulkActions
     public static BossType Type { get; set; } = BossType.Normal;
     public static string Season { get; set; } = "Max Out";
 
-    public static void AddRaidBosses(PogoEncounterList list)
+    public static void AddBossEncounters(PogoEncounterList list)
     {
         var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, byte Tier)>
         {
@@ -40,6 +40,10 @@ public static class BulkActions
             };
 
             var stars = GetRaidBossTier(enc.Tier);
+            var eventName = "";
+            var descriptor = eventName is "" ? "" : $" ({eventName})";
+            var comment = $"{stars}-Star {boss}{descriptor}";
+
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
@@ -47,7 +51,7 @@ public static class BulkActions
                 Type = type,
                 LocalizedStart = true,
                 NoEndTolerance = false,
-                Comment = $"{stars}-Star {boss}",
+                Comment = comment,
                 Shiny = enc.Shiny,
             };
 
@@ -77,6 +81,7 @@ public static class BulkActions
         3 => "Three",
         4 => "Four",
         5 => "Five",
+        6 => "Six",
         _ => string.Empty,
     };
 
