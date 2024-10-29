@@ -10956,6 +10956,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Ultra Unlock 2024: Better Together)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense"
         }
       ]
     },
@@ -47518,6 +47528,16 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 11,
             "D": 16
           },
@@ -79877,6 +79897,11 @@
             "M": 7,
             "D": 25
           },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Daily Adventure Incense"
@@ -98749,6 +98774,11 @@
             "M": 7,
             "D": 25
           },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
           "Type": 1,
           "Comment": "Daily Adventure Incense"
         },
@@ -99101,6 +99131,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense"
         }
       ]
     },
@@ -99535,6 +99575,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense"
         }
       ]
     },
@@ -99880,6 +99930,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Ultra Unlock 2024: Strength of Steel)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense"
         }
       ]
     },
@@ -104573,6 +104633,16 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO Fest 2024: New York City (Ghostly Woods)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Daily Adventure Incense"
         }
       ]
     },
@@ -109250,6 +109320,11 @@
             "M": 7,
             "D": 25
           },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 4
+          },
           "Type": 1,
           "Comment": "Daily Adventure Incense"
         },
@@ -109476,6 +109551,15 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 7,
+            "D": 9
+          },
+          "Type": 1,
+          "Comment": "Adventure Effect: Sunsteel Strike / Moongeist Beam"
         },
         {
           "Start": {
