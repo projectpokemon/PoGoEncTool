@@ -4245,6 +4245,21 @@
           },
           "Type": 10,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Night: Seattle Mariners)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Festival of Lights 2024, No Costume)"
         }
       ]
     },
@@ -20099,6 +20114,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Festival of Lights 2024"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Festival of Lights 2024)"
         },
         {
           "Start": {
@@ -60656,7 +60701,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Bug Out! 2020 (Incense Only)"
+          "Comment": "Bug Out! 2020"
         },
         {
           "Start": {
@@ -106149,6 +106194,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Festival of Lights 2024)"
         }
       ]
     },
@@ -109720,6 +109780,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Festival of Lights 2023"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Festival of Lights 2024)"
         }
       ]
     },
