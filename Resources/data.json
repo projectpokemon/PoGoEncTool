@@ -4265,6 +4265,21 @@
           "Start": {
             "Y": 2024,
             "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2024 Part II, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
             "D": 4
           },
           "End": {
@@ -6898,9 +6913,24 @@
             "M": 10,
             "D": 31
           },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Halloween 2023 Part II)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Halloween 2024 Part II)"
         }
       ]
     },
@@ -18722,6 +18752,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (New Year\u0027s 2024, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2024 Part II, No Costume)"
         }
       ]
     },
@@ -40228,12 +40273,12 @@
           },
           "End": {
             "Y": 2024,
-            "M": 10,
-            "D": 28
+            "M": 11,
+            "D": 3
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Halloween 2024 Part I)"
+          "Comment": "Three-Star Raid Boss (Halloween 2024)"
         }
       ]
     },
@@ -78274,6 +78319,11 @@
             "M": 10,
             "D": 31
           },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Halloween 2023 Part II)"
@@ -78307,6 +78357,16 @@
           },
           "Type": 10,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Tour: Sinnoh / Road to Sinnoh)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Halloween 2024 Part II)"
         }
       ]
     },
@@ -81513,6 +81573,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Halloween 2022 Part II, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2024 Part II, No Costume)"
         }
       ]
     },
@@ -102977,17 +103053,6 @@
         },
         {
           "Start": {
-            "Y": 2020,
-            "M": 12,
-            "D": 2
-          },
-          "Shiny": 1,
-          "Type": 2,
-          "LocalizedStart": true,
-          "Comment": "Kalos Celebration Event"
-        },
-        {
-          "Start": {
             "Y": 2021,
             "M": 7,
             "D": 6
@@ -103004,17 +103069,6 @@
         },
         {
           "Start": {
-            "Y": 2021,
-            "M": 7,
-            "D": 6
-          },
-          "Shiny": 1,
-          "Type": 20,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO 5th Anniversary Event"
-        },
-        {
-          "Start": {
             "Y": 2023,
             "M": 8,
             "D": 13
@@ -103025,13 +103079,18 @@
         },
         {
           "Start": {
-            "Y": 2023,
-            "M": 8,
-            "D": 13
+            "Y": 2024,
+            "M": 11,
+            "D": 3
           },
-          "Type": 20,
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "Type": 10,
           "LocalizedStart": true,
-          "Comment": "August 2023 Community Day"
+          "Comment": "One-Star Raid Boss (Halloween 2024 Part II, No Costume)"
         }
       ]
     },
@@ -107933,28 +107992,6 @@
         },
         {
           "Start": {
-            "Y": 2022,
-            "M": 3,
-            "D": 1
-          },
-          "Shiny": 1,
-          "Type": 2,
-          "LocalizedStart": true,
-          "Comment": "Welcome to Alola"
-        },
-        {
-          "Start": {
-            "Y": 2022,
-            "M": 3,
-            "D": 1
-          },
-          "Shiny": 1,
-          "Type": 20,
-          "LocalizedStart": true,
-          "Comment": "Welcome to Alola"
-        },
-        {
-          "Start": {
             "Y": 2023,
             "M": 4,
             "D": 22
@@ -107975,16 +108012,6 @@
             "D": 6
           },
           "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "January 2024 Community Day"
-        },
-        {
-          "Start": {
-            "Y": 2024,
-            "M": 1,
-            "D": 6
-          },
-          "Type": 20,
           "LocalizedStart": true,
           "Comment": "January 2024 Community Day"
         },
@@ -108016,6 +108043,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Tour: Hisui \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2024 Part II, No Costume)"
         }
       ]
     },
