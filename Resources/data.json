@@ -18228,12 +18228,12 @@
           },
           "End": {
             "Y": 2024,
-            "M": 11,
-            "D": 1
+            "M": 10,
+            "D": 28
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "One-Star Power Spot Boss"
+          "Comment": "One-Star Power Spot Boss (Halloween 2024 Part I)"
         }
       ]
     },
@@ -74230,6 +74230,20 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "Type": 60,
+          "Comment": "One-Star Power Spot Boss (Halloween 2024 Part II)"
         }
       ]
     },
@@ -113527,6 +113541,20 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 28
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 3
+          },
+          "Type": 60,
+          "Comment": "One-Star Power Spot Boss (Halloween 2024 Part II)"
         }
       ]
     },
@@ -115199,7 +115227,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Halloween 2024 Part I)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
