@@ -9769,6 +9769,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2024: Better Together"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -24891,7 +24906,7 @@
           "End": {
             "Y": 2024,
             "M": 11,
-            "D": 18
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -25980,6 +25995,21 @@
             "Y": 2024,
             "M": 9,
             "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -27340,7 +27370,7 @@
           "End": {
             "Y": 2024,
             "M": 11,
-            "D": 18
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -27791,7 +27821,7 @@
           "End": {
             "Y": 2024,
             "M": 11,
-            "D": 18
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -36014,6 +36044,21 @@
             "Y": 2024,
             "M": 10,
             "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -49481,6 +49526,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -49770,6 +49830,21 @@
           },
           "Type": 42,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out, Accidental IV Floor Removal)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -80541,7 +80616,7 @@
           "End": {
             "Y": 2024,
             "M": 11,
-            "D": 18
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -83666,7 +83741,24 @@
     {
       "Species": 444,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 445,
@@ -93709,6 +93801,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Max Out"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 11
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -97075,7 +97182,7 @@
           "End": {
             "Y": 2024,
             "M": 11,
-            "D": 18
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -109221,7 +109328,7 @@
           "End": {
             "Y": 2024,
             "M": 11,
-            "D": 18
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -111877,7 +111984,7 @@
           "End": {
             "Y": 2024,
             "M": 11,
-            "D": 18
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
