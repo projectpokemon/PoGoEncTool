@@ -23952,6 +23952,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Max Out Finale)"
         }
       ]
     },
@@ -51315,6 +51330,23 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Safari Zone: Taipei 2022)"
+        }
+      ]
+    },
+    {
+      "Species": 222,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 27
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Max Out Finale"
         }
       ]
     },
@@ -112262,16 +112294,16 @@
           "Start": {
             "Y": 2024,
             "M": 11,
-            "D": 20
+            "D": 18
           },
           "End": {
             "Y": 2024,
             "M": 11,
-            "D": 20
+            "D": 22
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Raid Hour)"
+          "Comment": "Five-Star Raid Boss (Into the Wild)"
         }
       ]
     },
@@ -112869,16 +112901,16 @@
           "Start": {
             "Y": 2024,
             "M": 11,
-            "D": 19
+            "D": 18
           },
           "End": {
             "Y": 2024,
             "M": 11,
-            "D": 19
+            "D": 22
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Raid Hour)"
+          "Comment": "Five-Star Raid Boss (Into the Wild)"
         }
       ]
     },
@@ -114243,6 +114275,22 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Max Out Finale)"
         }
       ]
     },
@@ -114286,6 +114334,22 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Max Out Finale)"
         }
       ]
     },
@@ -114329,6 +114393,22 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Max Out Finale)"
         }
       ]
     },
@@ -114674,6 +114754,11 @@
       "Data": []
     },
     {
+      "Species": 864,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 865,
       "Available": true,
       "Data": [
@@ -114776,6 +114861,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Max Out Finale)"
         }
       ]
     },
@@ -115181,7 +115281,6 @@
             "M": 12,
             "D": 3
           },
-          "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
@@ -115197,7 +115296,6 @@
             "M": 12,
             "D": 3
           },
-          "Shiny": 1,
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out)"
@@ -115283,7 +115381,6 @@
             "M": 12,
             "D": 3
           },
-          "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
@@ -115299,7 +115396,6 @@
             "M": 12,
             "D": 3
           },
-          "Shiny": 1,
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out)"
