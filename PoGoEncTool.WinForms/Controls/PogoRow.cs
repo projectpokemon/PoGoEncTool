@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Windows.Forms;
 using PKHeX.Core;
@@ -18,7 +18,7 @@ public sealed partial class PogoRow : UserControl
         var ds = names.Select((z, i) => new ComboItem(z, (int) values[i]));
         CB_Type.DisplayMember = nameof(ComboItem.Text);
         CB_Type.ValueMember = nameof(ComboItem.Value);
-        CB_Type.DataSource = new BindingSource(ds, null);
+        CB_Type.DataSource = new BindingSource(ds, null!);
     }
 
     public void LoadEntry(PogoEntry entry)

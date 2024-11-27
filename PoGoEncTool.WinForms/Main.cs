@@ -42,7 +42,7 @@ public partial class Main : Form
         var gi = GameInfo.SpeciesDataSource;
         CB_Species.DisplayMember = nameof(ComboItem.Text);
         CB_Species.ValueMember = nameof(ComboItem.Value);
-        CB_Species.DataSource = new BindingSource(gi, null);
+        CB_Species.DataSource = new BindingSource(gi, null!);
         ChangingFields = false;
         CB_Species.SelectedValue = 1;
     }
