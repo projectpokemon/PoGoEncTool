@@ -488,6 +488,36 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 9
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 23
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 30
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 30
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss (Max Monday)"
         }
       ]
     },
@@ -1344,6 +1374,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 9
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 23
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -2176,7 +2221,7 @@
           "End": {
             "Y": 2024,
             "M": 12,
-            "D": 1
+            "D": 2
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -2186,12 +2231,12 @@
           "Start": {
             "Y": 2024,
             "M": 12,
-            "D": 2
+            "D": 9
           },
           "End": {
             "Y": 2024,
             "M": 12,
-            "D": 2
+            "D": 23
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -12553,6 +12598,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -15116,6 +15176,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Legendary Heroes)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "December 2024 Community Day"
         }
       ]
     },
@@ -19889,6 +19964,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -71481,6 +71571,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -75065,6 +75170,21 @@
           },
           "Type": 60,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -76068,6 +76188,66 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 7
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 8
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 14
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 15
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 28
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 29
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -76721,6 +76901,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO City Safari: Jakarta 2024)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -77108,6 +77303,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO City Safari: Jakarta 2024)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -86102,6 +86312,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -87790,6 +88015,21 @@
           },
           "Type": 10,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Sinnoh \u2013 Los Angeles)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -100232,6 +100472,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -104922,6 +105177,21 @@
             "D": 18
           },
           "Shiny": 1,
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 12
+          },
           "Type": 11,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
@@ -115287,6 +115557,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Max Out Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -115346,6 +115631,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Max Out Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -115405,6 +115705,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Max Out Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -115471,6 +115786,21 @@
           },
           "Type": 60,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 9
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 23
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -115531,6 +115861,21 @@
             "Y": 2024,
             "M": 10,
             "D": 1
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 9
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -115950,6 +116295,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Max Out Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
