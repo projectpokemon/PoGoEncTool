@@ -26105,6 +26105,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Just My Cup of Tea)"
         }
       ]
     },
@@ -97365,6 +97380,21 @@
         },
         {
           "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Just My Cup of Tea)"
+        },
+        {
+          "Start": {
             "Y": 2025,
             "M": 1,
             "D": 21
@@ -102207,6 +102237,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Just My Cup of Tea)"
         }
       ]
     },
@@ -115668,6 +115713,84 @@
       ]
     },
     {
+      "Species": 854,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Just My Cup of Tea)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Just My Cup of Tea"
+        }
+      ]
+    },
+    {
+      "Species": 854,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Just My Cup of Tea)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Just My Cup of Tea"
+        }
+      ]
+    },
+    {
+      "Species": 855,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 855,
+      "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 856,
       "Available": true,
       "Data": [
@@ -117115,6 +117238,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Just My Cup of Tea)"
         }
       ]
     },
