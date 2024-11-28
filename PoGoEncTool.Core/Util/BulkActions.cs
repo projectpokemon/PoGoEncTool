@@ -135,10 +135,10 @@ public static class BulkActions
             pkm.Add(entry); // add the raid entry!
 
             // add an accompanying GBL encounter if it has not appeared in research before, or continues to appear in the wild
-            if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM && z.Shiny == enc.Shiny && z.End == null))
+            if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM or PogoType.Research10 or PogoType.Research20 && z.Shiny == enc.Shiny && z.End == null))
             {
                 // some Legendary and Mythical Pokmon are exempt because one of their forms have been in research, and they revert or can be changed upon transfer to HOME
-                if (enc.Species is (int)Giratina or (int)Genesect)
+                if (enc.Species is (int)Giratina or (int)Tornadus or (int)Thundurus or (int)Landorus or (int)Genesect)
                     continue;
                 AddEncounterGBL(list, enc.Species, enc.Form, enc.Shiny, enc.Start);
             }
