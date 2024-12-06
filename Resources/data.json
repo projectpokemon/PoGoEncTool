@@ -4410,6 +4410,21 @@
         },
         {
           "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Holiday 2024 Part 1, No Costume)"
+        },
+        {
+          "Start": {
             "Y": 2025,
             "M": 3,
             "D": 1
@@ -10377,6 +10392,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Winter Holiday 2023: Part 2)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Holiday 2024 Part 1, No Costume)"
         }
       ]
     },
@@ -54053,6 +54083,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Holiday 2024 Part 1, No Costume)"
         }
       ]
     },
@@ -86564,6 +86609,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Winter Holiday 2023: Part 2, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Holiday 2024 Part 1, No Costume)"
         }
       ]
     },
@@ -100622,6 +100683,21 @@
           "Start": {
             "Y": 2024,
             "M": 12,
+            "D": 17
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Holiday 2024 Part 1)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
             "D": 23
           },
           "End": {
@@ -108634,8 +108710,24 @@
             "M": 11,
             "D": 5
           },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 17
+          },
           "Shiny": 1,
           "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Festival of Lights 2021"
+        },
+        {
+          "Start": {
+            "Y": 2021,
+            "M": 11,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 20,
           "LocalizedStart": true,
           "Comment": "Festival of Lights 2021"
         },
@@ -108676,7 +108768,22 @@
             "M": 1,
             "D": 10
           },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 17
+          },
           "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Twinkling Fantasy"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 20,
           "LocalizedStart": true,
           "Comment": "Twinkling Fantasy"
         },
@@ -108694,6 +108801,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 1,
+            "D": 27
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Crackling Voltage"
         },
         {
           "Start": {
@@ -108814,6 +108931,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Festival of Lights 2024)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Holiday 2024 Part 1, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Holiday 2024 Part 1)"
         }
       ]
     },
@@ -113091,6 +113233,31 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Shared Skies / Max Out"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 17
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Holiday 2024 Part 1)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Holiday 2024 Part 1"
         }
       ]
     },
