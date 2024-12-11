@@ -7590,6 +7590,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Holiday 2024 Part 2)"
         }
       ]
     },
@@ -19197,6 +19212,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Halloween 2024 Part II, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Mega Raid Boss (Accidental Release)"
         }
       ]
     },
@@ -32795,6 +32826,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area: Global, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Holiday 2024 Part 2)"
         }
       ]
     },
@@ -71736,6 +71782,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Holiday 2024 Part 2)"
         }
       ]
     },
@@ -90572,7 +90633,24 @@
     {
       "Species": 523,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Holiday 2024 Part 2)"
+        }
+      ]
     },
     {
       "Species": 524,
@@ -94019,6 +94097,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Holiday 2024 Part 2)"
         }
       ]
     },
@@ -99929,6 +100022,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Holiday 2024 Part 2)"
         }
       ]
     },
@@ -105267,6 +105375,22 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Five-Star Raid Boss (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 12
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Five-Star Raid Boss (Accidental Release)"
         }
       ]
     },
@@ -107258,21 +107382,6 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Daily Adventure Incense"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 1,
-            "D": 21
-          },
-          "End": {
-            "Y": 2025,
-            "M": 3,
-            "D": 4
-          },
-          "Type": 42,
-          "LocalizedStart": true,
-          "Comment": "Reward Encounter (GO Battle Week: Dual Destiny)"
         }
       ]
     },
@@ -111442,7 +111551,24 @@
     {
       "Species": 733,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Holiday 2024 Part 2)"
+        }
+      ]
     },
     {
       "Species": 734,
@@ -113347,15 +113473,10 @@
             "M": 6,
             "D": 1
           },
-          "End": {
-            "Y": 2024,
-            "M": 12,
-            "D": 3
-          },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Shared Skies / Max Out"
+          "Comment": "Seasonal Encounter"
         },
         {
           "Start": {
@@ -116347,8 +116468,24 @@
             "M": 8,
             "D": 20
           },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Ultra Unlock 2021: Sword and Shield"
+        },
+        {
+          "Start": {
+            "Y": 2021,
+            "M": 8,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 20,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2021: Sword and Shield"
         },
@@ -116375,7 +116512,22 @@
             "M": 9,
             "D": 3
           },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
           "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "GO All Out"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Type": 20,
           "LocalizedStart": true,
           "Comment": "GO All Out"
         },
@@ -116408,6 +116560,16 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 27
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Holiday 2024 Part 2)"
         }
       ]
     },
@@ -118260,6 +118422,31 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Winter Holiday 2023: Part 1"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Holiday 2024 Part 2)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Holiday 2024 Part 2"
         }
       ]
     },
