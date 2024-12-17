@@ -9952,6 +9952,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 29
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Milan, Mumbai, Santiago, Singapore 2025"
         }
       ]
     },
@@ -42443,6 +42458,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Safari Zone: Incheon 2024"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 29
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Milan, Mumbai, Santiago, Singapore 2025"
         }
       ]
     },
@@ -43566,6 +43596,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Safari Zone: Incheon 2024"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 29
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Milan, Mumbai, Santiago, Singapore 2025"
         }
       ]
     },
@@ -43946,6 +43991,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO City Safari: Mexico City 2023"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 29
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Milan, Mumbai, Santiago, Singapore 2025"
         }
       ]
     },
@@ -45128,6 +45188,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: S\u00E3o Paulo 2024"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 29
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Milan, Mumbai, Santiago, Singapore 2025"
         }
       ]
     },
@@ -112898,6 +112973,52 @@
     },
     {
       "Species": 748,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 749,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 29
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Milan, Mumbai, Santiago, Singapore 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 29
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Milan, Mumbai, Santiago, Singapore 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 29
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO City Safari: Milan, Mumbai, Santiago, Singapore 2025"
+        }
+      ]
+    },
+    {
+      "Species": 750,
       "Available": true,
       "Data": []
     },
