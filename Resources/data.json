@@ -19306,6 +19306,22 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Mega Raid Boss (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 19
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Mega Raid Boss (Accidental Release)"
         }
       ]
     },
@@ -105662,9 +105678,10 @@
           "End": {
             "Y": 2024,
             "M": 12,
-            "D": 16
+            "D": 19
           },
           "Type": 10,
+          "NoEndTolerance": true,
           "Comment": "Five-Star Raid Boss (Accidental Release)"
         }
       ]
