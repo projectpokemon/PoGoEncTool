@@ -2762,6 +2762,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Fashion Week 2023, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Fashion Week 2025, No Costume)"
         }
       ]
     },
@@ -9258,6 +9274,11 @@
             "M": 11,
             "D": 19
           },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 10
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Fashion Week 2023)"
@@ -9291,6 +9312,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Fashion Week 2025)"
         }
       ]
     },
@@ -35570,6 +35601,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO City Safari: Jakarta 2024)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Fashion Week 2025, No Costume)"
         }
       ]
     },
@@ -54992,6 +55039,22 @@
             "Y": 2024,
             "M": 6,
             "D": 12
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Became Fashionable Costume Croagunk)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
           },
           "Shiny": 1,
           "Type": 1,
@@ -82022,6 +82085,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Young \u0026 Wise)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Fashion Week 2025, No Costume)"
         }
       ]
     },
@@ -91251,6 +91329,11 @@
             "M": 10,
             "D": 3
           },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 10
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Fashion Week 2022)"
@@ -91325,6 +91408,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Fashion Week 2025)"
         }
       ]
     },
@@ -96483,7 +96576,32 @@
             "M": 2,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 10
+          },
           "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Minccino Limited Research"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 2,
+            "D": 2
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Minccino Limited Research"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 2,
+            "D": 2
+          },
+          "Type": 20,
           "LocalizedStart": true,
           "Comment": "Minccino Limited Research"
         },
@@ -96515,6 +96633,31 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Fashion Week 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Fashion Week 2025)"
         }
       ]
     },
@@ -108278,6 +108421,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Fashion Week 2023)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Fashion Week 2025)"
         }
       ]
     },
