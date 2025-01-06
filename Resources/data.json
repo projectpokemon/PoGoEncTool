@@ -58159,6 +58159,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss (Ho-Oh Shadow Raid Day)"
         }
       ]
     },
