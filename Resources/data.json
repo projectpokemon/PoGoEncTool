@@ -33883,6 +33883,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 20
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 27
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Power Spot Boss (Legendary Flight)"
         }
       ]
     },
@@ -34400,6 +34415,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 3
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Power Spot Boss (Legendary Flight)"
         }
       ]
     },
@@ -34856,6 +34886,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Power Spot Boss (Legendary Flight)"
         }
       ]
     },
