@@ -106645,6 +106645,36 @@
           "Type": 10,
           "NoEndTolerance": true,
           "Comment": "Five-Star Raid Boss (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 New Taipei City / Los Angeles)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 Global)"
         }
       ]
     },
