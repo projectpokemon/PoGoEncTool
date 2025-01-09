@@ -23874,6 +23874,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Steeled Resolve)"
         }
       ]
     },
@@ -83689,7 +83704,7 @@
           },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "First Debut in the Wild"
+          "Comment": "Mossy Lure Module (First Debut in the Wild)"
         },
         {
           "Start": {
@@ -83699,7 +83714,7 @@
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Sustainability Week 2022"
+          "Comment": "Mossy Lure Module (Sustainability Week 2022)"
         },
         {
           "Start": {
@@ -86405,6 +86420,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Steeled Resolve)"
         }
       ]
     },
@@ -108726,6 +108756,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Steeled Resolve)"
         }
       ]
     },
@@ -110246,6 +110291,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Steeled Resolve)"
         }
       ]
     },
@@ -110805,6 +110865,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Jakarta 2024"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 26
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Steeled Resolve"
         }
       ]
     },
@@ -117907,6 +117983,49 @@
     },
     {
       "Species": 820,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 821,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 26
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Magnetic Lure Module (Steeled Resolve)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Steeled Resolve"
+        }
+      ]
+    },
+    {
+      "Species": 822,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 823,
       "Available": true,
       "Data": []
     },
