@@ -18862,6 +18862,21 @@
         },
         {
           "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 17
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 19
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
             "Y": 2025,
             "M": 1,
             "D": 6
@@ -76266,6 +76281,21 @@
         },
         {
           "Start": {
+            "Y": 2024,
+            "M": 12,
+            "D": 17
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 19
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
             "Y": 2025,
             "M": 1,
             "D": 20
@@ -82415,8 +82445,8 @@
           },
           "End": {
             "Y": 2025,
-            "M": 3,
-            "D": 4
+            "M": 1,
+            "D": 10
           },
           "Type": 1,
           "LocalizedStart": true,
@@ -82466,6 +82496,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Fashion Week 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Dual Destiny"
         }
       ]
     },
@@ -91738,6 +91783,16 @@
         },
         {
           "Start": {
+            "Y": 2021,
+            "M": 9,
+            "D": 29
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Field Research Tasks"
+        },
+        {
+          "Start": {
             "Y": 2022,
             "M": 1,
             "D": 19
@@ -91780,6 +91835,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Fashion Week 2022)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 1,
+            "D": 27
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Crackling Voltage"
         },
         {
           "Start": {
