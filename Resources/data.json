@@ -61533,6 +61533,11 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 15
+          },
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Sierra"
@@ -61934,6 +61939,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Fashion Week 2023, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -76500,11 +76516,6 @@
             "Y": 2024,
             "M": 8,
             "D": 8
-          },
-          "End": {
-            "Y": 2024,
-            "M": 10,
-            "D": 7
           },
           "Shiny": 1,
           "Type": 50,
