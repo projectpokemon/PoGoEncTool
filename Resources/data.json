@@ -118222,10 +118222,37 @@
             "M": 1,
             "D": 21
           },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Dual Destiny)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 21
+          },
           "Shiny": 1,
           "Type": 2,
           "LocalizedStart": true,
           "Comment": "Steeled Resolve"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Steeled Resolve Premium Timed Research"
         }
       ]
     },
