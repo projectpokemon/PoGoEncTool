@@ -90464,12 +90464,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 2,
-            "D": 23
+            "M": 3,
+            "D": 1
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 New Taipei City / Los Angeles)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -90636,12 +90636,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 2,
-            "D": 23
+            "M": 3,
+            "D": 1
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 New Taipei City / Los Angeles)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -90809,12 +90809,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 2,
-            "D": 23
+            "M": 3,
+            "D": 1
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 New Taipei City / Los Angeles)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -103651,27 +103651,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 2,
-            "D": 23
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 New Taipei City / Los Angeles)"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 3,
-            "D": 1
-          },
-          "End": {
-            "Y": 2025,
             "M": 3,
             "D": 2
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 Global)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -105131,6 +105116,31 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Adventures Abound)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Road to Unova: Raid Challenge"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 2)"
         }
       ]
     },
@@ -105316,6 +105326,31 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Adventures Abound)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Road to Unova: Raid Challenge"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 2)"
         }
       ]
     },
@@ -105515,6 +105550,31 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Adventures Abound)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Road to Unova: Raid Challenge"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 2)"
         }
       ]
     },
@@ -105798,6 +105858,31 @@
           },
           "Type": 40,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Timeless Travels)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Road to Unova: Raid Challenge"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 3)"
         }
       ]
     },
@@ -106063,6 +106148,31 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Timeless Travels)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Road to Unova: Raid Challenge"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 3)"
         }
       ]
     },
@@ -106225,8 +106335,8 @@
         {
           "Start": {
             "Y": 2025,
-            "M": 3,
-            "D": 1
+            "M": 2,
+            "D": 27
           },
           "End": {
             "Y": 2025,
@@ -106235,7 +106345,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 Global)"
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -106383,8 +106493,8 @@
         {
           "Start": {
             "Y": 2025,
-            "M": 3,
-            "D": 1
+            "M": 2,
+            "D": 28
           },
           "End": {
             "Y": 2025,
@@ -106393,7 +106503,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 Global)"
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -106692,6 +106802,31 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Timeless Travels)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Road to Unova: Raid Challenge"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 3)"
         }
       ]
     },
@@ -107094,6 +107229,21 @@
           },
           "Type": 201,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 1)"
         }
       ]
     },
@@ -107132,6 +107282,31 @@
           "Type": 11,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 21,
+          "LocalizedStart": true,
+          "Comment": "Road to Unova: Raid Challenge"
         }
       ]
     },
@@ -107170,6 +107345,31 @@
           "Type": 11,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 21,
+          "LocalizedStart": true,
+          "Comment": "Road to Unova: Raid Challenge"
         }
       ]
     },
@@ -107209,6 +107409,31 @@
           "Type": 11,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 21,
+          "LocalizedStart": true,
+          "Comment": "Road to Unova: Raid Challenge"
         }
       ]
     },
@@ -107247,6 +107472,31 @@
           "Type": 11,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Road to Unova, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 21,
+          "LocalizedStart": true,
+          "Comment": "Road to Unova: Raid Challenge"
         }
       ]
     },
