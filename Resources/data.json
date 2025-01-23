@@ -2286,6 +2286,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 10
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -12953,6 +12968,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
@@ -18920,6 +18950,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -20454,6 +20499,21 @@
             "Y": 2025,
             "M": 1,
             "D": 20
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 10
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -33958,7 +34018,7 @@
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "Five-Star Power Spot Boss (Legendary Flight)"
+          "Comment": "Five-Star Power Spot Boss"
         }
       ]
     },
@@ -34490,7 +34550,7 @@
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "Five-Star Power Spot Boss (Legendary Flight)"
+          "Comment": "Five-Star Power Spot Boss"
         }
       ]
     },
@@ -34957,11 +35017,11 @@
           "End": {
             "Y": 2025,
             "M": 2,
-            "D": 9
+            "D": 10
           },
           "Type": 60,
           "LocalizedStart": true,
-          "Comment": "Five-Star Power Spot Boss (Legendary Flight)"
+          "Comment": "Five-Star Power Spot Boss"
         }
       ]
     },
@@ -57813,6 +57873,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 6
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -76386,6 +76461,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -77104,6 +77194,66 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 9
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 23
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 2
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -85818,6 +85968,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -91683,6 +91848,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss (Noxious Swamp)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -95200,6 +95380,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -102444,6 +102639,21 @@
             "Y": 2025,
             "M": 2,
             "D": 3
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -112517,6 +112727,36 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Shared Skies)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Dual Destiny)"
         }
       ]
     },
@@ -112690,6 +112930,36 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Shared Skies)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Dual Destiny)"
         }
       ]
     },
@@ -118191,6 +118461,22 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -118282,6 +118568,22 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -118352,6 +118654,38 @@
             "Y": 2025,
             "M": 1,
             "D": 6
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
           },
           "Shiny": 1,
           "Type": 60,
@@ -118434,6 +118768,21 @@
             "Y": 2024,
             "M": 12,
             "D": 23
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -119043,6 +119392,21 @@
             "Y": 2024,
             "M": 12,
             "D": 9
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 24
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -119847,6 +120211,38 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Elite Raid Boss (Elite Raid: Incarnate Forme Enamorus)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 6
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 6
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Dual Destiny)"
         }
       ]
     },
