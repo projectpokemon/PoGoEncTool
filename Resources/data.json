@@ -18304,7 +18304,7 @@
           "End": {
             "Y": 2025,
             "M": 1,
-            "D": 21
+            "D": 24
           },
           "Shiny": 1,
           "Type": 10,
@@ -64271,7 +64271,7 @@
           "End": {
             "Y": 2025,
             "M": 1,
-            "D": 21
+            "D": 24
           },
           "Shiny": 1,
           "Type": 10,
@@ -65957,6 +65957,22 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 26
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -85256,7 +85272,7 @@
           "End": {
             "Y": 2025,
             "M": 1,
-            "D": 21
+            "D": 24
           },
           "Shiny": 1,
           "Type": 10,
@@ -86451,6 +86467,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 26
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -87515,7 +87547,7 @@
           "End": {
             "Y": 2025,
             "M": 1,
-            "D": 21
+            "D": 24
           },
           "Shiny": 1,
           "Type": 10,
@@ -93269,6 +93301,22 @@
             "Y": 2023,
             "M": 5,
             "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 26
           },
           "Shiny": 1,
           "Type": 10,
@@ -115906,6 +115954,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Legendary Heroes)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
