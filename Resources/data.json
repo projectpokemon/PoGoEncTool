@@ -12972,6 +12972,21 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 6
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 2,
             "D": 3
           },
@@ -20087,6 +20102,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 6
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -55612,6 +55642,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 6
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -65966,8 +66011,8 @@
           },
           "End": {
             "Y": 2025,
-            "M": 1,
-            "D": 26
+            "M": 2,
+            "D": 6
           },
           "Shiny": 1,
           "Type": 10,
@@ -86476,8 +86521,8 @@
           },
           "End": {
             "Y": 2025,
-            "M": 1,
-            "D": 26
+            "M": 2,
+            "D": 6
           },
           "Shiny": 1,
           "Type": 10,
@@ -93315,8 +93360,8 @@
           },
           "End": {
             "Y": 2025,
-            "M": 1,
-            "D": 26
+            "M": 2,
+            "D": 6
           },
           "Shiny": 1,
           "Type": 10,
@@ -95424,6 +95469,21 @@
             "Y": 2024,
             "M": 4,
             "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 6
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -101204,6 +101264,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Dual Destiny"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 6
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -115963,8 +116038,8 @@
           },
           "End": {
             "Y": 2025,
-            "M": 1,
-            "D": 26
+            "M": 2,
+            "D": 6
           },
           "Type": 10,
           "LocalizedStart": true,
