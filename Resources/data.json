@@ -16325,6 +16325,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Beloved Buddies)"
         }
       ]
     },
@@ -18552,6 +18567,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Beloved Buddies)"
         }
       ]
     },
@@ -86528,6 +86558,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Beloved Buddies)"
         }
       ]
     },
@@ -96121,6 +96167,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Beloved Buddies)"
         }
       ]
     },
@@ -110761,6 +110822,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO Fest 2023: New York City (Poison Swamp)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Beloved Buddies)"
         }
       ]
     },
@@ -116298,6 +116374,28 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Young \u0026 Wise)"
+        }
+      ]
+    },
+    {
+      "Species": 781,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 2,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Beloved Buddies)"
         }
       ]
     },
