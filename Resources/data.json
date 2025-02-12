@@ -113588,54 +113588,6 @@
         },
         {
           "Start": {
-            "Y": 2022,
-            "M": 10,
-            "D": 16
-          },
-          "End": {
-            "Y": 2022,
-            "M": 10,
-            "D": 16
-          },
-          "Shiny": 1,
-          "Type": 11,
-          "LocalizedStart": true,
-          "Comment": "Elite Raid Boss (Elite Raid: Hoopa Unbound)"
-        },
-        {
-          "Start": {
-            "Y": 2022,
-            "M": 11,
-            "D": 13
-          },
-          "End": {
-            "Y": 2022,
-            "M": 11,
-            "D": 13
-          },
-          "Shiny": 1,
-          "Type": 11,
-          "LocalizedStart": true,
-          "Comment": "Elite Raid Boss (Elite Raid: Hoopa Unbound)"
-        },
-        {
-          "Start": {
-            "Y": 2022,
-            "M": 12,
-            "D": 10
-          },
-          "End": {
-            "Y": 2022,
-            "M": 12,
-            "D": 10
-          },
-          "Shiny": 1,
-          "Type": 11,
-          "LocalizedStart": true,
-          "Comment": "Elite Raid Boss (Elite Raid: Hoopa Unbound)"
-        },
-        {
-          "Start": {
             "Y": 2023,
             "M": 4,
             "D": 22
@@ -113648,6 +113600,61 @@
           "Shiny": 1,
           "Type": 201,
           "Comment": "Version 0.269 Premier Ball Issue"
+        }
+      ]
+    },
+    {
+      "Species": 720,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 10,
+            "D": 16
+          },
+          "End": {
+            "Y": 2022,
+            "M": 10,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Elite Raid Boss (Elite Raid: Hoopa Unbound)"
+        },
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 11,
+            "D": 13
+          },
+          "End": {
+            "Y": 2022,
+            "M": 11,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Elite Raid Boss (Elite Raid: Hoopa Unbound)"
+        },
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 12,
+            "D": 10
+          },
+          "End": {
+            "Y": 2022,
+            "M": 12,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Elite Raid Boss (Elite Raid: Hoopa Unbound)"
         },
         {
           "Start": {
