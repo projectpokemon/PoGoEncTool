@@ -53,6 +53,10 @@ public enum PogoType : byte
     /// <remarks> Unlike standard Field Research encounters, these are boosted to Level 20. </remarks>
     Research20,
 
+    /// <summary> Mythical Pokémon captured after completing Field Research. </summary>
+    /// <remarks> Unlike standard Field Research encounters, these are boosted to Level 20. </remarks>
+    ResearchM20,
+
     /// <summary> Pokémon captured after completing Field Research. Only Beast Balls can be used. </summary>
     /// <remarks> Unlike standard Field Research encounters, these are boosted to Level 20. </remarks>
     ResearchUB20,
