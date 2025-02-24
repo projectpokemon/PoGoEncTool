@@ -110,6 +110,14 @@ public class PogoEncounterList
                 AddToEvoIfAllowed(entry, dest);
             }
         }
+
+        // Allow Hoopa to change forms between Confined and Unbound before transfer
+        var h0 = Data.Find(z => z is { Species: (int)Species.Hoopa, Form: 0 })!.Data;
+        var h1 = Data.Find(z => z is { Species: (int)Species.Hoopa, Form: 1 })!.Data;
+
+        var tmp = h0.ToList();
+        h0.AddRange(h1);
+        h1.AddRange(tmp);
     }
 
     private static void AddToEvoIfAllowed(PogoPoke entry, PogoPoke dest)

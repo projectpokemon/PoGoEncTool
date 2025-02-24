@@ -12,7 +12,7 @@ public static class EvoUtil
         if (species == (int) Meltan)
         {
             (ushort, byte) melmetal = new((ushort)Melmetal, 0);
-            return new[] { melmetal };
+            return [melmetal];
         }
 
         var sv = Get(PersonalTable.SV,   EntityContext.Gen9,  species, form);
