@@ -107091,6 +107091,21 @@
           "Start": {
             "Y": 2025,
             "M": 2,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Dual Destiny, Released Early)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
             "D": 27
           },
           "End": {
@@ -107259,6 +107274,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 2,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Dual Destiny)"
         }
       ]
     },
