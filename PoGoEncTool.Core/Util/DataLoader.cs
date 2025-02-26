@@ -14,7 +14,7 @@ public static class DataLoader
         settings = GetSettings(settingsPath);
         var args = Environment.GetCommandLineArgs();
 
-        if (args.Length > 1)
+        if (args.Length > 1 && File.Exists(args[1]))
             settings.DataPath = args[1];
 
         var context = ProgramSettingsContext.Default;
