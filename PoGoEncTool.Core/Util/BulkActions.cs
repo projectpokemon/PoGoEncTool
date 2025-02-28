@@ -13,7 +13,8 @@ namespace PoGoEncTool.Core;
 public static class BulkActions
 {
     public static BossType Type { get; set; } = BossType.Normal;
-    public static string Season { get; set; } = "Dual Destiny";
+    public static string Season { get; set; } = "Might and Mastery";
+    public static PogoDate SeasonEnd { get; set; } = new PogoDate(2025, 06, 03);
 
     public static void AddBossEncounters(PogoEncounterList list)
     {
@@ -147,13 +148,12 @@ public static class BulkActions
 
     private static void AddEncounterGBL(PogoEncounterList list, ushort species, byte form, PogoShiny shiny, PogoDate start)
     {
-        var end = new PogoDate(2025, 03, 04);
         var pkm = list.GetDetails(species, form);
         var type = SpeciesCategory.IsMythical(species) ? PogoType.GBLM : PogoType.GBL;
         var entry = new PogoEntry
         {
             Start = start,
-            End = end,
+            End = SeasonEnd,
             Type = type,
             LocalizedStart = true,
             NoEndTolerance = false,
