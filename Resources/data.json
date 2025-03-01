@@ -56648,6 +56648,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 16
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Power Spot Boss (Max Battle Weekend)"
         }
       ]
     },
