@@ -4625,6 +4625,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 Global, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 17
+          },
+          "Gender": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Festival of Colors 2025, No Costume)"
         }
       ]
     },
@@ -31257,6 +31273,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (New Pok\u00E9mon Snap Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Festival of Colors 2025)"
         }
       ]
     },
@@ -31449,6 +31481,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Festival of Colors 2025)"
         }
       ]
     },
@@ -31670,6 +31718,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Festival of Colors 2025)"
         }
       ]
     },
@@ -55878,6 +55942,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Surprise Encounter"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Festival of Colors 2025)"
         }
       ]
     },
@@ -117629,6 +117708,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Festival of Colors 2023"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 13
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Festival of Colors 2025"
         }
       ]
     },
