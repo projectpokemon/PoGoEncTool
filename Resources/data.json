@@ -2998,6 +2998,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Bug Out! 2025)"
         }
       ]
     },
@@ -27819,6 +27834,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Bug Out! 2025)"
         }
       ]
     },
@@ -63765,6 +63795,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Might and Mastery"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Bug Out! 2025)"
         }
       ]
     },
@@ -121197,6 +121242,60 @@
       ]
     },
     {
+      "Species": 850,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Lure Module (Bug Out! 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Bug Out! 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 26
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Bug Out! 2025"
+        }
+      ]
+    },
+    {
+      "Species": 851,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 854,
       "Available": true,
       "Data": [
@@ -122306,6 +122405,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Bug Out! 2025)"
         }
       ]
     },
