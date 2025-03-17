@@ -29588,6 +29588,75 @@
       ]
     },
     {
+      "Species": 128,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Stunning Styles)"
+        }
+      ]
+    },
+    {
+      "Species": 128,
+      "Form": 2,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Stunning Styles, Eastern Hemisphere)"
+        }
+      ]
+    },
+    {
+      "Species": 128,
+      "Form": 3,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Stunning Styles, Western Hemisphere)"
+        }
+      ]
+    },
+    {
       "Species": 129,
       "Available": true,
       "Data": [
@@ -85057,6 +85126,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global (Quartz Terrarium)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Stunning Styles, Western Hemisphere)"
         }
       ]
     },
@@ -85100,6 +85184,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global (Aquamarine Shores)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Stunning Styles, Eastern Hemisphere)"
         }
       ]
     },
@@ -111956,6 +112055,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Stunning Styles)"
         }
       ]
     },
@@ -115212,7 +115326,24 @@
     {
       "Species": 724,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Stunning Styles)"
+        }
+      ]
     },
     {
       "Species": 724,
@@ -115307,6 +115438,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Stunning Styles)"
         }
       ]
     },
@@ -116632,6 +116778,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Stunning Styles)"
         }
       ]
     },
@@ -116728,6 +116889,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Stunning Styles)"
         }
       ]
     },
