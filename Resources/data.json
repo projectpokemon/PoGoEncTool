@@ -94699,6 +94699,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 5
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Raid Day: Mega Audino)"
         }
       ]
     },
