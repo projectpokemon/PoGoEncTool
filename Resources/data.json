@@ -27983,21 +27983,6 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 3,
-            "D": 26
-          },
-          "End": {
-            "Y": 2025,
-            "M": 3,
-            "D": 30
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Bug Out! 2025)"
         }
       ]
     },
@@ -38481,6 +38466,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Bug Out! 2025, Accidental Release)"
         }
       ]
     },
@@ -50074,6 +50074,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2024: Strength of Steel)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Bug Out! 2025)"
         }
       ]
     },
@@ -121983,6 +121998,28 @@
     },
     {
       "Species": 828,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 829,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Spring into Spring 2025"
+        }
+      ]
+    },
+    {
+      "Species": 830,
       "Available": true,
       "Data": []
     },
