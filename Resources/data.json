@@ -54117,6 +54117,31 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Dual Destiny (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 29
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Sweet Discoveries"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 24
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Sweet Discoveries"
         }
       ]
     },
@@ -122661,6 +122686,49 @@
     },
     {
       "Species": 832,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 840,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 29
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Apple Encounter (Sweet Discoveries)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Sweet Discoveries Premium Timed Research"
+        }
+      ]
+    },
+    {
+      "Species": 841,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 842,
       "Available": true,
       "Data": []
     },
