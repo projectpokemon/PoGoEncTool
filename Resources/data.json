@@ -53693,6 +53693,21 @@
           "Type": 2,
           "LocalizedStart": true,
           "Comment": "Max Out Finale"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 8
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: April"
         }
       ]
     },
@@ -115756,6 +115771,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 8
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "GO Pass: April"
         }
       ]
     },
