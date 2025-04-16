@@ -56623,10 +56623,15 @@
             "M": 1,
             "D": 19
           },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 16
+          },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Surprise Encounter"
+          "Comment": "Surprise Encounter (Became Pok\u00E9mon Horizons: The Series Celebration Event 2025 Wild Encounters)"
         },
         {
           "Start": {
@@ -56642,6 +56647,17 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Surprise Encounter (Festival of Colors 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter"
         }
       ]
     },
