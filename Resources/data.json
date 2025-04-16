@@ -122522,6 +122522,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Steeled Resolve Premium Timed Research"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Growing Up"
         }
       ]
     },
