@@ -26704,6 +26704,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Raid Day: Mega Kangaskhan)"
         }
       ]
     },
@@ -116346,7 +116361,6 @@
             "M": 4,
             "D": 7
           },
-          "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Stunning Styles)"
@@ -117912,21 +117926,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 4,
-            "D": 3
-          },
-          "End": {
-            "Y": 2025,
-            "M": 4,
-            "D": 7
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Stunning Styles)"
         },
         {
           "Start": {
