@@ -110077,6 +110077,15 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 16
+          },
+          "Type": 27,
+          "Comment": "Encounter: Reshiram"
         }
       ]
     },
@@ -110250,6 +110259,15 @@
           "Type": 40,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Dual Destiny)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 16
+          },
+          "Type": 27,
+          "Comment": "Encounter: Zekrom"
         }
       ]
     },
@@ -110841,6 +110859,15 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 16
+          },
+          "Type": 27,
+          "Comment": "Encounter: Kyurem"
         }
       ]
     },
