@@ -6392,6 +6392,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Crown Clash, No Costume)"
         }
       ]
     },
@@ -6891,6 +6907,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Crown Clash, No Costume)"
         }
       ]
     },
@@ -52516,6 +52548,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Crown Clash)"
         }
       ]
     },
@@ -104544,6 +104591,21 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 5,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Crown Clash)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 6,
             "D": 6
           },
@@ -107694,6 +107756,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Daily Adventure Incense"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Crown Clash)"
         }
       ]
     },
@@ -126415,6 +126492,11 @@
     },
     {
       "Species": 980,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 983,
       "Available": true,
       "Data": []
     },
