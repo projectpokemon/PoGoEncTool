@@ -4764,6 +4764,21 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 3,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon Fiesta Mumbai, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 4,
             "D": 22
           },
@@ -4775,6 +4790,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 4,
+            "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 4,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon Fiesta Ahmedabad, No Costume)"
         }
       ]
     },
