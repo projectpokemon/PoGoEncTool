@@ -92935,6 +92935,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour 2024: It\u0027s About Time (and Space)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 17
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss (Regigigas Shadow Raid Day)"
         }
       ]
     },
@@ -124748,26 +124763,10 @@
             "M": 4,
             "D": 24
           },
-          "End": {
-            "Y": 2025,
-            "M": 4,
-            "D": 29
-          },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Apple Encounter (Sweet Discoveries)"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 4,
-            "D": 24
-          },
-          "Shiny": 1,
-          "Type": 20,
-          "LocalizedStart": true,
-          "Comment": "Sweet Discoveries Premium Timed Research"
         }
       ]
     },
