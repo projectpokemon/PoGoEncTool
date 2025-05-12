@@ -54706,12 +54706,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 5,
-            "D": 8
+            "M": 6,
+            "D": 5
           },
           "Type": 20,
           "LocalizedStart": true,
-          "Comment": "GO Pass Deluxe: April"
+          "Comment": "GO Pass Deluxe: April / May"
         }
       ]
     },
@@ -118000,6 +118000,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 5
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "GO Pass: May"
         }
       ]
     },
