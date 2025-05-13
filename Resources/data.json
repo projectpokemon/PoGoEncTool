@@ -18739,6 +18739,11 @@
             "M": 1,
             "D": 15
           },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 14
+          },
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
@@ -23217,6 +23222,11 @@
             "M": 1,
             "D": 15
           },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 14
+          },
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Cliff"
@@ -27088,10 +27098,25 @@
             "M": 1,
             "D": 15
           },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 13
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 14
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Arlo"
         }
       ]
     },
@@ -72238,6 +72263,16 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Sierra"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 14
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Sierra"
         }
       ]
     },
@@ -88980,6 +89015,11 @@
             "M": 6,
             "D": 21
           },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 13
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -88999,6 +89039,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 14
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Cliff"
         }
       ]
     },
@@ -89937,6 +89987,11 @@
             "Y": 2025,
             "M": 1,
             "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 14
           },
           "Type": 50,
           "LocalizedStart": true,
