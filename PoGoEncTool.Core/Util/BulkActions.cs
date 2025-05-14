@@ -40,7 +40,8 @@ public static class BulkActions
                 _ => PogoType.Raid,
             };
 
-            var stars = GetRaidBossTier(enc.Tier);
+            var tier = Type is BossType.PowerSpot ? GetPowerSpotTier(enc.Species) : enc.Tier;
+            var stars = GetRaidBossTier(tier);
             var eventName = "";
             var descriptor = eventName is "" ? "" : $" ({eventName})";
             var comment = $"{stars}-Star {boss}{descriptor}";
@@ -82,7 +83,6 @@ public static class BulkActions
         3 => "Three",
         4 => "Four",
         5 => "Five",
-        6 => "Six",
         _ => string.Empty,
     };
 
@@ -206,6 +206,38 @@ public static class BulkActions
             pkm.Add(entry);
         }
     }
+
+    private static bool IsSpecialPokemon(ushort species) => SpeciesCategory.IsLegendary(species) || SpeciesCategory.IsSubLegendary(species) || SpeciesCategory.IsMythical(species) || SpeciesCategory.IsUltraBeast(species) || SpeciesCategory.IsParadox(species);
+
+    private static byte GetPowerSpotTier(ushort species) => (Species)species switch
+    {
+        _ when IsSpecialPokemon(species) => 5,
+
+        Bulbasaur => 1,
+        Charmander => 1,
+        Squirtle => 1,
+        Caterpie => 1,
+        Machop => 2,
+        Gastly => 1,
+        Krabby => 1,
+        Chansey => 3,
+        Sableye => 3,
+        Beldum => 3,
+        Pidove => 1,
+        Drilbur => 1,
+        Darumaka => 2,
+        Cryogonal => 3,
+        Passimian => 3,
+        Grookey => 1,
+        Scorbunny => 1,
+        Sobble => 1,
+        Skwovet => 1,
+        Rookidee => 1,
+        Wooloo => 1,
+        Toxtricity => 3,
+        Falinks => 3,
+        _ => throw new System.Exception("Species has not been released as a Dynamax Pokémon yet."),
+    };
 
     public enum BossType : byte
     {
