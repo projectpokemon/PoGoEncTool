@@ -211,8 +211,6 @@ public static class BulkActions
 
     private static byte GetPowerSpotTier(ushort species) => (Species)species switch
     {
-        _ when IsSpecialPokemon(species) => 5,
-
         Bulbasaur => 1,
         Charmander => 1,
         Squirtle => 1,
@@ -236,6 +234,7 @@ public static class BulkActions
         Wooloo => 1,
         Toxtricity => 3,
         Falinks => 3,
+        _ when IsSpecialPokemon(species) => 5,
         _ => throw new System.Exception("Species has not been released as a Dynamax Pokémon yet."),
     };
 
