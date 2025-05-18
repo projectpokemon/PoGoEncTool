@@ -107,7 +107,7 @@ public partial class Main : Form
 
     private void LoadSpecies(in ushort species)
     {
-        var forms = FormConverter.GetFormList(species, GameInfo.Strings.Types, GameInfo.Strings.forms, GameInfo.GenderSymbolASCII, PKX.Context);
+        var forms = FormConverter.GetFormList(species, GameInfo.Strings.Types, GameInfo.Strings.forms, GameInfo.GenderSymbolASCII, Latest.Context);
         var prefer = species switch
         {
           //(ushort)Species.Minior => 7,
@@ -338,7 +338,7 @@ public partial class Main : Form
 
         for (int i = 1; i < species.Count; i++)
         {
-            var forms = FormConverter.GetFormList((ushort)i, GameInfo.Strings.Types, GameInfo.Strings.forms, GameInfo.GenderSymbolASCII, PKX.Context);
+            var forms = FormConverter.GetFormList((ushort)i, GameInfo.Strings.Types, GameInfo.Strings.forms, GameInfo.GenderSymbolASCII, Latest.Context);
             for (int f = 0; f <= forms.Length; f++)
             {
                 var current = Entries.GetDetails((ushort)i, (byte)f);
