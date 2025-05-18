@@ -22007,6 +22007,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "What\u0027s That Pok\u00E9 Ball?"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -104801,6 +104816,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -115660,6 +115691,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -119429,6 +119475,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Into the Wild)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -119780,7 +119842,24 @@
     {
       "Species": 743,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 744,
@@ -121828,6 +121907,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2024: Strength of Steel"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -127299,6 +127393,22 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Fidough Fetch (Global Challenge Reward)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 5,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
