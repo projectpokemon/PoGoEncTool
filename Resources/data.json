@@ -74718,6 +74718,11 @@
             "M": 8,
             "D": 8
           },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 8
+          },
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Cliff"
@@ -74878,9 +74883,24 @@
             "M": 8,
             "D": 8
           },
+          "End": {
+            "Y": 2024,
+            "M": 10,
+            "D": 8
+          },
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
