@@ -94916,6 +94916,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Final Strike: GO Battle Week)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 21
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Final Strike: GO Battle Week"
         }
       ]
     },
@@ -126561,6 +126571,34 @@
       ]
     },
     {
+      "Species": 891,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 3,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Might and Mastery"
+        }
+      ]
+    },
+    {
+      "Species": 892,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 892,
+      "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 893,
       "Available": true,
       "Data": [
@@ -127865,6 +127903,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Final Strike: GO Battle Week)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 21
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Final Strike: GO Battle Week"
         },
         {
           "Start": {
