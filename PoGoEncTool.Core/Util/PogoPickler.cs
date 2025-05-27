@@ -20,9 +20,10 @@ public static class PogoPickler
 
     private static ReadOnlyMemory<byte>[] GetEntries(IReadOnlyList<PogoPoke> entries)
     {
-        var result = new ReadOnlyMemory<byte>[entries.Count];
-        for (int i = 0; i < entries.Count; i++)
-            result[i] = GetBinary(entries[i]);
+        var valid = entries.Where(z => GetCanTransfer(z.Species, z.Form)).ToArray();
+        var result = new ReadOnlyMemory<byte>[valid.Length];
+        for (int i = 0; i < result.Length; i++)
+            result[i] = GetBinary(valid[i]);
         return result;
     }
 
@@ -138,4 +139,13 @@ public static class PogoPickler
 
         return result;
     }
+
+    private static bool GetCanTransfer(ushort species, byte form) => (Species)species switch
+    {
+        Spinda => false,
+        Dialga when form is 1 => false,
+        Palkia when form is 1 => false,
+        Zygarde => false,
+        _ => true,
+    };
 }

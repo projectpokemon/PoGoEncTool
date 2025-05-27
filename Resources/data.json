@@ -72507,6 +72507,47 @@
       ]
     },
     {
+      "Species": 327,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 8,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Field Research Tasks"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 7,
+            "D": 1
+          },
+          "Type": 20,
+          "Comment": "Field Research Tasks"
+        },
+        {
+          "Start": {
+            "Y": 2021,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2021,
+            "M": 1,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Three-Star Raid Boss (Hoenn Celebration Event)"
+        }
+      ]
+    },
+    {
       "Species": 328,
       "Available": true,
       "Data": [
@@ -93198,6 +93239,72 @@
       ]
     },
     {
+      "Species": 483,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 18
+          },
+          "Type": 10,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Hisui \u2013 Los Angeles)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 24
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Hisui \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out)"
+        }
+      ]
+    },
+    {
       "Species": 484,
       "Available": true,
       "Data": [
@@ -93382,6 +93489,72 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
+        }
+      ]
+    },
+    {
+      "Species": 484,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 18
+          },
+          "Type": 10,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Hisui \u2013 Los Angeles)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 2,
+            "D": 24
+          },
+          "End": {
+            "Y": 2024,
+            "M": 2,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Hisui \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 18
+          },
+          "End": {
+            "Y": 2024,
+            "M": 12,
+            "D": 3
+          },
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out)"
         }
       ]
     },
@@ -118958,6 +119131,29 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "GO Pass: May"
+        }
+      ]
+    },
+    {
+      "Species": 718,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 718,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 7,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "From A to Zygarde"
         }
       ]
     },
