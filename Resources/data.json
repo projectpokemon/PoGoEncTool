@@ -2793,6 +2793,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -3153,6 +3168,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Bug Out! 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -13490,6 +13520,21 @@
             "Y": 2025,
             "M": 5,
             "D": 12
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 15
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -26765,6 +26810,21 @@
             "Y": 2025,
             "M": 5,
             "D": 19
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 2
           },
           "Type": 60,
           "LocalizedStart": true,
@@ -51940,6 +52000,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 6
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
@@ -69274,6 +69349,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -70311,6 +70401,21 @@
             "Y": 2024,
             "M": 11,
             "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 23
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -73474,7 +73579,7 @@
           "End": {
             "Y": 2025,
             "M": 6,
-            "D": 3
+            "D": 5
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -80934,6 +81039,51 @@
           "Start": {
             "Y": 2025,
             "M": 6,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 8
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 15
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 22
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
             "D": 23
           },
           "End": {
@@ -80959,6 +81109,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Ancients Recovered, Day 5)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -82473,6 +82638,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Primal Raid Boss (Pok\u00E9mon GO Wild Area: Global)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -82741,6 +82921,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Primal Raid Boss (Pok\u00E9mon GO Wild Area: Global)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 5
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -91799,6 +91994,21 @@
             "Y": 2025,
             "M": 1,
             "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 5
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -110329,6 +110539,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Road to Unova, Day 2)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -123008,9 +123233,9 @@
             "M": 6,
             "D": 3
           },
-          "Type": 10,
+          "Type": 40,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss"
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Might and Mastery)"
         },
         {
           "Start": {
@@ -123021,11 +123246,11 @@
           "End": {
             "Y": 2025,
             "M": 6,
-            "D": 3
+            "D": 5
           },
-          "Type": 40,
+          "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Reward Encounter (Pok\u00E9mon GO: Might and Mastery)"
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -126093,6 +126318,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Psychic Spectacular 2024"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
