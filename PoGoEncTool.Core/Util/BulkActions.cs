@@ -13,8 +13,8 @@ namespace PoGoEncTool.Core;
 public static class BulkActions
 {
     public static BossType Type { get; set; } = BossType.Normal;
-    public static string Season { get; set; } = "Might and Mastery";
-    public static PogoDate SeasonEnd { get; set; } = new PogoDate(2025, 06, 03);
+    public static string Season { get; set; } = "Delightful Days";
+    public static PogoDate SeasonEnd { get; set; } = new PogoDate(2025, 09, 02);
 
     public static void AddBossEncounters(PogoEncounterList list)
     {

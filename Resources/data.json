@@ -5476,6 +5476,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Powerful Potential)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Delightful Days)"
         }
       ]
     },
@@ -126410,6 +126425,22 @@
           "Type": 42,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Week: Might and Mastery)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Delightful Days)"
         }
       ]
     },
