@@ -61,6 +61,10 @@ public enum PogoType : byte
     /// <remarks> Unlike standard Field Research encounters, these are boosted to Level 20. </remarks>
     ResearchUB20,
 
+    /// <summary> Gigantamax Pokémon captured after completing Field Research. </summary>
+    /// <remarks> These Pokémon can not be transferred to Pokémon HOME. </remarks>
+    ResearchG,
+
     /// <summary> Pokémon captured from the GO Battle League. </summary>
     GBL = 40,
     /// <summary> Mythical Pokémon captured from the GO Battle League. </summary>
@@ -76,6 +80,9 @@ public enum PogoType : byte
     MaxBattle = 60,
     /// <summary> Mythical Pokémon captured after completing Max Battles. </summary>
     MaxBattleM,
+    /// <summary> Gigantamax Pokémon captured after completing Max Battles. </summary>
+    /// <remarks> These Pokémon can not be transferred to Pokémon HOME. </remarks>
+    MaxBattleG,
 
     /// <summary> Pokémon captured from Special Research or Timed Research with a Premier Ball. </summary>
     /// <remarks>
@@ -92,4 +99,5 @@ public enum PogoType : byte
 public static class PogoTypeExtensions
 {
     public static bool IsShadow(this PogoType t) => t is PogoType.Shadow or PogoType.RaidS;
+    public static bool IsGigantamax(this PogoType t) => t is PogoType.MaxBattleG or PogoType.ResearchG;
 }
