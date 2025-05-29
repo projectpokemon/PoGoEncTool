@@ -72762,9 +72762,53 @@
             "M": 5,
             "D": 29
           },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 1
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2025: Osaka"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 29
+          },
           "Type": 2,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Osaka"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 6
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 8
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO Fest 2025: Jersey City"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 15
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Fest 2025: Paris"
         }
       ]
     },
