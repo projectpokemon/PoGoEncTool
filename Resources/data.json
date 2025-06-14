@@ -39111,6 +39111,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -39827,7 +39843,7 @@
           "End": {
             "Y": 2025,
             "M": 6,
-            "D": 14
+            "D": 23
           },
           "Shiny": 1,
           "Type": 10,
@@ -70409,6 +70425,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -71910,6 +71941,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -72249,6 +72296,21 @@
             "Y": 2024,
             "M": 8,
             "D": 12
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 23
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -75765,6 +75827,21 @@
             "Y": 2025,
             "M": 1,
             "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 23
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -97151,6 +97228,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Fashion Week 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 6,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 6,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
