@@ -235,7 +235,7 @@ public static class BulkActions
         Rookidee => 1,
         Wooloo => 1,
         Toxtricity => 3,
-        Hatenna => 2,
+        Hatenna => 1,
         Falinks => 3,
         _ when IsSpecialPokemon(species) => 5,
         _ => throw new System.Exception("Species has not been released as a Dynamax Pokémon yet."),
