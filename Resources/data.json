@@ -4990,6 +4990,96 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Fest 2025: Global, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 19
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Road Trip: Manchester / London, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 26
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 26
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Road Trip: Paris, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Road Trip: Valencia, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Road Trip: Berlin, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Road Trip: Den Haag, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 20
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Road Trip: Cologne, No Costume)"
         }
       ]
     },
@@ -129898,6 +129988,17 @@
           "Type": 3,
           "LocalizedStart": true,
           "Comment": "Taken Treasures"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Road Trip: Manchester / London"
         }
       ]
     },
