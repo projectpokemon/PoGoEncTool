@@ -65,6 +65,10 @@ public enum PogoType : byte
     /// <remarks> These Pokémon can not be transferred to Pokémon HOME. </remarks>
     ResearchG,
 
+    /// <summary> Pokémon captured after completing Field Research. </summary>
+    /// <remarks> Unlike standard Field Research encounters, these have a range of possible Levels, ranging from 1 to 15 or 20. </remarks>
+    ResearchR,
+
     /// <summary> Pokémon captured from the GO Battle League. </summary>
     GBL = 40,
     /// <summary> Mythical Pokémon captured from the GO Battle League. </summary>
