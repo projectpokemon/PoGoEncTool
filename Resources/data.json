@@ -126655,6 +126655,7 @@
             "M": 6,
             "D": 2
           },
+          "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -126837,6 +126838,7 @@
             "M": 6,
             "D": 2
           },
+          "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -126987,6 +126989,7 @@
             "M": 6,
             "D": 2
           },
+          "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
@@ -127211,11 +127214,6 @@
             "M": 5,
             "D": 26
           },
-          "End": {
-            "Y": 2025,
-            "M": 6,
-            "D": 2
-          },
           "Shiny": 1,
           "Type": 60,
           "LocalizedStart": true,
@@ -127224,12 +127222,12 @@
         {
           "Start": {
             "Y": 2025,
-            "M": 6,
-            "D": 2
+            "M": 8,
+            "D": 30
           },
-          "Type": 60,
+          "Type": 1,
           "LocalizedStart": true,
-          "Comment": "One-Star Power Spot Boss"
+          "Comment": "August 2025 Community Day"
         }
       ]
     },
