@@ -139,8 +139,8 @@ public static class BulkActions
             // add an accompanying GBL encounter if it has not appeared in research before, or continues to appear in the wild
             if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM or PogoType.Research10 or PogoType.Research20 && z.Shiny == enc.Shiny && z.End == null))
             {
-                // some Legendary and Mythical Pokémon are exempt because one of their forms have been in research, and they revert or can be changed upon transfer to HOME
-                if (enc.Species is (int)Giratina)
+                // some Legendary and Mythical Pokémon are exempt because one of their forms or pre-evolutions have been in research, and they revert or can be changed upon transfer to HOME
+                if (enc.Species is (int)Giratina or (int)Cosmoem or (int)Solgaleo or (int)Lunala)
                     continue;
                 AddEncounterGBL(list, enc.Species, enc.Form, enc.Shiny, enc.Start);
             }
@@ -220,8 +220,10 @@ public static class BulkActions
         Gastly => 1,
         Krabby => 1,
         Chansey => 3,
+        Kabuto => 2,
         Shuckle => 2,
         Sableye => 3,
+        Wailmer => 3,
         Beldum => 3,
         Pidove => 1,
         Drilbur => 1,
