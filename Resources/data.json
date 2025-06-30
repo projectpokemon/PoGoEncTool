@@ -12353,6 +12353,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
         }
       ]
     },
@@ -49181,6 +49196,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Unova \u2013 Global"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
         }
       ]
     },
@@ -54296,6 +54326,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Might and Mastery"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
         }
       ]
     },
@@ -103724,7 +103769,47 @@
       ]
     },
     {
+      "Species": 570,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Ultra Unlock 2025: Hisui Celebration"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Ultra Unlock 2025: Hisui Celebration"
+        }
+      ]
+    },
+    {
       "Species": 571,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 571,
+      "Form": 1,
       "Available": true,
       "Data": []
     },
@@ -111558,6 +111643,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
         }
       ]
     },
@@ -120182,6 +120282,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
         }
       ]
     },
@@ -129677,6 +129792,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Young \u0026 Wise)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
         }
       ]
     },
@@ -129812,6 +129942,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Bug Out! 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
         }
       ]
     },
