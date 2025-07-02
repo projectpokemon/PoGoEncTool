@@ -49196,6 +49196,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
         }
       ]
     },
@@ -56934,6 +56949,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
         }
       ]
     },
@@ -90953,6 +90983,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Cliff"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
         }
       ]
     },
@@ -107879,6 +107924,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
         }
       ]
     },
@@ -111078,7 +111138,24 @@
     {
       "Species": 625,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
+        }
+      ]
     },
     {
       "Species": 626,
@@ -112008,6 +112085,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
         }
       ]
     },
@@ -117641,6 +117733,70 @@
       "Data": []
     },
     {
+      "Species": 679,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 40,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Delightful Days)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 42,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Weekend: Delightful Days)"
+        }
+      ]
+    },
+    {
+      "Species": 680,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 681,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 682,
       "Available": true,
       "Data": [
@@ -118232,7 +118388,24 @@
     {
       "Species": 691,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
+        }
+      ]
     },
     {
       "Species": 692,
@@ -124289,6 +124462,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Paris (Makeup Event)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
         }
       ]
     },
@@ -127871,12 +128059,22 @@
         {
           "Start": {
             "Y": 2025,
-            "M": 8,
-            "D": 30
+            "M": 7,
+            "D": 22
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "August 2025 Community Day"
+          "Comment": "Ultra Unlock 2025: Steel and Scales"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 22
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
