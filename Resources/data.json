@@ -19953,6 +19953,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Beloved Buddies)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 20
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Water Festival 2025)"
         }
       ]
     },
@@ -22137,6 +22152,22 @@
           "Type": 62,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Gigantamax Kingler Max Battle Day)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Water Festival 2025)"
         }
       ]
     },
@@ -31815,6 +31846,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 20
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Water Festival 2025)"
         }
       ]
     },
@@ -32523,6 +32569,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Final Strike: GO Battle Week)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 20
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 20
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Water Festival 2025, No Costume)"
         }
       ]
     },
@@ -42280,6 +42341,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Water Festival 2025)"
         }
       ]
     },
@@ -104735,6 +104812,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO Fest 2024: New York City (Poolside Cabana)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 20
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Water Festival 2025)"
         }
       ]
     },
@@ -131339,6 +131431,74 @@
       "Species": 975,
       "Available": true,
       "Data": []
+    },
+    {
+      "Species": 978,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Water Festival 2025)"
+        }
+      ]
+    },
+    {
+      "Species": 978,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Water Festival 2025)"
+        }
+      ]
+    },
+    {
+      "Species": 978,
+      "Form": 2,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 7,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Water Festival 2025)"
+        }
+      ]
     },
     {
       "Species": 979,
