@@ -5181,6 +5181,21 @@
           "Start": {
             "Y": 2025,
             "M": 8,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Soak Up Summer Water Festival 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
             "D": 5
           },
           "End": {
@@ -32599,6 +32614,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Water Festival 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Soak Up Summer Water Festival 2025, No Costume)"
         }
       ]
     },
@@ -104079,7 +104109,7 @@
           "Shiny": 1,
           "Type": 20,
           "LocalizedStart": true,
-          "Comment": "Ultra Unlock 2025: Hisui Celebration"
+          "Comment": "Hisui Celebration Collection Challenges"
         }
       ]
     },
@@ -105313,6 +105343,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Delightful Days (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Soak Up Summer Water Festival 2025)"
         }
       ]
     },
