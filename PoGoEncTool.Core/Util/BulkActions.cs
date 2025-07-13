@@ -223,7 +223,7 @@ public static class BulkActions
         Kabuto => 2,
         Shuckle => 2,
         Sableye => 3,
-        Wailmer => 3,
+        Wailmer => 2,
         Beldum => 3,
         Pidove => 1,
         Drilbur => 1,
