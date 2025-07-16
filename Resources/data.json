@@ -129409,6 +129409,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Bug Out! 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 29
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Adventure Week 2025"
         }
       ]
     },
@@ -131540,6 +131556,28 @@
       "Data": []
     },
     {
+      "Species": 948,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 29
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Adventure Week 2025"
+        }
+      ]
+    },
+    {
+      "Species": 949,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 957,
       "Available": true,
       "Data": [
@@ -131590,6 +131628,16 @@
           "Shiny": 1,
           "Type": 1,
           "Comment": "Rediscover Kanto"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 29
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Adventure Week 2025"
         }
       ]
     },
