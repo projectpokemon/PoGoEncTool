@@ -3138,6 +3138,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Fashion Week 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 3
+          },
+          "Type": 62,
+          "LocalizedStart": true,
+          "Comment": "Six-Star Power Spot Boss (Gigantamax Butterfree Max Battle Day)"
         }
       ]
     },
