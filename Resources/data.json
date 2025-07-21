@@ -3602,6 +3602,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -17581,6 +17596,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Beloved Buddies)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -34038,6 +34068,16 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 4
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
@@ -41898,6 +41938,21 @@
             "Y": 2024,
             "M": 11,
             "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -62194,6 +62249,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -62430,6 +62500,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss (Ho-Oh Shadow Raid Day)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -81110,6 +81195,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -82434,6 +82534,81 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 3
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 9
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 24
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -104417,6 +104592,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -127641,6 +127826,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Necrozma Fusion Raid Day, Released Early)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
