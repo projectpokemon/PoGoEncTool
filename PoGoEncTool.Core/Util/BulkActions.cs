@@ -12,7 +12,7 @@ namespace PoGoEncTool.Core;
 #if DEBUG
 public static class BulkActions
 {
-    public static BossType Type { get; set; } = BossType.Normal;
+    public static BossType Type { get; set; } = BossType.Raid;
     public static string Season { get; set; } = "Delightful Days";
     public static PogoDate SeasonEnd { get; set; } = new PogoDate(2025, 09, 02);
 
@@ -29,18 +29,26 @@ public static class BulkActions
             var boss = Type switch
             {
                 BossType.Shadow => "Shadow Raid Boss",
-                BossType.PowerSpot => "Power Spot Boss",
+                BossType.Dynamax or BossType.Gigantamax => "Power Spot Boss",
                 _ => "Raid Boss"
             };
 
             var type = Type switch
             {
                 BossType.Shadow => PogoType.RaidS,
-                BossType.PowerSpot => PogoType.MaxBattle,
+                BossType.Dynamax => PogoType.MaxBattle,
+                BossType.Gigantamax => PogoType.MaxBattleG,
                 _ => PogoType.Raid,
             };
 
-            var tier = Type is BossType.PowerSpot ? GetPowerSpotTier(enc.Species) : enc.Tier;
+            var tier = Type switch
+            {
+                BossType.Dynamax => GetPowerSpotTier(enc.Species),
+                BossType.Gigantamax => (byte)6,
+                _ => enc.Tier,
+
+            };
+
             var stars = GetRaidBossTier(tier);
             var eventName = "";
             var descriptor = eventName is "" ? "" : $" ({eventName})";
@@ -247,9 +255,10 @@ public static class BulkActions
 
     public enum BossType : byte
     {
-        Normal = 0,
+        Raid = 0,
         Shadow = 1,
-        PowerSpot = 2,
+        Dynamax = 2,
+        Gigantamax = 3,
     }
 }
 #endif
