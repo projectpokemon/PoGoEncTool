@@ -9953,6 +9953,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -24152,6 +24168,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -66945,6 +66976,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2022: Global (Rainforest)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -97468,7 +97514,24 @@
     {
       "Species": 497,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 498,
@@ -98838,6 +98901,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -107124,6 +107202,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Sizeable Surprises)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -130182,6 +130275,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Bug Out! 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 7,
+            "D": 28
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         },
         {
           "Start": {
