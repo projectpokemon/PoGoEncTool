@@ -130841,6 +130841,39 @@
       ]
     },
     {
+      "Species": 872,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 6
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Cozy Companions"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 6
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Cozy Companions"
+        }
+      ]
+    },
+    {
+      "Species": 873,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 874,
       "Available": true,
       "Data": [
@@ -132331,6 +132364,16 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2024: Better Together"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 6
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Cozy Companions"
         }
       ]
     },
