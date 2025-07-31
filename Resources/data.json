@@ -28296,6 +28296,11 @@
             "M": 5,
             "D": 14
           },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
@@ -32821,6 +32826,11 @@
             "Y": 2025,
             "M": 5,
             "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -39415,6 +39425,11 @@
             "M": 5,
             "D": 14
           },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
@@ -43411,6 +43426,16 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -44804,6 +44829,11 @@
             "Y": 2025,
             "M": 5,
             "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -51378,6 +51408,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -55421,6 +55462,16 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -56689,6 +56740,11 @@
             "Y": 2025,
             "M": 5,
             "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
           },
           "Shiny": 1,
           "Type": 13,
@@ -65307,6 +65363,16 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -74433,6 +74499,11 @@
             "M": 5,
             "D": 14
           },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
@@ -74848,6 +74919,11 @@
             "Y": 2025,
             "M": 5,
             "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
           },
           "Type": 50,
           "LocalizedStart": true,
@@ -79462,6 +79538,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Raid Day: Mega Absol)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -85110,6 +85196,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss (Shadow Raid Weekend: Kyogre)"
         }
       ]
     },
@@ -92149,6 +92250,11 @@
             "M": 5,
             "D": 14
           },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Cliff"
@@ -95708,6 +95814,11 @@
             "M": 5,
             "D": 14
           },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -96699,6 +96810,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Boss Giovanni"
         }
       ]
     },
@@ -102035,6 +102157,17 @@
           "Type": 10,
           "NoEndTolerance": true,
           "Comment": "Two-Star Raid Boss (Unova Week)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -124944,6 +125077,26 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: May"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Delightful Days: Taken Over"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Partner Research: FamilyMart Japan"
         }
       ]
     },
