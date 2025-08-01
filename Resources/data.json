@@ -5386,6 +5386,21 @@
           "Start": {
             "Y": 2025,
             "M": 8,
+            "D": 17
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Anaheim 2025 Pok\u00E9mon World Championships, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
             "D": 20
           },
           "End": {
@@ -32895,6 +32910,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Soak Up Summer Water Festival 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Anaheim 2025 Pok\u00E9mon World Championships)"
         },
         {
           "Start": {
@@ -78718,6 +78748,22 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Anaheim 2025 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -107995,6 +108041,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Paris (Makeup Event)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Gender": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Anaheim 2025 Pok\u00E9mon World Championships"
         }
       ]
     },
@@ -116784,6 +116846,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Anaheim 2025 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -119348,6 +119426,22 @@
           },
           "End": {
             "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Anaheim 2025 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
             "M": 9,
             "D": 2
           },
@@ -119355,6 +119449,17 @@
           "Type": 42,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Weekend: Delightful Days)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Anaheim 2025 Pok\u00E9mon World Championships"
         }
       ]
     },
