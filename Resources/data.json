@@ -6148,6 +6148,21 @@
           "Type": 42,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Weekend: Delightful Days)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Sunkissed Shores)"
         }
       ]
     },
@@ -25198,6 +25213,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Sunkissed Shores)"
         }
       ]
     },
@@ -67848,6 +67878,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Sunkissed Shores, No Costume)"
         }
       ]
     },
@@ -133758,6 +133803,38 @@
       "Data": []
     },
     {
+      "Species": 977,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Sunkissed Shores)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Sunkissed Shores Premium Timed Research"
+        }
+      ]
+    },
+    {
       "Species": 978,
       "Available": true,
       "Data": [
@@ -133776,6 +133853,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Water Festival 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Sunkissed Shores)"
         }
       ]
     },
@@ -133799,6 +133892,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Water Festival 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Sunkissed Shores)"
         }
       ]
     },
@@ -133822,6 +133931,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Water Festival 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Sunkissed Shores)"
         }
       ]
     },
