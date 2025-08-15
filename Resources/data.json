@@ -28261,6 +28261,20 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Raid Day: Mega Kangaskhan)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 10,
+          "Comment": "Three-Star Raid Boss (Anaheim 2025 Pok\u00E9mon World Championships, In-Person Event)"
         }
       ]
     },
@@ -45921,6 +45935,20 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 1,
+          "Comment": "Anaheim 2025 Pok\u00E9mon World Championships (In-Person Event)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 9,
             "D": 27
           },
@@ -47341,6 +47369,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Global (Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 1,
+          "Comment": "Anaheim 2025 Pok\u00E9mon World Championships (In-Person Event)"
         }
       ]
     },
@@ -48455,6 +48497,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Unova \u2013 Global"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 17
+          },
+          "Type": 1,
+          "Comment": "Anaheim 2025 Pok\u00E9mon World Championships (In-Person Event)"
         }
       ]
     },
@@ -131900,7 +131956,7 @@
           "Start": {
             "Y": 2025,
             "M": 8,
-            "D": 18
+            "D": 15
           },
           "End": {
             "Y": 2025,
@@ -131908,8 +131964,7 @@
             "D": 24
           },
           "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Dark Skies / Pok\u00E9mon GO Fest 2025: Max Finale)"
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -132116,7 +132171,7 @@
           "Start": {
             "Y": 2025,
             "M": 8,
-            "D": 18
+            "D": 15
           },
           "End": {
             "Y": 2025,
@@ -132124,8 +132179,7 @@
             "D": 24
           },
           "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Dark Skies / Pok\u00E9mon GO Fest 2025: Max Finale)"
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
