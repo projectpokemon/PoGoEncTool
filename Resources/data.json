@@ -32112,7 +32112,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Raid Day: Mega Gyarados)"
+          "Comment": "Mega Raid Boss (Raid Day: Mega Gyarados 2022)"
         },
         {
           "Start": {
@@ -32337,6 +32337,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Water Festival 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Raid Day: Mega Gyarados 2025)"
         }
       ]
     },
