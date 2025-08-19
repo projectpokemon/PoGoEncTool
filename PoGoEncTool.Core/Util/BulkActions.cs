@@ -246,7 +246,7 @@ public static class BulkActions
         Skwovet => 1,
         Rookidee => 1,
         Wooloo => 1,
-        Toxtricity => 3,
+        Toxtricity => 4,
         Hatenna => 1,
         Falinks => 3,
         _ when IsSpecialPokemon(species) => 5,
