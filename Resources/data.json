@@ -37,7 +37,7 @@
             "D": 17
           },
           "Type": 10,
-          "Comment": "One-Star Raid Boss (Kanto Celebration)"
+          "Comment": "One-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -977,7 +977,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "One-Star Raid Boss (Kanto Celebration)"
+          "Comment": "One-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -2073,7 +2073,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "One-Star Raid Boss (Kanto Celebration)"
+          "Comment": "One-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -10255,7 +10255,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Two-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Two-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -13819,7 +13819,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -16234,7 +16234,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Four-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Four-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -20042,7 +20042,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Two-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Two-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -21604,7 +21604,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -25847,7 +25847,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Two-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Two-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -26396,7 +26396,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Two-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Two-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -27153,7 +27153,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Four-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Four-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -29306,7 +29306,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -32520,7 +32520,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Four-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Four-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -34700,7 +34700,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -34920,7 +34920,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -35079,7 +35079,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Three-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Three-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -35693,7 +35693,7 @@
           },
           "Shiny": 1,
           "Type": 10,
-          "Comment": "Four-Star Raid Boss (Kanto Celebration)"
+          "Comment": "Four-Star Raid Boss (Kanto Celebration 2018)"
         },
         {
           "Start": {
@@ -60465,6 +60465,22 @@
             "Y": 2025,
             "M": 4,
             "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Became Kanto Celebration 2025 Wild Encounters)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 7
           },
           "End": {
             "Y": 2025,
