@@ -11473,6 +11473,21 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 9,
+            "D": 6
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Sweet Spooky World"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 11,
             "D": 7
           },
@@ -21703,6 +21718,21 @@
           "Type": 62,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Fest 2025: Max Finale)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Sweet Spooky World, No Costume)"
         }
       ]
     },
