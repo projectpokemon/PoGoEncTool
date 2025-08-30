@@ -3566,6 +3566,11 @@
             "M": 3,
             "D": 27
           },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -29031,6 +29036,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -39689,6 +39705,16 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Arlo"
         }
       ]
     },
@@ -40020,6 +40046,16 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Cliff"
         }
       ]
     },
@@ -40506,6 +40542,16 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Sierra"
         }
       ]
     },
@@ -41099,6 +41145,11 @@
             "Y": 2025,
             "M": 5,
             "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
           },
           "Shiny": 1,
           "Type": 50,
@@ -77494,6 +77545,11 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -93526,6 +93582,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -118482,6 +118549,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -125098,6 +125176,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -125218,6 +125307,17 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "September 2023 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
