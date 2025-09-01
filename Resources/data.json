@@ -84338,8 +84338,8 @@
           },
           "End": {
             "Y": 2025,
-            "M": 8,
-            "D": 31
+            "M": 9,
+            "D": 1
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -98169,6 +98169,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Ancients Recovered, Days 4 and 5)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
