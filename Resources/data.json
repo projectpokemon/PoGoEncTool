@@ -6299,6 +6299,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Sunkissed Shores)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Psychic Spectacular 2025: Taken Over)"
         }
       ]
     },
@@ -39712,6 +39727,11 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
@@ -40052,6 +40072,11 @@
             "Y": 2025,
             "M": 8,
             "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
           },
           "Type": 50,
           "LocalizedStart": true,
@@ -40548,6 +40573,11 @@
             "Y": 2025,
             "M": 8,
             "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
           },
           "Type": 50,
           "LocalizedStart": true,
@@ -98360,6 +98390,11 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -115004,6 +115039,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Psychic Spectacular 2025: Taken Over)"
         }
       ]
     },
@@ -116323,6 +116373,17 @@
           "Type": 27,
           "LocalizedStart": true,
           "Comment": "Legends: #0641"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Boss Giovanni"
         }
       ]
     },
@@ -133304,6 +133365,39 @@
       ]
     },
     {
+      "Species": 876,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Psychic Spectacular 2025: Taken Over"
+        }
+      ]
+    },
+    {
+      "Species": 876,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Psychic Spectacular 2025: Taken Over"
+        }
+      ]
+    },
+    {
       "Species": 877,
       "Available": true,
       "Data": [
@@ -134251,6 +134345,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Psychic Spectacular 2025: Taken Over)"
         }
       ]
     },
