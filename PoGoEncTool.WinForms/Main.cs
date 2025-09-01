@@ -39,10 +39,10 @@ public partial class Main : Form
 
     private void InitializeDataSources()
     {
-        var gi = GameInfo.SpeciesDataSource;
+        var gi = GameInfo.Sources;
         CB_Species.DisplayMember = nameof(ComboItem.Text);
         CB_Species.ValueMember = nameof(ComboItem.Value);
-        CB_Species.DataSource = new BindingSource(gi, null!);
+        CB_Species.DataSource = new BindingSource(gi.SpeciesDataSource, null!);
         ChangingFields = false;
         CB_Species.SelectedValue = 1;
     }
