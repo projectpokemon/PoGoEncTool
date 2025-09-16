@@ -62,7 +62,6 @@ public static class EvoUtil
             Scyther when destSpecies is Kleavor => false,
             Basculin when destSpecies is Basculegion => false,
             Girafarig when destSpecies is Farigiraf => false,
-            Dunsparce when destSpecies is Dudunsparce => false,
             Duraludon when destSpecies is Archaludon => false,
             Applin when destSpecies is Dipplin or Hydrapple => false,
 
