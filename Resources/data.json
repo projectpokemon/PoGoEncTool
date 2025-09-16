@@ -16089,6 +16089,22 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -17297,6 +17313,21 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 11,
             "D": 7
           },
@@ -17941,6 +17972,21 @@
             "Y": 2024,
             "M": 12,
             "D": 3
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -22453,6 +22499,16 @@
             "Y": 2024,
             "M": 8,
             "D": 7
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -30153,6 +30209,16 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -32740,6 +32806,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -33799,6 +33880,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO\u0027s 9th Anniversary Party, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -35958,6 +36054,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -44139,7 +44245,24 @@
     {
       "Species": 188,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 189,
@@ -44251,6 +44374,11 @@
             "Y": 2025,
             "M": 8,
             "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -52543,10 +52671,30 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -56687,6 +56835,11 @@
             "Y": 2025,
             "M": 8,
             "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -65293,6 +65446,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -66666,6 +66834,11 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
@@ -67224,6 +67397,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -67648,6 +67836,16 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -71040,6 +71238,16 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -81027,6 +81235,11 @@
             "M": 8,
             "D": 11
           },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
@@ -82814,6 +83027,16 @@
             "Y": 2024,
             "M": 10,
             "D": 7
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -90371,11 +90594,11 @@
           "End": {
             "Y": 2025,
             "M": 9,
-            "D": 14
+            "D": 16
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -90466,22 +90689,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 1)"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 9,
-            "D": 9
-          },
-          "End": {
-            "Y": 2025,
-            "M": 9,
-            "D": 14
-          },
-          "Shiny": 1,
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
         }
       ]
     },
@@ -95878,6 +96085,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -103921,6 +104139,11 @@
             "Y": 2025,
             "M": 8,
             "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
           },
           "Shiny": 1,
           "Type": 13,
@@ -121260,6 +121483,21 @@
             "Y": 2025,
             "M": 7,
             "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
           },
           "Type": 10,
           "LocalizedStart": true,
