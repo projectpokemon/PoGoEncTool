@@ -11778,6 +11778,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Steel Skyline"
         }
       ]
     },
@@ -72205,6 +72220,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Steel Skyline"
         },
         {
           "Start": {
@@ -133923,6 +133953,37 @@
           "Type": 42,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Weekend: Delightful Days)"
+        }
+      ]
+    },
+    {
+      "Species": 884,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "Type": 60,
+          "LocalizedStart": true,
+          "Comment": "Four-Star Power Spot Boss (Steel Skyline)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Steel Skyline"
         }
       ]
     },
