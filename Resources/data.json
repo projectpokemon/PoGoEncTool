@@ -3575,6 +3575,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -34757,6 +34772,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -36715,6 +36745,21 @@
             "Y": 2025,
             "M": 9,
             "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -65935,6 +65980,21 @@
           },
           "Type": 1,
           "Comment": "Hoenn Celebration"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -66287,6 +66347,21 @@
             "Y": 2025,
             "M": 1,
             "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -128953,6 +129028,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Osaka (Calming Tea House)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -134926,11 +135016,11 @@
           "End": {
             "Y": 2025,
             "M": 9,
-            "D": 21
+            "D": 30
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Psychic Spectacular 2025: Taken Over)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
