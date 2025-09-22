@@ -63,7 +63,6 @@ public static class EvoUtil
             Basculin when destSpecies is Basculegion => false,
             Girafarig when destSpecies is Farigiraf => false,
             Duraludon when destSpecies is Archaludon => false,
-            Applin when destSpecies is Dipplin or Hydrapple => false,
 
             _ => true,
         };
