@@ -128144,7 +128144,24 @@
     {
       "Species": 760,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2025: Global, No Costume)"
+        }
+      ]
     },
     {
       "Species": 761,

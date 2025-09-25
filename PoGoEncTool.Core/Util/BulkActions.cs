@@ -148,7 +148,7 @@ public static class BulkActions
             if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM or PogoType.Research10 or PogoType.Research20 && z.Shiny == enc.Shiny && z.End == null))
             {
                 // some Legendary and Mythical Pokémon are exempt because one of their forms or pre-evolutions have been in research, and they revert or can be changed upon transfer to HOME
-                if (enc.Species is (int)Giratina or (int)Cosmoem or (int)Solgaleo or (int)Lunala)
+                if (enc.Species is (int)Giratina or (int)Genesect or (int)Cosmoem or (int)Solgaleo or (int)Lunala)
                     continue;
                 AddEncounterGBL(list, enc.Species, enc.Form, enc.Shiny, enc.Start);
             }
