@@ -252,6 +252,7 @@ public static class BulkActions
         Toxtricity => 4,
         Hatenna => 1,
         Falinks => 3,
+        Duraludon => 4,
         _ when IsSpecialPokemon(species) => 5,
         _ => throw new System.Exception("Species has not been released as a Dynamax Pokémon yet."),
     };
