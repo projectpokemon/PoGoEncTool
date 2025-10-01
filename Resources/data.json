@@ -86503,6 +86503,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -99091,6 +99106,21 @@
             "Y": 2025,
             "M": 9,
             "D": 28
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 1
           },
           "Type": 13,
           "LocalizedStart": true,
