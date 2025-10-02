@@ -87739,6 +87739,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Mega Rayquaza Special Raid Event)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Mega Rayquaza Raid Day)"
         }
       ]
     },
