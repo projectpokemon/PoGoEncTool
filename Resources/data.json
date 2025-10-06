@@ -6986,7 +6986,7 @@
           "End": {
             "Y": 2025,
             "M": 10,
-            "D": 7
+            "D": 14
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -10958,7 +10958,7 @@
           "End": {
             "Y": 2025,
             "M": 10,
-            "D": 7
+            "D": 14
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -23802,6 +23802,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Delightful Days (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -24919,6 +24934,21 @@
             "Y": 2025,
             "M": 8,
             "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -69411,6 +69441,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -111750,6 +111796,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Instrumental Wonders)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -126577,6 +126638,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: June"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
