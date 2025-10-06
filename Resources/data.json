@@ -25895,6 +25895,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Sunkissed Shores)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
         }
       ]
     },
@@ -40929,6 +40944,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Powerful Potential"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
         }
       ]
     },
@@ -57072,6 +57102,26 @@
         },
         {
           "Start": {
+            "Y": 2017,
+            "M": 7,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "Comment": "First Debut in Pok\u00E9mon Eggs"
+        },
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 5,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Field Research Tasks"
+        },
+        {
+          "Start": {
             "Y": 2020,
             "M": 3,
             "D": 27
@@ -57079,6 +57129,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Safari Zone: St. Louis 2020"
+        },
+        {
+          "Start": {
+            "Y": 2020,
+            "M": 3,
+            "D": 27
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Field Research Tasks"
         },
         {
           "Start": {
@@ -57186,6 +57246,16 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 12,
+            "D": 16
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "December 2023 Community Day"
         },
         {
           "Start": {
@@ -101069,6 +101139,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Final Strike: GO Battle Week"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
         }
       ]
     },
@@ -107712,6 +107797,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Halloween 2025 Part I)"
         }
       ]
     },
@@ -107894,6 +107995,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO: Delightful Days"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
         }
       ]
     },
@@ -108364,6 +108480,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Hisui Celebration Collection Challenges"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2025 Part I"
         }
       ]
     },
@@ -124674,6 +124806,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Young \u0026 Wise)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Halloween 2025 Part I)"
         }
       ]
     },
@@ -125370,11 +125518,43 @@
         },
         {
           "Start": {
+            "Y": 2020,
+            "M": 12,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Kalos Celebration Event"
+        },
+        {
+          "Start": {
+            "Y": 2021,
+            "M": 2,
+            "D": 15
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Level 50 Challenge"
+        },
+        {
+          "Start": {
             "Y": 2022,
             "M": 10,
             "D": 20
           },
           "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2022 Part I"
+        },
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 10,
+            "D": 20
+          },
+          "Type": 2,
           "LocalizedStart": true,
           "Comment": "Halloween 2022 Part I"
         },
@@ -125392,6 +125572,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Four-Star Raid Boss (February 2023 Community Day)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 2,
+            "D": 5
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "February 2023 Community Day"
         },
         {
           "Start": {
@@ -134295,17 +134485,41 @@
           "Start": {
             "Y": 2025,
             "M": 10,
-            "D": 28
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
           },
           "End": {
             "Y": 2025,
             "M": 10,
             "D": 28
           },
-          "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon Spotlight Hour: Sinistea"
+          "Comment": "Halloween 2025 Part I / Pok\u00E9mon Spotlight Hour: Sinistea"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2025 Part I"
         }
       ]
     },
@@ -134409,17 +134623,41 @@
           "Start": {
             "Y": 2025,
             "M": 10,
-            "D": 28
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
           },
           "End": {
             "Y": 2025,
             "M": 10,
             "D": 28
           },
-          "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon Spotlight Hour: Sinistea"
+          "Comment": "Halloween 2025 Part I / Pok\u00E9mon Spotlight Hour: Sinistea"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Halloween 2025 Part I"
         }
       ]
     },
@@ -137595,6 +137833,62 @@
     },
     {
       "Species": 1011,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 1012,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+        }
+      ]
+    },
+    {
+      "Species": 1012,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+        }
+      ]
+    },
+    {
+      "Species": 1013,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 1013,
+      "Form": 1,
       "Available": true,
       "Data": []
     },
