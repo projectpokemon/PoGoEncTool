@@ -108575,6 +108575,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 1
+          },
+          "Type": 62,
+          "LocalizedStart": true,
+          "Comment": "Six-Star Power Spot Boss (Gigantamax Garbodor Max Battle Day)"
         }
       ]
     },
