@@ -5738,6 +5738,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Festival of Lights 2025, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part II, No Costume)"
         }
       ]
     },
@@ -22025,6 +22040,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2025 Part II, No Costume)"
         }
       ]
     },
@@ -57171,6 +57201,11 @@
             "M": 2,
             "D": 16
           },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "First Debut in the Wild (Johto Region)"
@@ -57199,6 +57234,11 @@
           "Start": {
             "Y": 2020,
             "M": 3,
+            "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
             "D": 27
           },
           "Type": 1,
@@ -57361,6 +57401,16 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Halloween 2025 Part II)"
         }
       ]
     },
@@ -89965,6 +90015,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Returned to the Wild (After Halloween 2024 Part II)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Halloween 2025 Part II, No Costume)"
         }
       ]
     },
@@ -93461,6 +93526,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Halloween 2025 Part II, No Costume)"
         }
       ]
     },
@@ -107927,13 +108008,13 @@
           },
           "End": {
             "Y": 2025,
-            "M": 10,
-            "D": 27
+            "M": 11,
+            "D": 2
           },
           "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss (Halloween 2025 Part I)"
+          "Comment": "One-Star Shadow Raid Boss (Halloween 2025)"
         }
       ]
     },
@@ -124951,13 +125032,13 @@
           },
           "End": {
             "Y": 2025,
-            "M": 10,
-            "D": 27
+            "M": 11,
+            "D": 2
           },
           "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
-          "Comment": "One-Star Shadow Raid Boss (Halloween 2025 Part I)"
+          "Comment": "One-Star Shadow Raid Boss (Halloween 2025)"
         }
       ]
     },
@@ -125647,6 +125728,11 @@
             "M": 12,
             "D": 2
           },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
+          },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
@@ -125679,6 +125765,11 @@
             "Y": 2022,
             "M": 10,
             "D": 20
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 27
           },
           "Type": 1,
           "LocalizedStart": true,
@@ -125747,6 +125838,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Returned to the Wild (After Halloween 2025 Part II)"
         }
       ]
     },
@@ -134655,12 +134756,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 10,
-            "D": 27
+            "M": 11,
+            "D": 2
           },
-          "Type": 10,
+          "Type": 1,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+          "Comment": "Halloween 2025"
         },
         {
           "Start": {
@@ -134670,12 +134771,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 10,
-            "D": 28
+            "M": 11,
+            "D": 2
           },
-          "Type": 1,
+          "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Halloween 2025 Part I / Pok\u00E9mon Spotlight Hour: Sinistea"
+          "Comment": "One-Star Raid Boss (Halloween 2025)"
         },
         {
           "Start": {
@@ -138014,13 +138115,13 @@
           },
           "End": {
             "Y": 2025,
-            "M": 10,
-            "D": 27
+            "M": 11,
+            "D": 2
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+          "Comment": "One-Star Raid Boss (Halloween 2025)"
         }
       ]
     },
@@ -138037,13 +138138,13 @@
           },
           "End": {
             "Y": 2025,
-            "M": 10,
-            "D": 27
+            "M": 11,
+            "D": 2
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+          "Comment": "One-Star Raid Boss (Halloween 2025)"
         }
       ]
     },
