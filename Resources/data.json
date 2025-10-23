@@ -10290,6 +10290,21 @@
           },
           "Type": 200,
           "Comment": "Version 0.269 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Enchanted Hollow)"
         }
       ]
     },
@@ -61510,6 +61525,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Holiday 2024 Part 1, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Enchanted Hollow)"
         }
       ]
     },
@@ -105488,7 +105518,24 @@
     {
       "Species": 542,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Enchanted Hollow)"
+        }
+      ]
     },
     {
       "Species": 543,
@@ -105666,6 +105713,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Enchanted Hollow)"
         }
       ]
     },
@@ -130766,6 +130829,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Enchanted Hollow)"
         }
       ]
     },
@@ -137545,6 +137623,44 @@
     {
       "Species": 916,
       "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 917,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Enchanted Hollow)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Enchanted Hollow"
+        }
+      ]
+    },
+    {
+      "Species": 918,
       "Available": true,
       "Data": []
     },
