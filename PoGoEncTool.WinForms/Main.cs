@@ -135,7 +135,7 @@ public partial class Main : Form
     {
         var entry = Entries.GetDetails(species, form);
         LoadPoke(entry);
-        LoadEntry(CurrentEntry);
+        LoadEntry(CurrentEntry, species, form);
     }
 
     private void LoadPoke(PogoPoke poke)
@@ -162,16 +162,11 @@ public partial class Main : Form
         }
     }
 
-    private void LoadEntry(PogoEntry entry)
+    private void LoadEntry(PogoEntry entry, ushort species, byte form)
     {
-        var species = Convert.ToUInt16(CB_Species.SelectedValue);
         var comment = entry.Comment;
-        byte form = comment switch
-        {
-            _ when comment.Contains("Mega Charizard Y") || comment.Contains("Mega Mewtwo Y") => 2,
-            _ when comment.Contains("Mega Raid Boss") || comment.Contains("Primal Raid Boss") || comment.Contains("Elite Raid: Mega") => 1,
-            _ => (byte)CB_Form.SelectedIndex,
-        };
+        if (comment.StartsWith("Mega Raid Boss") || comment.StartsWith("Primal Raid Boss") || comment.Contains("Elite Raid: Mega"))
+            form = GetMegaFormIndex(comment, species);
 
         if (!pogoRow1.Visible)
             form = (byte)CB_Form.SelectedIndex;
@@ -181,6 +176,23 @@ public partial class Main : Form
         PB_Poke.Image = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny);
 
         pogoRow1.LoadEntry(CurrentEntry = entry);
+    }
+
+    private byte GetMegaFormIndex(string comment, ushort species)
+    {
+        if (species is (int)Species.Charizard or (int)Species.Raichu or (int)Species.Mewtwo)
+        {
+            var shift = species is (int)Species.Raichu ? 1 : 0;
+            return comment.Contains($"Mega {(Species)species} Y") ? (byte)(shift + 2) : (byte)(shift + 1);
+        }
+
+        return species switch
+        {
+            (int)Species.Greninja => 3,
+            (int)Species.Floette => 6,
+            (int)Species.Zygarde => 5,
+            _ => 1,
+        };
     }
 
     private void SaveEntry(PogoEntry entry) => pogoRow1.SaveEntry(entry);
@@ -230,7 +242,7 @@ public partial class Main : Form
 
         pogoRow1.Visible = true;
         SaveEntry(CurrentEntry);
-        LoadEntry(CurrentPoke[index]);
+        LoadEntry(CurrentPoke[index], CurrentPoke.Species, CurrentPoke.Form);
 
         RefreshAppearanceText();
     }

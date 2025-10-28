@@ -114,8 +114,8 @@ public static class BulkActions
             {
                 comment = enc.MegaForm switch
                 {
-                    0 when enc.Species is (int)Charizard or (int)Mewtwo => $"Mega Raid Boss (Mega {(Species)enc.Species} X)",
-                    1 when enc.Species is (int)Charizard or (int)Mewtwo => $"Mega Raid Boss (Mega {(Species)enc.Species} Y)",
+                    0 when enc.Species is (int)Charizard or (int)Raichu or (int)Mewtwo => $"Mega Raid Boss (Mega {(Species)enc.Species} X)",
+                    1 when enc.Species is (int)Charizard or (int)Raichu or (int)Mewtwo => $"Mega Raid Boss (Mega {(Species)enc.Species} Y)",
                     _ => "Mega Raid Boss",
                 };
             }
