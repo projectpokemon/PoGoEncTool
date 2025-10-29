@@ -173,7 +173,7 @@ public partial class Main : Form
 
         var gender = (byte)(entry.Gender - 1);
         var shiny = entry.Shiny == PogoShiny.Always ? Shiny.Always : Shiny.Never;
-        PB_Poke.Image = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny);
+        PB_Poke.Image = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny, Latest.Context);
 
         pogoRow1.LoadEntry(CurrentEntry = entry);
     }
