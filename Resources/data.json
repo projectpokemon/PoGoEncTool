@@ -21360,6 +21360,21 @@
           "Start": {
             "Y": 2025,
             "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
             "D": 15
           },
           "Type": 60,
@@ -26040,6 +26055,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -41179,6 +41209,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -57020,6 +57065,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Crown Clash)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -101829,6 +101889,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -108809,6 +108884,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -135801,11 +135891,11 @@
           "End": {
             "Y": 2025,
             "M": 11,
-            "D": 2
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Halloween 2025)"
+          "Comment": "One-Star Raid Boss"
         },
         {
           "Start": {
@@ -135923,12 +136013,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 10,
-            "D": 27
+            "M": 11,
+            "D": 2
           },
-          "Type": 10,
+          "Type": 1,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Halloween 2025 Part I)"
+          "Comment": "Halloween 2025"
         },
         {
           "Start": {
@@ -135938,12 +136028,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 10,
-            "D": 28
+            "M": 11,
+            "D": 4
           },
-          "Type": 1,
+          "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Halloween 2025 Part I / Pok\u00E9mon Spotlight Hour: Sinistea"
+          "Comment": "One-Star Raid Boss"
         },
         {
           "Start": {
