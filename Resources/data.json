@@ -44877,6 +44877,11 @@
             "M": 10,
             "D": 8
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
           "Shiny": 1,
           "Type": 50,
           "LocalizedStart": true,
@@ -108687,6 +108692,17 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss (Halloween 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -116568,6 +116584,11 @@
             "Y": 2024,
             "M": 1,
             "D": 27
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
           },
           "Shiny": 1,
           "Type": 50,
@@ -125842,6 +125863,17 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss (Halloween 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 50,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
