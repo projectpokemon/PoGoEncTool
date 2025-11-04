@@ -62172,6 +62172,22 @@
             "M": 9,
             "D": 14
           },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Became Morpeko)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
@@ -136777,6 +136793,21 @@
           "Type": 42,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Weekend: Delightful Days)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 22
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (High Voltage)"
         },
         {
           "Start": {
