@@ -229,7 +229,7 @@ public static class BulkActions
         Gastly => 1,
         Krabby => 1,
         Chansey => 3,
-        Eevee => 1, // verify
+        Eevee => 2,
         Omanyte => 1,
         Kabuto => 1,
         Shuckle => 2,
