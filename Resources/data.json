@@ -36630,17 +36630,17 @@
         {
           "Start": {
             "Y": 2025,
-            "M": 11,
-            "D": 25
+            "M": 10,
+            "D": 4
           },
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 2
+            "D": 28
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon Fossil Museum: Tokushima 2025)"
         }
       ]
     },
@@ -95910,6 +95910,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Pok\u00E9mon TCG: Mega Lucario ex Release Celebration)"
         }
       ]
     },
