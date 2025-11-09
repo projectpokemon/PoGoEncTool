@@ -233,7 +233,7 @@ public static class BulkActions
         Omanyte => 1,
         Kabuto => 1,
         Shuckle => 2,
-        Ralts => 1, // verify
+        Ralts => 1,
         Sableye => 3,
         Wailmer => 2,
         Beldum => 3,
@@ -243,7 +243,7 @@ public static class BulkActions
         Darumaka => 2,
         Trubbish => 1,
         Cryogonal => 3,
-        Inkay => 1, // verify
+        Inkay => 1,
         Bounsweet => 1,
         Passimian => 3,
         Grookey => 1,
