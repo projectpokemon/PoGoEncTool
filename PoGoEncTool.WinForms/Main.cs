@@ -166,7 +166,7 @@ public partial class Main : Form
     {
         var comment = entry.Comment;
         if (comment.StartsWith("Mega Raid Boss") || comment.StartsWith("Primal Raid Boss") || comment.Contains("Elite Raid: Mega"))
-            form = GetMegaFormIndex(comment, species);
+            form = GetMegaFormIndex(comment, species, form);
 
         if (!pogoRow1.Visible)
             form = (byte)CB_Form.SelectedIndex;
@@ -178,7 +178,7 @@ public partial class Main : Form
         pogoRow1.LoadEntry(CurrentEntry = entry);
     }
 
-    private byte GetMegaFormIndex(string comment, ushort species)
+    private byte GetMegaFormIndex(string comment, ushort species, byte form)
     {
         if (species is (int)Species.Charizard or (int)Species.Raichu or (int)Species.Mewtwo)
         {
@@ -190,7 +190,10 @@ public partial class Main : Form
         {
             (int)Species.Greninja => 3,
             (int)Species.Floette => 6,
+            (int)Species.Meowstic => 2,
             (int)Species.Zygarde => 5,
+            (int)Species.Magearna => (byte)(form + 2),
+            (int)Species.Tatsugiri => (byte)(form + 3),
             _ => 1,
         };
     }
