@@ -14834,6 +14834,21 @@
           "Type": 60,
           "LocalizedStart": true,
           "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Final Justice)"
         }
       ]
     },
@@ -19415,6 +19430,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Dark Skies)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Final Justice)"
         }
       ]
     },
@@ -105281,6 +105311,21 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Final Justice)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 12,
             "D": 13
           },
@@ -105641,6 +105686,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Final Justice)"
         }
       ]
     },
@@ -105730,6 +105790,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss (Pok\u00E9mon GO Tour: Unova \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Final Justice)"
         }
       ]
     },
@@ -106486,6 +106561,16 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: November 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Final Justice"
         }
       ]
     },
@@ -120361,6 +120446,12 @@
       ]
     },
     {
+      "Species": 647,
+      "Form": 1,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 648,
       "Available": true,
       "Data": [
@@ -122932,6 +123023,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Steeled Resolve)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Final Justice)"
         }
       ]
     },
