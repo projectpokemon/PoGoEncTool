@@ -10189,6 +10189,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -10315,11 +10331,11 @@
           "End": {
             "Y": 2025,
             "M": 11,
-            "D": 9
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Enchanted Hollow)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -53780,6 +53796,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -69969,6 +70000,22 @@
             "Y": 2025,
             "M": 10,
             "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
           },
           "Shiny": 1,
           "Type": 10,
@@ -106058,6 +106105,21 @@
           "Type": 50,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -111617,6 +111679,21 @@
             "Y": 2025,
             "M": 8,
             "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -129771,7 +129848,24 @@
     {
       "Species": 754,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 11
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 755,
