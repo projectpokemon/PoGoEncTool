@@ -93319,6 +93319,21 @@
         {
           "Start": {
             "Y": 2019,
+            "M": 4,
+            "D": 19
+          },
+          "End": {
+            "Y": 2019,
+            "M": 4,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "First Debut in the Wild (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2019,
             "M": 5,
             "D": 17
           },
@@ -93374,6 +93389,21 @@
       "Form": 1,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 4,
+            "D": 19
+          },
+          "End": {
+            "Y": 2019,
+            "M": 4,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "First Debut in the Wild (Accidental Release)"
+        },
         {
           "Start": {
             "Y": 2019,
@@ -132366,6 +132396,22 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Five-Star Raid Boss (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "NoEndTolerance": true,
+          "Comment": "Five-Star Raid Boss (Accidental Release)"
         }
       ]
     },
@@ -138374,7 +138420,17 @@
           },
           "Type": 2,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki (Accidental Release)"
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 7
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Don\u0027t Tinkatink Twice! Premium Timed Research"
         }
       ]
     },
