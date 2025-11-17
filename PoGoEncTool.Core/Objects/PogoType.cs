@@ -9,12 +9,12 @@ public enum PogoType : byte
     /// <summary>
     /// Pokémon captured in the wild.
     /// </summary>
-    WildEncounter,
+    Wild,
 
     /// <summary>
     /// Pokémon hatched from Eggs.
     /// </summary>
-    EggStandard,
+    Egg,
     Egg12km,
 
     /// <summary>

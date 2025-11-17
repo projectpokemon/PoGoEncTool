@@ -20,7 +20,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         End = null,
         Shiny = PogoShiny.Never,
         Gender = PogoGender.Random,
-        Type = PogoType.WildEncounter,
+        Type = PogoType.Wild,
         LocalizedStart = true,
     };
 
