@@ -172,7 +172,7 @@ namespace PoGoEncTool.WinForms
             TB_Comment.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
             TB_Comment.Location = new System.Drawing.Point(3, 59);
             TB_Comment.Name = "TB_Comment";
-            TB_Comment.Size = new System.Drawing.Size(529, 23);
+            TB_Comment.Size = new System.Drawing.Size(601, 23);
             TB_Comment.TabIndex = 7;
             // 
             // PogoRow
