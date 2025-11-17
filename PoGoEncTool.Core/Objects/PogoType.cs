@@ -114,6 +114,12 @@ public enum PogoType : byte
     GOPassGigantamaxLevel10,
     GOPassGigantamaxLevel20,
     GOPassGigantamaxLevelRange,
+    GOPassShadowLevel10,
+    GOPassShadowLevel20,
+    GOPassShadowLevelRange,
+    GOPassShadowMythicalLevel10,
+    GOPassShadowMythicalLevel20,
+    GOPassShadowMythicalLevelRange,
 
     /// <summary> Pokémon captured from Special Research or Timed Research with a Premier Ball. </summary>
     /// <remarks>

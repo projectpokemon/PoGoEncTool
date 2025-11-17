@@ -130,7 +130,7 @@ namespace PoGoEncTool.WinForms
             CB_Type.FormattingEnabled = true;
             CB_Type.Location = new System.Drawing.Point(384, 3);
             CB_Type.Name = "CB_Type";
-            CB_Type.Size = new System.Drawing.Size(200, 23);
+            CB_Type.Size = new System.Drawing.Size(220, 23);
             CB_Type.TabIndex = 5;
             // 
             // CHK_Shiny
