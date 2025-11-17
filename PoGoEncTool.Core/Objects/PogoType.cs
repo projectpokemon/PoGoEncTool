@@ -27,7 +27,7 @@ public enum PogoType : byte
 
     // Pokémon captured after completing various types of Field Research.
     FieldResearch = 20,
-    FieldResearchRange,
+    FieldResearchLevelRange,
     ResearchBreakthrough,
     SpecialResearch,
     TimedResearch,
@@ -38,8 +38,8 @@ public enum PogoType : byte
     GOPass,
     ReferralBonus,
 
-    // Pokémon captured after completing Special Research. IV, Level, and Poké Ball permissions may vary depending on how the Special Research was distributed.
-    SpecialMythical = 31,
+    // Pokémon captured after completing Special Research. IV, Level, and Poké Ball permissions may vary depending on the Pokémon.
+    SpecialMythical = 40,
     SpecialMythicalPoke,
     SpecialUltraBeast,
     SpecialGigantamax,
@@ -59,8 +59,8 @@ public enum PogoType : byte
     SpecialGigantamaxLevel20,
     SpecialGigantamaxLevelRange,
 
-    // Pokémon captured after completing Timed Research. IV, Level, and Poké Ball permissions may vary depending on how the Timed Research was distributed.
-    TimedMythical = 51,
+    // Pokémon captured after completing Timed Research or GO Passes. IV, Level, and Poké Ball permissions may vary depending on the Pokémon.
+    TimedMythical = 60,
     TimedMythicalPoke,
     TimedUltraBeast,
     TimedGigantamax,
@@ -79,19 +79,27 @@ public enum PogoType : byte
     TimedGigantamaxLevel10,
     TimedGigantamaxLevel20,
     TimedGigantamaxLevelRange,
+    TimedShadow,
+    TimedShadowLevel10,
+    TimedShadowLevel20,
+    TimedShadowLevelRange,
+    TimedShadowMythical,
+    TimedShadowMythicalLevel10,
+    TimedShadowMythicalLevel20,
+    TimedShadowMythicalLevelRange,
 
     // Pokémon captured after winning Trainer Battles in the GO Battle League.
-    GBL = 70,
+    GBL = 90,
     GBLMythical,
     GBLEvent,
 
     // Shadow Pokémon captured after defeating members of Team GO Rocket.
-    Shadow = 80,
+    Shadow = 100,
     ShadowMythical,
     ShadowUltraBeast,
 
     // Pokémon captured after completing Max Battles.
-    MaxBattle = 90,
+    MaxBattle = 110,
     MaxBattleMythical,
     MaxBattleUltraBeast,
     MaxBattleGigantamax,
@@ -99,31 +107,6 @@ public enum PogoType : byte
     MaxBattleMythicalGOWA,
     MaxBattleUltraBeastGOWA,
     MaxBattleGigantamaxGOWA,
-
-    // Pokémon captured through GO Pass. IV, Level, and Poké Ball permissions may vary depending on how the GO Pass was distributed.
-    GOPassMythical = 100,
-    GOPassMythicalPoke,
-    GOPassUltraBeast,
-    GOPassGigantamax,
-    GOPassPoke,
-    GOPassLevel10,
-    GOPassLevel20,
-    GOPassLevelRange,
-    GOPassMythicalLevel10,
-    GOPassMythicalLevel20,
-    GOPassMythicalLevelRange,
-    GOPassUltraBeastLevel10,
-    GOPassUltraBeastLevel20,
-    GOPassUltraBeastLevelRange,
-    GOPassGigantamaxLevel10,
-    GOPassGigantamaxLevel20,
-    GOPassGigantamaxLevelRange,
-    GOPassShadowLevel10,
-    GOPassShadowLevel20,
-    GOPassShadowLevelRange,
-    GOPassShadowMythicalLevel10,
-    GOPassShadowMythicalLevel20,
-    GOPassShadowMythicalLevelRange,
 
     /// <summary> Pokémon captured from Special Research or Timed Research with a Premier Ball. </summary>
     /// <remarks>
@@ -140,5 +123,5 @@ public enum PogoType : byte
 public static class PogoTypeExtensions
 {
     public static bool IsShadow(this PogoType t) => t is RaidShadow or RaidShadowMythical or RaidShadowGOWA or RaidShadowMythicalGOWA or Shadow or ShadowMythical or ShadowUltraBeast;
-    public static bool IsGigantamax(this PogoType t) => t is SpecialGigantamax or SpecialGigantamaxLevel10 or SpecialGigantamaxLevel20 or SpecialGigantamaxLevelRange or TimedGigantamax or TimedGigantamaxLevel10 or TimedGigantamaxLevel20 or TimedGigantamaxLevelRange or GOPassGigantamax or GOPassGigantamaxLevel10 or GOPassGigantamaxLevel20 or GOPassGigantamaxLevelRange or MaxBattleGigantamax;
+    public static bool IsGigantamax(this PogoType t) => t is SpecialGigantamax or SpecialGigantamaxLevel10 or SpecialGigantamaxLevel20 or SpecialGigantamaxLevelRange or TimedGigantamax or TimedGigantamaxLevel10 or TimedGigantamaxLevel20 or TimedGigantamaxLevelRange or MaxBattleGigantamax;
 }
