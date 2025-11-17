@@ -95,6 +95,10 @@ public enum PogoType : byte
     MaxBattleMythical,
     MaxBattleUltraBeast,
     MaxBattleGigantamax,
+    MaxBattleGOWA,
+    MaxBattleMythicalGOWA,
+    MaxBattleUltraBeastGOWA,
+    MaxBattleGigantamaxGOWA,
 
     // Pokémon captured through GO Pass. IV, Level, and Poké Ball permissions may vary depending on how the GO Pass was distributed.
     GOPassMythical = 100,

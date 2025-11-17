@@ -914,7 +914,7 @@
             "M": 11,
             "D": 24
           },
-          "Type": 10,
+          "Type": 15,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 2)"
         },
@@ -88292,7 +88292,7 @@
             "M": 11,
             "D": 24
           },
-          "Type": 10,
+          "Type": 15,
           "LocalizedStart": true,
           "Comment": "Primal Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
@@ -88600,7 +88600,7 @@
             "M": 11,
             "D": 24
           },
-          "Type": 10,
+          "Type": 15,
           "LocalizedStart": true,
           "Comment": "Primal Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
@@ -92345,7 +92345,7 @@
             "M": 11,
             "D": 23
           },
-          "Type": 10,
+          "Type": 15,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 1)"
         }
@@ -98175,7 +98175,7 @@
             "M": 11,
             "D": 24
           },
-          "Type": 10,
+          "Type": 15,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 2)"
         }
@@ -99425,6 +99425,21 @@
           "End": {
             "Y": 2024,
             "M": 11,
+            "D": 17
+          },
+          "Type": 15,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
             "D": 27
           },
           "Type": 10,
@@ -99445,6 +99460,21 @@
           "Type": 70,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 15,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
         {
           "Start": {
@@ -99779,6 +99809,21 @@
           "End": {
             "Y": 2024,
             "M": 11,
+            "D": 17
+          },
+          "Type": 15,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
             "D": 27
           },
           "Type": 10,
@@ -99799,6 +99844,21 @@
           "Type": 70,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Max Out)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 11,
+            "D": 23
+          },
+          "End": {
+            "Y": 2024,
+            "M": 11,
+            "D": 24
+          },
+          "Type": 15,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
         {
           "Start": {
@@ -106280,7 +106340,7 @@
             "M": 11,
             "D": 23
           },
-          "Type": 10,
+          "Type": 15,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global, Day 1)"
         },
@@ -135653,7 +135713,7 @@
             "M": 11,
             "D": 17
           },
-          "Type": 10,
+          "Type": 15,
           "LocalizedStart": true,
           "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
@@ -135668,7 +135728,7 @@
             "M": 11,
             "D": 17
           },
-          "Type": 90,
+          "Type": 94,
           "LocalizedStart": true,
           "Comment": "Four-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
@@ -135683,7 +135743,7 @@
             "M": 11,
             "D": 17
           },
-          "Type": 93,
+          "Type": 97,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
@@ -135708,7 +135768,7 @@
             "M": 11,
             "D": 24
           },
-          "Type": 10,
+          "Type": 15,
           "LocalizedStart": true,
           "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
@@ -135723,7 +135783,7 @@
             "M": 11,
             "D": 24
           },
-          "Type": 90,
+          "Type": 94,
           "LocalizedStart": true,
           "Comment": "Four-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
@@ -135738,7 +135798,7 @@
             "M": 11,
             "D": 24
           },
-          "Type": 93,
+          "Type": 97,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
@@ -135819,7 +135879,7 @@
             "M": 11,
             "D": 17
           },
-          "Type": 10,
+          "Type": 15,
           "LocalizedStart": true,
           "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
@@ -135834,7 +135894,7 @@
             "M": 11,
             "D": 17
           },
-          "Type": 90,
+          "Type": 94,
           "LocalizedStart": true,
           "Comment": "Four-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
@@ -135849,7 +135909,7 @@
             "M": 11,
             "D": 17
           },
-          "Type": 93,
+          "Type": 97,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
@@ -135874,7 +135934,7 @@
             "M": 11,
             "D": 24
           },
-          "Type": 10,
+          "Type": 15,
           "LocalizedStart": true,
           "Comment": "Four-Star Raid Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
@@ -135889,7 +135949,7 @@
             "M": 11,
             "D": 24
           },
-          "Type": 90,
+          "Type": 94,
           "LocalizedStart": true,
           "Comment": "Four-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
@@ -135904,7 +135964,7 @@
             "M": 11,
             "D": 24
           },
-          "Type": 93,
+          "Type": 97,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
