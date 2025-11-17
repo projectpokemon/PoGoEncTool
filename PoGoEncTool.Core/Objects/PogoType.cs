@@ -6,20 +6,14 @@ public enum PogoType : byte
 {
     None, // Don't use this.
 
-    /// <summary>
-    /// Pokémon captured in the wild.
-    /// </summary>
+    // Pokémon captured in the wild.
     Wild,
 
-    /// <summary>
-    /// Pokémon hatched from Eggs.
-    /// </summary>
+    // Pokémon hatched from Eggs.
     Egg,
     Egg12km,
 
-    /// <summary>
-    /// Pokémon captured after completing Raid Battles. IV, Level, and Poké Ball permissions may vary depending on the Pokémon.
-    /// </summary>
+    // Pokémon captured after completing Raid Battles. IV, Level, and Poké Ball permissions may vary depending on the Pokémon.
     Raid = 10,
     RaidMythical,
     RaidUltraBeast,
@@ -31,9 +25,7 @@ public enum PogoType : byte
     RaidShadowGOWA,
     RaidShadowMythicalGOWA,
 
-    /// <summary>
-    /// Pokémon captured after completing various types of Field Research.
-    /// </summary>
+    // Pokémon captured after completing various types of Field Research.
     FieldResearch = 20,
     FieldResearchRange,
     ResearchBreakthrough,
@@ -43,12 +35,10 @@ public enum PogoType : byte
     VivillonCollector,
     PartyPlay,
     StampRally,
-    EventPass,
+    GOPass,
     ReferralBonus,
 
-    /// <summary>
-    /// Pokémon captured after completing Special Research. IV, Level, and Poké Ball permissions may vary depending on how the Special Research was distributed.
-    /// </summary>
+    // Pokémon captured after completing Special Research. IV, Level, and Poké Ball permissions may vary depending on how the Special Research was distributed.
     SpecialMythical = 31,
     SpecialMythicalPoke,
     SpecialUltraBeast,
@@ -69,9 +59,7 @@ public enum PogoType : byte
     SpecialGigantamaxLevel20,
     SpecialGigantamaxLevelRange,
 
-    /// <summary>
-    /// Pokémon captured after completing Timed Research. IV, Level, and Poké Ball permissions may vary depending on how the Timed Research was distributed.
-    /// </summary>
+    // Pokémon captured after completing Timed Research. IV, Level, and Poké Ball permissions may vary depending on how the Timed Research was distributed.
     TimedMythical = 51,
     TimedMythicalPoke,
     TimedUltraBeast,
@@ -92,30 +80,40 @@ public enum PogoType : byte
     TimedGigantamaxLevel20,
     TimedGigantamaxLevelRange,
 
-    /// <summary>
-    /// Pokémon captured after winning Trainer Battles in the GO Battle League.
-    /// </summary>
+    // Pokémon captured after winning Trainer Battles in the GO Battle League.
     GBL = 70,
     GBLMythical,
     GBLEvent,
 
-    /// <summary>
-    /// Shadow Pokémon captured after defeating members of Team GO Rocket.
-    /// </summary>
-    /// <remarks>
-    /// Pokémon with these <see cref="PogoType"/> can not be moved to <see cref="PKHeX.Core.GameVersion.GG"/>.
-    /// </remarks>
+    // Shadow Pokémon captured after defeating members of Team GO Rocket.
     Shadow = 80,
     ShadowMythical,
     ShadowUltraBeast,
 
-    /// <summary>
-    /// Pokémon captured after completing Max Battles.
-    /// </summary>
+    // Pokémon captured after completing Max Battles.
     MaxBattle = 90,
     MaxBattleMythical,
     MaxBattleUltraBeast,
     MaxBattleGigantamax,
+
+    // Pokémon captured through GO Pass. IV, Level, and Poké Ball permissions may vary depending on how the GO Pass was distributed.
+    GOPassMythical = 100,
+    GOPassMythicalPoke,
+    GOPassUltraBeast,
+    GOPassGigantamax,
+    GOPassPoke,
+    GOPassLevel10,
+    GOPassLevel20,
+    GOPassLevelRange,
+    GOPassMythicalLevel10,
+    GOPassMythicalLevel20,
+    GOPassMythicalLevelRange,
+    GOPassUltraBeastLevel10,
+    GOPassUltraBeastLevel20,
+    GOPassUltraBeastLevelRange,
+    GOPassGigantamaxLevel10,
+    GOPassGigantamaxLevel20,
+    GOPassGigantamaxLevelRange,
 
     /// <summary> Pokémon captured from Special Research or Timed Research with a Premier Ball. </summary>
     /// <remarks>
@@ -131,6 +129,6 @@ public enum PogoType : byte
 
 public static class PogoTypeExtensions
 {
-    public static bool IsShadow(this PogoType t) => t is Shadow or ShadowMythical or ShadowUltraBeast or RaidShadow or RaidShadowMythical;
-    public static bool IsGigantamax(this PogoType t) => t is SpecialGigantamax or SpecialGigantamaxLevel10 or SpecialGigantamaxLevel20 or SpecialGigantamaxLevelRange or TimedGigantamax or TimedGigantamaxLevel10 or TimedGigantamaxLevel20 or TimedGigantamaxLevelRange or MaxBattleGigantamax;
+    public static bool IsShadow(this PogoType t) => t is RaidShadow or RaidShadowMythical or RaidShadowGOWA or RaidShadowMythicalGOWA or Shadow or ShadowMythical or ShadowUltraBeast;
+    public static bool IsGigantamax(this PogoType t) => t is SpecialGigantamax or SpecialGigantamaxLevel10 or SpecialGigantamaxLevel20 or SpecialGigantamaxLevelRange or TimedGigantamax or TimedGigantamaxLevel10 or TimedGigantamaxLevel20 or TimedGigantamaxLevelRange or GOPassGigantamax or GOPassGigantamaxLevel10 or GOPassGigantamaxLevel20 or GOPassGigantamaxLevelRange or MaxBattleGigantamax;
 }
