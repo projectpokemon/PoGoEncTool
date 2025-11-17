@@ -1,4 +1,3 @@
-﻿
 namespace PoGoEncTool.WinForms
 {
     partial class PogoRow
@@ -131,13 +130,13 @@ namespace PoGoEncTool.WinForms
             CB_Type.FormattingEnabled = true;
             CB_Type.Location = new System.Drawing.Point(384, 3);
             CB_Type.Name = "CB_Type";
-            CB_Type.Size = new System.Drawing.Size(103, 23);
+            CB_Type.Size = new System.Drawing.Size(200, 23);
             CB_Type.TabIndex = 5;
             // 
             // CHK_Shiny
             // 
             CHK_Shiny.AutoSize = true;
-            CHK_Shiny.Location = new System.Drawing.Point(493, 5);
+            CHK_Shiny.Location = new System.Drawing.Point(3, 34);
             CHK_Shiny.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
             CHK_Shiny.Name = "CHK_Shiny";
             CHK_Shiny.Size = new System.Drawing.Size(55, 19);
@@ -149,29 +148,29 @@ namespace PoGoEncTool.WinForms
             // CHK_MaleOnly
             // 
             CHK_MaleOnly.AutoSize = true;
-            CHK_MaleOnly.Location = new System.Drawing.Point(554, 5);
+            CHK_MaleOnly.Location = new System.Drawing.Point(64, 34);
             CHK_MaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
             CHK_MaleOnly.Name = "CHK_MaleOnly";
-            CHK_MaleOnly.Size = new System.Drawing.Size(66, 19);
+            CHK_MaleOnly.Size = new System.Drawing.Size(80, 19);
             CHK_MaleOnly.TabIndex = 10;
-            CHK_MaleOnly.Text = "Only ♂";
+            CHK_MaleOnly.Text = "Only Male";
             CHK_MaleOnly.UseVisualStyleBackColor = true;
             // 
             // CHK_FemaleOnly
             // 
             CHK_FemaleOnly.AutoSize = true;
-            CHK_FemaleOnly.Location = new System.Drawing.Point(3, 34);
+            CHK_FemaleOnly.Location = new System.Drawing.Point(150, 34);
             CHK_FemaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
             CHK_FemaleOnly.Name = "CHK_FemaleOnly";
-            CHK_FemaleOnly.Size = new System.Drawing.Size(66, 19);
+            CHK_FemaleOnly.Size = new System.Drawing.Size(92, 19);
             CHK_FemaleOnly.TabIndex = 11;
-            CHK_FemaleOnly.Text = "Only ♀";
+            CHK_FemaleOnly.Text = "Only Female";
             CHK_FemaleOnly.UseVisualStyleBackColor = true;
             // 
             // TB_Comment
             // 
             TB_Comment.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
-            TB_Comment.Location = new System.Drawing.Point(75, 32);
+            TB_Comment.Location = new System.Drawing.Point(3, 59);
             TB_Comment.Name = "TB_Comment";
             TB_Comment.Size = new System.Drawing.Size(529, 23);
             TB_Comment.TabIndex = 7;

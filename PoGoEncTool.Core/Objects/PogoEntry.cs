@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace PoGoEncTool.Core;
 
@@ -20,7 +20,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         End = null,
         Shiny = PogoShiny.Never,
         Gender = PogoGender.Random,
-        Type = PogoType.Wild,
+        Type = PogoType.WildEncounter,
         LocalizedStart = true,
     };
 

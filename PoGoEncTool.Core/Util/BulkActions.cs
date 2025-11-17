@@ -155,7 +155,7 @@ public static class BulkActions
             }
         }
 
-        static bool IsLessRestrictiveEncounter(PogoType type) => type is Wild or ResearchBreakthrough or SpecialResearch or TimedResearch or CollectionChallenge or EventPass or (>= (PogoType)31 and <= (PogoType)69);
+        static bool IsLessRestrictiveEncounter(PogoType type) => type is WildEncounter or ResearchBreakthrough or SpecialResearch or TimedResearch or CollectionChallenge or EventPass or (>= (PogoType)31 and <= (PogoType)69);
     }
 
     private static void AddEncounterGBL(PogoEncounterList list, ushort species, byte form, PogoShiny shiny, PogoDate start)
