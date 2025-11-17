@@ -1,92 +1,121 @@
+using static PoGoEncTool.Core.PogoType;
+
 namespace PoGoEncTool.Core;
 
 public enum PogoType : byte
 {
     None, // Don't use this.
 
-    /// <summary> Pokémon captured in the wild. </summary>
+    /// <summary>
+    /// Pokémon captured in the wild.
+    /// </summary>
     Wild,
 
-    /// <summary> Pokémon hatched from 2km, 5km, 7km, or 10km Eggs. </summary>
+    /// <summary>
+    /// Pokémon hatched from Eggs.
+    /// </summary>
     Egg,
-    /// <summary> Pokémon hatched from Strange Eggs received from the Leaders of Team GO Rocket. </summary>
-    EggS,
+    Egg12km,
 
-    /// <summary> Pokémon captured after completing Raid Battles. </summary>
+    /// <summary>
+    /// Pokémon captured after completing Raid Battles. IV, Level, and Poké Ball permissions may vary depending on the Pokémon.
+    /// </summary>
     Raid = 10,
-    /// <summary> Mythical Pokémon captured after completing Raid Battles. </summary>
-    RaidM,
-    /// <summary> Ultra Beasts captured after completing Raid Battles. Only Beast Balls can be used. </summary>
-    RaidUB,
-    /// <summary> Shadow Pokémon captured after completing Shadow Raid Battles. Must be Purified before transferring to Pokémon HOME. </summary>
-    /// <remarks> Pokémon with this <see cref="PogoType"/> can not be moved to <see cref="PKHeX.Core.GameVersion.GG"/>. </remarks>
-    RaidS,
+    RaidMythical,
+    RaidUltraBeast,
+    RaidShadow,
+    RaidShadowMythical,
+    RaidGOWA,
+    RaidMythicalGOWA,
+    RaidUltraBeastGOWA,
+    RaidShadowGOWA,
+    RaidShadowMythicalGOWA,
 
-    /// <summary> Pokémon captured after completing Field Research. </summary>
-    Research = 20,
-    /// <summary> Mythical Pokémon captured after completing Field Research. </summary>
-    ResearchM,
-    /// <summary> Mythical Pokémon captured after completing Field Research. Only Poké Balls can be used. </summary>
-    ResearchMP,
-    /// <summary> Ultra Beasts captured after completing Field Research. Only Beast Balls can be used. </summary>
-    ResearchUB,
+    /// <summary>
+    /// Pokémon captured after completing various types of Field Research.
+    /// </summary>
+    FieldResearch = 20,
+    FieldResearchRange,
+    ResearchBreakthrough,
+    SpecialResearch,
+    TimedResearch,
+    CollectionChallenge,
+    VivillonCollector,
+    PartyPlay,
+    StampRally,
+    EventPass,
+    ReferralBonus,
 
-    /// <summary> Mythical Pokémon captured after completing Field Research. No HUD is visible during these encounters. </summary>
+    /// <summary>
+    /// Pokémon captured after completing Special Research. IV, Level, and Poké Ball permissions may vary depending on how the Special Research was distributed.
+    /// </summary>
+    SpecialMythical = 31,
+    SpecialMythicalPoke,
+    SpecialUltraBeast,
+    SpecialGigantamax,
+    SpecialPoke,
+    SpecialLastBall,
+    SpecialNoHUD,
+    SpecialLevel10,
+    SpecialLevel20,
+    SpecialLevelRange,
+    SpecialMythicalLevel10,
+    SpecialMythicalLevel20,
+    SpecialMythicalLevelRange,
+    SpecialUltraBeastLevel10,
+    SpecialUltraBeastLevel20,
+    SpecialUltraBeastLevelRange,
+    SpecialGigantamaxLevel10,
+    SpecialGigantamaxLevel20,
+    SpecialGigantamaxLevelRange,
+
+    /// <summary>
+    /// Pokémon captured after completing Timed Research. IV, Level, and Poké Ball permissions may vary depending on how the Timed Research was distributed.
+    /// </summary>
+    TimedMythical = 51,
+    TimedMythicalPoke,
+    TimedUltraBeast,
+    TimedGigantamax,
+    TimedPoke,
+    TimedLastBall,
+    TimedNoHUD,
+    TimedLevel10,
+    TimedLevel20,
+    TimedLevelRange,
+    TimedMythicalLevel10,
+    TimedMythicalLevel20,
+    TimedMythicalLevelRange,
+    TimedUltraBeastLevel10,
+    TimedUltraBeastLevel20,
+    TimedUltraBeastLevelRange,
+    TimedGigantamaxLevel10,
+    TimedGigantamaxLevel20,
+    TimedGigantamaxLevelRange,
+
+    /// <summary>
+    /// Pokémon captured after winning Trainer Battles in the GO Battle League.
+    /// </summary>
+    GBL = 70,
+    GBLMythical,
+    GBLEvent,
+
+    /// <summary>
+    /// Shadow Pokémon captured after defeating members of Team GO Rocket.
+    /// </summary>
     /// <remarks>
-    /// Under normal circumstances, only Poké Balls can be used, but Great Balls and Ultra Balls can be used with the Remember Last-Used Poké Ball setting.
-    /// This was rendered unusable as of version 0.277.3.
+    /// Pokémon with these <see cref="PogoType"/> can not be moved to <see cref="PKHeX.Core.GameVersion.GG"/>.
     /// </remarks>
-    ResearchMH,
+    Shadow = 80,
+    ShadowMythical,
+    ShadowUltraBeast,
 
-    /// <summary> Pokémon captured after completing Field Research. No HUD is visible during these encounters. </summary>
-    /// <remarks>
-    /// The encounter defaults to the player's stock of Poké Balls. If they have none, it falls back to Great Balls, and then to Ultra Balls.
-    /// If the player has no Poké Balls, Great Balls, or Ultra Balls, the HUD fails to load in any Poké Ball at all, even if they have a Master Ball.
-    /// </remarks>
-    ResearchNH,
-
-    /// <summary> Pokémon captured after completing Field Research. </summary>
-    /// <remarks> Unlike standard Field Research encounters, these are lowered to Level 10. </remarks>
-    Research10,
-
-    /// <summary> Pokémon captured after completing Field Research. </summary>
-    /// <remarks> Unlike standard Field Research encounters, these are boosted to Level 20. </remarks>
-    Research20,
-
-    /// <summary> Mythical Pokémon captured after completing Field Research. </summary>
-    /// <remarks> Unlike standard Field Research encounters, these are boosted to Level 20. </remarks>
-    ResearchM20,
-
-    /// <summary> Pokémon captured after completing Field Research. Only Beast Balls can be used. </summary>
-    /// <remarks> Unlike standard Field Research encounters, these are boosted to Level 20. </remarks>
-    ResearchUB20,
-
-    /// <summary> Gigantamax Pokémon captured after completing Field Research. </summary>
-    /// <remarks> These Pokémon can not be transferred to Pokémon HOME. </remarks>
-    ResearchG,
-
-    /// <summary> Pokémon captured after completing Field Research. </summary>
-    /// <remarks> Unlike standard Field Research encounters, these have a range of possible Levels, ranging from 1 to 15 or 20. </remarks>
-    ResearchR,
-
-    /// <summary> Pokémon captured from the GO Battle League. </summary>
-    GBL = 40,
-    /// <summary> Mythical Pokémon captured from the GO Battle League. </summary>
-    GBLM,
-    /// <summary> Pokémon captured from the GO Battle League during GO Battle Day events. Excludes Legendary Pokémon, Mythical Pokémon, and Ultra Beasts. </summary>
-    GBLD,
-
-    /// <summary> Pokémon captured after defeating members of Team GO Rocket. Must be Purified before transferring to Pokémon HOME. </summary>
-    /// <remarks> Pokémon with this <see cref="PogoType"/> can not be moved to <see cref="PKHeX.Core.GameVersion.GG"/>. </remarks>
-    Shadow = 50,
-
-    /// <summary> Pokémon captured after completing Max Battles. </summary>
-    MaxBattle = 60,
-    /// <summary> Mythical Pokémon captured after completing Max Battles. </summary>
-    MaxBattleM,
-    /// <summary> Gigantamax Pokémon captured after completing Max Battles. </summary>
-    /// <remarks> These Pokémon can not be transferred to Pokémon HOME. </remarks>
-    MaxBattleG,
+    /// <summary>
+    /// Pokémon captured after completing Max Battles.
+    /// </summary>
+    MaxBattle = 90,
+    MaxBattleMythical,
+    MaxBattleUltraBeast,
+    MaxBattleGigantamax,
 
     /// <summary> Pokémon captured from Special Research or Timed Research with a Premier Ball. </summary>
     /// <remarks>
@@ -96,12 +125,12 @@ public enum PogoType : byte
     /// This made it possible for over 300 species of Pokémon to be obtainable in a Poké Ball they were never meant to be captured in.
     /// This bug was fixed with the release of version 0.269.2.
     /// </remarks>
-    Research269 = 200,
-    Research269M,
+    PremierBallBug = 254,
+    PremierBallBugMythical,
 }
 
 public static class PogoTypeExtensions
 {
-    public static bool IsShadow(this PogoType t) => t is PogoType.Shadow or PogoType.RaidS;
-    public static bool IsGigantamax(this PogoType t) => t is PogoType.MaxBattleG or PogoType.ResearchG;
+    public static bool IsShadow(this PogoType t) => t is Shadow or ShadowMythical or ShadowUltraBeast or RaidShadow or RaidShadowMythical;
+    public static bool IsGigantamax(this PogoType t) => t is SpecialGigantamax or SpecialGigantamaxLevel10 or SpecialGigantamaxLevel20 or SpecialGigantamaxLevelRange or TimedGigantamax or TimedGigantamaxLevel10 or TimedGigantamaxLevel20 or TimedGigantamaxLevelRange or MaxBattleGigantamax;
 }

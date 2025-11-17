@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using static PKHeX.Core.Species;
 using static PoGoEncTool.Core.PogoShiny;
+using static PoGoEncTool.Core.PogoType;
 
 // ReSharper disable RedundantEmptyObjectOrCollectionInitializer
 // ReSharper disable CollectionNeverUpdated.Local
@@ -35,10 +36,10 @@ public static class BulkActions
 
             var type = Type switch
             {
-                BossType.Shadow => PogoType.RaidS,
-                BossType.Dynamax => PogoType.MaxBattle,
-                BossType.Gigantamax => PogoType.MaxBattleG,
-                _ => PogoType.Raid,
+                BossType.Shadow => RaidShadow,
+                BossType.Dynamax => MaxBattle,
+                BossType.Gigantamax => MaxBattleGigantamax,
+                _ => Raid,
             };
 
             var tier = Type switch
@@ -122,9 +123,9 @@ public static class BulkActions
 
             var type = enc.Species switch
             {
-                (int)Meltan or (int)Melmetal => PogoType.Raid, // only Mythicals that can be traded
-                _ when SpeciesCategory.IsMythical(enc.Species) => PogoType.RaidM,
-                _ => PogoType.Raid,
+                (int)Meltan or (int)Melmetal => Raid, // unlike other Mythical Pokémon, Meltan and Melmetal can be traded
+                _ when SpeciesCategory.IsMythical(enc.Species) => RaidMythical,
+                _ => Raid,
             };
 
             var entry = new PogoEntry
@@ -145,7 +146,7 @@ public static class BulkActions
             pkm.Add(entry); // add the raid entry!
 
             // add an accompanying GBL encounter if it has not appeared in research before, or continues to appear in the wild
-            if ((!enc.IsMega) && !pkm.Data.Any(z => z.Type is PogoType.Wild or PogoType.Research or PogoType.ResearchM or PogoType.Research10 or PogoType.Research20 && z.Shiny == enc.Shiny && z.End == null))
+            if ((!enc.IsMega) && !pkm.Data.Any(z => IsLessRestrictiveEncounter(z.Type) && z.Shiny == enc.Shiny && z.End == null))
             {
                 // some Legendary and Mythical Pokémon are exempt because one of their forms or pre-evolutions have been in research, and they revert or can be changed upon transfer to HOME
                 if (enc.Species is (int)Giratina or (int)Genesect or (int)Cosmoem or (int)Solgaleo or (int)Lunala)
@@ -153,12 +154,14 @@ public static class BulkActions
                 AddEncounterGBL(list, enc.Species, enc.Form, enc.Shiny, enc.Start);
             }
         }
+
+        static bool IsLessRestrictiveEncounter(PogoType type) => type is Wild or ResearchBreakthrough or SpecialResearch or TimedResearch or CollectionChallenge or EventPass or (>= (PogoType)31 and <= (PogoType)69);
     }
 
     private static void AddEncounterGBL(PogoEncounterList list, ushort species, byte form, PogoShiny shiny, PogoDate start)
     {
         var pkm = list.GetDetails(species, form);
-        var type = SpeciesCategory.IsMythical(species) ? PogoType.GBLM : PogoType.GBL;
+        var type = SpeciesCategory.IsMythical(species) ? GBLMythical : GBL;
         var entry = new PogoEntry
         {
             Start = start,
@@ -193,7 +196,7 @@ public static class BulkActions
 
             foreach (var entry in entries)
             {
-                if (entry is { Type: PogoType.Shadow, End: null })
+                if (entry is { Type: Shadow, End: null })
                     entry.End = new PogoDate();
             }
         }
@@ -206,7 +209,7 @@ public static class BulkActions
             {
                 Start = new PogoDate(),
                 Shiny = shiny,
-                Type = PogoType.Shadow,
+                Type = Shadow,
                 LocalizedStart = true,
                 NoEndTolerance = false,
                 Comment = "Team GO Rocket Grunt",
