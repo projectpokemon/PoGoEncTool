@@ -395,11 +395,10 @@ public partial class Main : Form
                         3 => "12 km Egg",
                         10 or 11 or 12 or 15 or 16 or 17 => "Raid",
                         13 or 14 or 18 or 19 => "Shadow Raid",
-                        (>= 20 and <= 28) or (>= 30 and <= 69) or 254 or 255 => "Research",
-                        >= 70 and <= 79 => "GO Battle League",
-                        >= 80 and <= 89 => "Shadow",
-                        >= 90 and <= 99 => "Max Battle",
-                        29 or (>= 100 and <= 122) => "GO Pass",
+                        (>= 20 and <= 89) or 254 or 255 => "Research",
+                        >= 90 and <= 99 => "GO Battle League",
+                        >= 100 and <= 109 => "Shadow",
+                        >= 110 and <= 119 => "Max Battle",
                         _ => throw new Exception("Invalid PogoType"),
                     };
 
