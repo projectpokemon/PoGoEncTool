@@ -1,4 +1,3 @@
-﻿
 namespace PoGoEncTool.WinForms
 {
     partial class Main
@@ -52,10 +51,9 @@ namespace PoGoEncTool.WinForms
             // 
             LB_Species.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left;
             LB_Species.FormattingEnabled = true;
-            LB_Species.ItemHeight = 15;
             LB_Species.Location = new System.Drawing.Point(11, 72);
             LB_Species.Name = "LB_Species";
-            LB_Species.Size = new System.Drawing.Size(140, 559);
+            LB_Species.Size = new System.Drawing.Size(140, 634);
             LB_Species.TabIndex = 1;
             LB_Species.SelectedIndexChanged += LB_Species_SelectedIndexChanged;
             // 
@@ -85,17 +83,16 @@ namespace PoGoEncTool.WinForms
             pogoRow1.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
             pogoRow1.Location = new System.Drawing.Point(231, 10);
             pogoRow1.Name = "pogoRow1";
-            pogoRow1.Size = new System.Drawing.Size(700, 84);
+            pogoRow1.Size = new System.Drawing.Size(885, 84);
             pogoRow1.TabIndex = 4;
             // 
             // LB_Appearances
             // 
             LB_Appearances.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
             LB_Appearances.FormattingEnabled = true;
-            LB_Appearances.ItemHeight = 15;
             LB_Appearances.Location = new System.Drawing.Point(234, 72);
             LB_Appearances.Name = "LB_Appearances";
-            LB_Appearances.Size = new System.Drawing.Size(757, 559);
+            LB_Appearances.Size = new System.Drawing.Size(942, 634);
             LB_Appearances.TabIndex = 5;
             LB_Appearances.SelectedIndexChanged += LB_Appearances_SelectedIndexChanged;
             // 
@@ -120,7 +117,7 @@ namespace PoGoEncTool.WinForms
             // B_DeleteSelected
             // 
             B_DeleteSelected.Anchor = System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left;
-            B_DeleteSelected.Location = new System.Drawing.Point(160, 582);
+            B_DeleteSelected.Location = new System.Drawing.Point(160, 656);
             B_DeleteSelected.Name = "B_DeleteSelected";
             B_DeleteSelected.Size = new System.Drawing.Size(68, 23);
             B_DeleteSelected.TabIndex = 10;
@@ -131,7 +128,7 @@ namespace PoGoEncTool.WinForms
             // B_Save
             // 
             B_Save.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right;
-            B_Save.Location = new System.Drawing.Point(921, 13);
+            B_Save.Location = new System.Drawing.Point(1106, 13);
             B_Save.Name = "B_Save";
             B_Save.Size = new System.Drawing.Size(70, 45);
             B_Save.TabIndex = 13;
@@ -195,7 +192,7 @@ namespace PoGoEncTool.WinForms
             // B_DeleteAll
             // 
             B_DeleteAll.Anchor = System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left;
-            B_DeleteAll.Location = new System.Drawing.Point(160, 608);
+            B_DeleteAll.Location = new System.Drawing.Point(160, 682);
             B_DeleteAll.Name = "B_DeleteAll";
             B_DeleteAll.Size = new System.Drawing.Size(68, 23);
             B_DeleteAll.TabIndex = 19;
@@ -217,7 +214,7 @@ namespace PoGoEncTool.WinForms
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(999, 647);
+            ClientSize = new System.Drawing.Size(1184, 721);
             Controls.Add(B_DumpAll);
             Controls.Add(B_DeleteAll);
             Controls.Add(B_CopyToForms);
@@ -235,8 +232,8 @@ namespace PoGoEncTool.WinForms
             Controls.Add(CB_Species);
             Controls.Add(LB_Species);
             MaximizeBox = false;
-            MaximumSize = new System.Drawing.Size(1015, 686);
-            MinimumSize = new System.Drawing.Size(1015, 686);
+            MaximumSize = new System.Drawing.Size(1200, 760);
+            MinimumSize = new System.Drawing.Size(1200, 760);
             Name = "Main";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "PGET";

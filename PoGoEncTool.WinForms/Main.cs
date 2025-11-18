@@ -362,7 +362,7 @@ public partial class Main : Form
                 if (!current.Data.Any(z => z.Comment.Contains(filter)))
                     continue;
 
-                var form = f == 0 ? string.Empty : $"-{f} ({forms[f]})";
+                var form = forms.Length == 1 ? string.Empty : f == 0 ? $" ({forms[f]})" : $"-{f} ({forms[f]})";
                 var name = $"{i:0000} {names[current.Species]}{form}";
                 list.Add(name);
 
@@ -392,14 +392,13 @@ public partial class Main : Form
                     {
                         1 => "Wild",
                         2 => "Egg",
-                        3 => "Strange Egg",
-                        10 or 11 or 12 => "Raid",
-                        13 => "Shadow Raid",
-                        >= 20 and <= 39 or 200 or 201 => "Research",
-                        40 or 41 => "GO Battle League",
-                        42 => "GO Battle Day",
-                        50 => "Shadow",
-                        >= 60 and <= 69 => "Max Battle",
+                        3 => "12 km Egg",
+                        10 or 11 or 12 or 15 or 16 or 17 => "Raid",
+                        13 or 14 or 18 or 19 => "Shadow Raid",
+                        (>= 20 and <= 89) or 254 or 255 => "Research",
+                        >= 90 and <= 99 => "GO Battle League",
+                        >= 100 and <= 109 => "Shadow",
+                        >= 110 and <= 119 => "Max Battle",
                         _ => throw new Exception("Invalid PogoType"),
                     };
 
