@@ -126707,7 +126707,7 @@
           },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Pittsburgh Regional Championships (In-Person Event)"
+          "Comment": "Pittsburgh Pok\u00E9mon Regional Championships 2023 (In-Person Event)"
         },
         {
           "Start": {
@@ -126754,7 +126754,7 @@
           },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Knoxville Regional Championships (In-Person Event)"
+          "Comment": "Knoxville Pok\u00E9mon Regional Championships 2024 (In-Person Event)"
         },
         {
           "Start": {
@@ -132380,6 +132380,20 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Steel and Scales)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "Comment": "Las Vegas Pok\u00E9mon Regional Championships 2026 (In-Person Event)"
         }
       ]
     },
