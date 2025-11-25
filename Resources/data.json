@@ -32829,6 +32829,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Stunning Styles)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Journey to Paldea)"
         }
       ]
     },
@@ -32852,6 +32868,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Stunning Styles, Eastern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Journey to Paldea, Eastern Hemisphere)"
         }
       ]
     },
@@ -32875,6 +32907,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Stunning Styles, Western Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Journey to Paldea, Western Hemisphere)"
         }
       ]
     },
@@ -140202,6 +140250,33 @@
       "Data": []
     },
     {
+      "Species": 932,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Journey to Paldea"
+        }
+      ]
+    },
+    {
+      "Species": 933,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 934,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 935,
       "Available": true,
       "Data": [
@@ -140676,6 +140751,21 @@
           },
           "Type": 2,
           "Comment": "Pok\u00E9mon GO Fest 2025: Jersey City"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Journey to Paldea)"
         }
       ]
     },
@@ -140852,6 +140942,21 @@
           "Type": 24,
           "LocalizedStart": true,
           "Comment": "Sunkissed Shores Premium Timed Research"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 9
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Journey to Paldea)"
         }
       ]
     },
