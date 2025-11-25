@@ -37673,6 +37673,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 14
+          },
+          "Type": 113,
+          "LocalizedStart": true,
+          "Comment": "Six-Star Power Spot Boss (Gigantamax Snorlax Max Battle Day)"
         }
       ]
     },
