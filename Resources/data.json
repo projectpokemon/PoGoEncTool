@@ -33691,6 +33691,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -60140,6 +60155,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 30
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon Spotlight Hour: Delibird"
         }
       ]
     },
@@ -75528,7 +75558,7 @@
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 2
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -84020,6 +84050,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -84288,6 +84333,16 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -88773,6 +88828,11 @@
             "Y": 2025,
             "M": 11,
             "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -96680,7 +96740,7 @@
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 2
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -99000,6 +99060,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -101130,6 +101205,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -119714,7 +119804,7 @@
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 2
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -119954,7 +120044,7 @@
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 2
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -120208,7 +120298,7 @@
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 2
+            "D": 4
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -121019,6 +121109,21 @@
           },
           "Type": 68,
           "Comment": "Encounter: Reshiram"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -121201,6 +121306,21 @@
           },
           "Type": 68,
           "Comment": "Encounter: Zekrom"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 22
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -121801,6 +121921,21 @@
           },
           "Type": 68,
           "Comment": "Encounter: Kyurem"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 4
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -135584,6 +135719,21 @@
           "Type": 74,
           "LocalizedStart": true,
           "Comment": "Ultra Beast Encounter: Blacephalon"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Raid Hour)"
         }
       ]
     },
