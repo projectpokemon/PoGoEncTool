@@ -12981,6 +12981,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -19769,12 +19785,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 11,
-            "D": 30
+            "M": 12,
+            "D": 2
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Final Justice)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -58372,6 +58388,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -107202,12 +107233,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 11,
-            "D": 30
+            "M": 12,
+            "D": 2
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Final Justice)"
+          "Comment": "One-Star Raid Boss"
         },
         {
           "Start": {
@@ -108517,6 +108548,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Final Justice"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -110410,6 +110456,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Delightful Days / Tales of Transformation"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 2
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         },
         {
           "Start": {
@@ -125228,12 +125289,12 @@
           },
           "End": {
             "Y": 2025,
-            "M": 11,
-            "D": 30
+            "M": 12,
+            "D": 2
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Final Justice)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
