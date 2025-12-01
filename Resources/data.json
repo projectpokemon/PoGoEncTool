@@ -126247,6 +126247,17 @@
           "Start": {
             "Y": 2025,
             "M": 12,
+            "D": 2
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Precious Paths"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
             "D": 4
           },
           "End": {
@@ -126273,6 +126284,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 20
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Precious Paths"
         },
         {
           "Start": {
