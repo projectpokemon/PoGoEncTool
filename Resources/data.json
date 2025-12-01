@@ -101489,6 +101489,21 @@
           "Type": 90,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 12
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 8
+          },
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass: December 2025"
         }
       ]
     },
@@ -142479,6 +142494,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Halloween 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: December 2025"
         }
       ]
     },
@@ -142502,6 +142533,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Halloween 2025)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: December 2025"
         }
       ]
     },
