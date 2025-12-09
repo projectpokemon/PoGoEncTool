@@ -45460,6 +45460,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Winter Holiday 2025 Part 1, No Costume)"
         }
       ]
     },
@@ -129447,6 +129462,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 18
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Winter Holiday 2025 Part 1)"
         }
       ]
     },
@@ -131236,6 +131266,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (High Voltage)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Winter Holiday 2025 Part 1, No Costume)"
         }
       ]
     },
