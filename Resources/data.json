@@ -7330,6 +7330,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -8553,6 +8569,22 @@
             "Y": 2024,
             "M": 3,
             "D": 14
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
           },
           "Shiny": 1,
           "Type": 10,
@@ -16294,7 +16326,7 @@
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 9
+            "D": 13
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -45739,7 +45771,7 @@
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 9
+            "D": 13
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -74898,7 +74930,7 @@
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 9
+            "D": 13
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -77120,7 +77152,7 @@
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 9
+            "D": 13
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -96890,6 +96922,22 @@
           "Type": 10,
           "NoEndTolerance": true,
           "Comment": "Four-Star Raid Boss (Enigma Week)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
