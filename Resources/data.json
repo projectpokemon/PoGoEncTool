@@ -15140,6 +15140,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Final Justice)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -28710,6 +28725,22 @@
             "Y": 2024,
             "M": 12,
             "D": 17
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 18
           },
           "Shiny": 1,
           "Type": 10,
@@ -56907,6 +56938,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -72483,6 +72529,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Sparring Partners Raid Day)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -75864,6 +75926,21 @@
             "Y": 2025,
             "M": 7,
             "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 18
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -110035,6 +110112,22 @@
           "Shiny": 1,
           "Type": 10,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -110644,6 +110737,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Buenos Aires, Miami, Sydney 2025"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
