@@ -7216,6 +7216,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Winter Holiday 2025 Part 2)"
         }
       ]
     },
@@ -30518,6 +30533,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Winter Holiday 2025 Part 2)"
         }
       ]
     },
@@ -45496,16 +45526,16 @@
           "Start": {
             "Y": 2025,
             "M": 12,
-            "D": 24
+            "D": 29
           },
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 24
+            "D": 29
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Winter Holiday 2025 Part 1, No Costume)"
+          "Comment": "Three-Star Raid Boss (Winter Holiday 2025, No Costume)"
         }
       ]
     },
@@ -109783,6 +109813,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 29
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Winter Holiday 2025 Part 2"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Winter Holiday 2025 Part 2)"
         }
       ]
     },
@@ -131379,17 +131439,17 @@
           "Start": {
             "Y": 2025,
             "M": 12,
-            "D": 24
+            "D": 29
           },
           "End": {
             "Y": 2025,
             "M": 12,
-            "D": 24
+            "D": 29
           },
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Winter Holiday 2025 Part 1, No Costume)"
+          "Comment": "Three-Star Raid Boss (Winter Holiday 2025, No Costume)"
         }
       ]
     },
@@ -138554,6 +138614,49 @@
     },
     {
       "Species": 836,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 837,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 29
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Winter Holiday 2025 Part 2)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Winter Holiday 2025 Part 2"
+        }
+      ]
+    },
+    {
+      "Species": 838,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 839,
       "Available": true,
       "Data": []
     },
