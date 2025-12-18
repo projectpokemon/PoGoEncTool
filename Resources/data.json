@@ -80988,6 +80988,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pinch Perfect)"
         }
       ]
     },
@@ -110227,6 +110242,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Beloved Buddies)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pinch Perfect)"
         }
       ]
     },
@@ -127456,6 +127486,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Water Festival 2023: Beach Week"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pinch Perfect)"
         }
       ]
     },
@@ -134646,6 +134691,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pinch Perfect)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 6
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pinch Perfect"
         }
       ]
     },
@@ -142197,6 +142267,23 @@
       "Data": []
     },
     {
+      "Species": 950,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 6
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Pinch Perfect"
+        }
+      ]
+    },
+    {
       "Species": 957,
       "Available": true,
       "Data": [
@@ -142722,6 +142809,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Journey to Paldea)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 6
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pinch Perfect)"
         }
       ]
     },
