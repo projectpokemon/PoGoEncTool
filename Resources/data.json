@@ -44638,6 +44638,21 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 2,
             "D": 20
           },
@@ -67000,6 +67015,21 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 2,
             "D": 20
           },
@@ -67534,6 +67564,21 @@
             "Y": 2025,
             "M": 10,
             "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -103211,6 +103256,21 @@
           "Type": 18,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss (Pok\u00E9mon GO Wild Area 2025: Global, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 2
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -105914,6 +105974,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 26
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -121615,6 +121685,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -121937,6 +122022,21 @@
           "Type": 68,
           "LocalizedStart": true,
           "Comment": "Legends: #0642"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -123531,6 +123631,21 @@
           "Type": 71,
           "LocalizedStart": true,
           "Comment": "Road to Unova: Raids Timed Research"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -123594,6 +123709,21 @@
           "Type": 71,
           "LocalizedStart": true,
           "Comment": "Road to Unova: Raids Timed Research"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "Type": 11,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -134642,6 +134772,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Enchanted Hollow)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 5
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },

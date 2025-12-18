@@ -233,8 +233,8 @@ public static class BulkActions
         Machop => 2,
         Gastly => 1,
         Krabby => 1,
-        Hitmonlee => 3, // verify
-        Hitmonchan => 3, // verify
+        Hitmonlee => 3,
+        Hitmonchan => 3,
         Chansey => 3,
         Eevee => 2,
         Omanyte => 1,
@@ -246,6 +246,7 @@ public static class BulkActions
         Spheal => 1, // verify
         Beldum => 3,
         Pidove => 1,
+        Roggenrola => 1, // verify
         Woobat => 1,
         Drilbur => 1,
         Darumaka => 2,
@@ -254,6 +255,7 @@ public static class BulkActions
         Inkay => 1,
         Bounsweet => 1,
         Passimian => 3,
+        Drampa => 3, // verify
         Grookey => 1,
         Scorbunny => 1,
         Sobble => 1,
