@@ -186,11 +186,16 @@ public partial class Main : Form
             return comment.Contains($"Mega {(Species)species} Y") ? (byte)(shift + 2) : (byte)(shift + 1);
         }
 
+        else if (species is (int)Species.Absol or (int)Species.Garchomp or (int)Species.Lucario)
+        {
+            return comment.Contains($"Mega {(Species)species} Z") ? (byte)2 : (byte)1;
+        }
+
         return species switch
         {
             (int)Species.Greninja => 3,
             (int)Species.Floette => 6,
-            (int)Species.Meowstic => 2,
+            (int)Species.Meowstic => (byte)(form + 2),
             (int)Species.Zygarde => 5,
             (int)Species.Magearna => (byte)(form + 2),
             (int)Species.Tatsugiri => (byte)(form + 3),
