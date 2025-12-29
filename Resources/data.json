@@ -44937,6 +44937,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -60140,6 +60155,22 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -69427,6 +69458,22 @@
             "Y": 2025,
             "M": 3,
             "D": 22
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
           },
           "Shiny": 1,
           "Type": 10,
@@ -84743,6 +84790,21 @@
             "Y": 2025,
             "M": 12,
             "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -106352,6 +106414,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -108774,6 +108851,21 @@
             "Y": 2025,
             "M": 12,
             "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -130182,6 +130274,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Winter Holiday 2025 Part 1)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 30
+          },
+          "End": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
