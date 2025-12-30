@@ -68102,6 +68102,21 @@
         },
         {
           "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
             "Y": 2026,
             "M": 3,
             "D": 1
@@ -137785,13 +137800,13 @@
             "D": 31
           },
           "End": {
-            "Y": 2025,
-            "M": 12,
-            "D": 31
+            "Y": 2026,
+            "M": 1,
+            "D": 5
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Raid Hour)"
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
