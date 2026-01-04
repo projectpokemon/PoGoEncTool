@@ -221,8 +221,6 @@ public static class BulkActions
         }
     }
 
-    private static bool IsSpecialPokemon(ushort species) => SpeciesCategory.IsLegendary(species) || SpeciesCategory.IsSubLegendary(species) || SpeciesCategory.IsMythical(species) || SpeciesCategory.IsUltraBeast(species) || SpeciesCategory.IsParadox(species);
-
     private static byte GetPowerSpotTier(ushort species) => (Species)species switch
     {
         Bulbasaur => 1,
@@ -255,7 +253,7 @@ public static class BulkActions
         Inkay => 1,
         Bounsweet => 1,
         Passimian => 3,
-        Drampa => 3, // verify
+        Drampa => 3,
         Grookey => 1,
         Scorbunny => 1,
         Sobble => 1,
@@ -266,7 +264,7 @@ public static class BulkActions
         Hatenna => 1,
         Falinks => 3,
         Duraludon => 4,
-        _ when IsSpecialPokemon(species) => 5,
+        _ when SpeciesCategory.IsSpecialPokemon(species) => 5,
         _ => throw new System.Exception("Species has not been released as a Dynamax Pokémon yet."),
     };
 
