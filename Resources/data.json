@@ -101760,6 +101760,21 @@
           "Type": 90,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 5
+          },
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass: January 2026"
         }
       ]
     },
@@ -143993,6 +144008,22 @@
           "Type": 29,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: December 2025"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 13
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: January 2026"
         }
       ]
     },
@@ -144032,6 +144063,22 @@
           "Type": 29,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: December 2025"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 13
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 5
+          },
+          "Shiny": 1,
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: January 2026"
         }
       ]
     },
