@@ -12,6 +12,7 @@ internal static class Program
     [STAThread]
     private static void Main()
     {
+        // Check for command line arguments -- if externally requested to update the pkl files, do only that.
         var args = Environment.GetCommandLineArgs();
         if (args.Length > 1)
         {
@@ -24,14 +25,15 @@ internal static class Program
                 return;
             }
         }
-
-        Application.SetHighDpiMode(HighDpiMode.SystemAware);
         Application.EnableVisualStyles();
         Application.SetCompatibleTextRenderingDefault(false);
         Application.Run(new Main());
     }
 }
 
+/// <summary>
+/// General updater class to update pkl files.
+/// </summary>
 internal static class Updater
 {
     public static void RunUpdater()

@@ -122,6 +122,9 @@ public enum PogoType : byte
 
 public static class PogoTypeExtensions
 {
-    public static bool IsShadow(this PogoType t) => t is RaidShadow or RaidShadowMythical or RaidShadowGOWA or RaidShadowMythicalGOWA or Shadow or ShadowMythical or ShadowUltraBeast;
-    public static bool IsGigantamax(this PogoType t) => t is SpecialGigantamax or SpecialGigantamaxLevel10 or SpecialGigantamaxLevel20 or SpecialGigantamaxLevelRange or TimedGigantamax or TimedGigantamaxLevel10 or TimedGigantamaxLevel20 or TimedGigantamaxLevelRange or MaxBattleGigantamax;
+    extension(PogoType t)
+    {
+        public bool IsShadow => t is RaidShadow or RaidShadowMythical or RaidShadowGOWA or RaidShadowMythicalGOWA or Shadow or ShadowMythical or ShadowUltraBeast;
+        public bool IsGigantamax => t is SpecialGigantamax or SpecialGigantamaxLevel10 or SpecialGigantamaxLevel20 or SpecialGigantamaxLevelRange or TimedGigantamax or TimedGigantamaxLevel10 or TimedGigantamaxLevel20 or TimedGigantamaxLevelRange or MaxBattleGigantamax;
+    }
 }

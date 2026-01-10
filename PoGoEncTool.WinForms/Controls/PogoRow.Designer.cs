@@ -46,30 +46,30 @@ namespace PoGoEncTool.WinForms
             // DT_End
             // 
             DT_End.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            DT_End.Location = new System.Drawing.Point(230, 3);
+            DT_End.Location = new System.Drawing.Point(258, 3);
             DT_End.MinDate = new System.DateTime(2010, 1, 1, 0, 0, 0, 0);
             DT_End.Name = "DT_End";
             DT_End.ShowCheckBox = true;
-            DT_End.Size = new System.Drawing.Size(102, 23);
+            DT_End.Size = new System.Drawing.Size(121, 25);
             DT_End.TabIndex = 0;
             // 
             // DT_Start
             // 
             DT_Start.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
-            DT_Start.Location = new System.Drawing.Point(43, 3);
+            DT_Start.Location = new System.Drawing.Point(47, 3);
             DT_Start.MinDate = new System.DateTime(2010, 1, 1, 0, 0, 0, 0);
             DT_Start.Name = "DT_Start";
             DT_Start.ShowCheckBox = true;
-            DT_Start.Size = new System.Drawing.Size(102, 23);
+            DT_Start.Size = new System.Drawing.Size(121, 25);
             DT_Start.TabIndex = 1;
             // 
             // L_Start
             // 
             L_Start.AutoSize = true;
-            L_Start.Location = new System.Drawing.Point(3, 7);
-            L_Start.Margin = new System.Windows.Forms.Padding(3, 7, 3, 0);
+            L_Start.Location = new System.Drawing.Point(3, 8);
+            L_Start.Margin = new System.Windows.Forms.Padding(3, 8, 3, 0);
             L_Start.Name = "L_Start";
-            L_Start.Size = new System.Drawing.Size(34, 15);
+            L_Start.Size = new System.Drawing.Size(38, 17);
             L_Start.TabIndex = 2;
             L_Start.Text = "Start:";
             // 
@@ -89,16 +89,16 @@ namespace PoGoEncTool.WinForms
             FLP_Parent.Dock = System.Windows.Forms.DockStyle.Fill;
             FLP_Parent.Location = new System.Drawing.Point(0, 0);
             FLP_Parent.Name = "FLP_Parent";
-            FLP_Parent.Size = new System.Drawing.Size(625, 89);
+            FLP_Parent.Size = new System.Drawing.Size(625, 101);
             FLP_Parent.TabIndex = 3;
             // 
             // CHK_Localized
             // 
             CHK_Localized.AutoSize = true;
-            CHK_Localized.Location = new System.Drawing.Point(151, 5);
-            CHK_Localized.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            CHK_Localized.Location = new System.Drawing.Point(174, 6);
+            CHK_Localized.Margin = new System.Windows.Forms.Padding(3, 6, 3, 3);
             CHK_Localized.Name = "CHK_Localized";
-            CHK_Localized.Size = new System.Drawing.Size(37, 19);
+            CHK_Localized.Size = new System.Drawing.Size(39, 21);
             CHK_Localized.TabIndex = 8;
             CHK_Localized.Text = "-1";
             CHK_Localized.UseVisualStyleBackColor = true;
@@ -106,20 +106,20 @@ namespace PoGoEncTool.WinForms
             // L_End
             // 
             L_End.AutoSize = true;
-            L_End.Location = new System.Drawing.Point(194, 7);
-            L_End.Margin = new System.Windows.Forms.Padding(3, 7, 3, 0);
+            L_End.Location = new System.Drawing.Point(219, 8);
+            L_End.Margin = new System.Windows.Forms.Padding(3, 8, 3, 0);
             L_End.Name = "L_End";
-            L_End.Size = new System.Drawing.Size(30, 15);
+            L_End.Size = new System.Drawing.Size(33, 17);
             L_End.TabIndex = 3;
             L_End.Text = "End:";
             // 
             // CHK_EndTolerance
             // 
             CHK_EndTolerance.AutoSize = true;
-            CHK_EndTolerance.Location = new System.Drawing.Point(338, 5);
-            CHK_EndTolerance.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            CHK_EndTolerance.Location = new System.Drawing.Point(385, 6);
+            CHK_EndTolerance.Margin = new System.Windows.Forms.Padding(3, 6, 3, 3);
             CHK_EndTolerance.Name = "CHK_EndTolerance";
-            CHK_EndTolerance.Size = new System.Drawing.Size(40, 19);
+            CHK_EndTolerance.Size = new System.Drawing.Size(43, 21);
             CHK_EndTolerance.TabIndex = 9;
             CHK_EndTolerance.Text = "+1";
             CHK_EndTolerance.UseVisualStyleBackColor = true;
@@ -128,18 +128,18 @@ namespace PoGoEncTool.WinForms
             // 
             CB_Type.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             CB_Type.FormattingEnabled = true;
-            CB_Type.Location = new System.Drawing.Point(384, 3);
+            CB_Type.Location = new System.Drawing.Point(3, 34);
             CB_Type.Name = "CB_Type";
-            CB_Type.Size = new System.Drawing.Size(220, 23);
+            CB_Type.Size = new System.Drawing.Size(220, 25);
             CB_Type.TabIndex = 5;
             // 
             // CHK_Shiny
             // 
             CHK_Shiny.AutoSize = true;
-            CHK_Shiny.Location = new System.Drawing.Point(3, 34);
-            CHK_Shiny.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            CHK_Shiny.Location = new System.Drawing.Point(229, 37);
+            CHK_Shiny.Margin = new System.Windows.Forms.Padding(3, 6, 3, 3);
             CHK_Shiny.Name = "CHK_Shiny";
-            CHK_Shiny.Size = new System.Drawing.Size(55, 19);
+            CHK_Shiny.Size = new System.Drawing.Size(57, 21);
             CHK_Shiny.TabIndex = 6;
             CHK_Shiny.Text = "Shiny";
             CHK_Shiny.ThreeState = true;
@@ -148,10 +148,10 @@ namespace PoGoEncTool.WinForms
             // CHK_MaleOnly
             // 
             CHK_MaleOnly.AutoSize = true;
-            CHK_MaleOnly.Location = new System.Drawing.Point(64, 34);
-            CHK_MaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            CHK_MaleOnly.Location = new System.Drawing.Point(292, 37);
+            CHK_MaleOnly.Margin = new System.Windows.Forms.Padding(3, 6, 3, 3);
             CHK_MaleOnly.Name = "CHK_MaleOnly";
-            CHK_MaleOnly.Size = new System.Drawing.Size(80, 19);
+            CHK_MaleOnly.Size = new System.Drawing.Size(86, 21);
             CHK_MaleOnly.TabIndex = 10;
             CHK_MaleOnly.Text = "Only Male";
             CHK_MaleOnly.UseVisualStyleBackColor = true;
@@ -159,10 +159,10 @@ namespace PoGoEncTool.WinForms
             // CHK_FemaleOnly
             // 
             CHK_FemaleOnly.AutoSize = true;
-            CHK_FemaleOnly.Location = new System.Drawing.Point(150, 34);
-            CHK_FemaleOnly.Margin = new System.Windows.Forms.Padding(3, 5, 3, 3);
+            CHK_FemaleOnly.Location = new System.Drawing.Point(384, 37);
+            CHK_FemaleOnly.Margin = new System.Windows.Forms.Padding(3, 6, 3, 3);
             CHK_FemaleOnly.Name = "CHK_FemaleOnly";
-            CHK_FemaleOnly.Size = new System.Drawing.Size(92, 19);
+            CHK_FemaleOnly.Size = new System.Drawing.Size(98, 21);
             CHK_FemaleOnly.TabIndex = 11;
             CHK_FemaleOnly.Text = "Only Female";
             CHK_FemaleOnly.UseVisualStyleBackColor = true;
@@ -170,18 +170,18 @@ namespace PoGoEncTool.WinForms
             // TB_Comment
             // 
             TB_Comment.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right;
-            TB_Comment.Location = new System.Drawing.Point(3, 59);
+            TB_Comment.Location = new System.Drawing.Point(3, 65);
             TB_Comment.Name = "TB_Comment";
-            TB_Comment.Size = new System.Drawing.Size(601, 23);
+            TB_Comment.Size = new System.Drawing.Size(613, 25);
             TB_Comment.TabIndex = 7;
             // 
             // PogoRow
             // 
-            AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             Controls.Add(FLP_Parent);
             Name = "PogoRow";
-            Size = new System.Drawing.Size(625, 89);
+            Size = new System.Drawing.Size(625, 101);
             FLP_Parent.ResumeLayout(false);
             FLP_Parent.PerformLayout();
             ResumeLayout(false);

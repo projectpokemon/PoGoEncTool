@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Windows.Forms;
@@ -24,10 +25,16 @@ public partial class Main : Form
 
     public Main()
     {
+        Entries = DataLoader.GetData(Application.StartupPath, out Settings);
+        if (Settings.IsDarkMode)
+            Application.SetColorMode(SystemColorMode.Dark);
+
         InitializeComponent();
         SpriteUtil.ChangeMode(SpriteBuilderMode.SpritesArtwork5668);
 
-        Entries = DataLoader.GetData(Application.StartupPath, out Settings);
+        if (Application.IsDarkModeEnabled)
+            ReformatDark(Controls);
+
         // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = Core.PogoType.Shadow);
         // BulkActions.AddBossEncounters(Entries);
         // BulkActions.AddNewShadows(Entries);
@@ -35,6 +42,21 @@ public partial class Main : Form
 
         LoadEntries();
         InitializeDataSources();
+    }
+
+    private static void ReformatDark(Control.ControlCollection controls)
+    {
+        foreach (Control control in controls)
+        {
+            ReformatDark(control.Controls);
+
+            if (control is ListBox lb)
+                lb.BorderStyle = BorderStyle.None;
+            else if (control is Button b)
+                b.FlatStyle = FlatStyle.Popup;
+            else if (control is TextBoxBase t)
+                t.BorderStyle = BorderStyle.None;
+        }
     }
 
     private void InitializeDataSources()
@@ -62,7 +84,8 @@ public partial class Main : Form
             return;
 
         System.Media.SystemSounds.Asterisk.Play();
-        var prompt = WinFormsUtil.Prompt(MessageBoxButtons.YesNo, $"Changes were last saved {delta:g} ago. Are you sure you want to exit?");
+        var formatted = string.Format("{0:%h}h {0:%m}m {0:%s}.{0:ff}s", delta);
+        var prompt = WinFormsUtil.Prompt(MessageBoxButtons.YesNo, $"Changes were last saved {formatted} ago. Are you sure you want to exit?");
         if (prompt != DialogResult.Yes)
             e.Cancel = true;
     }
@@ -111,7 +134,7 @@ public partial class Main : Form
         var prefer = species switch
         {
           //(ushort)Species.Minior => 7,
-            (ushort)Species.Gimmighoul => 1,
+            (ushort)Species.Gimmighoul => 1, // GO is always Roaming Form
             _ => 0,
         };
         CB_Form.Items.Clear();
@@ -173,20 +196,32 @@ public partial class Main : Form
 
         var gender = (byte)(entry.Gender - 1);
         var shiny = entry.Shiny == PogoShiny.Always ? Shiny.Always : Shiny.Never;
-        PB_Poke.Image = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny, Latest.Context);
+        var img = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny, Latest.Context);
+        PB_Poke.Image = ResizeBitmap(img, PB_Poke.Width, PB_Poke.Height); // Assign scaled image  
 
         pogoRow1.LoadEntry(CurrentEntry = entry);
     }
 
-    private byte GetMegaFormIndex(string comment, ushort species, byte form)
+    private static Bitmap ResizeBitmap(Bitmap img, int width, int height)
     {
+        var result = new Bitmap(width, height);
+        using var g = Graphics.FromImage(result);
+        g.InterpolationMode = System.Drawing.Drawing2D.InterpolationMode.NearestNeighbor;
+        g.DrawImage(img, 0, 0, width, height);
+        return result;
+    }
+
+    private static byte GetMegaFormIndex(string comment, ushort species, byte form)
+    {
+        // XY Mega
         if (species is (int)Species.Charizard or (int)Species.Raichu or (int)Species.Mewtwo)
         {
             var shift = species is (int)Species.Raichu ? 1 : 0;
             return comment.Contains($"Mega {(Species)species} Y") ? (byte)(shift + 2) : (byte)(shift + 1);
         }
 
-        else if (species is (int)Species.Absol or (int)Species.Garchomp or (int)Species.Lucario)
+        // *Z Mega
+        if (species is (int)Species.Absol or (int)Species.Garchomp or (int)Species.Lucario)
         {
             return comment.Contains($"Mega {(Species)species} Z") ? (byte)2 : (byte)1;
         }
@@ -418,6 +453,16 @@ public partial class Main : Form
 
         var path = Path.Combine(Directory.GetCurrentDirectory(), "encounter_dump.txt");
         File.WriteAllLines(path, list);
+
+        // start explorer process
+        var psi = new ProcessStartInfo
+        {
+            FileName = "explorer.exe",
+            Arguments = $"/select,\"{path}\"",
+            UseShellExecute = true,
+        };
+        Process.Start(psi);
+
         System.Media.SystemSounds.Asterisk.Play();
     }
 }

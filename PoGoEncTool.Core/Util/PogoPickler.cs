@@ -31,7 +31,7 @@ public static class PogoPickler
     {
         using var ms = new MemoryStream();
         using var bw = new BinaryWriter(ms);
-        entry.Data.RemoveAll(z => z.Type.IsGigantamax());
+        entry.Data.RemoveAll(z => z.Type.IsGigantamax);
 
         bw.Write(entry.Species);
         bw.Write(entry.Form);
@@ -134,7 +134,7 @@ public static class PogoPickler
         for (var i = 0; i < all.Length; i++)
         {
             var entry = all[i];
-            entry.Data.RemoveAll(z => z.Type.IsShadow());
+            entry.Data.RemoveAll(z => z.Type.IsShadow);
             result[i] = GetBinary(entry);
         }
 
