@@ -2,7 +2,7 @@
 Tracks Pokémon GO Legality data as json, and can output as a PKHeX Legality Binary (pkl), sometimes referred to as a pickle.
 
 ## Building
-PGET is a Windows Forms application which requires [.NET 9.0](https://dotnet.microsoft.com/download/dotnet/9.0).
+PGET is a Windows Forms application which requires [.NET 10.0](https://dotnet.microsoft.com/download/dotnet/9.0).
 
 ## Updating the JSON
 1. Build the program.
@@ -14,4 +14,4 @@ PGET is a Windows Forms application which requires [.NET 9.0](https://dotnet.mic
 Periodically, the generated pkl will be merged into PKHeX for legality data.
 
 ## Screenshots
-![Main Window](https://i.imgur.com/Quzz6rm.png)
+![Main Window](https://i.imgur.com/gWJVQDy.png)

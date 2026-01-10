@@ -196,31 +196,21 @@ public partial class Main : Form
 
         var gender = (byte)(entry.Gender - 1);
         var shiny = entry.Shiny == PogoShiny.Always ? Shiny.Always : Shiny.Never;
-        var img = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny, Latest.Context);
-        PB_Poke.Image = ResizeBitmap(img, PB_Poke.Width, PB_Poke.Height); // Assign scaled image  
+        PB_Poke.Image = SpriteUtil.GetSprite(species, form, gender, 0, 0, false, shiny, Latest.Context);
 
         pogoRow1.LoadEntry(CurrentEntry = entry);
     }
 
-    private static Bitmap ResizeBitmap(Bitmap img, int width, int height)
-    {
-        var result = new Bitmap(width, height);
-        using var g = Graphics.FromImage(result);
-        g.InterpolationMode = System.Drawing.Drawing2D.InterpolationMode.NearestNeighbor;
-        g.DrawImage(img, 0, 0, width, height);
-        return result;
-    }
-
     private static byte GetMegaFormIndex(string comment, ushort species, byte form)
     {
-        // XY Mega
+        // Mega X, Mega Y
         if (species is (int)Species.Charizard or (int)Species.Raichu or (int)Species.Mewtwo)
         {
             var shift = species is (int)Species.Raichu ? 1 : 0;
             return comment.Contains($"Mega {(Species)species} Y") ? (byte)(shift + 2) : (byte)(shift + 1);
         }
 
-        // *Z Mega
+        // Mega Z
         if (species is (int)Species.Absol or (int)Species.Garchomp or (int)Species.Lucario)
         {
             return comment.Contains($"Mega {(Species)species} Z") ? (byte)2 : (byte)1;
