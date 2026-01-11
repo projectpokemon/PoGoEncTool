@@ -137880,16 +137880,6 @@
             "M": 4,
             "D": 9
           },
-          "Type": 24,
-          "LocalizedStart": true,
-          "Comment": "Inbound from Ultra Space Timed Research"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 4,
-            "D": 9
-          },
           "Type": 74,
           "LocalizedStart": true,
           "Comment": "Ultra Beast Encounter: Stakataka"
@@ -138067,16 +138057,6 @@
             "M": 4,
             "D": 9
           },
-          "Type": 24,
-          "LocalizedStart": true,
-          "Comment": "Inbound from Ultra Space Timed Research"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 4,
-            "D": 9
-          },
           "Type": 74,
           "LocalizedStart": true,
           "Comment": "Ultra Beast Encounter: Blacephalon"
@@ -138095,6 +138075,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 12,
+            "D": 31
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 3
+          },
+          "Type": 90,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Precious Paths)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 10
+          },
+          "Type": 68,
+          "LocalizedStart": true,
+          "Comment": "Raid Hour: Blacephalon"
         }
       ]
     },
@@ -143175,11 +143180,11 @@
           "Start": {
             "Y": 2025,
             "M": 11,
-            "D": 7
+            "D": 15
           },
-          "Type": 24,
+          "Type": 20,
           "LocalizedStart": true,
-          "Comment": "Don\u0027t Tinkatink Twice! Premium Timed Research"
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
         }
       ]
     },
