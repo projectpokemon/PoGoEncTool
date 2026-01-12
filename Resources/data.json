@@ -5968,6 +5968,21 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pyeongchang Winter Festival 2026, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 2,
             "D": 28
           },
@@ -110393,6 +110408,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Winter Holiday 2025 Part 2)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pyeongchang Winter Festival 2026"
         }
       ]
     },
@@ -114186,6 +114216,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Precious Paths (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 19
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pyeongchang Winter Festival 2026)"
         }
       ]
     },
