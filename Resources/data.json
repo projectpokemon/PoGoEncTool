@@ -54473,6 +54473,11 @@
             "M": 9,
             "D": 16
           },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 22
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
@@ -64477,6 +64482,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Ended Early)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 24
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 24
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss (Raikou Shadow Raid Day)"
         }
       ]
     },
@@ -65613,6 +65633,11 @@
             "Y": 2025,
             "M": 9,
             "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 22
           },
           "Type": 100,
           "LocalizedStart": true,
@@ -82403,6 +82428,11 @@
             "Y": 2025,
             "M": 9,
             "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 22
           },
           "Type": 100,
           "LocalizedStart": true,
@@ -122069,6 +122099,11 @@
             "M": 9,
             "D": 16
           },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 100,
           "LocalizedStart": true,
@@ -122425,6 +122460,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Boss Giovanni"
         }
       ]
     },
