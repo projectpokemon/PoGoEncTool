@@ -143439,6 +143439,44 @@
       "Data": []
     },
     {
+      "Species": 969,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Route Encounter (Into the Depths)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 27
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Into the Depths"
+        }
+      ]
+    },
+    {
+      "Species": 970,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 971,
       "Available": true,
       "Data": [
