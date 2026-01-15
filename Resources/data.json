@@ -4821,6 +4821,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -83748,6 +83763,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -113344,6 +113374,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -139123,7 +139168,24 @@
     {
       "Species": 820,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 821,
@@ -140209,6 +140271,21 @@
           "Type": 24,
           "LocalizedStart": true,
           "Comment": "Just My Cup of Tea Timed Research: Prized Possession"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -140347,6 +140424,21 @@
           "Type": 24,
           "LocalizedStart": true,
           "Comment": "Just My Cup of Tea Timed Research: Prized Possession"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -142809,6 +142901,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Harvest Festival 2024"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -143586,7 +143693,24 @@
     {
       "Species": 975,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 977,
