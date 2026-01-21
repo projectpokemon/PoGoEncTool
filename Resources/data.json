@@ -16101,6 +16101,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 20
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 28
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global, Day 1)"
         }
       ]
     },
@@ -128007,7 +128037,38 @@
     {
       "Species": 687,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 20
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 1
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global, Day 2)"
+        }
+      ]
     },
     {
       "Species": 688,
