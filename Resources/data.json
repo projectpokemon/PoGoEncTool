@@ -7221,6 +7221,22 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 26
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 8,
             "D": 21
           },
@@ -10095,6 +10111,22 @@
         },
         {
           "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 19
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Noxious Swamp)"
+        },
+        {
+          "Start": {
             "Y": 2024,
             "M": 1,
             "D": 25
@@ -10184,6 +10216,22 @@
           "Shiny": 1,
           "Type": 254,
           "Comment": "Version 0.269.0 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss (Halloween 2023 Part II \u2013 Team GO Rocket Takeover)"
         },
         {
           "Start": {
@@ -11717,6 +11765,36 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 25
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -14374,6 +14452,22 @@
         {
           "Start": {
             "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
             "M": 7,
             "D": 15
           },
@@ -14415,6 +14509,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 23
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -15087,6 +15197,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 14
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -15911,12 +16036,42 @@
         {
           "Start": {
             "Y": 2023,
+            "M": 5,
+            "D": 22
+          },
+          "End": {
+            "Y": 2023,
+            "M": 5,
+            "D": 28
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Rising Shadows)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
             "M": 10,
             "D": 26
           },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Decoy Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 8,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 15
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -19238,6 +19393,36 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 14
+          },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -20696,6 +20881,21 @@
         },
         {
           "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Halloween 2023 Part II \u2013 Team GO Rocket Takeover)"
+        },
+        {
+          "Start": {
             "Y": 2024,
             "M": 4,
             "D": 18
@@ -21753,6 +21953,22 @@
           },
           "Type": 254,
           "Comment": "Version 0.269.0 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Halloween 2023 Part II \u2013 Team GO Rocket Takeover)"
         },
         {
           "Start": {
@@ -40521,6 +40737,21 @@
         },
         {
           "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": {
             "Y": 2025,
             "M": 6,
             "D": 23
@@ -44514,6 +44745,22 @@
         {
           "Start": {
             "Y": 2023,
+            "M": 6,
+            "D": 5
+          },
+          "End": {
+            "Y": 2023,
+            "M": 8,
+            "D": 19
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
             "M": 7,
             "D": 13
           },
@@ -44525,6 +44772,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 8,
+            "D": 23
+          },
+          "End": {
+            "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -46592,6 +46855,22 @@
           "Start": {
             "Y": 2023,
             "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 9,
             "D": 16
           },
           "End": {
@@ -46602,6 +46881,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -46688,6 +46983,22 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -47575,6 +47886,21 @@
             "M": 3,
             "D": 26
           },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 26
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
@@ -48106,6 +48432,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Halloween 2023 Part II \u2013 Team GO Rocket Takeover)"
         },
         {
           "Start": {
@@ -55003,6 +55345,21 @@
         {
           "Start": {
             "Y": 2023,
+            "M": 9,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 25
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
             "M": 10,
             "D": 6
           },
@@ -55014,6 +55371,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2023,
+            "M": 12,
+            "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 26
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -55587,6 +55974,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
         },
         {
           "Start": {
@@ -61639,6 +62041,22 @@
             "D": 27
           },
           "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 26
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
             "Y": 2025,
             "M": 8,
             "D": 7
@@ -63867,6 +64285,22 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 3,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -71116,6 +71550,22 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -74157,6 +74607,36 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 20
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss (Honolulu 2024 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 10,
+            "D": 8
+          },
+          "End": {
+            "Y": 2025,
+            "M": 1,
+            "D": 14
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -79890,10 +80370,42 @@
             "M": 8,
             "D": 8
           },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 8
+          },
           "Shiny": 1,
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 8,
+            "D": 21
+          },
+          "End": {
+            "Y": 2024,
+            "M": 9,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -99677,6 +100189,22 @@
             "D": 26
           },
           "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 26
+          },
+          "Shiny": 1,
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
@@ -108238,6 +108766,22 @@
             "M": 5,
             "D": 14
           },
+          "End": {
+            "Y": 2025,
+            "M": 8,
+            "D": 10
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 14
+          },
           "Shiny": 1,
           "Type": 100,
           "LocalizedStart": true,
@@ -114719,6 +115263,22 @@
         {
           "Start": {
             "Y": 2024,
+            "M": 3,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 8,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2024,
             "M": 4,
             "D": 4
           },
@@ -117496,6 +118056,22 @@
             "D": 26
           },
           "End": {
+            "Y": 2023,
+            "M": 10,
+            "D": 31
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss (Halloween 2023 Part II \u2013 Team GO Rocket Takeover)"
+        },
+        {
+          "Start": {
+            "Y": 2023,
+            "M": 10,
+            "D": 26
+          },
+          "End": {
             "Y": 2024,
             "M": 1,
             "D": 26
@@ -119916,6 +120492,22 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO Fest 2023: New York City (Cursed Treasures)"
+        },
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2024,
+            "M": 3,
+            "D": 26
+          },
+          "Shiny": 1,
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         },
         {
           "Start": {
