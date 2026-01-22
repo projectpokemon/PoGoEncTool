@@ -33779,6 +33779,11 @@
             "M": 5,
             "D": 8
           },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 22
+          },
           "Shiny": 1,
           "Type": 100,
           "LocalizedStart": true,
@@ -33827,6 +33832,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 23
+          },
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Cliff"
         }
       ]
     },
@@ -45990,6 +46005,16 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 23
+          },
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Sierra"
         }
       ]
     },
@@ -74998,6 +75023,11 @@
             "M": 3,
             "D": 25
           },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 22
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
@@ -75299,6 +75329,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 23
+          },
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Leader Arlo"
         }
       ]
     },
