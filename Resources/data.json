@@ -4028,6 +4028,21 @@
           "Start": {
             "Y": 2026,
             "M": 2,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
             "D": 28
           },
           "End": {
@@ -13387,6 +13402,16 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 9
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -74853,6 +74878,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -85273,6 +85313,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 21
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         },
         {
           "Start": {
@@ -103668,6 +103723,21 @@
             "Y": 2025,
             "M": 10,
             "D": 1
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 1
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 4
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -124055,6 +124125,21 @@
           "Type": 68,
           "LocalizedStart": true,
           "Comment": "Legends: #0645"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -137216,6 +137301,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 21
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -137233,6 +137334,22 @@
             "Y": 2025,
             "M": 7,
             "D": 28
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 21
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 4
           },
           "Shiny": 1,
           "Type": 10,
