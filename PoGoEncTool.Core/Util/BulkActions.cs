@@ -245,7 +245,7 @@ public static class BulkActions
         Spheal => 1,
         Beldum => 3,
         Pidove => 1,
-        Roggenrola => 1, // verify
+        Roggenrola => 1,
         Woobat => 1,
         Drilbur => 1,
         Darumaka => 2,

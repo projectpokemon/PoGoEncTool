@@ -39207,6 +39207,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9Park KANTO Pre-Opening)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 10,
+            "D": 1
+          },
+          "End": {
+            "Y": 2027,
+            "M": 1,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9Park KANTO)"
         }
       ]
     },
@@ -39779,6 +39794,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "Five-Star Power Spot Boss (Dark Skies, Days 2 and 3)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9Park KANTO)"
         }
       ]
     },
@@ -40290,6 +40320,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "Five-Star Power Spot Boss (Dark Skies, Days 2 and 3)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 1
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9Park KANTO)"
         }
       ]
     },
@@ -50987,16 +51032,11 @@
           "Start": {
             "Y": 2026,
             "M": 2,
-            "D": 28
-          },
-          "End": {
-            "Y": 2026,
-            "M": 3,
-            "D": 1
+            "D": 5
           },
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Tour: Kalos \u2013 Global"
+          "Comment": "Pok\u00E9Park KANTO"
         }
       ]
     },
@@ -52290,6 +52330,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: S\u00E3o Paulo 2024"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 5
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9Park KANTO"
         }
       ]
     },
