@@ -17888,6 +17888,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt (Accidental Release)"
         }
       ]
     },
@@ -37050,6 +37066,22 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Grunt (Accidental Release)"
         }
       ]
     },
