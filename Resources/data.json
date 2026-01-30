@@ -102918,6 +102918,36 @@
           "Start": {
             "Y": 2026,
             "M": 2,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 3
+          },
+          "Type": 90,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Precious Paths)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
             "D": 26
           },
           "End": {
@@ -103342,6 +103372,36 @@
           "Type": 68,
           "LocalizedStart": true,
           "Comment": "GO Pass: December 2025"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 3
+          },
+          "Type": 90,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (GO Battle Week: Precious Paths)"
         },
         {
           "Start": {
@@ -124511,21 +124571,6 @@
           "Type": 68,
           "LocalizedStart": true,
           "Comment": "Legends: #0645"
-        },
-        {
-          "Start": {
-            "Y": 2026,
-            "M": 2,
-            "D": 4
-          },
-          "End": {
-            "Y": 2026,
-            "M": 2,
-            "D": 16
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
