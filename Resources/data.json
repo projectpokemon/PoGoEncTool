@@ -76118,21 +76118,6 @@
           "Start": {
             "Y": 2025,
             "M": 11,
-            "D": 7
-          },
-          "End": {
-            "Y": 2025,
-            "M": 11,
-            "D": 9
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
-        },
-        {
-          "Start": {
-            "Y": 2025,
-            "M": 11,
             "D": 15
           },
           "End": {
@@ -76146,21 +76131,6 @@
         },
         {
           "Start": {
-            "Y": 2025,
-            "M": 11,
-            "D": 15
-          },
-          "End": {
-            "Y": 2025,
-            "M": 11,
-            "D": 16
-          },
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
-        },
-        {
-          "Start": {
             "Y": 2026,
             "M": 1,
             "D": 23
@@ -76168,6 +76138,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 27
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 27
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Route Encounter (Into the Depths, Accidental Release)"
         }
       ]
     },
