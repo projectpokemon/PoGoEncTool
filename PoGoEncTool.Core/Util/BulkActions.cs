@@ -29,23 +29,23 @@ public static class BulkActions
             var pkm = list.GetDetails(enc.Species, enc.Form);
             var boss = Type switch
             {
-                BossType.Shadow => "Shadow Raid Boss",
-                BossType.Dynamax or BossType.Gigantamax => "Power Spot Boss",
+                BossType.ShadowRaid => "Shadow Raid Boss",
+                BossType.MaxBattleDynamax or BossType.MaxBattleGigantamax => "Power Spot Boss",
                 _ => "Raid Boss"
             };
 
             var type = Type switch
             {
-                BossType.Shadow => RaidShadow,
-                BossType.Dynamax => MaxBattle,
-                BossType.Gigantamax => MaxBattleGigantamax,
+                BossType.ShadowRaid => RaidShadow,
+                BossType.MaxBattleDynamax => MaxBattle,
+                BossType.MaxBattleGigantamax => MaxBattleGigantamax,
                 _ => Raid,
             };
 
             var tier = Type switch
             {
-                BossType.Dynamax => GetPowerSpotTier(enc.Species),
-                BossType.Gigantamax => (byte)6,
+                BossType.MaxBattleDynamax => GetPowerSpotTier(enc.Species),
+                BossType.MaxBattleGigantamax => (byte)6,
                 _ => enc.Tier,
 
             };
@@ -185,9 +185,9 @@ public static class BulkActions
             new((int)Bulbasaur, 0),
         };
 
-        var added = new List<(ushort Species, byte Form, PogoShiny Shiny)>
+        var added = new List<(ushort Species, byte Form)>
         {
-            new((int)Bulbasaur, 0, Never),
+            new((int)Bulbasaur, 0),
         };
 
         // add end dates for Shadows that have been removed
@@ -204,9 +204,10 @@ public static class BulkActions
         }
 
         // add new Shadows
-        foreach ((ushort s, byte f, PogoShiny shiny) in added)
+        foreach ((ushort s, byte f) in added)
         {
             var pkm = list.GetDetails(s, f);
+            var shiny = CanBeShinyShadow(s, f) ? Random : Never;
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
@@ -220,6 +221,92 @@ public static class BulkActions
             pkm.Add(entry);
         }
     }
+
+    private static bool CanBeShinyShadow(ushort species, byte form) => (Species)species switch
+    {
+        Bulbasaur => true,
+        Charmander => true,
+        Squirtle => true,
+        Ekans => true,
+        NidoranF => true,
+        NidoranM => true,
+        Zubat => true,
+        Venonat => true,
+        Meowth when form == 0 => true,
+        Growlithe when form == 0 => true,
+        Poliwag => true,
+        Machop => true,
+        Bellsprout => true,
+        Tentacool => true,
+        Geodude when form == 0 => true,
+        Magnemite => true,
+        Grimer => true,
+        Drowzee => true,
+        Exeggcute => true,
+        Cubone => true,
+        Koffing => true,
+        Horsea => true,
+        Scyther => true,
+        Pinsir => true,
+        Magikarp => true,
+        Lapras => true,
+        Omanyte => true,
+        Aerodactyl => true,
+        Articuno when form == 0 => true,
+        Zapdos when form == 0 => true,
+        Moltres when form == 0 => true,
+        Dratini => true,
+        Mewtwo => true,
+        Chikorita => true,
+        Cyndaquil => true,
+        Totodile => true,
+        Hoppip => true,
+        Aipom => true,
+        Murkrow => true,
+        Wobbuffet => true,
+        Pineco => true,
+        Gligar => true,
+        Snubbull => true,
+        Sneasel when form == 0 => true,
+        Teddiursa => true,
+        Swinub => true,
+        Stantler => true,
+        Raikou => true,
+        Entei => true,
+        Suicune => true,
+        Larvitar => true,
+        Lugia => true,
+        HoOh => true,
+        Poochyena => true,
+        Zigzagoon when form == 1 => true,
+        Seedot => true,
+        Ralts => true,
+        Sableye => true,
+        Mawile => true,
+        Carvanha => true,
+        Trapinch => true,
+        Cacnea => true,
+        Lileep => true,
+        Anorith => true,
+        Feebas => true,
+        Absol => true,
+        Bagon => true,
+        Beldum => true,
+        Regirock => true,
+        Regice => true,
+        Registeel => true,
+        Latias => true,
+        Latios => true,
+        Kyogre => true,
+        Groudon => true,
+        Gible => true,
+        Skorupi => true,
+        Heatran => true,
+        Regigigas => true,
+        Cresselia => true,
+        Darkrai => true,
+        _ => false,
+    };
 
     private static byte GetPowerSpotTier(ushort species) => (Species)species switch
     {
@@ -272,9 +359,9 @@ public static class BulkActions
     public enum BossType : byte
     {
         Raid = 0,
-        Shadow = 1,
-        Dynamax = 2,
-        Gigantamax = 3,
+        ShadowRaid = 1,
+        MaxBattleDynamax = 2,
+        MaxBattleGigantamax = 3,
     }
 }
 #endif
