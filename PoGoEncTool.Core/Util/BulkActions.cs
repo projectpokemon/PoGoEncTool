@@ -311,7 +311,7 @@ public static class BulkActions
         Charmander => 1,
         Squirtle => 1,
         Caterpie => 1,
-        Growlithe => 1, // verify
+        Growlithe => 1,
         Abra => 1,
         Machop => 2,
         Gastly => 1,
