@@ -85934,32 +85934,17 @@
         {
           "Start": {
             "Y": 2026,
-            "M": 2,
-            "D": 21
+            "M": 3,
+            "D": 1
           },
           "End": {
             "Y": 2026,
             "M": 3,
-            "D": 4
+            "D": 3
           },
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
-        },
-        {
-          "Start": {
-            "Y": 2026,
-            "M": 3,
-            "D": 1
-          },
-          "End": {
-            "Y": 2026,
-            "M": 3,
-            "D": 1
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global, Day 2)"
         }
       ]
     },
@@ -104610,7 +104595,7 @@
           "End": {
             "Y": 2026,
             "M": 3,
-            "D": 3
+            "D": 2
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -138502,8 +138487,24 @@
           },
           "End": {
             "Y": 2026,
+            "M": 2,
+            "D": 22
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 3,
-            "D": 4
+            "D": 2
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 3
           },
           "Shiny": 1,
           "Type": 10,
