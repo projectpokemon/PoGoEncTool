@@ -84,7 +84,7 @@ namespace PoGoEncTool.WinForms
             pogoRow1.Location = new System.Drawing.Point(287, 11);
             pogoRow1.Margin = new System.Windows.Forms.Padding(5, 4, 5, 4);
             pogoRow1.Name = "pogoRow1";
-            pogoRow1.Size = new System.Drawing.Size(937, 58);
+            pogoRow1.Size = new System.Drawing.Size(933, 58);
             pogoRow1.TabIndex = 4;
             // 
             // LB_Appearances
@@ -93,7 +93,7 @@ namespace PoGoEncTool.WinForms
             LB_Appearances.FormattingEnabled = true;
             LB_Appearances.Location = new System.Drawing.Point(287, 71);
             LB_Appearances.Name = "LB_Appearances";
-            LB_Appearances.Size = new System.Drawing.Size(991, 454);
+            LB_Appearances.Size = new System.Drawing.Size(987, 454);
             LB_Appearances.TabIndex = 5;
             LB_Appearances.SelectedIndexChanged += LB_Appearances_SelectedIndexChanged;
             // 
@@ -129,7 +129,7 @@ namespace PoGoEncTool.WinForms
             // B_Save
             // 
             B_Save.Anchor = System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right;
-            B_Save.Location = new System.Drawing.Point(1208, 13);
+            B_Save.Location = new System.Drawing.Point(1204, 13);
             B_Save.Name = "B_Save";
             B_Save.Size = new System.Drawing.Size(70, 45);
             B_Save.TabIndex = 13;
@@ -215,7 +215,7 @@ namespace PoGoEncTool.WinForms
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            ClientSize = new System.Drawing.Size(1288, 536);
+            ClientSize = new System.Drawing.Size(1284, 536);
             Controls.Add(B_DumpAll);
             Controls.Add(B_DeleteAll);
             Controls.Add(B_CopyToForms);
@@ -232,7 +232,8 @@ namespace PoGoEncTool.WinForms
             Controls.Add(CB_Species);
             Controls.Add(LB_Species);
             Controls.Add(PB_Poke);
-            MinimumSize = new System.Drawing.Size(800, 400);
+            MaximumSize = new System.Drawing.Size(1300, 575);
+            MinimumSize = new System.Drawing.Size(1300, 575);
             Name = "Main";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "PoGoEncTool";
