@@ -2176,7 +2176,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles, Mega Charizard X)"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Mega Night, Mega Charizard X)"
         },
         {
           "Start": {
@@ -41646,6 +41646,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon Concierge Celebration Event)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 20
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Mega Night)"
         }
       ]
     },
@@ -45587,7 +45602,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles)"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Mega Night)"
         }
       ]
     },
@@ -68348,7 +68363,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles)"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Mega Night)"
         },
         {
           "Start": {
@@ -81975,7 +81990,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles)"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Mega Night)"
         }
       ]
     },
@@ -88200,7 +88215,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles)"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Mega Night)"
         },
         {
           "Start": {
@@ -99617,7 +99632,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles)"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Mega Night)"
         },
         {
           "Start": {
@@ -132954,6 +132969,16 @@
           "Start": {
             "Y": 2026,
             "M": 2,
+            "D": 20
+          },
+          "Type": 48,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Tour 2026: A Balancing Act"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
             "D": 28
           },
           "End": {
@@ -133212,6 +133237,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 20
+          },
+          "Type": 48,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Tour 2026: A Balancing Act"
         },
         {
           "Start": {
