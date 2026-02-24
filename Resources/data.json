@@ -6035,6 +6035,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Road to Kalos / Pok\u00E9mon GO Tour: Kalos \u2013 Global, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
@@ -19286,6 +19296,21 @@
             "Y": 2025,
             "M": 8,
             "D": 18
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 18
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 24
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -33801,6 +33826,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -39569,6 +39609,21 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 3,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 10,
             "D": 1
           },
@@ -40693,6 +40748,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Road to Kalos, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 10
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         },
         {
           "Start": {
@@ -56724,6 +56794,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -63479,6 +63564,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Mighty Pok\u00E9mon (Pok\u00E9mon GO Wild Area 2025: Global)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -90297,6 +90397,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 29
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Power Spot Boss"
         }
       ]
     },
@@ -91279,6 +91394,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 31
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -144114,6 +144244,21 @@
           },
           "Type": 10,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -144329,6 +144474,21 @@
           },
           "Type": 10,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 18
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -144514,6 +144674,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Ancients Recovered, Days 2 and 5)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
