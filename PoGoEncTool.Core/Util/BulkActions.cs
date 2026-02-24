@@ -54,6 +54,7 @@ public static class BulkActions
             var eventName = "";
             var descriptor = eventName is "" ? "" : $" ({eventName})";
             var comment = $"{stars}-Star {boss}{descriptor}";
+            var shiny = Type != BossType.ShadowRaid ? enc.Shiny : CanBeShinyShadow(pkm.Species, pkm.Form) ? Random : Never;
 
             var entry = new PogoEntry
             {
@@ -63,7 +64,7 @@ public static class BulkActions
                 LocalizedStart = true,
                 NoEndTolerance = false,
                 Comment = comment,
-                Shiny = enc.Shiny,
+                Shiny = shiny,
             };
 
             // set species as available if this encounter is its debut
