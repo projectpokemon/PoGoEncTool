@@ -115683,6 +115683,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Tales of Transformation (Southern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 3
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 2
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Memories in Motion (Northern Hemisphere)"
         }
       ]
     },
@@ -116149,6 +116164,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Tales of Transformation (Northern Hemisphere)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 3
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 2
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Memories in Motion (Southern Hemisphere)"
         }
       ]
     },
@@ -129903,16 +129933,6 @@
             "M": 2,
             "D": 20
           },
-          "Type": 2,
-          "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO: Precious Paths"
-        },
-        {
-          "Start": {
-            "Y": 2026,
-            "M": 2,
-            "D": 20
-          },
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Kalos \u2013 Tainan / Los Angeles"
@@ -129931,6 +129951,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 28
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Precious Paths"
         }
       ]
     },
@@ -142671,6 +142701,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 3
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO: Memories in Motion"
         }
       ]
     },
