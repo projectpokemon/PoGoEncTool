@@ -33841,6 +33841,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Bug Out! 2026)"
         }
       ]
     },
@@ -57937,6 +57952,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global, Day 2)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Bug Out! 2026)"
         }
       ]
     },
@@ -142044,6 +142074,38 @@
       ]
     },
     {
+      "Species": 824,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Bug Out! 2026)"
+        }
+      ]
+    },
+    {
+      "Species": 825,
+      "Available": true,
+      "Data": []
+    },
+    {
+      "Species": 826,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 827,
       "Available": true,
       "Data": [
@@ -142842,6 +142904,36 @@
           "Type": 2,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Memories in Motion"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Bug Out! 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Bug Out! 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Bug Out! 2026"
         }
       ]
     },
@@ -145114,6 +145206,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2025: Hisui Celebration)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Bug Out! 2026)"
         }
       ]
     },
