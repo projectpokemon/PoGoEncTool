@@ -35758,6 +35758,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 10
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Pokopia Celebration Event)"
         }
       ]
     },
@@ -35771,9 +35786,24 @@
             "M": 11,
             "D": 23
           },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 10
+          },
           "Shiny": 1,
           "Type": 1,
           "Comment": "Disguise Encounter"
+        },
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 16
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "Comment": "Let\u0027s Go Celebration"
         },
         {
           "Start": {
@@ -35792,9 +35822,24 @@
             "M": 9,
             "D": 1
           },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 10
+          },
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Disguise Encounter (Season of Mischief)"
+        },
+        {
+          "Start": {
+            "Y": 2021,
+            "M": 9,
+            "D": 1
+          },
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Season of Mischief"
         },
         {
           "Start": {
@@ -35809,6 +35854,16 @@
           },
           "Type": 254,
           "Comment": "Version 0.269.0 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Disguise Encounter"
         }
       ]
     },
@@ -38969,6 +39024,21 @@
           "Type": 113,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Gigantamax Snorlax Max Battle Day)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 10
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Pokopia Celebration Event)"
         }
       ]
     },
@@ -41944,6 +42014,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Super Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 10
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Pokopia Celebration Event)"
         }
       ]
     },
