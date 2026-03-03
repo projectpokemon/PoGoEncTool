@@ -54,7 +54,6 @@ public static class BulkActions
             var eventName = "";
             var descriptor = eventName is "" ? "" : $" ({eventName})";
             var comment = $"{stars}-Star {boss}{descriptor}";
-            var shiny = Type != BossType.ShadowRaid ? enc.Shiny : CanBeShinyShadow(pkm.Species, pkm.Form) ? Random : Never;
 
             var entry = new PogoEntry
             {
@@ -64,7 +63,7 @@ public static class BulkActions
                 LocalizedStart = true,
                 NoEndTolerance = false,
                 Comment = comment,
-                Shiny = shiny,
+                Shiny = enc.Shiny,
             };
 
             // set species as available if this encounter is its debut
@@ -186,9 +185,9 @@ public static class BulkActions
             new((int)Bulbasaur, 0),
         };
 
-        var added = new List<(ushort Species, byte Form)>
+        var added = new List<(ushort Species, byte Form, PogoShiny Shiny)>
         {
-            new((int)Bulbasaur, 0),
+            new((int)Bulbasaur, 0, Random),
         };
 
         // add end dates for Shadows that have been removed
@@ -205,10 +204,9 @@ public static class BulkActions
         }
 
         // add new Shadows
-        foreach ((ushort s, byte f) in added)
+        foreach ((ushort s, byte f, PogoShiny shiny) in added)
         {
             var pkm = list.GetDetails(s, f);
-            var shiny = CanBeShinyShadow(s, f) ? Random : Never;
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
@@ -222,89 +220,6 @@ public static class BulkActions
             pkm.Add(entry);
         }
     }
-
-    private static bool CanBeShinyShadow(ushort species, byte form) => (Species)species switch
-    {
-        Bulbasaur => true,
-        Charmander => true,
-        Squirtle => true,
-        Ekans => true,
-        NidoranF => true,
-        NidoranM => true,
-        Zubat => true,
-        Venonat => true,
-        Meowth when form == 0 => true,
-        Growlithe when form == 0 => true,
-        Poliwag => true,
-        Machop => true,
-        Bellsprout => true,
-        Tentacool => true,
-        Geodude when form == 0 => true,
-        Magnemite => true,
-        Grimer => true,
-        Drowzee => true,
-        Exeggcute => true,
-        Cubone => true,
-        Koffing => true,
-        Horsea => true,
-        Scyther => true,
-        Pinsir => true,
-        Magikarp => true,
-        Lapras => true,
-        Omanyte => true,
-        Aerodactyl => true,
-        Articuno when form == 0 => true,
-        Zapdos when form == 0 => true,
-        Moltres when form == 0 => true,
-        Dratini => true,
-        Mewtwo => true,
-        Chikorita => true,
-        Cyndaquil => true,
-        Totodile => true,
-        Hoppip => true,
-        Aipom => true,
-        Murkrow => true,
-        Wobbuffet => true,
-        Pineco => true,
-        Gligar => true,
-        Sneasel when form == 0 => true,
-        Teddiursa => true,
-        Stantler => true,
-        Raikou => true,
-        Entei => true,
-        Suicune => true,
-        Larvitar => true,
-        Lugia => true,
-        HoOh => true,
-        Zigzagoon when form == 1 => true,
-        Seedot => true,
-        Ralts => true,
-        Sableye => true,
-        Mawile => true,
-        Carvanha => true,
-        Trapinch => true,
-        Cacnea => true,
-        Lileep => true,
-        Anorith => true,
-        Feebas => true,
-        Absol => true,
-        Bagon => true,
-        Beldum => true,
-        Regirock => true,
-        Regice => true,
-        Registeel => true,
-        Latias => true,
-        Latios => true,
-        Kyogre => true,
-        Groudon => true,
-        Gible => true,
-        Skorupi => true,
-        Heatran => true,
-        Regigigas => true,
-        Cresselia => true,
-        Darkrai => true,
-        _ => false,
-    };
 
     private static byte GetPowerSpotTier(ushort species) => (Species)species switch
     {
