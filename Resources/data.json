@@ -7061,7 +7061,7 @@
             "D": 21
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -7100,7 +7100,7 @@
             "M": 6,
             "D": 28
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Pok\u00E9mon GO 3rd Anniversary Event"
         },
         {
@@ -8960,7 +8960,7 @@
             "D": 6
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Kanto Region)"
         },
@@ -9082,7 +9082,7 @@
             "M": 11,
             "D": 5
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Festival of Lights 2021"
         },
@@ -9273,7 +9273,7 @@
             "D": 21
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -9312,7 +9312,7 @@
             "M": 6,
             "D": 28
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Pok\u00E9mon GO 3rd Anniversary Event"
         },
         {
@@ -11379,7 +11379,7 @@
             "D": 6
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Kanto Region)"
         },
@@ -11429,7 +11429,7 @@
             "M": 4,
             "D": 20
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Sustainability Week 2021"
         },
@@ -12179,7 +12179,7 @@
             "D": 21
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -12188,7 +12188,7 @@
             "M": 6,
             "D": 28
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Pok\u00E9mon GO 3rd Anniversary Event"
         },
         {
@@ -12517,6 +12517,21 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 6,
             "D": 11
           },
@@ -12543,7 +12558,7 @@
             "D": 3
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Throwback Challenge Champion 2020"
         },
@@ -12564,7 +12579,7 @@
             "M": 8,
             "D": 20
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2021: Sword and Shield"
         },
@@ -12787,6 +12802,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -12860,7 +12890,7 @@
             "D": 6
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Kanto Region)"
         },
@@ -12898,7 +12928,7 @@
             "M": 8,
             "D": 23
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Water Festival 2019"
         },
         {
@@ -13781,7 +13811,7 @@
             "D": 27
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Hisuian Discoveries"
         },
@@ -13849,7 +13879,7 @@
             "M": 9,
             "D": 27
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Out to Play"
         },
@@ -18365,7 +18395,7 @@
             "D": 22
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "Crown Tundra Release"
         },
         {
@@ -18425,7 +18455,7 @@
             "M": 5,
             "D": 24
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Luminous Legends X (After Event)"
         },
@@ -18729,6 +18759,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -18849,7 +18894,7 @@
             "D": 6
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Kanto Region)"
         },
@@ -19001,7 +19046,7 @@
             "M": 6,
             "D": 1
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Shiny Eligible)"
         },
@@ -19207,7 +19252,7 @@
             "D": 14
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
@@ -20396,7 +20441,7 @@
             "D": 17
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "Isle of Armor Release"
         },
         {
@@ -20471,7 +20516,7 @@
             "M": 8,
             "D": 20
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2021: Sword and Shield"
         },
@@ -20677,6 +20722,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -21171,7 +21231,7 @@
             "D": 6
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Kanto Region)"
         },
@@ -21228,7 +21288,7 @@
             "M": 7,
             "D": 25
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Team GO Rocket Disruption"
         },
         {
@@ -21450,7 +21510,7 @@
             "D": 21
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -21459,7 +21519,7 @@
             "M": 6,
             "D": 28
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Pok\u00E9mon GO 3rd Anniversary Event"
         },
         {
@@ -24977,7 +25037,7 @@
             "D": 27
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Hisuian Discoveries"
         },
@@ -25096,7 +25156,7 @@
             "M": 2,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Pok\u00E9mon GO Tour: Hisui \u2013 Los Angeles"
         },
         {
@@ -25362,6 +25422,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -29901,7 +29976,7 @@
             "D": 6
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Kanto Region)"
         },
@@ -31500,7 +31575,7 @@
             "D": 27
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2022: Finale (Ultra Incursion: Pheromosa)"
         },
@@ -40143,11 +40218,11 @@
           "End": {
             "Y": 2026,
             "M": 3,
-            "D": 7
+            "D": 9
           },
-          "Type": 1,
+          "Type": 2,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon 30th Anniversary: Kanto"
+          "Comment": "Pok\u00E9mon 30th Anniversary"
         },
         {
           "Start": {
@@ -40775,11 +40850,11 @@
           "End": {
             "Y": 2026,
             "M": 3,
-            "D": 7
+            "D": 9
           },
-          "Type": 1,
+          "Type": 2,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon 30th Anniversary: Kanto"
+          "Comment": "Pok\u00E9mon 30th Anniversary"
         },
         {
           "Start": {
@@ -41345,11 +41420,11 @@
           "End": {
             "Y": 2026,
             "M": 3,
-            "D": 7
+            "D": 9
           },
-          "Type": 1,
+          "Type": 2,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon 30th Anniversary: Kanto"
+          "Comment": "Pok\u00E9mon 30th Anniversary"
         },
         {
           "Start": {
@@ -44925,7 +45000,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -44934,7 +45009,7 @@
             "M": 8,
             "D": 9
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Pok\u00E9mon GO Park"
         }
       ]
@@ -44950,7 +45025,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -44959,7 +45034,7 @@
             "M": 2,
             "D": 13
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Valentine\u0027s Day 2019"
         }
       ]
@@ -44975,7 +45050,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -44984,7 +45059,7 @@
             "M": 4,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Eggstravaganza 2019"
         }
       ]
@@ -45000,7 +45075,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -45009,7 +45084,7 @@
             "M": 3,
             "D": 22
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Eggstravaganza 2018"
         }
       ]
@@ -48023,7 +48098,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Johto Region)"
         },
         {
@@ -48071,7 +48146,7 @@
             "M": 12,
             "D": 10
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Wooper Watch"
         },
         {
@@ -59455,7 +59530,7 @@
             "D": 27
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Hisuian Discoveries"
         },
@@ -59602,7 +59677,7 @@
             "M": 2,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Pok\u00E9mon GO Tour: Hisui \u2013 Los Angeles (Seaside Metropolis)"
         },
         {
@@ -60568,7 +60643,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Johto Region)"
         },
         {
@@ -60810,7 +60885,7 @@
             "M": 7,
             "D": 25
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Team GO Rocket Disruption"
         },
         {
@@ -61619,7 +61694,7 @@
             "D": 27
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Hisuian Discoveries"
         },
@@ -61767,7 +61842,7 @@
             "M": 12,
             "D": 5
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Along the Routes"
         },
@@ -63581,7 +63656,7 @@
             "M": 11,
             "D": 27
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Max Out Finale"
         },
@@ -64129,7 +64204,7 @@
             "M": 4,
             "D": 24
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Sweet Discoveries"
         },
@@ -66064,7 +66139,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Johto Region)"
         },
         {
@@ -66896,7 +66971,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Johto Region)"
         },
         {
@@ -66905,7 +66980,7 @@
             "M": 2,
             "D": 26
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Johto"
         },
@@ -67108,7 +67183,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -67117,7 +67192,7 @@
             "M": 2,
             "D": 13
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Valentine\u0027s Day 2019"
         },
         {
@@ -67142,7 +67217,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -67151,7 +67226,7 @@
             "M": 11,
             "D": 14
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Hatchathon 2018"
         }
       ]
@@ -67167,7 +67242,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -67176,7 +67251,7 @@
             "M": 3,
             "D": 22
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Eggstravaganza 2018"
         }
       ]
@@ -67793,6 +67868,21 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 6,
             "D": 4
           },
@@ -68204,6 +68294,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Ended Early)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         },
         {
           "Start": {
@@ -68633,6 +68738,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Ended Early)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         },
         {
           "Start": {
@@ -69950,6 +70070,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -70271,6 +70406,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -72041,7 +72191,7 @@
             "D": 3
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Throwback Challenge Champion 2020"
         },
@@ -72102,7 +72252,7 @@
             "M": 6,
             "D": 1
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Shiny Eligible)"
         },
@@ -72454,7 +72604,7 @@
             "D": 23
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -72477,7 +72627,7 @@
             "M": 1,
             "D": 24
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Lunar New Year 2020"
         },
         {
@@ -75354,7 +75504,7 @@
             "D": 8
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Hoenn Region)"
         },
         {
@@ -75413,7 +75563,7 @@
             "M": 12,
             "D": 14
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "December 2019 Community Day"
         },
@@ -75568,7 +75718,7 @@
             "D": 15
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "Hoenn Celebration"
         },
         {
@@ -75607,7 +75757,7 @@
             "M": 3,
             "D": 20
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "A Drive to Investigate"
         },
@@ -76586,7 +76736,7 @@
             "D": 8
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Hoenn Region)"
         },
         {
@@ -76595,7 +76745,7 @@
             "M": 12,
             "D": 18
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Holidays 2018"
         }
       ]
@@ -77936,7 +78086,7 @@
             "M": 1,
             "D": 15
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Hoenn Celebration"
         },
         {
@@ -83187,7 +83337,7 @@
             "M": 5,
             "D": 29
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Osaka"
         },
@@ -83234,6 +83384,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Paris (Makeup Event)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -87755,7 +87920,7 @@
             "M": 1,
             "D": 15
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Hoenn Celebration"
         },
         {
@@ -88493,7 +88658,7 @@
             "D": 8
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Hoenn Region)"
         },
         {
@@ -88502,7 +88667,7 @@
             "M": 3,
             "D": 22
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Eggstravaganza 2018"
         }
       ]
@@ -89213,7 +89378,7 @@
             "D": 23
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -92133,6 +92298,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour 2024: Looking for the Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -92648,6 +92828,21 @@
           "Start": {
             "Y": 2026,
             "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
             "D": 23
           },
           "End": {
@@ -93154,6 +93349,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour 2024: Looking for the Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -93670,6 +93880,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -94186,6 +94411,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global, Day 2)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -94485,6 +94725,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Primal Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         },
         {
           "Start": {
@@ -94856,6 +95111,21 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 5,
             "D": 25
           },
@@ -95118,6 +95388,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Mega Rayquaza Raid Day)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -96035,7 +96320,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Sinnoh Region)"
         },
         {
@@ -96085,7 +96370,7 @@
             "M": 9,
             "D": 15
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "September 2019 Community Day"
         },
@@ -96412,7 +96697,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Sinnoh Region)"
         },
         {
@@ -96446,7 +96731,7 @@
             "M": 11,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "November 2019 Community Day"
         },
@@ -96723,7 +97008,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Sinnoh Region)"
         },
         {
@@ -96757,7 +97042,7 @@
             "M": 1,
             "D": 19
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "January 2020 Community Day"
         },
@@ -97705,7 +97990,7 @@
             "M": 10,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Sinnoh Region)"
         },
         {
@@ -98712,7 +98997,7 @@
             "M": 11,
             "D": 6
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         }
       ]
@@ -100668,7 +100953,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Sinnoh Region)"
         },
         {
@@ -100691,7 +100976,7 @@
             "M": 4,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Eggstravaganza 2019"
         },
         {
@@ -101138,7 +101423,7 @@
             "D": 18
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "Holidays 2018"
         },
         {
@@ -101147,7 +101432,7 @@
             "M": 2,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Pok\u00E9mon GO Tour: Sinnoh \u2013 Los Angeles"
         }
       ]
@@ -101887,7 +102172,7 @@
             "D": 31
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -101896,7 +102181,7 @@
             "M": 8,
             "D": 5
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Gift Event"
         }
       ]
@@ -101911,7 +102196,7 @@
             "M": 9,
             "D": 26
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "World Tourism Day"
         }
       ]
@@ -101927,7 +102212,7 @@
             "D": 13
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "Valentine\u0027s Day 2019"
         },
         {
@@ -101936,7 +102221,7 @@
             "M": 2,
             "D": 14
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Valentine\u0027s Day 2020"
         }
@@ -102003,6 +102288,21 @@
           },
           "Type": 254,
           "Comment": "Version 0.269.0 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -102448,7 +102748,7 @@
             "D": 18
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "Holidays 2018"
         },
         {
@@ -102457,7 +102757,7 @@
             "M": 11,
             "D": 9
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Greedy Gluttons"
         }
@@ -102474,7 +102774,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs (Sinnoh Region)"
         },
         {
@@ -102483,7 +102783,7 @@
             "M": 2,
             "D": 7
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Sinnoh Celebration"
         }
@@ -102722,6 +103022,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -103606,7 +103921,7 @@
             "D": 18
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "Holidays 2018"
         },
         {
@@ -103675,7 +103990,7 @@
             "M": 4,
             "D": 1
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Tricky Pok\u00E9mon 2020"
         },
@@ -104286,7 +104601,7 @@
             "D": 18
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "Holidays 2018"
         },
         {
@@ -104295,7 +104610,7 @@
             "M": 5,
             "D": 2
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "An Instinctive Hero"
         }
@@ -105239,6 +105554,21 @@
           },
           "Type": 24,
           "Comment": "Ghost in the Machine"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -106303,6 +106633,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -106762,6 +107107,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -107199,6 +107559,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -107501,6 +107876,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour 2024: It\u0027s About Time (and Space)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -108192,6 +108582,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -110325,7 +110730,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "A Unova Unveiling"
         },
         {
@@ -110462,7 +110867,7 @@
             "M": 1,
             "D": 27
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Crackling Voltage"
         },
@@ -112018,7 +112423,7 @@
             "D": 10
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -112042,7 +112447,7 @@
             "M": 3,
             "D": 13
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "GO Battle League Launch Celebration"
         },
@@ -112743,6 +113148,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -113680,7 +114100,7 @@
             "D": 14
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "Unova Week"
         },
         {
@@ -114141,7 +114561,7 @@
             "M": 12,
             "D": 3
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Dual Destiny"
         },
@@ -114178,7 +114598,7 @@
             "M": 12,
             "D": 3
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Dual Destiny"
         },
@@ -114219,7 +114639,7 @@
             "M": 9,
             "D": 3
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Max Out"
         },
@@ -114246,7 +114666,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 3,
+          "Type": 4,
           "Comment": "The Seasons Change"
         },
         {
@@ -114280,7 +114700,7 @@
             "M": 3,
             "D": 27
           },
-          "Type": 3,
+          "Type": 4,
           "LocalizedStart": true,
           "Comment": "World of Wonders: Taken Over"
         },
@@ -114330,7 +114750,7 @@
             "M": 6,
             "D": 12
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Paris"
         },
@@ -114348,6 +114768,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Paris (Makeup Event)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         },
         {
           "Start": {
@@ -114387,7 +114822,7 @@
             "D": 24
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "Lunar New Year 2020"
         },
         {
@@ -114782,7 +115217,7 @@
             "D": 3
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Throwback Challenge Champion 2020"
         },
@@ -114855,7 +115290,7 @@
             "M": 12,
             "D": 23
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Winter Holiday 2021: Part 2"
         },
@@ -115168,6 +115603,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pyeongchang Winter Festival 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -115583,7 +116033,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 3,
+          "Type": 4,
           "Comment": "The Seasons Change"
         },
         {
@@ -115732,7 +116182,7 @@
             "D": 1
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Lunar New Year 2022"
         },
@@ -115914,7 +116364,7 @@
             "M": 8,
             "D": 11
           },
-          "Type": 3,
+          "Type": 4,
           "LocalizedStart": true,
           "Comment": "2023 Pok\u00E9mon World Championships, Yokohama"
         },
@@ -116209,7 +116659,7 @@
             "M": 10,
             "D": 17
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Halloween 2019"
         },
         {
@@ -116498,6 +116948,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -116523,7 +116988,7 @@
             "D": 15
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Halloween 2021 Part 1: Creepy Companions"
         },
@@ -116564,7 +117029,7 @@
             "M": 10,
             "D": 20
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Halloween 2022 Part I"
         },
@@ -116710,6 +117175,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -117255,7 +117735,7 @@
             "M": 2,
             "D": 2
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Minccino Limited Research"
         },
@@ -119629,7 +120109,7 @@
           },
           "Shiny": 1,
           "Gender": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Season of GO"
         },
@@ -119804,7 +120284,7 @@
             "D": 8
           },
           "Gender": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Valentine\u0027s Day 2023"
         },
@@ -120849,7 +121329,7 @@
             "M": 9,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "A Unova Unveiling"
         },
         {
@@ -123655,7 +124135,7 @@
             "D": 3
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Throwback Challenge Champion 2020"
         },
@@ -123692,7 +124172,7 @@
             "M": 8,
             "D": 20
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2021: Sword and Shield"
         },
@@ -123938,7 +124418,7 @@
             "D": 1
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Season of Mischief"
         },
@@ -124171,7 +124651,7 @@
             "M": 12,
             "D": 3
           },
-          "Type": 3,
+          "Type": 4,
           "LocalizedStart": true,
           "Comment": "Metro Station Event Pok\u00E9Stops"
         },
@@ -124211,7 +124691,7 @@
             "M": 6,
             "D": 23
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Global \u2013 Early Access Eggs-travaganza!"
         }
@@ -124630,7 +125110,7 @@
             "M": 9,
             "D": 3
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Max Out"
         },
@@ -124984,7 +125464,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 3,
+          "Type": 4,
           "Comment": "The Seasons Change"
         },
         {
@@ -125003,7 +125483,7 @@
             "M": 11,
             "D": 14
           },
-          "Type": 3,
+          "Type": 4,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Takeover (Greedy Gluttons)"
         },
@@ -125066,7 +125546,7 @@
             "M": 8,
             "D": 26
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2023: Global"
         },
@@ -125213,7 +125693,7 @@
             "D": 19
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "Comment": "First Debut in Pok\u00E9mon Eggs"
         },
         {
@@ -125237,7 +125717,7 @@
             "M": 12,
             "D": 14
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Secrets of the Jungle Event 2020"
         },
@@ -125716,7 +126196,7 @@
             "D": 12
           },
           "Shiny": 1,
-          "Type": 3,
+          "Type": 4,
           "Comment": "The Seasons Change"
         },
         {
@@ -125735,7 +126215,7 @@
             "M": 11,
             "D": 9
           },
-          "Type": 3,
+          "Type": 4,
           "LocalizedStart": true,
           "Comment": "A Looming Shadow Returns!"
         },
@@ -126191,7 +126671,7 @@
             "D": 2
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "An Instinctive Hero"
         },
@@ -126201,7 +126681,7 @@
             "M": 6,
             "D": 21
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Scorching Steps"
         }
@@ -126462,6 +126942,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -126702,6 +127197,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -126956,6 +127466,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -127139,6 +127664,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -127502,6 +128042,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -127868,6 +128423,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -128095,6 +128665,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -128262,6 +128847,21 @@
           "Type": 68,
           "LocalizedStart": true,
           "Comment": "Legends: #0645"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -128740,6 +129340,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -131279,7 +131894,7 @@
             "M": 10,
             "D": 7
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Seoul 2023"
         },
@@ -131499,6 +132114,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -131534,7 +132164,7 @@
             "D": 18
           },
           "Shiny": 1,
-          "Type": 3,
+          "Type": 4,
           "LocalizedStart": true,
           "Comment": "Luminous Legends Y"
         },
@@ -131602,7 +132232,7 @@
             "M": 6,
             "D": 21
           },
-          "Type": 3,
+          "Type": 4,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Takeover (Solstice Horizons)"
         },
@@ -131652,7 +132282,7 @@
             "M": 5,
             "D": 30
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2024: Sendai"
         },
@@ -131976,7 +132606,7 @@
             "D": 2
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Kalos Celebration Event"
         },
@@ -132220,7 +132850,7 @@
             "M": 2,
             "D": 1
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Lunar New Year 2022"
         },
@@ -132674,7 +133304,7 @@
             "D": 2
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Precious Paths"
         },
@@ -132756,9 +133386,24 @@
             "M": 2,
             "D": 28
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Precious Paths"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -133625,7 +134270,7 @@
             "D": 7
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Adventure Week 2022"
         },
@@ -133756,7 +134401,7 @@
             "D": 7
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Adventure Week 2022"
         },
@@ -134030,7 +134675,7 @@
             "M": 1,
             "D": 27
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Crackling Voltage"
         },
@@ -134342,7 +134987,7 @@
             "D": 1
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Adventures Abound"
         },
@@ -134535,7 +135180,7 @@
             "M": 5,
             "D": 29
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Osaka"
         },
@@ -134651,6 +135296,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Tour: Kalos \u2013 Global (Mountain Manor)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -135185,7 +135845,7 @@
             "D": 22
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Halloween 2021 Part 2: Ghoulish Pals"
         },
@@ -135760,6 +136420,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -136110,6 +136785,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -136383,6 +137073,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Tour: Kalos \u2013 Global)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -138004,7 +138709,7 @@
             "M": 3,
             "D": 1
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Season of Alola"
         },
@@ -138444,7 +139149,7 @@
             "M": 1,
             "D": 6
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Lustrous Odyssey"
         },
@@ -138803,7 +139508,7 @@
             "M": 3,
             "D": 29
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO City Safari: Milan, Mumbai, Santiago, Singapore 2025"
         },
@@ -139129,7 +139834,7 @@
             "D": 3
           },
           "Shiny": 1,
-          "Type": 3,
+          "Type": 4,
           "LocalizedStart": true,
           "Comment": "All-Hands Rocket Retreat"
         },
@@ -139165,7 +139870,7 @@
             "M": 8,
             "D": 11
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Delightful Days: Taken Over"
         },
@@ -139178,6 +139883,21 @@
           "Type": 23,
           "LocalizedStart": true,
           "Comment": "Partner Research: FamilyMart Japan"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -140160,7 +140880,7 @@
             "M": 3,
             "D": 1
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: World of Wonders"
         },
@@ -140326,6 +141046,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -140586,7 +141321,7 @@
             "M": 9,
             "D": 3
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Max Out"
         },
@@ -140704,6 +141439,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -140778,6 +141528,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Pinch Perfect"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         },
         {
           "Start": {
@@ -140893,7 +141658,7 @@
             "M": 7,
             "D": 8
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2024: Global \u2013 Early Access Eggs-travaganza!"
         },
@@ -141180,6 +141945,21 @@
           "Type": 90,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -141354,6 +142134,21 @@
           "Type": 90,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -141528,6 +142323,21 @@
           "Type": 90,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -141686,6 +142496,21 @@
           "Type": 90,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Tales of Transformation)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -141761,6 +142586,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -141815,6 +142656,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -144891,7 +145748,7 @@
             "D": 21
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Steeled Resolve"
         },
@@ -145387,7 +146244,7 @@
             "M": 11,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Wild Area 2024: Fukuoka"
         }
@@ -145555,6 +146412,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "Four-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -145721,6 +146593,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "Four-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -145809,7 +146696,7 @@
             "D": 3
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Memories in Motion"
         },
@@ -145829,7 +146716,7 @@
             "M": 3,
             "D": 17
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Bug Out! 2026"
         },
@@ -146024,6 +146911,21 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 5,
             "D": 25
           },
@@ -146188,6 +147090,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         },
         {
           "Start": {
@@ -146418,7 +147335,7 @@
             "M": 11,
             "D": 7
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
         },
@@ -146446,6 +147363,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -146534,7 +147466,23 @@
     {
       "Species": 864,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        }
+      ]
     },
     {
       "Species": 865,
@@ -146561,7 +147509,23 @@
     {
       "Species": 866,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        }
+      ]
     },
     {
       "Species": 867,
@@ -146843,7 +147807,7 @@
             "D": 6
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Cozy Companions"
         },
@@ -146857,6 +147821,22 @@
           "Type": 24,
           "LocalizedStart": true,
           "Comment": "Cozy Companions Timed Research"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -146892,9 +147872,24 @@
             "M": 9,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Psychic Spectacular 2025: Taken Over"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -146909,9 +147904,24 @@
             "M": 9,
             "D": 16
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Psychic Spectacular 2025: Taken Over"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -147048,6 +148058,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Steel Skyline"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -147274,6 +148299,21 @@
           },
           "Type": 10,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         },
         {
           "Start": {
@@ -147509,6 +148549,21 @@
           "Start": {
             "Y": 2026,
             "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
             "D": 18
           },
           "End": {
@@ -147709,6 +148764,21 @@
           "Start": {
             "Y": 2026,
             "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
             "D": 25
           },
           "End": {
@@ -147844,6 +148914,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Ancients Recovered, Days 3 and 5)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -147994,6 +149079,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -148149,6 +149249,21 @@
           "Start": {
             "Y": 2026,
             "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
             "D": 17
           },
           "End": {
@@ -148244,6 +149359,22 @@
           "Type": 90,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (Pok\u00E9mon GO: Dual Destiny)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 2,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -148662,6 +149793,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Cozy Companions"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -148829,7 +149975,7 @@
             "D": 5
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon Horizons: The Series Celebration Event 2024"
         },
@@ -148849,7 +149995,7 @@
             "M": 3,
             "D": 5
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Powerful Potential"
         },
@@ -148862,6 +150008,21 @@
           "Type": 23,
           "LocalizedStart": true,
           "Comment": "Partner Research: Google Play Points"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         },
         {
           "Start": {
@@ -148986,9 +150147,25 @@
             "D": 15
           },
           "Shiny": 1,
-          "Type": 3,
+          "Type": 4,
           "LocalizedStart": true,
           "Comment": "Fashion Week 2025: Taken Over"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -149033,6 +150210,22 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Pinch Perfect"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -149047,7 +150240,7 @@
             "D": 16
           },
           "Shiny": 1,
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon Horizons: The Series Celebration Event 2025"
         },
@@ -149083,7 +150276,7 @@
             "M": 11,
             "D": 7
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Wild Area 2025: Nagasaki"
         },
@@ -149096,6 +150289,21 @@
           "Type": 20,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Wild Area 2025: Global"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -149354,7 +150562,7 @@
             "M": 6,
             "D": 5
           },
-          "Type": 2,
+          "Type": 3,
           "Comment": "Pok\u00E9mon GO Fest 2025: Jersey City"
         },
         {
@@ -149401,6 +150609,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -149415,7 +150638,7 @@
             "D": 27
           },
           "Shiny": 1,
-          "Type": 3,
+          "Type": 4,
           "LocalizedStart": true,
           "Comment": "Taken Treasures"
         },
@@ -149429,6 +150652,22 @@
           "Type": 24,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Road Trip: Manchester / London"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         },
         {
           "Start": {
@@ -149725,6 +150964,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -149779,6 +151033,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -149834,6 +151104,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -149889,6 +151175,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 9
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
         }
       ]
     },
@@ -149954,7 +151256,7 @@
             "M": 5,
             "D": 29
           },
-          "Type": 2,
+          "Type": 3,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2025: Osaka"
         },

@@ -8,6 +8,7 @@ public enum PogoType : byte
 
     // Pokémon captured in the wild.
     Wild,
+    Wild20,
 
     // Pokémon hatched from Eggs.
     Egg,
