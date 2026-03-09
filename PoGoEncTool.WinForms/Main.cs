@@ -419,9 +419,9 @@ public partial class Main : Form
 
                     var method = (int)enc.Type switch
                     {
-                        1 or 2 => "Wild",
-                        3 => "Egg",
-                        4 => "12 km Egg",
+                        1 or 2 or 3 => "Wild",
+                        4 => "Egg",
+                        5 => "12 km Egg",
                         10 or 11 or 12 or 15 or 16 or 17 => "Raid",
                         13 or 14 or 18 or 19 => "Shadow Raid",
                         (>= 20 and <= 89) or 254 or 255 => "Research",
