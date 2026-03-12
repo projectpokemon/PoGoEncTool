@@ -26,7 +26,7 @@ public static class BulkActions
 
         foreach (var enc in bosses)
         {
-            var pkm = list.GetDetails(enc.Species, enc.Form);
+            var pk = list.GetDetails(enc.Species, enc.Form);
             var boss = Type switch
             {
                 BossType.ShadowRaid => "Shadow Raid Boss",
@@ -47,7 +47,6 @@ public static class BulkActions
                 BossType.MaxBattleDynamax => GetPowerSpotTier(enc.Species),
                 BossType.MaxBattleGigantamax => (byte)6,
                 _ => enc.Tier,
-
             };
 
             var stars = GetRaidBossTier(tier);
@@ -67,8 +66,8 @@ public static class BulkActions
             };
 
             // set species as available if this encounter is its debut
-            if (!pkm.Available)
-                pkm.Available = true;
+            if (!pk.Available)
+                pk.Available = true;
 
             // set its evolutions as available as well
             var evos = EvoUtil.GetEvoSpecForms(enc.Species, enc.Form)
@@ -81,7 +80,7 @@ public static class BulkActions
                     parent.Available = true;
             }
 
-            pkm.Add(entry); // add the entry!
+            pk.Add(entry); // add the entry!
         }
     }
 
@@ -109,7 +108,7 @@ public static class BulkActions
 
         foreach (var enc in bosses)
         {
-            var pkm = list.GetDetails(enc.Species, enc.Form);
+            var pk = list.GetDetails(enc.Species, enc.Form);
             var comment = "Five-Star Raid Boss";
             if (enc.IsMega)
             {
@@ -140,13 +139,13 @@ public static class BulkActions
             };
 
             // set species as available if this encounter is its debut
-            if (!pkm.Available)
-                pkm.Available = true;
+            if (!pk.Available)
+                pk.Available = true;
 
-            pkm.Add(entry); // add the raid entry!
+            pk.Add(entry); // add the raid entry!
 
             // add an accompanying GBL encounter if it has not appeared in research before, or continues to appear in the wild
-            if ((!enc.IsMega) && !pkm.Data.Any(z => IsLessRestrictiveEncounter(z.Type) && z.Shiny == enc.Shiny && z.End == null))
+            if ((!enc.IsMega) && !pk.Data.Any(z => IsLessRestrictiveEncounter(z.Type) && z.Shiny == enc.Shiny && z.End == null))
             {
                 // some Legendary and Mythical Pokémon are exempt because one of their forms or pre-evolutions have been in research, and they revert or can be changed upon transfer to HOME
                 if (enc.Species is (int)Giratina or (int)Genesect or (int)Cosmoem or (int)Solgaleo or (int)Lunala)
@@ -162,7 +161,7 @@ public static class BulkActions
 
     private static void AddEncounterGBL(PogoEncounterList list, ushort species, byte form, PogoShiny shiny, PogoDate start)
     {
-        var pkm = list.GetDetails(species, form);
+        var pk = list.GetDetails(species, form);
         var type = SpeciesCategory.IsMythical(species) ? GBLMythical : GBL;
         var entry = new PogoEntry
         {
@@ -175,7 +174,7 @@ public static class BulkActions
             Shiny = shiny,
         };
 
-        pkm.Add(entry); // add the GBL entry!
+        pk.Add(entry); // add the GBL entry!
     }
 
     public static void AddNewShadows(PogoEncounterList list)
@@ -193,8 +192,8 @@ public static class BulkActions
         // add end dates for Shadows that have been removed
         foreach ((ushort s, byte f) in removed)
         {
-            var pkm = list.GetDetails(s, f);
-            var entries = pkm.Data;
+            var pk = list.GetDetails(s, f);
+            var entries = pk.Data;
 
             foreach (var entry in entries)
             {
@@ -206,7 +205,7 @@ public static class BulkActions
         // add new Shadows
         foreach ((ushort s, byte f, PogoShiny shiny) in added)
         {
-            var pkm = list.GetDetails(s, f);
+            var pk = list.GetDetails(s, f);
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
@@ -217,7 +216,7 @@ public static class BulkActions
                 Comment = "Team GO Rocket Grunt",
             };
 
-            pkm.Add(entry);
+            pk.Add(entry);
         }
     }
 
