@@ -28335,6 +28335,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -32705,6 +32720,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 17
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -39722,11 +39752,11 @@
           "End": {
             "Y": 2026,
             "M": 3,
-            "D": 16
+            "D": 17
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Pokopia Celebration Event)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -81994,7 +82024,7 @@
           "End": {
             "Y": 2026,
             "M": 3,
-            "D": 16
+            "D": 17
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -112811,7 +112841,7 @@
           "End": {
             "Y": 2026,
             "M": 3,
-            "D": 16
+            "D": 17
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -113893,7 +113923,7 @@
           "End": {
             "Y": 2026,
             "M": 3,
-            "D": 16
+            "D": 17
           },
           "Type": 10,
           "LocalizedStart": true,
@@ -118547,7 +118577,7 @@
           "End": {
             "Y": 2026,
             "M": 3,
-            "D": 16
+            "D": 17
           },
           "Type": 10,
           "LocalizedStart": true,
