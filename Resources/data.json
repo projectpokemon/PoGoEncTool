@@ -146909,6 +146909,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Bug Out! 2026)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 19
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: Bug Out"
         }
       ]
     },
