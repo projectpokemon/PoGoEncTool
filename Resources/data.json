@@ -15629,6 +15629,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 15
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -28736,7 +28751,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Steeled Resolve)"
+          "Comment": "One-Star Raid Boss (Steeled Resolve 2025)"
         }
       ]
     },
@@ -39058,6 +39073,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 8
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -81466,6 +81496,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 1
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -82730,6 +82775,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Raid Day: Mega Sharpedo)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -84082,6 +84142,16 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 6
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -87573,6 +87643,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 29
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -92823,6 +92908,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 20
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 26
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Power Spot Boss"
         }
       ]
     },
@@ -94996,6 +95096,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 1
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -95325,6 +95440,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 8
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 14
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         },
         {
           "Start": {
@@ -95722,6 +95852,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 15
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         },
         {
           "Start": {
@@ -104312,7 +104457,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Steeled Resolve)"
+          "Comment": "One-Star Raid Boss (Steeled Resolve 2025)"
         },
         {
           "Start": {
@@ -133283,7 +133428,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Steeled Resolve)"
+          "Comment": "One-Star Raid Boss (Steeled Resolve 2025)"
         },
         {
           "Start": {
@@ -135425,7 +135570,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Steeled Resolve)"
+          "Comment": "One-Star Raid Boss (Steeled Resolve 2025)"
         },
         {
           "Start": {
@@ -136071,7 +136216,7 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Steeled Resolve"
+          "Comment": "Steeled Resolve 2025"
         },
         {
           "Start": {
@@ -142935,6 +143080,36 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 2
+          },
+          "Type": 90,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Memories in Motion)"
         }
       ]
     },
@@ -143139,6 +143314,36 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 29
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 29
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 2
+          },
+          "Type": 90,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Memories in Motion)"
         }
       ]
     },
@@ -146775,7 +146980,7 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Magnetic Lure Module (Steeled Resolve)"
+          "Comment": "Magnetic Lure Module (Steeled Resolve 2025)"
         },
         {
           "Start": {
@@ -146802,7 +147007,7 @@
           "Shiny": 1,
           "Type": 4,
           "LocalizedStart": true,
-          "Comment": "Steeled Resolve"
+          "Comment": "Steeled Resolve 2025"
         },
         {
           "Start": {
@@ -150057,6 +150262,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 1
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 7
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
