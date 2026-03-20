@@ -232,7 +232,7 @@ namespace PoGoEncTool.WinForms
             Controls.Add(CB_Species);
             Controls.Add(LB_Species);
             Controls.Add(PB_Poke);
-            MaximumSize = new System.Drawing.Size(1300, 575);
+            MaximumSize = new System.Drawing.Size(1300, 995);
             MinimumSize = new System.Drawing.Size(1300, 575);
             Name = "Main";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
