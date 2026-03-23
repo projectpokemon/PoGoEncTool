@@ -205,7 +205,7 @@ public partial class Main : Form
         // Mega X, Mega Y
         if (species is (int)Species.Charizard or (int)Species.Raichu or (int)Species.Mewtwo)
         {
-            var shift = species is (int)Species.Raichu ? 1 : 0;
+            var shift = species == (int)Species.Raichu ? 1 : 0;
             return comment.Contains($"Mega {(Species)species} Y") ? (byte)(shift + 2) : (byte)(shift + 1);
         }
 

@@ -38,31 +38,31 @@ public static class EvoUtil
     public static bool IsAllowedEvolution(in ushort species, in byte form, in ushort s, in byte destForm)
     {
         // Outside of special events, regional form branched evolutions are not available.
-        var destSpecies = (Species) s;
+        var destSpecies = (Species)s;
         return (Species)species switch
         {
-            // Alolan
-            Pichu or Pikachu when destSpecies is Raichu && destForm is 1 => false,
+            // Alolan Forms
+            Pichu or Pikachu when destSpecies == Raichu && destForm == 1 => false,
 
-            // Galarian
-            MimeJr when destSpecies is MrMime && destForm is 1 => false,
-            MimeJr when destSpecies is MrRime && destForm is 0 => false,
+            // Galarian Forms
+            MimeJr when destSpecies == MrMime && destForm == 1 => false,
+            MimeJr when destSpecies == MrRime && destForm == 0 => false,
 
-            // Hisuian
-            Cyndaquil or Quilava when destSpecies is Typhlosion && destForm is 1 => false,
-            Oshawott or Dewott when destSpecies is Samurott && destForm is 1 => false,
-            Petilil when destSpecies is Lilligant && destForm is 1 => false,
-            Rufflet when destSpecies is Braviary && destForm is 1 => false,
-            Goomy when destSpecies is Sliggoo or Goodra && destForm is 1 => false,
-            Bergmite when destSpecies is Avalugg && destForm is 1 => false,
-            Rowlet or Dartrix when destSpecies is Decidueye && destForm is 1 => false,
+            // Hisuian Forms
+            Cyndaquil or Quilava when destSpecies == Typhlosion && destForm == 1 => false,
+            Oshawott or Dewott when destSpecies == Samurott && destForm == 1 => false,
+            Petilil when destSpecies == Lilligant && destForm == 1 => false,
+            Rufflet when destSpecies == Braviary && destForm == 1 => false,
+            Goomy when destSpecies is Sliggoo or Goodra && destForm == 1 => false,
+            Bergmite when destSpecies == Avalugg && destForm == 1 => false,
+            Rowlet or Dartrix when destSpecies == Decidueye && destForm == 1 => false,
 
-            // Future evolutions (temporary, to be removed when they debut in GO)
-            Stantler when destSpecies is Wyrdeer => false,
-            Scyther when destSpecies is Kleavor => false,
-            Basculin when destSpecies is Basculegion => false,
-            Girafarig when destSpecies is Farigiraf => false,
-            Duraludon when destSpecies is Archaludon => false,
+            // Cross-Generation evolutions that are not available
+            Stantler when destSpecies == Wyrdeer => false,
+            Scyther when destSpecies == Kleavor => false,
+            Basculin when destSpecies == Basculegion => false,
+            Girafarig when destSpecies == Farigiraf => false,
+            Duraludon when destSpecies == Archaludon => false,
 
             _ => true,
         };
