@@ -147718,6 +147718,28 @@
       "Data": []
     },
     {
+      "Species": 843,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Sustainability Week 2026"
+        }
+      ]
+    },
+    {
+      "Species": 844,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 848,
       "Available": true,
       "Data": [
@@ -151762,6 +151784,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Adventure Week 2025"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Sustainability Week 2026"
         }
       ]
     },
