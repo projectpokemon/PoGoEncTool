@@ -66092,7 +66092,18 @@
     {
       "Species": 230,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 2,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Johto release update)"
+        }
+      ]
     },
     {
       "Species": 231,
@@ -67885,7 +67896,18 @@
     {
       "Species": 242,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2017,
+            "M": 2,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Johto release update)"
+        }
+      ]
     },
     {
       "Species": 243,
@@ -101272,7 +101294,18 @@
     {
       "Species": 424,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 31
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh evolutions update)"
+        }
+      ]
     },
     {
       "Species": 425,
@@ -102085,7 +102118,18 @@
     {
       "Species": 429,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh Hatchathon)"
+        }
+      ]
     },
     {
       "Species": 430,
@@ -106072,22 +106116,66 @@
     {
       "Species": 462,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 5,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Special Lure Modules update)"
+        }
+      ]
     },
     {
       "Species": 463,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 31
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh evolutions update)"
+        }
+      ]
     },
     {
       "Species": 464,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh Hatchathon)"
+        }
+      ]
     },
     {
       "Species": 465,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 31
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh evolutions update)"
+        }
+      ]
     },
     {
       "Species": 466,
@@ -106143,7 +106231,18 @@
     {
       "Species": 467,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh Hatchathon)"
+        }
+      ]
     },
     {
       "Species": 468,
@@ -106170,12 +106269,34 @@
     {
       "Species": 469,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 31
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh evolutions update)"
+        }
+      ]
     },
     {
       "Species": 470,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 5,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Special Lure Modules update)"
+        }
+      ]
     },
     {
       "Species": 471,
@@ -106250,7 +106371,18 @@
     {
       "Species": 472,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh Hatchathon)"
+        }
+      ]
     },
     {
       "Species": 473,
@@ -106291,7 +106423,18 @@
     {
       "Species": 474,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh Hatchathon)"
+        }
+      ]
     },
     {
       "Species": 475,
@@ -106425,17 +106568,50 @@
     {
       "Species": 476,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 5,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Special Lure Modules update)"
+        }
+      ]
     },
     {
       "Species": 477,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2018,
+            "M": 11,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh Hatchathon)"
+        }
+      ]
     },
     {
       "Species": 478,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2019,
+            "M": 1,
+            "D": 31
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Sinnoh evolutions update)"
+        }
+      ]
     },
     {
       "Species": 479,
@@ -135748,7 +135924,18 @@
     {
       "Species": 700,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2021,
+            "M": 5,
+            "D": 25
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Luminous Legends Y Part 2)"
+        }
+      ]
     },
     {
       "Species": 701,
@@ -150860,7 +151047,18 @@
     {
       "Species": 901,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2022,
+            "M": 11,
+            "D": 12
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (November 2022 Community Day: Teddiursa)"
+        }
+      ]
     },
     {
       "Species": 903,
@@ -152833,7 +153031,18 @@
     {
       "Species": 979,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 1,
+            "D": 19
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Raging Battles)"
+        }
+      ]
     },
     {
       "Species": 980,
@@ -152843,18 +153052,51 @@
     {
       "Species": 982,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Completely Normal)"
+        }
+      ]
     },
     {
       "Species": 982,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 23
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Completely Normal)"
+        }
+      ]
     },
     {
       "Species": 983,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 5,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Crown Clash)"
+        }
+      ]
     },
     {
       "Species": 996,
@@ -153041,7 +153283,18 @@
     {
       "Species": 1011,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Harvest Festival 2025)"
+        }
+      ]
     },
     {
       "Species": 1012,
@@ -153262,7 +153515,18 @@
     {
       "Species": 1019,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 10
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "First Availability (Harvest Festival 2025)"
+        }
+      ]
     }
   ]
 }
