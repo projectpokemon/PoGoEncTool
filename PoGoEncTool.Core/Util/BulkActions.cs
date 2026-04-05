@@ -49,6 +49,9 @@ public static class BulkActions
                 _ => enc.Tier,
             };
 
+            if (type is Raid or RaidShadow or MaxBattle && SpeciesCategory.IsMythical(enc.Species))
+                type++;
+
             var stars = GetRaidBossTier(tier);
             var eventName = "";
             var descriptor = eventName is "" ? "" : $" ({eventName})";
@@ -242,7 +245,7 @@ public static class BulkActions
         Ralts => 1,
         Sableye => 3,
         Wailmer => 2,
-        Trapinch => 1, // verify
+        Trapinch => 1,
         Spheal => 1,
         Beldum => 3,
         Pidove => 1,
