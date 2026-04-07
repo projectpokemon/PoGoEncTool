@@ -35356,6 +35356,11 @@
             "M": 1,
             "D": 23
           },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 29
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Cliff"
@@ -48159,6 +48164,11 @@
             "Y": 2026,
             "M": 1,
             "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 29
           },
           "Type": 100,
           "LocalizedStart": true,
@@ -79774,6 +79784,11 @@
             "Y": 2026,
             "M": 1,
             "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 29
           },
           "Type": 100,
           "LocalizedStart": true,
@@ -129399,6 +129414,11 @@
             "M": 3,
             "D": 3
           },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 29
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
@@ -130282,6 +130302,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 30
+          },
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Boss Giovanni"
         }
       ]
     },
@@ -152697,6 +152727,26 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 4,
+            "D": 30
+          },
+          "Type": 5,
+          "LocalizedStart": true,
+          "Comment": "Steeled Resolve 2026: Taken Over"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 30
+          },
+          "Type": 24,
+          "LocalizedStart": true,
+          "Comment": "Pok\u00E9mon GO Road Trip: Manchester / London"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 6,
             "D": 4
           },
@@ -152705,7 +152755,6 @@
             "M": 6,
             "D": 7
           },
-          "Shiny": 1,
           "Type": 1,
           "Comment": "Pok\u00E9mon GO Fest 2026: Chicago"
         }
