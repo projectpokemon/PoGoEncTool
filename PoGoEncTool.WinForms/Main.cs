@@ -30,6 +30,7 @@ public partial class Main : Form
 
         InitializeComponent();
         SpriteUtil.ChangeMode(SpriteBuilderMode.SpritesArtwork5668);
+        SpriteName.AllowShinySprite = true;
 
         if (Application.IsDarkModeEnabled)
             ReformatDark(Controls);
