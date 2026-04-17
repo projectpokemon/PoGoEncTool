@@ -33,6 +33,12 @@ public static class PogoPickler
         using var bw = new BinaryWriter(ms);
         entry.Data.RemoveAll(z => z.Type.IsGigantamax);
 
+        if (!GetCanTransferIfShiny(entry.Species, entry.Form))
+        {
+            foreach (var a in entry.Data.Where(z => z.Shiny != PogoShiny.Never))
+                a.Shiny = PogoShiny.Never;
+        }
+
         bw.Write(entry.Species);
         bw.Write(entry.Form);
         bw.Write((byte)GetGroup(entry.Species, entry.Form));
@@ -66,9 +72,9 @@ public static class PogoPickler
         // Transfer Rules:
         // If it can exist in LGP/E, it uses LGP/E's move data for the initial import.
         // Else, if it can exist in SW/SH, it uses SW/SH's move data for the initial import.
-        // Else, if it can exist in PLA, it uses PLA move data for the initial import.
-        // Else, if it can exist in S/V, it uses S/V move data for the initial import.
-        // Else, it must exist in US/UM, thus it uses US/UM for the initial import.
+        // Else, if it can exist in US/UM, it uses US/UM's move data for the initial import.
+        // Else, if it was introduced in PLA, it uses PLA move data for the initial import.
+        // Else, if it was introduced in S/V, it uses S/V move data for the initial import.
 
         <= 0151 or 0808 or 0809 when form == 0 || PersonalTable.GG[species].HasForm(form) => PogoImportFormat.PB7,
         <= 0898 when PersonalTable.SWSH.IsPresentInGame(species, form) => PogoImportFormat.PK8,
@@ -148,6 +154,12 @@ public static class PogoPickler
         Palkia when form is 1 => false,
         Zygarde => false,
         Eternatus => false,
+        _ => true,
+    };
+
+    private static bool GetCanTransferIfShiny(ushort species, byte form) => (Species)species switch
+    {
+        Flamigo => false,
         _ => true,
     };
 }
