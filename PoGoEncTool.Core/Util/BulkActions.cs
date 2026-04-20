@@ -248,10 +248,12 @@ public static class BulkActions
         Trapinch => 1,
         Spheal => 1,
         Beldum => 3,
+        Combee => 1, // verify
         Pidove => 1,
         Roggenrola => 1,
         Woobat => 1,
         Drilbur => 1,
+        Cottonee => 1, // verify
         Darumaka => 2,
         Trubbish => 1,
         Cryogonal => 3,
