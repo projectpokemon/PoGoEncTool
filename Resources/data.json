@@ -150308,6 +150308,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Super Mega Raid Boss (Falinks Super Mega Raid Day)"
         }
       ]
     },
