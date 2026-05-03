@@ -7,6 +7,7 @@ using System.Windows.Forms;
 using PKHeX.Core;
 using PKHeX.Drawing.PokeSprite;
 using PoGoEncTool.Core;
+using static PoGoEncTool.Core.PogoType;
 
 namespace PoGoEncTool.WinForms;
 
@@ -35,7 +36,7 @@ public partial class Main : Form
         if (Application.IsDarkModeEnabled)
             ReformatDark(Controls);
 
-        // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = Core.PogoType.Shadow);
+        // Entries.ModifyAll(e => e.Comment.Contains("Purified"), e => e.Type = Shadow);
         // BulkActions.AddBossEncounters(Entries);
         // BulkActions.AddNewShadows(Entries);
         // BulkActions.AddMonthlyRaidBosses(Entries);
@@ -418,18 +419,18 @@ public partial class Main : Form
                         _ => string.Empty,
                     };
 
-                    var method = (int)enc.Type switch
+                    var method = enc.Type switch
                     {
-                        1 or 2 or 3 => "Wild",
-                        4 => "Egg",
-                        5 => "12 km Egg",
-                        10 or 11 or 12 or 15 or 16 or 17 => "Raid",
-                        13 or 14 or 18 or 19 => "Shadow Raid",
-                        (>= 20 and <= 89) or 254 or 255 => "Research",
-                        >= 90 and <= 99 => "GO Battle League",
-                        >= 100 and <= 109 => "Shadow",
-                        >= 110 and <= 119 => "Max Battle",
-                        _ => throw new Exception("Invalid PogoType"),
+                        >= Wild and <= WildLevel25 => "Wild",
+                        Egg => "Egg",
+                        Egg12km => "12 km Egg",
+                        Raid or RaidMythical or RaidUltraBeast or RaidGOWA or RaidMythicalGOWA or RaidUltraBeastGOWA => "Raid",
+                        RaidShadow or RaidShadowMythical or RaidShadowGOWA or RaidShadowMythicalGOWA => "Shadow Raid",
+                        (>= FieldResearch and <= TimedShadowMythicalLevelRange) or PremierBallBug or PremierBallBugMythical => "Research",
+                        >= GBL and <= GBLEvent => "GO Battle League",
+                        >= Shadow and <= ShadowUltraBeast => "Shadow",
+                        >= MaxBattle and <= MaxBattleGigantamaxGOWA => "Max Battle",
+                        _ => throw new ArgumentOutOfRangeException(nameof(enc.Type)),
                     };
 
                     var type = $" ({method}) ".PadRight(20, ' ');
