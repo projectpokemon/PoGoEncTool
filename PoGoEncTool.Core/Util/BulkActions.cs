@@ -253,7 +253,7 @@ public static class BulkActions
         Roggenrola => 1,
         Woobat => 1,
         Drilbur => 1,
-        Cottonee => 1, // verify
+        Cottonee => 1,
         Darumaka => 2,
         Trubbish => 1,
         Cryogonal => 3,
