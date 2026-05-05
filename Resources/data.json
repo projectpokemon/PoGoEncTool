@@ -10340,6 +10340,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -14102,6 +14112,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -24513,6 +24533,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -28137,6 +28167,11 @@
             "M": 3,
             "D": 2
           },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
           "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
@@ -28147,6 +28182,11 @@
             "Y": 2026,
             "M": 3,
             "D": 3
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -36772,6 +36812,11 @@
             "M": 3,
             "D": 2
           },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
@@ -42700,6 +42745,11 @@
             "Y": 2026,
             "M": 3,
             "D": 2
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -59804,6 +59854,11 @@
             "M": 3,
             "D": 2
           },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
@@ -67589,6 +67644,11 @@
             "M": 3,
             "D": 2
           },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "Three-Star Shadow Raid Boss"
@@ -70384,6 +70444,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -79387,6 +79457,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -85541,6 +85621,11 @@
             "M": 3,
             "D": 2
           },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
@@ -91223,6 +91308,16 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -123034,6 +123129,11 @@
             "M": 3,
             "D": 2
           },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
+          },
           "Shiny": 1,
           "Type": 13,
           "LocalizedStart": true,
@@ -123044,6 +123144,11 @@
             "Y": 2026,
             "M": 3,
             "D": 3
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 5
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -136113,6 +136218,16 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
