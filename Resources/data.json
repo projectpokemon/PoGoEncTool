@@ -153458,6 +153458,22 @@
           "Type": 4,
           "LocalizedStart": true,
           "Comment": "Spring Marathon"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 14
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 20
+          },
+          "Shiny": 1,
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass: Spring Marathon"
         }
       ]
     },
