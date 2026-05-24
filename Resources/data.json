@@ -35320,6 +35320,17 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 9,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 24,
+          "LocalizedStart": true,
+          "Comment": "Lure Up!"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 12,
             "D": 2
           },
@@ -35346,6 +35357,16 @@
           },
           "Type": 10,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Fest 2026: Chicago)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 4
+          },
+          "Type": 24,
+          "LocalizedStart": true,
+          "Comment": "Lure Up!"
         }
       ]
     },
@@ -35369,6 +35390,17 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Stunning Styles)"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 13
+          },
+          "Shiny": 1,
+          "Type": 24,
+          "LocalizedStart": true,
+          "Comment": "Lure Up!"
         },
         {
           "Start": {
@@ -35400,6 +35432,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Fest 2026: Tokyo)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 25
+          },
+          "Type": 24,
+          "LocalizedStart": true,
+          "Comment": "Lure Up!"
         }
       ]
     },
@@ -138949,7 +138991,7 @@
           },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Pittsburgh Pok\u00E9mon Regional Championships 2023 (In-Person Event)"
+          "Comment": "Pittsburgh Pok\u00E9mon Regional Championships 2023"
         },
         {
           "Start": {
@@ -138996,7 +139038,7 @@
           },
           "Shiny": 1,
           "Type": 1,
-          "Comment": "Knoxville Pok\u00E9mon Regional Championships 2024 (In-Person Event)"
+          "Comment": "Knoxville Pok\u00E9mon Regional Championships 2024"
         },
         {
           "Start": {
@@ -145252,6 +145294,93 @@
         {
           "Start": {
             "Y": 2025,
+            "M": 9,
+            "D": 13
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 14
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Frankfurt Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 9,
+            "D": 19
+          },
+          "End": {
+            "Y": 2025,
+            "M": 9,
+            "D": 21
+          },
+          "Type": 1,
+          "Comment": "Pittsburgh Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 10
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 12
+          },
+          "Type": 1,
+          "Comment": "Milwaukee Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 11
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 12
+          },
+          "Type": 1,
+          "Comment": "Belo Horizonte Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 10,
+            "D": 25
+          },
+          "End": {
+            "Y": 2025,
+            "M": 10,
+            "D": 26
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Lille Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 1
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 2
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Gdansk Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2025,
             "M": 11,
             "D": 14
           },
@@ -145261,7 +145390,80 @@
             "D": 16
           },
           "Type": 1,
-          "Comment": "Las Vegas Pok\u00E9mon Regional Championships 2026 (In-Person Event)"
+          "Comment": "Las Vegas Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 15
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 16
+          },
+          "Type": 1,
+          "Comment": "Buenos Aires Pok\u00E9mon Special Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
+            "D": 29
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 30
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Stuttgart Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 18
+          },
+          "Type": 1,
+          "Comment": "Toronto Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 1,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 1,
+            "D": 25
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Birmingham Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 7
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 8
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Sydney Pok\u00E9mon Regional Championships 2026"
         },
         {
           "Start": {
@@ -145281,6 +145483,20 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 2,
+            "D": 27
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 1
+          },
+          "Type": 1,
+          "Comment": "Seattle Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 3,
             "D": 7
           },
@@ -145296,6 +145512,107 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 3,
+            "D": 14
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 15
+          },
+          "Type": 1,
+          "Comment": "Curitiba Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 20
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 22
+          },
+          "Type": 1,
+          "Comment": "Houston Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 3,
+            "D": 27
+          },
+          "End": {
+            "Y": 2026,
+            "M": 3,
+            "D": 29
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Seville Pok\u00E9mon Special Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 3
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 5
+          },
+          "Type": 1,
+          "Comment": "Orlando Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 4,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 4,
+            "D": 26
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Prague Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 8
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 10
+          },
+          "Type": 1,
+          "Comment": "Los Angeles Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 15
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 17
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Utrecht Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 5,
             "D": 20
           },
@@ -145307,6 +145624,50 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 24
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Melbourne Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 29
+          },
+          "End": {
+            "Y": 2026,
+            "M": 5,
+            "D": 31
+          },
+          "Type": 1,
+          "Comment": "Indianapolis Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 6
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 7
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Turin Pok\u00E9mon Special Championships 2026"
         }
       ]
     },
