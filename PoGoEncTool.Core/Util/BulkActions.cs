@@ -14,8 +14,8 @@ namespace PoGoEncTool.Core;
 public static class BulkActions
 {
     public static BossType Type { get; set; } = BossType.Raid;
-    public static string Season { get; set; } = "Memories in Motion";
-    public static PogoDate SeasonEnd { get; set; } = new(2026, 06, 02);
+    public static string Season { get; set; } = "Forever Forward";
+    public static PogoDate SeasonEnd { get; set; } = new(2026, 09, 08);
 
     public static void AddBossEncounters(PogoEncounterList list)
     {
@@ -238,9 +238,11 @@ public static class BulkActions
         Hitmonlee => 3,
         Hitmonchan => 3,
         Chansey => 3,
+        Electabuzz => 3, // verify
         Eevee => 2,
         Omanyte => 1,
         Kabuto => 1,
+        Hoothoot => 1, // verify
         Shuckle => 2,
         Ralts => 1,
         Sableye => 3,
