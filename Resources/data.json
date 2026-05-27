@@ -856,7 +856,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO 6th Anniversary Event)"
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Anniversary Event)"
         },
         {
           "Start": {
@@ -3049,7 +3049,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO 6th Anniversary Event)"
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Anniversary Event)"
         },
         {
           "Start": {
@@ -72491,7 +72491,7 @@
           },
           "Shiny": 1,
           "Type": 41,
-          "Comment": "Pok\u00E9mon GO Fest 2018"
+          "Comment": "GO Fest 2018"
         },
         {
           "Start": {
@@ -72516,7 +72516,7 @@
             "D": 28
           },
           "Type": 45,
-          "Comment": "Pok\u00E9mon GO Fest 2018 / Distracted by Something Shiny"
+          "Comment": "GO Fest 2018 / Distracted by Something Shiny"
         },
         {
           "Start": {
@@ -94222,7 +94222,7 @@
           "Shiny": 1,
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO 6th Anniversary Event)"
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Anniversary Event)"
         },
         {
           "Start": {
@@ -98248,7 +98248,7 @@
           },
           "Shiny": 1,
           "Type": 41,
-          "Comment": "Pok\u00E9mon GO Fest 2019"
+          "Comment": "GO Fest 2019\u2014Chicago"
         },
         {
           "Start": {
@@ -98263,7 +98263,7 @@
           },
           "Shiny": 1,
           "Type": 45,
-          "Comment": "Pok\u00E9mon GO Fest 2019"
+          "Comment": "GO Fest 2019\u2014Chicago"
         },
         {
           "Start": {
@@ -112342,7 +112342,7 @@
           "Shiny": 1,
           "Type": 45,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2020: Rocket Straight to Victory"
+          "Comment": "GO Fest 2020: Rocket Straight to Victory"
         },
         {
           "Start": {
@@ -129341,7 +129341,7 @@
           "Shiny": 1,
           "Type": 23,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Safari Zone: Philadelphia 2020"
+          "Comment": "Safari Zone Philadelphia"
         },
         {
           "Start": {
@@ -129386,7 +129386,7 @@
           },
           "Type": 23,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Safari Zone: Philadelphia 2020"
+          "Comment": "Safari Zone Philadelphia"
         },
         {
           "Start": {
@@ -140931,7 +140931,7 @@
           },
           "Type": 48,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Tour 2026: A Balancing Act"
+          "Comment": "GO Tour 2026: A Balancing Act"
         },
         {
           "Start": {
@@ -141249,7 +141249,7 @@
           },
           "Type": 48,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Tour 2026: A Balancing Act"
+          "Comment": "GO Tour 2026: A Balancing Act"
         },
         {
           "Start": {
@@ -141349,7 +141349,7 @@
           "Shiny": 1,
           "Type": 41,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2023: London / Osaka Park Adventure"
+          "Comment": "GO Fest 2023: London / Osaka Park Adventure"
         },
         {
           "Start": {
@@ -141480,7 +141480,7 @@
           "Shiny": 1,
           "Type": 41,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2025: Full Steam Ahead to Osaka!"
+          "Comment": "GO Fest 2025: Full Steam Ahead to Osaka!"
         }
       ]
     },
@@ -147616,6 +147616,17 @@
       "Data": [
         {
           "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 30
+          },
+          "Shiny": 1,
+          "Type": 23,
+          "LocalizedStart": true,
+          "Comment": "GO Fest 2024: Sendai City Skies"
+        },
+        {
+          "Start": {
             "Y": 2025,
             "M": 7,
             "D": 8
@@ -147700,6 +147711,17 @@
       "Species": 792,
       "Available": true,
       "Data": [
+        {
+          "Start": {
+            "Y": 2024,
+            "M": 5,
+            "D": 30
+          },
+          "Shiny": 1,
+          "Type": 23,
+          "LocalizedStart": true,
+          "Comment": "GO Fest 2024: Sendai City Skies"
+        },
         {
           "Start": {
             "Y": 2025,
@@ -148147,7 +148169,7 @@
           },
           "Shiny": 1,
           "Type": 42,
-          "Comment": "Pok\u00E9mon GO Fest 2022: Seattle \u2013 City Experience"
+          "Comment": "Pok\u00E9mon GO Fest: Seattle \u2013 City Experience"
         },
         {
           "Start": {
@@ -148222,7 +148244,7 @@
             "D": 5
           },
           "Type": 42,
-          "Comment": "Pok\u00E9mon GO Fest 2022: Seattle \u2013 City Experience"
+          "Comment": "Pok\u00E9mon GO Fest: Seattle \u2013 City Experience"
         },
         {
           "Start": {
@@ -148309,7 +148331,7 @@
           "Shiny": 1,
           "Type": 42,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2022: Berlin"
+          "Comment": "Pok\u00E9mon GO Fest: Berlin"
         },
         {
           "Start": {
@@ -148371,7 +148393,7 @@
           },
           "Type": 42,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2022: Berlin"
+          "Comment": "Pok\u00E9mon GO Fest: Berlin"
         },
         {
           "Start": {
@@ -148457,7 +148479,7 @@
           },
           "Shiny": 1,
           "Type": 42,
-          "Comment": "Pok\u00E9mon GO Fest 2022: Seattle \u2013 Park Experience (Accidental Release)"
+          "Comment": "Pok\u00E9mon GO Fest: Seattle \u2013 City Experience (Accidental Release)"
         },
         {
           "Start": {
@@ -148519,7 +148541,7 @@
           },
           "Type": 42,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2022: Sapporo \u2013 City Experience"
+          "Comment": "Pok\u00E9mon GO Fest: Sapporo \u2013 City Experience"
         },
         {
           "Start": {
@@ -149276,7 +149298,7 @@
           },
           "Type": 48,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2024: Sendai City Skies"
+          "Comment": "GO Fest 2024: Sendai City Skies"
         },
         {
           "Start": {
@@ -149331,7 +149353,7 @@
           },
           "Type": 54,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2024: The Dusk Settles"
+          "Comment": "GO Fest 2024: The Dusk Settles"
         },
         {
           "Start": {
@@ -149438,7 +149460,7 @@
           "Shiny": 1,
           "Type": 41,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2024: Sendai Park Escapade"
+          "Comment": "GO Fest 2024: Sendai Park Escapade"
         }
       ]
     },
@@ -149896,7 +149918,7 @@
           "Shiny": 1,
           "Type": 41,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2026: A Thunderous Discovery in Tokyo!"
+          "Comment": "GO Fest 2026: A Thunderous Discovery in Tokyo!"
         }
       ]
     },
@@ -153844,7 +153866,7 @@
           },
           "Type": 48,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2025: Osaka Hero\u0027s Journey"
+          "Comment": "GO Fest 2025: Osaka Hero\u0027s Journey"
         },
         {
           "Start": {
@@ -154119,7 +154141,7 @@
           },
           "Type": 48,
           "LocalizedStart": true,
-          "Comment": "Pok\u00E9mon GO Fest 2025: Osaka Hero\u0027s Journey"
+          "Comment": "GO Fest 2025: Osaka Hero\u0027s Journey"
         },
         {
           "Start": {
