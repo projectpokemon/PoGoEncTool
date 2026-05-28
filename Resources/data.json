@@ -6589,6 +6589,20 @@
           },
           "Type": 10,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Night 2026: Boston Red Sox)"
+        },
+        {
+          "Start": {
+            "Y": 2027,
+            "M": 4,
+            "D": 11
+          },
+          "End": {
+            "Y": 2027,
+            "M": 4,
+            "D": 11
+          },
+          "Type": 10,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon Fossil Museum \u2013 Chicago, No Costume)"
         }
       ]
     },
@@ -39723,7 +39737,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon Fossil Museum: Tokushima 2025)"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon Fossil Museum \u2013 Tokushima)"
         },
         {
           "Start": {
@@ -39758,17 +39772,16 @@
         {
           "Start": {
             "Y": 2026,
-            "M": 7,
-            "D": 11
+            "M": 5,
+            "D": 22
           },
           "End": {
-            "Y": 2026,
-            "M": 7,
+            "Y": 2027,
+            "M": 4,
             "D": 11
           },
           "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Global, Day 1)"
+          "Comment": "Mega Raid Boss (Pok\u00E9mon Fossil Museum \u2013 Chicago)"
         }
       ]
     },
