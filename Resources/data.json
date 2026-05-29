@@ -35404,7 +35404,6 @@
             "D": 4
           },
           "Type": 24,
-          "LocalizedStart": true,
           "Comment": "Lure Up!"
         }
       ]
@@ -35480,7 +35479,7 @@
           },
           "Type": 24,
           "LocalizedStart": true,
-          "Comment": "Lure Up!"
+          "Comment": "GO Fest 2026: Tokyo \u2013 Act 1"
         }
       ]
     },
@@ -108984,6 +108983,22 @@
           "LocalizedStart": true,
           "NoEndTolerance": true,
           "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2022: Sapporo Makeup Event)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 5,
+            "D": 29
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2026: Tokyo)"
         }
       ]
     },
