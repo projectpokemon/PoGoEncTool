@@ -35614,7 +35614,7 @@
           },
           "Type": 24,
           "LocalizedStart": true,
-          "Comment": "GO Fest 2026: Tokyo \u2013 Act 1"
+          "Comment": "Lure Up!"
         }
       ]
     },
@@ -69670,7 +69670,7 @@
           "Start": {
             "Y": 2026,
             "M": 6,
-            "D": 4
+            "D": 5
           },
           "End": {
             "Y": 2026,
@@ -109556,6 +109556,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2025: Paris Makeup Event)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 5
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Chicago"
         }
       ]
     },
@@ -109642,38 +109657,7 @@
           "Shiny": 1,
           "Type": 1,
           "LocalizedStart": true,
-          "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2026: Tokyo)"
-        },
-        {
-          "Start": {
-            "Y": 2026,
-            "M": 6,
-            "D": 4
-          },
-          "End": {
-            "Y": 2026,
-            "M": 6,
-            "D": 7
-          },
-          "Shiny": 1,
-          "Type": 1,
-          "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2026: Chicago)"
-        },
-        {
-          "Start": {
-            "Y": 2026,
-            "M": 6,
-            "D": 11
-          },
-          "End": {
-            "Y": 2026,
-            "M": 6,
-            "D": 14
-          },
-          "Shiny": 1,
-          "Type": 1,
-          "LocalizedStart": true,
-          "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2026: Copenhagen)"
+          "Comment": "Pok\u00E9mon GO Fest 2026: Tokyo"
         }
       ]
     },
