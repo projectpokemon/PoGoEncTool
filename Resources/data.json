@@ -7359,20 +7359,6 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Spark\u0027s Caretaking Quest"
-        },
-        {
-          "Start": {
-            "Y": 2026,
-            "M": 6,
-            "D": 4
-          },
-          "End": {
-            "Y": 2026,
-            "M": 6,
-            "D": 7
-          },
-          "Type": 1,
-          "Comment": "Pok\u00E9mon GO Fest 2026: Chicago"
         }
       ]
     },
@@ -30269,6 +30255,20 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 7
+          },
+          "Type": 1,
+          "Comment": "Pok\u00E9mon GO Fest 2026: Chicago"
         }
       ]
     },
@@ -69305,6 +69305,20 @@
           },
           "Type": 4,
           "Comment": "Hatchathon 2018"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 7
+          },
+          "Type": 1,
+          "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2026: Chicago)"
         }
       ]
     },
@@ -109269,6 +109283,37 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2026: Tokyo)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 4
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 7
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2026: Chicago)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 11
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 14
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Surprise Encounter (Pok\u00E9mon GO Fest 2026: Copenhagen)"
         }
       ]
     },
