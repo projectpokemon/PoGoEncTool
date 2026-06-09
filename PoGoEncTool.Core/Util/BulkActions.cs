@@ -238,7 +238,7 @@ public static class BulkActions
         Hitmonlee => 3,
         Hitmonchan => 3,
         Chansey => 3,
-        Electabuzz => 3, // verify
+        Electabuzz => 3,
         Eevee => 2,
         Omanyte => 1,
         Kabuto => 1,

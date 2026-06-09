@@ -87454,6 +87454,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Flying Taxi)"
         }
       ]
     },
@@ -101058,6 +101073,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Flying Taxi)"
         }
       ]
     },
@@ -130551,6 +130581,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Flying Taxi)"
         }
       ]
     },
@@ -130606,6 +130651,21 @@
           },
           "Type": 1,
           "Comment": "Daily Adventure Incense"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Flying Taxi)"
         }
       ]
     },
@@ -151978,7 +152038,23 @@
     {
       "Species": 822,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Flying Taxi)"
+        }
+      ]
     },
     {
       "Species": 823,
@@ -156535,6 +156611,77 @@
       "Data": []
     },
     {
+      "Species": 931,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Flying Taxi"
+        }
+      ]
+    },
+    {
+      "Species": 931,
+      "Form": 1,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Flying Taxi"
+        }
+      ]
+    },
+    {
+      "Species": 931,
+      "Form": 2,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Flying Taxi"
+        }
+      ]
+    },
+    {
+      "Species": 931,
+      "Form": 3,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Flying Taxi"
+        }
+      ]
+    },
+    {
       "Species": 932,
       "Available": true,
       "Data": [
@@ -157331,6 +157478,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 29
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Flying Taxi)"
         }
       ]
     },
