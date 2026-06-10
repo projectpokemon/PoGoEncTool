@@ -40652,6 +40652,11 @@
             "M": 4,
             "D": 30
           },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 24
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Cliff"
@@ -60351,6 +60356,11 @@
             "Y": 2026,
             "M": 4,
             "D": 30
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 24
           },
           "Type": 100,
           "LocalizedStart": true,
@@ -90639,6 +90649,11 @@
             "Y": 2026,
             "M": 4,
             "D": 30
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 24
           },
           "Type": 100,
           "LocalizedStart": true,
@@ -133086,6 +133101,16 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 6,
+            "D": 25
+          },
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Boss Giovanni"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 7,
             "D": 11
           },
@@ -133587,6 +133612,11 @@
             "Y": 2026,
             "M": 4,
             "D": 30
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 24
           },
           "Type": 100,
           "LocalizedStart": true,
