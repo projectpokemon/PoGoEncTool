@@ -146382,6 +146382,21 @@
           "Start": {
             "Y": 2025,
             "M": 11,
+            "D": 21
+          },
+          "End": {
+            "Y": 2025,
+            "M": 11,
+            "D": 23
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "2026 Pok\u00E9mon Latin America International Championships"
+        },
+        {
+          "Start": {
+            "Y": 2025,
+            "M": 11,
             "D": 29
           },
           "End": {
@@ -146436,6 +146451,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Sydney Pok\u00E9mon Regional Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 2,
+            "D": 13
+          },
+          "End": {
+            "Y": 2026,
+            "M": 2,
+            "D": 15
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "2026 Pok\u00E9mon Europe International Championships"
         },
         {
           "Start": {
@@ -146640,6 +146670,20 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Turin Pok\u00E9mon Special Championships 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 12
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 14
+          },
+          "Type": 1,
+          "Comment": "2026 Pok\u00E9mon North America International Championships"
         }
       ]
     },
