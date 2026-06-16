@@ -151868,6 +151868,26 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 4
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "July 2026 Community Day"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 4
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
