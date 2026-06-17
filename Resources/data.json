@@ -38894,6 +38894,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -39175,6 +39190,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -94601,6 +94631,21 @@
           "Type": 13,
           "LocalizedStart": true,
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -129643,6 +129688,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -142768,6 +142828,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 6,
+            "D": 17
+          },
+          "End": {
+            "Y": 2026,
+            "M": 6,
+            "D": 23
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -144361,11 +144436,11 @@
           "End": {
             "Y": 2026,
             "M": 6,
-            "D": 15
+            "D": 23
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Candela\u0027s Quest for Victory)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -144562,11 +144637,11 @@
           "End": {
             "Y": 2026,
             "M": 6,
-            "D": 15
+            "D": 23
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "One-Star Raid Boss (Candela\u0027s Quest for Victory)"
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
