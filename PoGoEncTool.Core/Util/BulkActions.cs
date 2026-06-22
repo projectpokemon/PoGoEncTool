@@ -100,29 +100,24 @@ public static class BulkActions
 
     public static void AddMonthlyRaidBosses(PogoEncounterList list)
     {
-        var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, PogoDate Start, PogoDate End, bool IsMega, byte MegaForm)>
+        var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, PogoDate Start, PogoDate End, MegaType Mega)>
         {
             // Five-Star
-            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), false, 0),
+            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), MegaType.None),
 
             // Mega
-            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), true, 0),
+            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), MegaType.Normal),
         };
 
         foreach (var enc in bosses)
         {
+            bool mega = enc.Mega != MegaType.None;
             var pk = list.GetDetails(enc.Species, enc.Form);
-            var comment = "Five-Star Raid Boss";
-            if (enc.IsMega)
-            {
-                comment = enc.MegaForm switch
-                {
-                    0 when enc.Species is (int)Charizard or (int)Raichu or (int)Mewtwo => $"Mega Raid Boss (Mega {(Species)enc.Species} X)",
-                    1 when enc.Species is (int)Charizard or (int)Raichu or (int)Mewtwo => $"Mega Raid Boss (Mega {(Species)enc.Species} Y)",
-                    1 when enc.Species is (int)Absol or (int)Garchomp or (int)Lucario => $"Mega Raid Boss (Mega {(Species)enc.Species} Z)",
-                    _ => "Mega Raid Boss",
-                };
-            }
+            var comment = mega ? "Mega Raid Boss" : "Five-Star Raid Boss";
+
+            // specify which Mega-Evolved form it is
+            if (mega && enc.Mega != MegaType.Normal)
+                comment += $" (Mega {(Species)enc.Species} {enc.Mega})";
 
             var type = enc.Species switch
             {
@@ -149,7 +144,7 @@ public static class BulkActions
             pk.Add(entry); // add the raid entry!
 
             // add an accompanying GBL encounter if it has not appeared in research before, or continues to appear in the wild
-            if ((!enc.IsMega) && !pk.Data.Any(z => IsLessRestrictiveEncounter(z.Type) && z.Shiny == enc.Shiny && z.End == null))
+            if ((!mega) && !pk.Data.Any(z => IsLessRestrictiveEncounter(z.Type) && z.Shiny == enc.Shiny && z.End == null))
             {
                 // some Special Pokémon are exempt because one of their other forms have been in research, and their form is reverted when sent to HOME
                 if (enc.Species is (int)Giratina or (int)Genesect)
@@ -286,6 +281,15 @@ public static class BulkActions
         ShadowRaid = 1,
         MaxBattleDynamax = 2,
         MaxBattleGigantamax = 3,
+    }
+
+    public enum MegaType : byte
+    {
+        None = 0,
+        Normal = 1,
+        X = 2,
+        Y = 3,
+        Z = 4,
     }
 }
 #endif
