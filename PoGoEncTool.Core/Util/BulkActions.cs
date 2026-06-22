@@ -119,6 +119,7 @@ public static class BulkActions
                 {
                     0 when enc.Species is (int)Charizard or (int)Raichu or (int)Mewtwo => $"Mega Raid Boss (Mega {(Species)enc.Species} X)",
                     1 when enc.Species is (int)Charizard or (int)Raichu or (int)Mewtwo => $"Mega Raid Boss (Mega {(Species)enc.Species} Y)",
+                    1 when enc.Species is (int)Absol or (int)Garchomp or (int)Lucario => $"Mega Raid Boss (Mega {(Species)enc.Species} Z)",
                     _ => "Mega Raid Boss",
                 };
             }
@@ -150,8 +151,8 @@ public static class BulkActions
             // add an accompanying GBL encounter if it has not appeared in research before, or continues to appear in the wild
             if ((!enc.IsMega) && !pk.Data.Any(z => IsLessRestrictiveEncounter(z.Type) && z.Shiny == enc.Shiny && z.End == null))
             {
-                // some Legendary and Mythical Pokémon are exempt because one of their forms or pre-evolutions have been in research, and they revert or can be changed upon transfer to HOME
-                if (enc.Species is (int)Giratina or (int)Genesect or (int)Cosmoem or (int)Solgaleo or (int)Lunala)
+                // some Special Pokémon are exempt because one of their other forms have been in research, and their form is reverted when sent to HOME
+                if (enc.Species is (int)Giratina or (int)Genesect)
                     continue;
                 AddEncounterGBL(list, enc.Species, enc.Form, enc.Shiny, enc.Start);
             }
@@ -242,12 +243,13 @@ public static class BulkActions
         Eevee => 2,
         Omanyte => 1,
         Kabuto => 1,
-        Hoothoot => 1, // verify
+        Hoothoot => 1,
         Shuckle => 2,
         Ralts => 1,
         Sableye => 3,
         Wailmer => 2,
         Trapinch => 1,
+        Feebas => 1, // verify
         Spheal => 1,
         Beldum => 3,
         Combee => 1,
@@ -259,6 +261,7 @@ public static class BulkActions
         Darumaka => 2,
         Trubbish => 1,
         Cryogonal => 3,
+        Deino => 3, // verify
         Inkay => 1,
         Bounsweet => 1,
         Passimian => 3,

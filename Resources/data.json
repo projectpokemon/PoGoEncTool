@@ -41536,7 +41536,7 @@
           "Start": {
             "Y": 2026,
             "M": 7,
-            "D": 6
+            "D": 1
           },
           "End": {
             "Y": 2026,
@@ -41545,7 +41545,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Road of Legends, Day 1)"
+          "Comment": "Five-Star Raid Boss"
         },
         {
           "Start": {
@@ -41556,11 +41556,11 @@
           "End": {
             "Y": 2026,
             "M": 7,
-            "D": 11
+            "D": 14
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2026: Global, Day 1)"
+          "Comment": "Five-Star Raid Boss"
         },
         {
           "Start": {
@@ -42212,7 +42212,7 @@
           "Start": {
             "Y": 2026,
             "M": 7,
-            "D": 6
+            "D": 1
           },
           "End": {
             "Y": 2026,
@@ -42221,7 +42221,7 @@
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Road of Legends, Day 1)"
+          "Comment": "Five-Star Raid Boss"
         },
         {
           "Start": {
@@ -42232,11 +42232,11 @@
           "End": {
             "Y": 2026,
             "M": 7,
-            "D": 11
+            "D": 14
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2026: Global, Day 1)"
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -42823,51 +42823,6 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9Park KANTO)"
-        },
-        {
-          "Start": {
-            "Y": 2026,
-            "M": 6,
-            "D": 11
-          },
-          "End": {
-            "Y": 2026,
-            "M": 6,
-            "D": 14
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2026: Copenhagen)"
-        },
-        {
-          "Start": {
-            "Y": 2026,
-            "M": 7,
-            "D": 6
-          },
-          "End": {
-            "Y": 2026,
-            "M": 7,
-            "D": 6
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Road of Legends, Day 1)"
-        },
-        {
-          "Start": {
-            "Y": 2026,
-            "M": 7,
-            "D": 11
-          },
-          "End": {
-            "Y": 2026,
-            "M": 7,
-            "D": 11
-          },
-          "Type": 10,
-          "LocalizedStart": true,
-          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2026: Global, Day 1)"
         }
       ]
     },
@@ -73749,11 +73704,11 @@
           "End": {
             "Y": 2026,
             "M": 7,
-            "D": 12
+            "D": 21
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Global, Day 2)"
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -82951,6 +82906,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 29
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -89757,6 +89727,16 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 27
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -94325,6 +94305,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Global, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -98610,6 +98605,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2026: Global, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 15
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 21
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -107229,16 +107239,31 @@
           "Start": {
             "Y": 2026,
             "M": 7,
+            "D": 1
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 5
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
             "D": 12
           },
           "End": {
             "Y": 2026,
             "M": 7,
-            "D": 12
+            "D": 14
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Global, Day 2)"
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -111621,6 +111646,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 1
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 4
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Shadow Raid Boss"
         },
         {
           "Start": {
@@ -131758,6 +131798,16 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 13
+          },
+          "Type": 110,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -135040,6 +135090,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Road of Legends, Days 1-3 / Pok\u00E9mon GO Fest 2026: Global, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 29
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 4
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -149647,6 +149712,31 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Fest 2026: Global, Day 1)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 22
+          },
+          "Type": 23,
+          "LocalizedStart": true,
+          "Comment": "GO Fest 2024: Sendai City Skies"
         }
       ]
     },
