@@ -1713,6 +1713,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 7,
+            "D": 28
+          },
+          "End": {
+            "Y": 2027,
+            "M": 8,
+            "D": 31
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Red Pok\u00E9mon Jet)"
         }
       ]
     },
