@@ -13833,6 +13833,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Holiday 2024 Part 1, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 24
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2026: Water Festival, No Costume)"
         }
       ]
     },
@@ -37600,6 +37615,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 24
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2026: Water Festival, No Costume)"
         }
       ]
     },
@@ -114936,6 +114966,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2026: Water Festival)"
         }
       ]
     },
@@ -154465,6 +154510,77 @@
       "Data": []
     },
     {
+      "Species": 845,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 90,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Forever Forward)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 4,
+          "LocalizedStart": true,
+          "Comment": "Ultra Unlock 2026: Water Festival"
+        }
+      ]
+    },
+    {
+      "Species": 846,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Rainy Lure Module (Ultra Unlock 2026: Water Festival)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 18
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Ultra Unlock 2026: Water Festival"
+        }
+      ]
+    },
+    {
+      "Species": 847,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 848,
       "Available": true,
       "Data": [
@@ -159905,6 +160021,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 24
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Ultra Unlock 2026: Water Festival)"
         }
       ]
     },
@@ -159975,6 +160106,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2026: Water Festival)"
         }
       ]
     },
@@ -160046,6 +160193,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2026: Water Festival)"
         }
       ]
     },
@@ -160117,6 +160280,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 18
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 24
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Ultra Unlock 2026: Water Festival)"
         }
       ]
     },
