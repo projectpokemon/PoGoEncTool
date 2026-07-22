@@ -240,11 +240,14 @@ public static class BulkActions
             Hitmonchan => 3,
             Chansey => 3,
             Electabuzz => 3,
+            Magmar => 3, // verify
+            Magikarp => 1, // verify
             Eevee => 2,
             Omanyte => 1,
             Kabuto => 1,
             Hoothoot => 1,
             Shuckle => 2,
+            Hitmontop => 3, // verify
             Ralts => 1,
             Sableye => 3,
             Wailmer => 2,
