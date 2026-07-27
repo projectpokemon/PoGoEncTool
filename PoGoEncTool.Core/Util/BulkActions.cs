@@ -252,7 +252,7 @@ public static class BulkActions
             Sableye => 3,
             Wailmer => 2,
             Trapinch => 1,
-            Feebas => 1, // verify
+            Feebas => 2,
             Spheal => 1,
             Beldum => 3,
             Combee => 1,
