@@ -6711,6 +6711,21 @@
             "D": 30
           },
           "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (2026 Pok\u00E9mon World Championships, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 30
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 30
+          },
+          "Type": 10,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Night 2026: Washington Nationals)"
         },
         {
@@ -30799,6 +30814,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO Fest 2026: Chicago"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 8
+          },
+          "Type": 92,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9monXP \u0026 2026 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -67214,6 +67244,21 @@
           },
           "Type": 1,
           "Comment": "Pok\u00E9mon GO Fest 2026: Chicago"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 8
+          },
+          "Type": 92,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9monXP \u0026 2026 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -127569,6 +127614,22 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon Sports Day 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 8
+          },
+          "Gender": 1,
+          "Type": 92,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9monXP \u0026 2026 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -141516,6 +141577,36 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Candela\u0027s Quest for Victory)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 8
+          },
+          "Type": 92,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9monXP \u0026 2026 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 28
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 30
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (2026 Pok\u00E9mon World Championships)"
         }
       ]
     },
@@ -157905,6 +157996,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO: Forever Forward"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 28
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9monXP)"
         }
       ]
     },
@@ -158609,6 +158715,21 @@
           "Type": 92,
           "LocalizedStart": true,
           "Comment": "Reward Encounter (GO Battle Week: Precious Paths)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 8
+          },
+          "Type": 92,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9monXP \u0026 2026 Pok\u00E9mon World Championships)"
         }
       ]
     },
