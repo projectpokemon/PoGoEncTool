@@ -241,7 +241,7 @@ public static class BulkActions
             Chansey => 3,
             Electabuzz => 3,
             Magmar => 3,
-            Magikarp => 1, // verify
+            Magikarp => 1,
             Eevee => 2,
             Omanyte => 1,
             Kabuto => 1,
