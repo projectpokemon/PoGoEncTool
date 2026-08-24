@@ -63899,6 +63899,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -91949,6 +91964,21 @@
           "Type": 110,
           "LocalizedStart": true,
           "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -128663,6 +128693,22 @@
           },
           "End": {
             "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "Gender": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
             "M": 9,
             "D": 8
           },
@@ -151410,6 +151456,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -151789,6 +151850,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon GO Fest 2026: Copenhagen"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -162599,6 +162675,22 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 8,
+            "D": 25
+          },
+          "Shiny": 1,
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -163556,11 +163648,11 @@
           "End": {
             "Y": 2026,
             "M": 8,
-            "D": 24
+            "D": 25
           },
           "Type": 10,
           "LocalizedStart": true,
-          "Comment": "Three-Star Raid Boss (Ultra Unlock 2026: Water Festival)"
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },

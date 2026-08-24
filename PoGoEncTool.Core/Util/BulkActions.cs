@@ -14,8 +14,8 @@ namespace PoGoEncTool.Core;
 public static class BulkActions
 {
     public static BossType Type { get; set; } = BossType.Raid;
-    public static string Season { get; set; } = "Forever Forward";
-    public static PogoDate SeasonEnd { get; set; } = new(2026, 09, 08);
+    public static string Season { get; set; } = "Twilight Trails";
+    public static PogoDate SeasonEnd { get; set; } = new(2026, 12, 01);
 
     public static void AddBossEncounters(PogoEncounterList list)
     {
