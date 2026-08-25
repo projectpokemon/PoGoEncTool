@@ -238,6 +238,7 @@ public static class BulkActions
             Krabby => 1,
             Hitmonlee => 3,
             Hitmonchan => 3,
+            Rhyhorn => 2, // verify
             Chansey => 3,
             Electabuzz => 3,
             Magmar => 3,
