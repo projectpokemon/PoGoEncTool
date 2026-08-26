@@ -158093,6 +158093,21 @@
           "Type": 4,
           "LocalizedStart": true,
           "Comment": "Ultra Unlock 2026: Water Festival"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 8,
+            "D": 26
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 92,
+          "Comment": "Reward Encounter (Pok\u00E9monXP \u0026 2026 Pok\u00E9mon World Championships)"
         }
       ]
     },
