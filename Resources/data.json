@@ -158335,6 +158335,22 @@
           "Shiny": 1,
           "Type": 92,
           "Comment": "Reward Encounter (Pok\u00E9monXP \u0026 2026 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 10
+          },
+          "End": {
+            "Y": 2026,
+            "M": 12,
+            "D": 1
+          },
+          "Shiny": 1,
+          "Type": 90,
+          "LocalizedStart": true,
+          "Comment": "Reward Encounter (Pok\u00E9mon GO: Twilight Trails)"
         }
       ]
     },
