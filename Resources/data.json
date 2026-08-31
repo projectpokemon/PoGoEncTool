@@ -163696,6 +163696,39 @@
       "Data": []
     },
     {
+      "Species": 942,
+      "Available": true,
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 4,
+          "LocalizedStart": true,
+          "Comment": "Mega Squads"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 8
+          },
+          "Shiny": 1,
+          "Type": 20,
+          "LocalizedStart": true,
+          "Comment": "Mega Squads"
+        }
+      ]
+    },
+    {
+      "Species": 943,
+      "Available": true,
+      "Data": []
+    },
+    {
       "Species": 944,
       "Available": true,
       "Data": [
@@ -164614,6 +164647,16 @@
           "Type": 29,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: March 2026 (Accidental Release)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 8
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "Mega Squads"
         }
       ]
     },
