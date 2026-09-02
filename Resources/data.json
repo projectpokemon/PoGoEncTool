@@ -2421,6 +2421,21 @@
         {
           "Start": {
             "Y": 2026,
+            "M": 9,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event 2026, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
             "M": 10,
             "D": 10
           },
@@ -7039,6 +7054,21 @@
           },
           "Type": 10,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Night 2026: Seattle Mariners)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 22
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event 2026, No Costume)"
         },
         {
           "Start": {
@@ -71827,6 +71857,21 @@
             "Y": 2026,
             "M": 8,
             "D": 24
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 16
+          },
+          "Type": 1,
+          "LocalizedStart": true,
+          "Comment": "GO Snapshot Surprise Encounter (Became Pok\u00E9mon Horizons: The Series Celebration Event 2026 Wild Encounters)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 22
           },
           "Type": 1,
           "LocalizedStart": true,
@@ -162942,6 +162987,21 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Mighty Pok\u00E9mon (Pok\u00E9mon GO Wild Area 2025: Global)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event 2026)"
         }
       ]
     },
@@ -162994,7 +163054,23 @@
     {
       "Species": 911,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event 2026)"
+        }
+      ]
     },
     {
       "Species": 912,
@@ -163031,7 +163107,23 @@
     {
       "Species": 914,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 16
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 22
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Horizons: The Series Celebration Event 2026)"
+        }
+      ]
     },
     {
       "Species": 915,
