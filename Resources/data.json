@@ -132220,6 +132220,11 @@
             "M": 6,
             "D": 25
           },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 1
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Cliff"
@@ -138133,6 +138138,11 @@
             "M": 6,
             "D": 25
           },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 1
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Boss Giovanni"
@@ -138438,6 +138448,16 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 10,
+            "D": 2
+          },
+          "Type": 100,
+          "LocalizedStart": true,
+          "Comment": "Team GO Rocket Boss Giovanni"
         }
       ]
     },
@@ -144690,6 +144710,11 @@
             "M": 6,
             "D": 25
           },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 1
+          },
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Leader Arlo"
@@ -144875,6 +144900,11 @@
             "Y": 2026,
             "M": 6,
             "D": 25
+          },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 1
           },
           "Type": 100,
           "LocalizedStart": true,
@@ -163859,6 +163889,16 @@
           "Type": 1,
           "LocalizedStart": true,
           "Comment": "Pok\u00E9mon 30th Anniversary: All Out"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 10,
+            "D": 2
+          },
+          "Type": 5,
+          "LocalizedStart": true,
+          "Comment": "Harvest Festival 2026: Taken Over"
         }
       ]
     },
