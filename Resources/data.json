@@ -163834,7 +163834,7 @@
           "Start": {
             "Y": 2026,
             "M": 9,
-            "D": 8
+            "D": 11
           },
           "Shiny": 1,
           "Type": 4,
@@ -163845,7 +163845,7 @@
           "Start": {
             "Y": 2026,
             "M": 9,
-            "D": 8
+            "D": 11
           },
           "Shiny": 1,
           "Type": 20,
@@ -164653,6 +164653,21 @@
           "Type": 29,
           "LocalizedStart": true,
           "Comment": "GO Pass Deluxe: August 2026"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 10
+          },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 8
+          },
+          "Type": 29,
+          "LocalizedStart": true,
+          "Comment": "GO Pass Deluxe: September 2026"
         }
       ]
     },
