@@ -4930,6 +4930,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -8717,7 +8732,23 @@
       "Species": 28,
       "Form": 1,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
+        }
+      ]
     },
     {
       "Species": 29,
@@ -13162,6 +13193,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -17274,6 +17320,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -18000,6 +18061,21 @@
             "Y": 2025,
             "M": 9,
             "D": 15
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 6
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -38782,6 +38858,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss (Ultra Unlock 2026: Water Festival, No Costume)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -51822,6 +51913,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Shadow Raid Boss"
         }
       ]
     },
@@ -62669,6 +62775,21 @@
           },
           "Type": 254,
           "Comment": "Version 0.269.0 Premier Ball Issue"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -76423,6 +76544,21 @@
           "Type": 100,
           "LocalizedStart": true,
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -96917,6 +97053,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 6
+          },
+          "Type": 13,
+          "LocalizedStart": true,
+          "Comment": "One-Star Shadow Raid Boss"
         }
       ]
     },
@@ -125477,6 +125628,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "One-Star Raid Boss (Candela\u0027s Quest for Victory)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -132056,8 +132222,8 @@
           },
           "End": {
             "Y": 2026,
-            "M": 9,
-            "D": 8
+            "M": 10,
+            "D": 6
           },
           "Type": 13,
           "LocalizedStart": true,
@@ -160825,6 +160991,21 @@
           "Type": 10,
           "LocalizedStart": true,
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Mega Finale, Battle District)"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 11
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -163476,6 +163657,21 @@
             "Y": 2026,
             "M": 6,
             "D": 16
+          },
+          "Type": 10,
+          "LocalizedStart": true,
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 9,
+            "D": 9
+          },
+          "End": {
+            "Y": 2026,
+            "M": 9,
+            "D": 11
           },
           "Type": 10,
           "LocalizedStart": true,
