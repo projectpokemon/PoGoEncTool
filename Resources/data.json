@@ -157747,6 +157747,11 @@
             "M": 7,
             "D": 15
           },
+          "End": {
+            "Y": 2026,
+            "M": 7,
+            "D": 15
+          },
           "Type": 113,
           "LocalizedStart": true,
           "Comment": "Six-Star Power Spot Boss (Gigantamax Rillaboom Max Battle Day)"
@@ -158083,6 +158088,21 @@
           "Type": 77,
           "LocalizedStart": true,
           "Comment": "Gigantamax Journey"
+        },
+        {
+          "Start": {
+            "Y": 2026,
+            "M": 10,
+            "D": 3
+          },
+          "End": {
+            "Y": 2026,
+            "M": 10,
+            "D": 3
+          },
+          "Type": 113,
+          "LocalizedStart": true,
+          "Comment": "Six-Star Power Spot Boss (Gigantamax Cinderace Max Battle Day)"
         }
       ]
     },
