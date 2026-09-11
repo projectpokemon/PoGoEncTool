@@ -159,7 +159,6 @@ public static class PogoPickler
 
     private static bool GetCanTransferIfShiny(ushort species, byte form) => (Species)species switch
     {
-        Flamigo => false,
         _ => true,
     };
 }
