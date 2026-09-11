@@ -40,6 +40,7 @@ public partial class Main : Form
         // BulkActions.AddBossEncounters(Entries);
         // BulkActions.AddNewShadows(Entries);
         // BulkActions.AddMonthlyRaidBosses(Entries);
+        // BulkActions.AddLegendaryEncountersGBL(Entries);
 
         LoadEntries();
         InitializeDataSources();

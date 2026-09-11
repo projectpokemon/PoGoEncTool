@@ -29,24 +29,27 @@ public static class BulkActions
             var pk = list.GetDetails(enc.Species, enc.Form);
             var boss = Type switch
             {
+                BossType.Raid => "Raid Boss",
                 BossType.ShadowRaid => "Shadow Raid Boss",
                 BossType.MaxBattleDynamax or BossType.MaxBattleGigantamax => "Power Spot Boss",
-                _ => "Raid Boss"
+                _ => throw new System.ArgumentOutOfRangeException(nameof(Type)),
             };
 
             var type = Type switch
             {
+                BossType.Raid => Raid,
                 BossType.ShadowRaid => RaidShadow,
                 BossType.MaxBattleDynamax => MaxBattle,
                 BossType.MaxBattleGigantamax => MaxBattleGigantamax,
-                _ => Raid,
+                _ => throw new System.ArgumentOutOfRangeException(nameof(Type)),
             };
 
             var tier = Type switch
             {
+                BossType.Raid or BossType.ShadowRaid => enc.Tier,
                 BossType.MaxBattleDynamax => GetPowerSpotTier(enc.Species),
                 BossType.MaxBattleGigantamax => (byte)6,
-                _ => enc.Tier,
+                _ => throw new System.ArgumentOutOfRangeException(nameof(Type)),
             };
 
             if (type is Raid or RaidShadow or MaxBattle && SpeciesCategory.IsMythical(enc.Species))
@@ -95,7 +98,7 @@ public static class BulkActions
         4 => "Four",
         5 => "Five",
         6 => "Six",
-        _ => string.Empty,
+        _ => throw new System.ArgumentOutOfRangeException(nameof(tier)),
     };
 
     public static void AddMonthlyRaidBosses(PogoEncounterList list)
@@ -142,38 +145,45 @@ public static class BulkActions
                 pk.Available = true;
 
             pk.Add(entry); // add the raid entry!
-
-            // add an accompanying GBL encounter if it has not appeared in research before, or continues to appear in the wild
-            if ((!mega) && !pk.Data.Any(z => IsLessRestrictiveEncounter(z.Type) && z.Shiny == enc.Shiny && z.End == null))
-            {
-                // some Special Pokémon are exempt because one of their other forms have been in research, and their form is reverted when sent to HOME
-                if (enc.Species is (int)Giratina or (int)Genesect)
-                    continue;
-                AddEncounterGBL(list, enc.Species, enc.Form, enc.Shiny, enc.Start);
-            }
         }
+    }
+
+    public static void AddLegendaryEncountersGBL(PogoEncounterList list)
+    {
+        var legendaries = new List<(ushort Species, byte Form, PogoShiny Shiny)>
+        {
+            new((int)Articuno, 0, Random),
+        };
+
+        foreach (var enc in legendaries)
+        {
+            var pk = list.GetDetails(enc.Species, enc.Form);
+            if (pk.Data.Any(z => IsRevertFormOnTransfer(enc.Species) || IsLessRestrictiveEncounter(z.Type) && z.Shiny == enc.Shiny && z.End == null))
+                continue;
+            var type = SpeciesCategory.IsMythical(enc.Species) ? GBLMythical : GBL;
+            var entry = new PogoEntry
+            {
+                Start = new PogoDate(),
+                End = SeasonEnd,
+                Type = type,
+                LocalizedStart = true,
+                NoEndTolerance = false,
+                Comment = $"Reward Encounter (GO Battle League: {Season})",
+                Shiny = enc.Shiny,
+            };
+
+            // set species as available if this encounter is its debut
+            if (!pk.Available)
+                pk.Available = true;
+
+            pk.Add(entry); // add the GBL entry!
+        }
+
+        static bool IsRevertFormOnTransfer(ushort species) => species is (ushort)Giratina or (ushort)Genesect;
 
         static bool IsLessRestrictiveEncounter(PogoType type) => type is Wild or ResearchBreakthrough or SpecialResearch or TimedResearch or CollectionChallenge or
                                                                                  SpecialMythical or SpecialLevel10 or SpecialLevel20 or SpecialLevelRange or SpecialMythicalLevel10 or SpecialMythicalLevel20 or SpecialMythicalLevelRange or
                                                                                  TimedMythical or TimedLevel10 or TimedLevel20 or TimedLevelRange or TimedMythicalLevel10 or TimedMythicalLevel20 or TimedMythicalLevelRange;
-    }
-
-    private static void AddEncounterGBL(PogoEncounterList list, ushort species, byte form, PogoShiny shiny, PogoDate start)
-    {
-        var pk = list.GetDetails(species, form);
-        var type = SpeciesCategory.IsMythical(species) ? GBLMythical : GBL;
-        var entry = new PogoEntry
-        {
-            Start = start,
-            End = SeasonEnd,
-            Type = type,
-            LocalizedStart = true,
-            NoEndTolerance = false,
-            Comment = $"Reward Encounter (Pokémon GO: {Season})",
-            Shiny = shiny,
-        };
-
-        pk.Add(entry); // add the GBL entry!
     }
 
     public static void AddNewShadows(PogoEncounterList list)
