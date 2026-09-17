@@ -258,6 +258,7 @@ public static class BulkActions
             Kabuto => 1,
             Hoothoot => 1,
             Shuckle => 2,
+            Sneasel => 1, // verify
             Hitmontop => 3,
             Ralts => 1,
             Sableye => 3,
@@ -287,6 +288,7 @@ public static class BulkActions
             Rookidee => 1,
             Wooloo => 1,
             Toxtricity => 4,
+            Sizzlipede => 1, // verify
             Hatenna => 1,
             Falinks => 3,
             Duraludon => 4,
