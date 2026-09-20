@@ -1,5 +1,6 @@
 using System;
 using System.ComponentModel;
+using System.Text.Json.Serialization;
 
 namespace PoGoEncTool.Core;
 
@@ -15,11 +16,11 @@ public sealed record PogoEntry : IComparable<PogoEntry>
     [Category("Dates")]
     public bool NoEndTolerance { get; set; }
 
-    [Category("Detail")]
+    [Category("Detail"), JsonConverter(typeof(JsonStringEnumConverter<PogoShiny>))]
     public PogoShiny Shiny { get; set; }
-    [Category("Detail")]
+    [Category("Detail"), JsonConverter(typeof(JsonStringEnumConverter<PogoGender>))]
     public PogoGender Gender { get; set; }
-    [Category("Detail")]
+    [Category("Detail"), JsonConverter(typeof(JsonStringEnumConverter<PogoType>))]
     public PogoType Type { get; set; }
 
     [Category("Misc")]
