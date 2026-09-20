@@ -1,18 +1,41 @@
 using System;
+using System.ComponentModel;
 
 namespace PoGoEncTool.Core;
 
 [Serializable]
 public sealed record PogoEntry : IComparable<PogoEntry>
 {
+    [Category("Dates")]
     public PogoDate? Start { get; set; }
-    public PogoDate? End { get; set; }
-    public PogoShiny Shiny { get; set; }
-    public PogoGender Gender { get; set; }
-    public PogoType Type { get; set; }
+    [Category("Dates")]
     public bool LocalizedStart { get; set; }
+    [Category("Dates")]
+    public PogoDate? End { get; set; }
+    [Category("Dates")]
     public bool NoEndTolerance { get; set; }
+
+    [Category("Detail")]
+    public PogoShiny Shiny { get; set; }
+    [Category("Detail")]
+    public PogoGender Gender { get; set; }
+    [Category("Detail")]
+    public PogoType Type { get; set; }
+
+    [Category("Misc")]
     public string Comment { get; set; } = string.Empty;
+
+    public void CopyTo(PogoEntry other)
+    {
+        other.Start = Start;
+        other.End = End;
+        other.Shiny = Shiny;
+        other.Gender = Gender;
+        other.Type = Type;
+        other.LocalizedStart = LocalizedStart;
+        other.NoEndTolerance = NoEndTolerance;
+        other.Comment = Comment;
+    }
 
     public static PogoEntry CreateNew() => new()
     {

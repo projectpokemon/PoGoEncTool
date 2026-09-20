@@ -21,7 +21,7 @@ public static class BulkActions
     {
         var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, byte Tier)>
         {
-            new((int)Bulbasaur, 0, Random, 1),
+            ((int)Bulbasaur, 0, Random, 1),
         };
 
         foreach (var enc in bosses)
@@ -106,10 +106,10 @@ public static class BulkActions
         var bosses = new List<(ushort Species, byte Form, PogoShiny Shiny, PogoDate Start, PogoDate End, MegaType Mega)>
         {
             // Five-Star
-            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), MegaType.None),
+            ((int)Bulbasaur, 0, Random, new(), new(), MegaType.None),
 
             // Mega
-            new((int)Bulbasaur, 0, Random, new PogoDate(), new PogoDate(), MegaType.Normal),
+            ((int)Bulbasaur, 0, Random, new(), new(), MegaType.Normal),
         };
 
         foreach (var enc in bosses)
@@ -152,7 +152,7 @@ public static class BulkActions
     {
         var legendaries = new List<(ushort Species, byte Form, PogoShiny Shiny)>
         {
-            new((int)Articuno, 0, Random),
+            ((int)Articuno, 0, Random),
         };
 
         foreach (var enc in legendaries)
@@ -190,16 +190,16 @@ public static class BulkActions
     {
         var removed = new List<(ushort Species, byte Form)>
         {
-            new((int)Bulbasaur, 0),
+            ((int)Bulbasaur, 0),
         };
 
         var added = new List<(ushort Species, byte Form, PogoShiny Shiny)>
         {
-            new((int)Bulbasaur, 0, Random),
+            ((int)Bulbasaur, 0, Random),
         };
 
         // add end dates for Shadows that have been removed
-        foreach ((ushort s, byte f) in removed)
+        foreach (var (s, f) in removed)
         {
             var pk = list.GetDetails(s, f);
             var entries = pk.Data;
@@ -212,7 +212,7 @@ public static class BulkActions
         }
 
         // add new Shadows
-        foreach ((ushort s, byte f, PogoShiny shiny) in added)
+        foreach (var (s, f, shiny) in added)
         {
             var pk = list.GetDetails(s, f);
             var entry = new PogoEntry

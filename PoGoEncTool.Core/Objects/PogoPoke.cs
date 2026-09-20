@@ -64,32 +64,24 @@ public class PogoPoke : IComparable, ISpeciesForm
         for (var i = 0; i < Data.Count; i++)
         {
             var app = Data[i];
-            string fail(string msg) => $"{msg}: {(Species) Species}-{Form} -- appear[{i}] {app}";
             if (app.Comment.Any(char.IsWhiteSpace))
-            {
                 app.Comment = app.Comment.Trim();
-            }
 
             if (app.Start == null)
             {
-                yield return fail("No Start Date");
+                yield return Fail("No Start Date");
                 continue;
             }
 
             if (app.End?.CompareTo(app.Start) == -1)
-            {
-                yield return fail("End Date before Start Date");
-            }
-
+                yield return Fail("End Date before Start Date");
             if (app.Start?.CompareTo(new PogoDate(2016, 7, 6)) == -1)
-            {
-                yield return fail("Start Date year is before Pokémon GO's release");
-            }
-
+                yield return Fail("Start Date year is before Pokémon GO's release");
             if (app.Comment.StartsWith("-Star"))
-            {
-                yield return fail("Comment does not denote Raid Boss tier");
-            }
+                yield return Fail("Comment does not denote Raid Boss tier");
+            continue;
+
+            string Fail(string msg) => $"{msg}: {(Species) Species}-{Form} -- appear[{i}] {app}";
         }
     }
 }

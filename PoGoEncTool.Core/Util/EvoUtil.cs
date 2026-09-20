@@ -10,10 +10,7 @@ public static class EvoUtil
     public static IEnumerable<(ushort Species, byte Form)> GetEvoSpecForms(ushort species, byte form)
     {
         if (species == (int) Meltan)
-        {
-            (ushort, byte) melmetal = new((ushort)Melmetal, 0);
-            return [melmetal];
-        }
+            return [((ushort)Melmetal, 0)];
 
         var sv = Get(PersonalTable.SV,   EntityContext.Gen9,  species, form);
         var la = Get(PersonalTable.LA,   EntityContext.Gen8a, species, form);
@@ -37,7 +34,7 @@ public static class EvoUtil
 
     public static bool IsAllowedEvolution(in ushort species, in byte form, in ushort s, in byte destForm)
     {
-        // Outside of special events, regional form branched evolutions are not available.
+        // Besides special events, regional form branched evolutions are not available.
         var destSpecies = (Species)s;
         return (Species)species switch
         {
