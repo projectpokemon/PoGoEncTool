@@ -56,6 +56,7 @@ namespace PoGoEncTool.WinForms
             propertyGrid1.PropertySort = System.Windows.Forms.PropertySort.Categorized;
             propertyGrid1.Size = new System.Drawing.Size(363, 308);
             propertyGrid1.TabIndex = 0;
+            propertyGrid1.PropertyValueChanged += ChangeProperty;
             // 
             // PogoDataProps
             // 

@@ -114,4 +114,15 @@ public sealed record PogoEntry : IComparable<PogoEntry>
     {
         Type = PogoType.None; // marked for removal, don't bother clearing other fields
     }
+
+    public bool InitializeDefaultsForType(PogoType newType)
+    {
+        if (newType is PogoType.Raid)
+        {
+            // todo
+            return true;
+        }
+
+        return false;
+    }
 }
