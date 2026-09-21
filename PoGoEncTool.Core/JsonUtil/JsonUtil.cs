@@ -11,5 +11,5 @@ public sealed partial class ProgramSettingsContext : JsonSerializerContext;
     WriteIndented = true,
     DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingDefault,
     UseStringEnumConverter = true,
-    Converters = [typeof(PogoDateConverter)])]
+    Converters = [typeof(PogoDateJsonConverter)])]
 public sealed partial class PogoEncounterListContext : JsonSerializerContext;

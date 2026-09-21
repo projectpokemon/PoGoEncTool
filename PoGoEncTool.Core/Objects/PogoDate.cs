@@ -4,7 +4,7 @@ using System.ComponentModel;
 namespace PoGoEncTool.Core;
 
 [Serializable]
-[TypeConverter(typeof(ExpandableObjectConverter))]
+[TypeConverter(typeof(PogoDateValueConverter))]
 public sealed record PogoDate(int Year, int Month, int Day) : IComparable<PogoDate>
 {
     public int Year { get; set; } = Year;

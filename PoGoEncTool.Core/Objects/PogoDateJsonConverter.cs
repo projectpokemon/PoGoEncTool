@@ -5,7 +5,7 @@ using System.Text.Json.Serialization;
 
 namespace PoGoEncTool.Core;
 
-public sealed class PogoDateConverter : JsonConverter<PogoDate>
+public sealed class PogoDateJsonConverter : JsonConverter<PogoDate>
 {
     private const string Format = "yyyy.MM.dd";
 
