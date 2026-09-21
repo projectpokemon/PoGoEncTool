@@ -39,7 +39,7 @@ public sealed partial class PogoRow : UserControl
         DT_End.Checked = entry.End != null;
 
         CHK_Localized.Checked = entry.LocalizedStart;
-        CHK_EndTolerance.Checked = !entry.NoEndTolerance;
+        CHK_EndTolerance.Checked = entry.HasEndTolerance;
 
         CB_Type.SelectedValue = (int)entry.Type;
 
@@ -63,7 +63,7 @@ public sealed partial class PogoRow : UserControl
         entry.Type = (PogoType)((int?)CB_Type.SelectedValue ?? 0);
 
         entry.LocalizedStart = CHK_Localized.Checked;
-        entry.NoEndTolerance = !CHK_EndTolerance.Checked;
+        entry.HasEndTolerance = CHK_EndTolerance.Checked;
 
         entry.Comment = TB_Comment.Text;
     }

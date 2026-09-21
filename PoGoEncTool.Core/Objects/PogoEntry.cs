@@ -9,11 +9,16 @@ public sealed record PogoEntry : IComparable<PogoEntry>
     [Category("Dates")] public PogoDate? Start { get; set; }
     [Category("Dates")] public bool LocalizedStart { get; set; }
     [Category("Dates")] public PogoDate? End { get; set; }
-    [Category("Dates")] public bool NoEndTolerance { get; set; }
+    [Category("Dates")] public bool HasEndTolerance { get; set; }
 
     [Category("Detail")] public PogoShiny Shiny { get; set; }
     [Category("Detail")] public PogoGender Gender { get; set; }
     [Category("Detail")] public PogoType Type { get; set; }
+    [Category("Detail")] public byte? MinIV { get; set; } = 0;
+    [Category("Detail")] public byte? MinLevel { get; set; } = 1;
+    [Category("Detail")] public PogoBallRestriction? BallRestriction { get; set; } = PogoBallRestriction.Poke_Great_Ultra_Master;
+    [Category("Detail")] public bool IsGigantamax { get; set; }
+    [Category("Detail")] public bool IsFeaturedGOWildArea { get; set; }
 
     // last property
     [Category("Misc")] public string Comment { get; set; } = string.Empty;
@@ -23,7 +28,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         other.Start = Start;
         other.LocalizedStart = LocalizedStart;
         other.End = End;
-        other.NoEndTolerance = NoEndTolerance;
+        other.HasEndTolerance = HasEndTolerance;
 
         other.Shiny = Shiny;
         other.Gender = Gender;
@@ -114,6 +119,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         if (newType is PogoType.Raid)
         {
             // todo
+            Shiny = PogoShiny.Always;
             return true;
         }
 

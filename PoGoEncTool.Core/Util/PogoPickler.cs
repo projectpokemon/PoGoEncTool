@@ -31,7 +31,7 @@ public static class PogoPickler
     {
         using var ms = new MemoryStream();
         using var bw = new BinaryWriter(ms);
-        entry.Data.RemoveAll(z => z.Type.IsGigantamax);
+        entry.Data.RemoveAll(z => z.IsGigantamax);
 
         if (!GetCanTransferIfShiny(entry.Species, entry.Form))
         {
@@ -51,7 +51,7 @@ public static class PogoPickler
     private static void Write(PogoEntry entry, BinaryWriter bw)
     {
         bw.Write(entry.Start?.Write(entry.LocalizedStart ? -1 : 0) ?? 0);
-        bw.Write(entry.End?.Write(!entry.NoEndTolerance ? 1 : 0) ?? 0);
+        bw.Write(entry.End?.Write(entry.HasEndTolerance ? 1 : 0) ?? 0);
 
         byte sg = (byte) (PogoToHex(entry.Shiny) | (PogoToHex(entry.Gender) << 6));
         bw.Write(sg);

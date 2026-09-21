@@ -66,7 +66,7 @@ public static class BulkActions
                 End   = new PogoDate(),
                 Type = type,
                 LocalizedStart = true,
-                NoEndTolerance = false,
+                HasEndTolerance = true,
                 Comment = comment,
                 Shiny = enc.Shiny,
             };
@@ -135,7 +135,7 @@ public static class BulkActions
                 End = enc.End,
                 Type = type,
                 LocalizedStart = true,
-                NoEndTolerance = false,
+                HasEndTolerance = true,
                 Comment = comment,
                 Shiny = enc.Shiny,
             };
@@ -167,7 +167,7 @@ public static class BulkActions
                 End = SeasonEnd,
                 Type = type,
                 LocalizedStart = true,
-                NoEndTolerance = false,
+                HasEndTolerance = true,
                 Comment = $"Reward Encounter (GO Battle League: {Season})",
                 Shiny = enc.Shiny,
             };
@@ -181,9 +181,7 @@ public static class BulkActions
 
         static bool IsRevertFormOnTransfer(ushort species) => species is (ushort)Giratina or (ushort)Genesect;
 
-        static bool IsLessRestrictiveEncounter(PogoType type) => type is Wild or ResearchBreakthrough or SpecialResearch or TimedResearch or CollectionChallenge or
-                                                                                 SpecialMythical or SpecialLevel10 or SpecialLevel20 or SpecialLevelRange or SpecialMythicalLevel10 or SpecialMythicalLevel20 or SpecialMythicalLevelRange or
-                                                                                 TimedMythical or TimedLevel10 or TimedLevel20 or TimedLevelRange or TimedMythicalLevel10 or TimedMythicalLevel20 or TimedMythicalLevelRange;
+        static bool IsLessRestrictiveEncounter(PogoType type) => type is Wild or ResearchBreakthrough or SpecialResearch or TimedResearch or CollectionChallenge;
     }
 
     public static void AddNewShadows(PogoEncounterList list)
@@ -221,7 +219,7 @@ public static class BulkActions
                 Shiny = shiny,
                 Type = Shadow,
                 LocalizedStart = true,
-                NoEndTolerance = false,
+                HasEndTolerance = true,
                 Comment = "Team GO Rocket Grunt",
             };
 
