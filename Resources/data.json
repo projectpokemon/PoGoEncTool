@@ -33394,6 +33394,17 @@
           "Comment": "Five-Star Raid Boss"
         },
         {
+          "Start": "2026.08.28",
+          "LocalizedStart": true,
+          "End": "2026.09.01",
+          "HasEndTolerance": true,
+          "Type": "GOPass",
+          "MinIV": 0,
+          "MinLevel": 15,
+          "BallRestriction": "Poke_Great_Ultra_Master",
+          "Comment": "GO Pass Deluxe: Pok\u00E9monXP \u0026 2026 Worlds"
+        },
+        {
           "Start": "2026.09.21",
           "LocalizedStart": true,
           "End": "2026.09.27",
@@ -52265,6 +52276,15 @@
           "MinLevel": 20,
           "BallRestriction": "Poke_Great_Ultra_Master",
           "Comment": "Reward Encounter (Pok\u00E9monXP \u0026 2026 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": "2026.09.08",
+          "HasEndTolerance": true,
+          "Type": "TimedResearch",
+          "MinIV": 0,
+          "MinLevel": 15,
+          "BallRestriction": "Poke_Great_Ultra_Master",
+          "Comment": "GO Battle League Timed Research"
         },
         {
           "Start": "2026.09.18",

@@ -33,6 +33,11 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         other.Shiny = Shiny;
         other.Gender = Gender;
         other.Type = Type;
+        other.MinIV = MinIV;
+        other.MinLevel = MinLevel;
+        other.BallRestriction = BallRestriction;
+        other.IsGigantamax = IsGigantamax;
+        other.IsFeaturedGOWildArea = IsFeaturedGOWildArea;
 
         other.Comment = Comment;
     }
@@ -45,6 +50,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         Gender = PogoGender.Random,
         Type = PogoType.Wild,
         LocalizedStart = true,
+        HasEndTolerance = true,
     };
 
     public override string ToString()
