@@ -23995,6 +23995,15 @@
           "MinLevel": 1,
           "BallRestriction": "Poke_Great_Ultra_Master",
           "Comment": "San Francisco 2026 Pok\u00E9mon World Championships"
+        },
+        {
+          "Start": "2026.09.08",
+          "HasEndTolerance": true,
+          "Type": "TimedResearch",
+          "MinIV": 0,
+          "MinLevel": 15,
+          "BallRestriction": "Poke_Great_Ultra_Master",
+          "Comment": "GO Battle League Timed Research"
         }
       ]
     },
