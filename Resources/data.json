@@ -90096,7 +90096,7 @@
           "End": "2025.11.16",
           "HasEndTolerance": true,
           "Type": "TimedResearch",
-          "MinIV": 1,
+          "MinIV": 10,
           "MinLevel": 15,
           "BallRestriction": "Poke_Great_Ultra_Master",
           "Comment": "Shadow Rescue"

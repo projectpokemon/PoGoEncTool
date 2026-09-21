@@ -122,10 +122,110 @@ public sealed record PogoEntry : IComparable<PogoEntry>
 
     public bool InitializeDefaultsForType(PogoType newType)
     {
-        if (newType is PogoType.Raid)
+        if (newType is PogoType.Egg)
         {
-            // todo
-            Shiny = PogoShiny.Always;
+            MinIV = 1;
+            BallRestriction = PogoBallRestriction.OnlyPoke;
+            return true;
+        }
+
+        if (newType is PogoType.Egg12km)
+        {
+            MinIV = 1;
+            MinLevel = 8;
+            BallRestriction = PogoBallRestriction.OnlyPoke;
+            return true;
+        }
+
+        if (newType is PogoType.Raid or PogoType.RaidShadow or PogoType.MaxBattle or PogoType.MaxBattleGigantamax)
+        {
+            MinIV = 1;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+
+            if (newType is PogoType.MaxBattleGigantamax)
+                IsGigantamax = true;
+
+            return true;
+        }
+
+        if (newType is PogoType.RaidMythical or PogoType.MaxBattleMythical)
+        {
+            MinIV = 10;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+            return true;
+        }
+
+        if (newType is PogoType.RaidUltraBeast or PogoType.RaidShadowUltraBeast or PogoType.MaxBattleUltraBeast)
+        {
+            MinIV = 1;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.OnlyBeast;
+            return true;
+        }
+
+        if (newType is PogoType.RaidShadowMythical)
+        {
+            MinIV = 8;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+            return true;
+        }
+
+        if (newType is >= PogoType.FieldResearch and <= PogoType.ReferralBonus)
+        {
+            MinIV = 1;
+            MinLevel = 15;
+            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            return true;
+        }
+
+        if (newType is PogoType.GBL)
+        {
+            MinIV = 1;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            return true;
+        }
+
+        if (newType is PogoType.GBLMythical)
+        {
+            MinIV = 10;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            return true;
+        }
+
+        if (newType is PogoType.GBLEvent)
+        {
+            MinIV = 0;
+            MinLevel = 20;
+            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            return true;
+        }
+
+        if (newType is PogoType.Shadow)
+        {
+            MinIV = 0;
+            MinLevel = 8;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+            return true;
+        }
+
+        if (newType is PogoType.ShadowMythical)
+        {
+            MinIV = 8;
+            MinLevel = 8;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+            return true;
+        }
+
+        if (newType is PogoType.ShadowUltraBeast)
+        {
+            MinIV = 8;
+            MinLevel = 8;
+            BallRestriction = PogoBallRestriction.OnlyBeast;
             return true;
         }
 
