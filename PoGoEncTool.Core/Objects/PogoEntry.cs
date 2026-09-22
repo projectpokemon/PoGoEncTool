@@ -14,7 +14,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
     [Category("Detail")] public PogoShiny Shiny { get; set; }
     [Category("Detail")] public PogoGender Gender { get; set; }
     [Category("Detail")] public PogoType Type { get; set; }
-    [Category("Detail")] public byte? MinIV { get; set; } = 0;
+    [Category("Detail")] public byte? MinIV { get; set; }
     [Category("Detail")] public byte? MinLevel { get; set; } = 1;
     [Category("Detail")] public PogoBallRestriction? BallRestriction { get; set; } = PogoBallRestriction.Poke_Great_Ultra_Master;
     [Category("Detail")] public bool IsGigantamax { get; set; }

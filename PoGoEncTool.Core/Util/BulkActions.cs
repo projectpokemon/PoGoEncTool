@@ -2,6 +2,7 @@ using PKHeX.Core;
 using System.Collections.Generic;
 using System.Linq;
 using static PKHeX.Core.Species;
+using static PoGoEncTool.Core.PogoBallRestriction;
 using static PoGoEncTool.Core.PogoShiny;
 using static PoGoEncTool.Core.PogoType;
 
@@ -55,6 +56,14 @@ public static class BulkActions
             if (type is Raid or RaidShadow or MaxBattle && SpeciesCategory.IsMythical(enc.Species))
                 type++;
 
+            byte iv = type switch
+            {
+                Raid or RaidShadow or MaxBattle or MaxBattleGigantamax => 1,
+                RaidMythical or MaxBattleMythical => 10,
+                RaidShadowMythical => 8,
+                _ => throw new System.ArgumentOutOfRangeException(nameof(type)),
+            };
+
             var stars = GetRaidBossTier(tier);
             var eventName = "";
             var descriptor = eventName is "" ? "" : $" ({eventName})";
@@ -69,6 +78,9 @@ public static class BulkActions
                 HasEndTolerance = true,
                 Comment = comment,
                 Shiny = enc.Shiny,
+                MinIV = iv,
+                MinLevel = 20,
+                BallRestriction = OnlyPremier,
             };
 
             // set species as available if this encounter is its debut
@@ -129,6 +141,7 @@ public static class BulkActions
                 _ => Raid,
             };
 
+            var iv = type is RaidMythical ? (byte)10 : (byte)1;
             var entry = new PogoEntry
             {
                 Start = enc.Start,
@@ -138,6 +151,9 @@ public static class BulkActions
                 HasEndTolerance = true,
                 Comment = comment,
                 Shiny = enc.Shiny,
+                MinIV = iv,
+                MinLevel = 20,
+                BallRestriction = OnlyPremier,
             };
 
             // set species as available if this encounter is its debut
@@ -161,6 +177,7 @@ public static class BulkActions
             if (pk.Data.Any(z => IsRevertFormOnTransfer(enc.Species) || IsLessRestrictiveEncounter(z.Type) && z.Shiny == enc.Shiny && z.End == null))
                 continue;
             var type = SpeciesCategory.IsMythical(enc.Species) ? GBLMythical : GBL;
+            var iv = type is GBLMythical ? (byte)10 : (byte)1;
             var entry = new PogoEntry
             {
                 Start = new PogoDate(),
@@ -170,6 +187,9 @@ public static class BulkActions
                 HasEndTolerance = true,
                 Comment = $"Reward Encounter (GO Battle League: {Season})",
                 Shiny = enc.Shiny,
+                MinIV = iv,
+                MinLevel = 20,
+                BallRestriction = Poke_Great_Ultra_Master,
             };
 
             // set species as available if this encounter is its debut
@@ -221,6 +241,9 @@ public static class BulkActions
                 LocalizedStart = true,
                 HasEndTolerance = true,
                 Comment = "Team GO Rocket Grunt",
+                MinIV = 1,
+                MinLevel = 8,
+                BallRestriction = OnlyPremier,
             };
 
             pk.Add(entry);
