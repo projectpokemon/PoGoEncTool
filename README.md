@@ -14,4 +14,4 @@ PGET is a Windows Forms application which requires [.NET 10](https://dotnet.micr
 Periodically, the generated pkl will be merged into PKHeX for legality data.
 
 ## Screenshots
-![Main Window](https://i.imgur.com/gWJVQDy.png)
+![Main Window](https://i.imgur.com/TmixvuG.png)

@@ -89,7 +89,7 @@ namespace PoGoEncTool.WinForms
             LB_Appearances.FormattingEnabled = true;
             LB_Appearances.Location = new System.Drawing.Point(0, 0);
             LB_Appearances.Name = "LB_Appearances";
-            LB_Appearances.Size = new System.Drawing.Size(860, 539);
+            LB_Appearances.Size = new System.Drawing.Size(860, 532);
             LB_Appearances.TabIndex = 5;
             LB_Appearances.SelectedIndexChanged += LB_Appearances_SelectedIndexChanged;
             // 
@@ -103,7 +103,7 @@ namespace PoGoEncTool.WinForms
             // 
             // B_AddNew
             // 
-            B_AddNew.Location = new System.Drawing.Point(159, 102);
+            B_AddNew.Location = new System.Drawing.Point(158, 102);
             B_AddNew.Name = "B_AddNew";
             B_AddNew.Size = new System.Drawing.Size(120, 42);
             B_AddNew.TabIndex = 7;
@@ -114,7 +114,7 @@ namespace PoGoEncTool.WinForms
             // B_DeleteSelected
             // 
             B_DeleteSelected.Anchor = System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left;
-            B_DeleteSelected.Location = new System.Drawing.Point(160, 460);
+            B_DeleteSelected.Location = new System.Drawing.Point(159, 451);
             B_DeleteSelected.Name = "B_DeleteSelected";
             B_DeleteSelected.Size = new System.Drawing.Size(120, 42);
             B_DeleteSelected.TabIndex = 10;
@@ -137,7 +137,7 @@ namespace PoGoEncTool.WinForms
             // L_Serebii
             // 
             L_Serebii.AutoSize = true;
-            L_Serebii.Location = new System.Drawing.Point(159, 150);
+            L_Serebii.Location = new System.Drawing.Point(158, 149);
             L_Serebii.Name = "L_Serebii";
             L_Serebii.Size = new System.Drawing.Size(62, 15);
             L_Serebii.TabIndex = 14;
@@ -148,7 +148,7 @@ namespace PoGoEncTool.WinForms
             // L_PGFandom
             // 
             L_PGFandom.AutoSize = true;
-            L_PGFandom.Location = new System.Drawing.Point(159, 169);
+            L_PGFandom.Location = new System.Drawing.Point(158, 168);
             L_PGFandom.Name = "L_PGFandom";
             L_PGFandom.Size = new System.Drawing.Size(104, 15);
             L_PGFandom.TabIndex = 15;
@@ -158,7 +158,7 @@ namespace PoGoEncTool.WinForms
             // 
             // B_MarkEvosAvailable
             // 
-            B_MarkEvosAvailable.Location = new System.Drawing.Point(160, 266);
+            B_MarkEvosAvailable.Location = new System.Drawing.Point(159, 266);
             B_MarkEvosAvailable.Name = "B_MarkEvosAvailable";
             B_MarkEvosAvailable.Size = new System.Drawing.Size(120, 42);
             B_MarkEvosAvailable.TabIndex = 16;
@@ -169,7 +169,7 @@ namespace PoGoEncTool.WinForms
             // CHK_Available
             // 
             CHK_Available.AutoSize = true;
-            CHK_Available.Location = new System.Drawing.Point(160, 77);
+            CHK_Available.Location = new System.Drawing.Point(160, 78);
             CHK_Available.Name = "CHK_Available";
             CHK_Available.Size = new System.Drawing.Size(74, 19);
             CHK_Available.TabIndex = 17;
@@ -179,7 +179,7 @@ namespace PoGoEncTool.WinForms
             // 
             // B_CopyToForms
             // 
-            B_CopyToForms.Location = new System.Drawing.Point(159, 313);
+            B_CopyToForms.Location = new System.Drawing.Point(159, 314);
             B_CopyToForms.Name = "B_CopyToForms";
             B_CopyToForms.Size = new System.Drawing.Size(120, 42);
             B_CopyToForms.TabIndex = 18;
@@ -190,7 +190,7 @@ namespace PoGoEncTool.WinForms
             // B_DeleteAll
             // 
             B_DeleteAll.Anchor = System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left;
-            B_DeleteAll.Location = new System.Drawing.Point(159, 508);
+            B_DeleteAll.Location = new System.Drawing.Point(158, 499);
             B_DeleteAll.Name = "B_DeleteAll";
             B_DeleteAll.Size = new System.Drawing.Size(120, 42);
             B_DeleteAll.TabIndex = 19;
@@ -200,7 +200,7 @@ namespace PoGoEncTool.WinForms
             // 
             // B_DumpAll
             // 
-            B_DumpAll.Location = new System.Drawing.Point(159, 373);
+            B_DumpAll.Location = new System.Drawing.Point(159, 372);
             B_DumpAll.Name = "B_DumpAll";
             B_DumpAll.Size = new System.Drawing.Size(120, 42);
             B_DumpAll.TabIndex = 20;
@@ -223,7 +223,7 @@ namespace PoGoEncTool.WinForms
             // 
             SC_ListProps.Panel2.Controls.Add(pogoRow1);
             SC_ListProps.Panel2MinSize = 100;
-            SC_ListProps.Size = new System.Drawing.Size(1286, 539);
+            SC_ListProps.Size = new System.Drawing.Size(1286, 532);
             SC_ListProps.SplitterDistance = 860;
             SC_ListProps.TabIndex = 21;
             // 
@@ -232,7 +232,7 @@ namespace PoGoEncTool.WinForms
             pogoRow1.Dock = System.Windows.Forms.DockStyle.Fill;
             pogoRow1.Location = new System.Drawing.Point(0, 0);
             pogoRow1.Name = "pogoRow1";
-            pogoRow1.Size = new System.Drawing.Size(422, 539);
+            pogoRow1.Size = new System.Drawing.Size(422, 532);
             pogoRow1.TabIndex = 0;
             // 
             // Main

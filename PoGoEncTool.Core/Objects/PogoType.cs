@@ -65,6 +65,6 @@ public static class PogoTypeExtensions
 {
     extension(PogoType t)
     {
-        public bool IsShadow => t is RaidShadow or RaidShadowMythical or Shadow or ShadowMythical or ShadowUltraBeast;
+        public bool IsShadow => t is RaidShadow or RaidShadowMythical or RaidShadowUltraBeast or Shadow or ShadowMythical or ShadowUltraBeast;
     }
 }
