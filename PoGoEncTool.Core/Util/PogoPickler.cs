@@ -48,15 +48,23 @@ public static class PogoPickler
         return ms.ToArray();
     }
 
+    private const ushort DateNone = 0;
+
+#pragma warning disable IDE0004
     private static void Write(PogoEntry entry, BinaryWriter bw)
     {
-        bw.Write(entry.Start?.Write(entry.LocalizedStart ? -1 : 0) ?? 0);
-        bw.Write(entry.End?.Write(entry.HasEndTolerance ? 1 : 0) ?? 0);
+        bw.Write(entry.Start?.Write(entry.LocalizedStart ? -1 : 0) ?? DateNone);
+        bw.Write(entry.End?.Write(entry.HasEndTolerance ? 1 : 0) ?? DateNone);
 
-        byte sg = (byte) (PogoToHex(entry.Shiny) | (PogoToHex(entry.Gender) << 6));
-        bw.Write(sg);
+        bw.Write((byte)entry.Shiny);
+        bw.Write((byte)entry.Gender);
         bw.Write((byte)entry.Type);
+        bw.Write((byte)(entry.BallRestriction ?? PogoBallRestriction.Poke_Great_Ultra));
+
+        bw.Write((byte)(entry.MinLevel ?? 1));
+        bw.Write((byte)(entry.MinIV ?? 0));
     }
+#pragma warning restore IDE0004
 
     public enum PogoImportFormat : byte
     {
