@@ -59,7 +59,7 @@ public static class PogoPickler
         bw.Write((byte)PogoToHex(entry.Shiny));
         bw.Write((byte)PogoToHex(entry.Gender));
         bw.Write((byte)entry.Type);
-        bw.Write((byte)(entry.BallRestriction ?? PogoBallRestriction.Poke_Great_Ultra));
+        bw.Write((byte)(entry.BallRestriction ?? PogoBallRestriction.Standard));
 
         bw.Write((byte)GetFlags(entry));
         bw.Write((byte)(entry.MinLevel ?? 1));

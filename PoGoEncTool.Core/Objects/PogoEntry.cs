@@ -16,7 +16,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
     [Category("Detail")] public PogoType Type { get; set; }
     [Category("Detail")] public byte? MinIV { get; set; }
     [Category("Detail")] public byte? MinLevel { get; set; } = 1;
-    [Category("Detail")] public PogoBallRestriction? BallRestriction { get; set; } = PogoBallRestriction.Poke_Great_Ultra_Master;
+    [Category("Detail")] public PogoBallRestriction? BallRestriction { get; set; } = PogoBallRestriction.StandardMaster;
     [Category("Detail")] public bool IsGigantamax { get; set; }
     [Category("Detail")] public bool IsFeaturedGOWildArea { get; set; }
 
@@ -177,7 +177,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         {
             MinIV = 1;
             MinLevel = 15;
-            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            BallRestriction = PogoBallRestriction.StandardMaster;
             return true;
         }
 
@@ -185,7 +185,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         {
             MinIV = 1;
             MinLevel = 20;
-            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            BallRestriction = PogoBallRestriction.StandardMaster;
             return true;
         }
 
@@ -193,7 +193,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         {
             MinIV = 10;
             MinLevel = 20;
-            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            BallRestriction = PogoBallRestriction.StandardMaster;
             return true;
         }
 
@@ -201,7 +201,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         {
             MinIV = 0;
             MinLevel = 20;
-            BallRestriction = PogoBallRestriction.Poke_Great_Ultra_Master;
+            BallRestriction = PogoBallRestriction.StandardMaster;
             return true;
         }
 

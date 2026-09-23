@@ -189,7 +189,7 @@ public static class BulkActions
                 Shiny = enc.Shiny,
                 MinIV = iv,
                 MinLevel = 20,
-                BallRestriction = Poke_Great_Ultra_Master,
+                BallRestriction = StandardMaster,
             };
 
             // set species as available if this encounter is its debut
