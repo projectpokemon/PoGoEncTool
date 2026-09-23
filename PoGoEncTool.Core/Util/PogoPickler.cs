@@ -56,15 +56,31 @@ public static class PogoPickler
         bw.Write(entry.Start?.Write(entry.LocalizedStart ? -1 : 0) ?? DateNone);
         bw.Write(entry.End?.Write(entry.HasEndTolerance ? 1 : 0) ?? DateNone);
 
-        bw.Write((byte)entry.Shiny);
-        bw.Write((byte)entry.Gender);
+        bw.Write((byte)PogoToHex(entry.Shiny));
+        bw.Write((byte)PogoToHex(entry.Gender));
         bw.Write((byte)entry.Type);
         bw.Write((byte)(entry.BallRestriction ?? PogoBallRestriction.Poke_Great_Ultra));
 
+        bw.Write((byte)GetFlags(entry));
         bw.Write((byte)(entry.MinLevel ?? 1));
         bw.Write((byte)(entry.MinIV ?? 0));
+        bw.Write((byte)(0));
     }
 #pragma warning restore IDE0004
+
+    public static byte GetFlags(PogoEntry entry)
+    {
+        byte result = 0;
+        if (entry.LocalizedStart)
+            result |= 1;
+        if (entry.HasEndTolerance)
+            result |= 2;
+        if (entry.IsFeaturedGOWildArea)
+            result |= 4;
+        if (entry.IsGigantamax)
+            result |= 8;
+        return result;
+    }
 
     public enum PogoImportFormat : byte
     {
