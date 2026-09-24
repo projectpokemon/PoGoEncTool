@@ -90137,7 +90137,7 @@
           "End": "2025.11.09",
           "HasEndTolerance": true,
           "Type": "RaidShadowMythical",
-          "MinIV": 10,
+          "MinIV": 8,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "IsFeaturedGOWildArea": true,
@@ -90149,7 +90149,7 @@
           "End": "2025.11.16",
           "HasEndTolerance": true,
           "Type": "RaidShadowMythical",
-          "MinIV": 10,
+          "MinIV": 8,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "IsFeaturedGOWildArea": true,
@@ -123521,6 +123521,7 @@
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
+          "IsGigantamax": true,
           "IsFeaturedGOWildArea": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
@@ -123567,6 +123568,7 @@
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
+          "IsGigantamax": true,
           "IsFeaturedGOWildArea": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
@@ -123677,6 +123679,7 @@
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
+          "IsGigantamax": true,
           "IsFeaturedGOWildArea": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Fukuoka)"
         },
@@ -123723,6 +123726,7 @@
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
+          "IsGigantamax": true,
           "IsFeaturedGOWildArea": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2024: Global)"
         },
@@ -124564,6 +124568,7 @@
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
+          "IsGigantamax": true,
           "IsFeaturedGOWildArea": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2025: Nagasaki)"
         },
@@ -124576,6 +124581,7 @@
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
+          "IsGigantamax": true,
           "IsFeaturedGOWildArea": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2025: Global)"
         }
