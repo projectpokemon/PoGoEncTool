@@ -5390,6 +5390,17 @@
           "Comment": "One-Star Raid Boss (Pikachu\u0027s Autumn Picnic, No Costume)"
         },
         {
+          "Start": "2026.11.08",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss (Festival of Lights 2026, No Costume)"
+        },
+        {
           "Start": "2027.04.11",
           "End": "2027.04.11",
           "HasEndTolerance": true,
