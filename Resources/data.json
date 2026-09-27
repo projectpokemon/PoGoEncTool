@@ -107509,6 +107509,16 @@
           "Comment": "Five-Star Raid Boss (Road to Unova, Day 1)"
         },
         {
+          "Start": "2025.02.24",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "TimedResearch",
+          "MinIV": 10,
+          "MinLevel": 20,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Road to Unova: Raids Timed Research"
+        },
+        {
           "Start": "2025.10.21",
           "LocalizedStart": true,
           "End": "2025.10.28",
@@ -114318,7 +114328,7 @@
           "HasEndTolerance": true,
           "Shiny": "Never",
           "Type": "SpecialResearch",
-          "MinIV": 1,
+          "MinIV": 10,
           "MinLevel": 15,
           "BallRestriction": "StandardMaster",
           "Comment": "From A to Zygarde"
