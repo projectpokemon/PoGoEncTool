@@ -79,6 +79,8 @@ public static class PogoPickler
             result |= 4;
         if (entry.IsGigantamax)
             result |= 8;
+        if (entry.IsAlwaysSpecialTrade)
+            result |= 16;
         return result;
     }
 

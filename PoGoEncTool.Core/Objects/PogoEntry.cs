@@ -19,6 +19,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
     [Category("Detail")] public PogoBallRestriction? BallRestriction { get; set; } = PogoBallRestriction.StandardMaster;
     [Category("Detail")] public bool IsGigantamax { get; set; }
     [Category("Detail")] public bool IsFeaturedGOWildArea { get; set; }
+    [Category("Detail")] public bool IsAlwaysSpecialTrade { get; set; }
 
     // last property
     [Category("Misc")] public string Comment { get; set; } = string.Empty;
@@ -38,6 +39,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
         other.BallRestriction = BallRestriction;
         other.IsGigantamax = IsGigantamax;
         other.IsFeaturedGOWildArea = IsFeaturedGOWildArea;
+        other.IsAlwaysSpecialTrade = IsAlwaysSpecialTrade;
 
         other.Comment = Comment;
     }
