@@ -19378,6 +19378,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Mega Finale, Eerie Alley)"
+        },
+        {
+          "Start": "2026.09.27",
+          "End": "2026.10.20",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss (Pok\u00E9mon TCG 30th Celebration Event)"
         }
       ]
     },
