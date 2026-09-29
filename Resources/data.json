@@ -17155,6 +17155,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.09.30",
+          "LocalizedStart": true,
+          "End": "2026.10.03",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -55663,6 +55674,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.09.30",
+          "LocalizedStart": true,
+          "End": "2026.10.03",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -59895,6 +59917,17 @@
           "Start": "2025.09.23",
           "LocalizedStart": true,
           "End": "2025.09.30",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.09.30",
+          "LocalizedStart": true,
+          "End": "2026.10.03",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -82438,6 +82471,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.09.30",
+          "LocalizedStart": true,
+          "End": "2026.10.03",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -94841,6 +94885,17 @@
           "Start": "2026.08.26",
           "LocalizedStart": true,
           "End": "2026.09.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.09.30",
+          "LocalizedStart": true,
+          "End": "2026.10.03",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -111052,6 +111107,17 @@
           "Start": "2026.08.28",
           "LocalizedStart": true,
           "End": "2026.09.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.09.30",
+          "LocalizedStart": true,
+          "End": "2026.10.03",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -128617,6 +128683,17 @@
           "Start": "2026.08.18",
           "LocalizedStart": true,
           "End": "2026.08.25",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.09.30",
+          "LocalizedStart": true,
+          "End": "2026.10.03",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
