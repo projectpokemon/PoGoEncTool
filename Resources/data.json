@@ -5379,6 +5379,17 @@
           "Comment": "One-Star Raid Boss (Pok\u00E9mon GO Night 2026: Boston Red Sox)"
         },
         {
+          "Start": "2026.10.10",
+          "LocalizedStart": true,
+          "End": "2026.10.10",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss (World Space Week, No Costume)"
+        },
+        {
           "Start": "2026.10.11",
           "LocalizedStart": true,
           "End": "2026.10.11",
@@ -55742,7 +55753,7 @@
         {
           "Start": "2026.09.30",
           "LocalizedStart": true,
-          "End": "2026.10.03",
+          "End": "2026.10.06",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -94992,7 +95003,7 @@
         {
           "Start": "2026.09.30",
           "LocalizedStart": true,
-          "End": "2026.10.03",
+          "End": "2026.10.06",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -128811,7 +128822,7 @@
         {
           "Start": "2026.09.30",
           "LocalizedStart": true,
-          "End": "2026.10.03",
+          "End": "2026.10.06",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
