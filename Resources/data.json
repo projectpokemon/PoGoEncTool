@@ -5387,7 +5387,7 @@
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
-          "Comment": "One-Star Raid Boss (World Space Week, No Costume)"
+          "Comment": "One-Star Raid Boss (World Space Week 2026, No Costume)"
         },
         {
           "Start": "2026.10.11",
@@ -123271,6 +123271,16 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Pok\u00E9mon GO: Forever Forward"
+        },
+        {
+          "Start": "2026.10.04",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "FieldResearch",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "Comment": "European Space Agency Event 2026 (Accidental Release)"
         }
       ]
     },
