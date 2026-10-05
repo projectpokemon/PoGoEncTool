@@ -128635,6 +128635,17 @@
           "Comment": "GO Pass Deluxe: September 2026"
         },
         {
+          "Start": "2026.10.15",
+          "LocalizedStart": true,
+          "End": "2026.11.05",
+          "HasEndTolerance": true,
+          "Type": "GOPass",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "Comment": "GO Pass Deluxe: October 2026"
+        },
+        {
           "Start": "2026.11.06",
           "LocalizedStart": true,
           "End": "2026.11.08",
@@ -129503,6 +129514,18 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.11",
+          "LocalizedStart": true,
+          "End": "2026.11.05",
+          "HasEndTolerance": true,
+          "Shiny": "Never",
+          "Type": "GOPass",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "Comment": "GO Pass Deluxe: October 2026"
         }
       ]
     },
@@ -129654,6 +129677,18 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.11",
+          "LocalizedStart": true,
+          "End": "2026.11.05",
+          "HasEndTolerance": true,
+          "Shiny": "Never",
+          "Type": "GOPass",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "Comment": "GO Pass Deluxe: October 2026"
         }
       ]
     },
