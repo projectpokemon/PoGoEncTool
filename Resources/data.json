@@ -5401,6 +5401,17 @@
           "Comment": "One-Star Raid Boss (Pikachu\u0027s Autumn Picnic, No Costume)"
         },
         {
+          "Start": "2026.11.01",
+          "LocalizedStart": true,
+          "End": "2026.11.01",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss (Halloween 2026 Part I, No Costume)"
+        },
+        {
           "Start": "2026.11.08",
           "LocalizedStart": true,
           "End": "2026.11.08",
@@ -8787,6 +8798,7 @@
         {
           "Start": "2016.07.06",
           "LocalizedStart": true,
+          "End": "2026.10.27",
           "HasEndTolerance": true,
           "Shiny": "Never",
           "Type": "Wild",
@@ -8794,6 +8806,17 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "First Debut in the Wild (Kanto Region)"
+        },
+        {
+          "Start": "2016.07.06",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Shiny": "Never",
+          "Type": "Egg",
+          "MinIV": 1,
+          "MinLevel": 1,
+          "BallRestriction": "OnlyPoke",
+          "Comment": "First Debut in Pok\u00E9mon Eggs (Kanto Region)"
         },
         {
           "Start": "2019.07.22",
@@ -8830,11 +8853,21 @@
         },
         {
           "Start": "2019.07.25",
+          "End": "2026.10.27",
           "HasEndTolerance": true,
           "Type": "Wild",
           "MinIV": 0,
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
+          "Comment": "Team GO Rocket Disruption"
+        },
+        {
+          "Start": "2019.07.25",
+          "HasEndTolerance": true,
+          "Type": "Egg",
+          "MinIV": 1,
+          "MinLevel": 1,
+          "BallRestriction": "OnlyPoke",
           "Comment": "Team GO Rocket Disruption"
         },
         {
@@ -8846,6 +8879,15 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss (Team GO Rocket Leaders Disruption)"
+        },
+        {
+          "Start": "2020.02.01",
+          "HasEndTolerance": true,
+          "Type": "FieldResearch",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Field Research Tasks"
         },
         {
           "Start": "2021.04.22",
@@ -8900,6 +8942,16 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": "2026.11.05",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Returned to the Wild (After Halloween 2026 Part II)"
         }
       ]
     },
@@ -8907,6 +8959,16 @@
       "Species": 42,
       "Available": true,
       "Data": [
+        {
+          "Start": "2018.11.01",
+          "HasEndTolerance": true,
+          "Shiny": "Never",
+          "Type": "FieldResearch",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Field Research Tasks"
+        },
         {
           "Start": "2022.04.12",
           "LocalizedStart": true,
@@ -80350,6 +80412,7 @@
         {
           "Start": "2024.11.03",
           "LocalizedStart": true,
+          "End": "2026.10.27",
           "HasEndTolerance": true,
           "Type": "Wild",
           "MinIV": 0,
@@ -80367,6 +80430,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss (Halloween 2025 Part II, No Costume)"
+        },
+        {
+          "Start": "2026.11.05",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Returned to the Wild (After Halloween 2026 Part II)"
         }
       ]
     },
@@ -124420,6 +124493,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.01",
+          "LocalizedStart": true,
+          "End": "2026.11.01",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss (Halloween 2026 Part I, No Costume)"
         }
       ]
     },
@@ -124606,6 +124690,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.01",
+          "LocalizedStart": true,
+          "End": "2026.11.01",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss (Halloween 2026 Part I, No Costume)"
         }
       ]
     },
