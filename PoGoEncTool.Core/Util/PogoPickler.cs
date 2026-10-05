@@ -185,6 +185,7 @@ public static class PogoPickler
 
     private static bool GetCanTransferIfShiny(ushort species, byte form) => (Species)species switch
     {
+        Blipbug or Dottler or Orbeetle => false,
         _ => true,
     };
 }

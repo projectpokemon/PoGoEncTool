@@ -309,7 +309,7 @@ public static class BulkActions
             Rookidee => 1,
             Wooloo => 1,
             Toxtricity => 4,
-            Sizzlipede => 1, // verify
+            Sizzlipede => 1,
             Hatenna => 1,
             Falinks => 3,
             Duraludon => 4,
