@@ -25837,6 +25837,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss (Mega Ascension, Day 4 / Pok\u00E9mon GO Fest 2026: Mega Finale, Mindworks Canal)"
+        },
+        {
+          "Start": "2026.10.07",
+          "LocalizedStart": true,
+          "End": "2026.10.10",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -40154,6 +40165,17 @@
           "End": "2025.09.02",
           "HasEndTolerance": true,
           "Shiny": "Never",
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.07",
+          "LocalizedStart": true,
+          "End": "2026.10.10",
+          "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
           "MinLevel": 20,
@@ -97980,7 +98002,19 @@
     {
       "Species": 576,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": "2026.10.07",
+          "LocalizedStart": true,
+          "End": "2026.10.10",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 577,
