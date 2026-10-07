@@ -128726,24 +128726,13 @@
         {
           "Start": "2026.08.06",
           "LocalizedStart": true,
-          "End": "2026.09.10",
-          "HasEndTolerance": true,
-          "Type": "GOPass",
-          "MinIV": 1,
-          "MinLevel": 15,
-          "BallRestriction": "StandardMaster",
-          "Comment": "GO Pass Deluxe: August 2026"
-        },
-        {
-          "Start": "2026.09.10",
-          "LocalizedStart": true,
           "End": "2026.10.08",
           "HasEndTolerance": true,
           "Type": "GOPass",
           "MinIV": 1,
           "MinLevel": 15,
           "BallRestriction": "StandardMaster",
-          "Comment": "GO Pass Deluxe: September 2026"
+          "Comment": "GO Pass Deluxe: August / September 2026"
         },
         {
           "Start": "2026.10.15",
