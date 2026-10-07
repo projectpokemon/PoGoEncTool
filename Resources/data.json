@@ -106853,6 +106853,18 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.15",
+          "LocalizedStart": true,
+          "End": "2026.11.15",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsFeaturedGOWildArea": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Wild Area 2026: Global, Day 2)"
         }
       ]
     },
@@ -107078,6 +107090,18 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Boss Giovanni"
+        },
+        {
+          "Start": "2026.11.14",
+          "LocalizedStart": true,
+          "End": "2026.11.14",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsFeaturedGOWildArea": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Wild Area 2026: Global, Day 1)"
         }
       ]
     },
@@ -107713,6 +107737,18 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.14",
+          "LocalizedStart": true,
+          "End": "2026.11.15",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsFeaturedGOWildArea": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Wild Area 2026: Global)"
         }
       ]
     },
@@ -125784,12 +125820,38 @@
         {
           "Start": "2026.11.06",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattleGigantamax",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsGigantamax": true,
+          "IsFeaturedGOWildArea": true,
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2026: Sendai\u30FBTohoku / Mexico City)"
+        },
+        {
+          "Start": "2026.11.06",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "Egg",
           "MinIV": 1,
           "MinLevel": 1,
           "BallRestriction": "OnlyPoke",
           "Comment": "Pok\u00E9mon GO Wild Area 2026: Sendai\u30FBTohoku / Mexico City"
+        },
+        {
+          "Start": "2026.11.14",
+          "LocalizedStart": true,
+          "End": "2026.11.15",
+          "HasEndTolerance": true,
+          "Type": "MaxBattleGigantamax",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsGigantamax": true,
+          "IsFeaturedGOWildArea": true,
+          "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2026: Global)"
         }
       ]
     },
@@ -126034,6 +126096,18 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.06",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsFeaturedGOWildArea": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Wild Area 2026: Sendai\u30FBTohoku / Mexico City)"
         }
       ]
     },
@@ -126263,6 +126337,18 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.06",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsFeaturedGOWildArea": true,
+          "Comment": "Five-Star Raid Boss (Pok\u00E9mon GO Wild Area 2026: Sendai\u30FBTohoku / Mexico City)"
         }
       ]
     },
