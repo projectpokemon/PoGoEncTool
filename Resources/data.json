@@ -5401,15 +5401,15 @@
           "Comment": "One-Star Raid Boss (Pikachu\u0027s Autumn Picnic, No Costume)"
         },
         {
-          "Start": "2026.11.01",
+          "Start": "2026.11.05",
           "LocalizedStart": true,
-          "End": "2026.11.01",
+          "End": "2026.11.05",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
-          "Comment": "One-Star Raid Boss (Halloween 2026 Part I, No Costume)"
+          "Comment": "One-Star Raid Boss (Halloween 2026 Part II, No Costume)"
         },
         {
           "Start": "2026.11.08",
@@ -97769,6 +97769,7 @@
           "LocalizedStart": true,
           "End": "2026.07.12",
           "HasEndTolerance": true,
+          "Shiny": "Never",
           "Type": "Wild",
           "MinIV": 0,
           "MinLevel": 1,
@@ -124653,15 +124654,15 @@
           "Comment": "One-Star Raid Boss"
         },
         {
-          "Start": "2026.11.01",
+          "Start": "2026.11.05",
           "LocalizedStart": true,
-          "End": "2026.11.01",
+          "End": "2026.11.05",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
-          "Comment": "One-Star Raid Boss (Halloween 2026 Part I, No Costume)"
+          "Comment": "One-Star Raid Boss (Halloween 2026 Part II, No Costume)"
         }
       ]
     },
@@ -124850,15 +124851,15 @@
           "Comment": "One-Star Raid Boss"
         },
         {
-          "Start": "2026.11.01",
+          "Start": "2026.11.05",
           "LocalizedStart": true,
-          "End": "2026.11.01",
+          "End": "2026.11.05",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
-          "Comment": "One-Star Raid Boss (Halloween 2026 Part I, No Costume)"
+          "Comment": "One-Star Raid Boss (Halloween 2026 Part II, No Costume)"
         }
       ]
     },
@@ -128938,6 +128939,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.01",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Halloween 2026 Part II"
         }
       ]
     },
