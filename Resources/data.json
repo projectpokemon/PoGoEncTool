@@ -102106,6 +102106,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.31",
+          "LocalizedStart": true,
+          "End": "2026.10.31",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Super Mega Raid Boss (Chandelure Super Mega Raid Day)"
         }
       ]
     },
