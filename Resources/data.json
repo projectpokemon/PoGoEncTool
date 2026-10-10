@@ -7640,6 +7640,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.11",
+          "LocalizedStart": true,
+          "End": "2026.10.13",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -25863,7 +25874,7 @@
         {
           "Start": "2026.10.07",
           "LocalizedStart": true,
-          "End": "2026.10.10",
+          "End": "2026.10.13",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -40207,7 +40218,7 @@
         {
           "Start": "2026.10.07",
           "LocalizedStart": true,
-          "End": "2026.10.10",
+          "End": "2026.10.13",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -51347,6 +51358,17 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": "2026.10.11",
+          "LocalizedStart": true,
+          "End": "2026.10.13",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -98084,7 +98106,7 @@
         {
           "Start": "2026.10.07",
           "LocalizedStart": true,
-          "End": "2026.10.10",
+          "End": "2026.10.13",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -101727,6 +101749,17 @@
           "Start": "2025.09.01",
           "LocalizedStart": true,
           "End": "2025.09.02",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.11",
+          "LocalizedStart": true,
+          "End": "2026.10.13",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -112484,6 +112517,17 @@
           "Start": "2026.08.31",
           "LocalizedStart": true,
           "End": "2026.09.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.11",
+          "LocalizedStart": true,
+          "End": "2026.10.13",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
