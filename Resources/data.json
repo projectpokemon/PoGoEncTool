@@ -13145,6 +13145,7 @@
         {
           "Start": "2024.01.27",
           "LocalizedStart": true,
+          "End": "2026.10.01",
           "HasEndTolerance": true,
           "Type": "Shadow",
           "MinIV": 1,
@@ -16660,6 +16661,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": "2026.10.02",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Shadow",
+          "MinIV": 1,
+          "MinLevel": 8,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -18864,6 +18875,7 @@
         {
           "Start": "2026.03.03",
           "LocalizedStart": true,
+          "End": "2026.10.01",
           "HasEndTolerance": true,
           "Type": "Shadow",
           "MinIV": 1,
@@ -34478,6 +34490,7 @@
         {
           "Start": "2026.01.23",
           "LocalizedStart": true,
+          "End": "2026.10.01",
           "HasEndTolerance": true,
           "Type": "Shadow",
           "MinIV": 1,
@@ -58577,6 +58590,7 @@
         {
           "Start": "2026.06.25",
           "LocalizedStart": true,
+          "End": "2026.10.01",
           "HasEndTolerance": true,
           "Type": "Shadow",
           "MinIV": 1,
@@ -63284,6 +63298,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.02",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Shadow",
+          "MinIV": 1,
+          "MinLevel": 8,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -102274,6 +102298,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.02",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Shadow",
+          "MinIV": 1,
+          "MinLevel": 8,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -115702,6 +115736,7 @@
         {
           "Start": "2026.06.25",
           "LocalizedStart": true,
+          "End": "2026.10.01",
           "HasEndTolerance": true,
           "Type": "Shadow",
           "MinIV": 1,
@@ -117118,6 +117153,16 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Solstice Horizons"
+        },
+        {
+          "Start": "2026.10.02",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Shadow",
+          "MinIV": 1,
+          "MinLevel": 8,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -117857,6 +117902,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.02",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Shadow",
+          "MinIV": 1,
+          "MinLevel": 8,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
@@ -118014,6 +118069,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.02",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Shadow",
+          "MinIV": 1,
+          "MinLevel": 8,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Team GO Rocket Grunt"
         }
       ]
     },
