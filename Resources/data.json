@@ -64581,7 +64581,7 @@
         {
           "Start": "2026.10.28",
           "LocalizedStart": true,
-          "End": "2026.11.03",
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -71952,6 +71952,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Mega Finale, Eerie Alley)"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.24",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -75814,6 +75825,17 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Mighty Pok\u00E9mon (Pok\u00E9mon GO Wild Area 2026: Global, Day 1)"
+        },
+        {
+          "Start": "2026.11.25",
+          "LocalizedStart": true,
+          "End": "2026.12.01",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -79308,6 +79330,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (San Francisco 2026 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": "2026.11.25",
+          "LocalizedStart": true,
+          "End": "2026.12.01",
+          "HasEndTolerance": true,
+          "Type": "RaidMythical",
+          "MinIV": 10,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -79499,6 +79532,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (San Francisco 2026 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": "2026.11.25",
+          "LocalizedStart": true,
+          "End": "2026.12.01",
+          "HasEndTolerance": true,
+          "Type": "RaidMythical",
+          "MinIV": 10,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -79713,6 +79757,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (San Francisco 2026 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": "2026.11.25",
+          "LocalizedStart": true,
+          "End": "2026.12.01",
+          "HasEndTolerance": true,
+          "Type": "RaidMythical",
+          "MinIV": 10,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -79882,6 +79937,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (San Francisco 2026 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": "2026.11.25",
+          "LocalizedStart": true,
+          "End": "2026.12.01",
+          "HasEndTolerance": true,
+          "Type": "RaidMythical",
+          "MinIV": 10,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -90008,6 +90074,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": "2026.11.04",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -90447,6 +90524,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (Special GO Fest 2026: Global \u2013 Sunday Raid Event, Twilight Battlefield)"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.24",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -90695,6 +90783,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (Special GO Fest 2026: Global \u2013 Sunday Raid Event, Twilight Battlefield)"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.24",
+          "HasEndTolerance": true,
+          "Type": "RaidMythical",
+          "MinIV": 10,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -106302,6 +106401,28 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (Special GO Fest 2026: Global \u2013 Sunday Raid Event, Earthforged Domain)"
+        },
+        {
+          "Start": "2026.11.04",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "RaidShadow",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Shadow Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.12.01",
+          "HasEndTolerance": true,
+          "Type": "RaidShadow",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -111409,6 +111530,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.23",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
