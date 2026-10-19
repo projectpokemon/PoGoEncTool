@@ -5401,6 +5401,17 @@
           "Comment": "One-Star Raid Boss (Pikachu\u0027s Autumn Picnic, No Costume)"
         },
         {
+          "Start": "2026.10.24",
+          "End": "2026.10.24",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsAlwaysSpecialTrade": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon Night Out: Los Angeles)"
+        },
+        {
           "Start": "2026.11.05",
           "LocalizedStart": true,
           "End": "2026.11.05",
@@ -5421,6 +5432,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss (Festival of Lights 2026, No Costume)"
+        },
+        {
+          "Start": "2026.11.10",
+          "End": "2026.11.10",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsAlwaysSpecialTrade": true,
+          "Comment": "One-Star Raid Boss (Pok\u00E9mon Night Out: London)"
         },
         {
           "Start": "2027.04.11",
@@ -19550,6 +19572,28 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss (Pok\u00E9mon TCG 30th Celebration Event)"
+        },
+        {
+          "Start": "2026.10.24",
+          "End": "2026.10.24",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsAlwaysSpecialTrade": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Night Out: Los Angeles)"
+        },
+        {
+          "Start": "2026.11.10",
+          "End": "2026.11.10",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsAlwaysSpecialTrade": true,
+          "Comment": "Three-Star Raid Boss (Pok\u00E9mon Night Out: London)"
         }
       ]
     },
@@ -44146,6 +44190,16 @@
           "Comment": "Pok\u00E9mon RUN 30: Taiwan Edition (Taichung Central Park)"
         },
         {
+          "Start": "2026.10.24",
+          "End": "2026.10.24",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Pok\u00E9mon Night Out: Los Angeles"
+        },
+        {
           "Start": "2026.10.31",
           "LocalizedStart": true,
           "End": "2026.11.01",
@@ -44177,6 +44231,16 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Pok\u00E9mon RUN 30: Singapore Edition"
+        },
+        {
+          "Start": "2026.11.10",
+          "End": "2026.11.10",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Pok\u00E9mon Night Out: London"
         },
         {
           "Start": "2026.11.14",
@@ -44594,6 +44658,16 @@
           "Comment": "Pok\u00E9mon GO Fest 2026: Global"
         },
         {
+          "Start": "2026.10.24",
+          "End": "2026.10.24",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Pok\u00E9mon Night Out: Los Angeles"
+        },
+        {
           "Start": "2026.11.06",
           "End": "2026.11.08",
           "HasEndTolerance": true,
@@ -44602,6 +44676,16 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Pok\u00E9mon GO Wild Area 2026: Mexico City"
+        },
+        {
+          "Start": "2026.11.10",
+          "End": "2026.11.10",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Pok\u00E9mon Night Out: London"
         }
       ]
     },
