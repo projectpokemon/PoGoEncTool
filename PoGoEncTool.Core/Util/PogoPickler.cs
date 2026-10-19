@@ -179,6 +179,7 @@ public static class PogoPickler
         Dialga when form is 1 => false,
         Palkia when form is 1 => false,
         Zygarde => false,
+        Minior => false,
         Eternatus => false,
         _ => true,
     };

@@ -135,7 +135,7 @@ public partial class Main : Form
         var forms = FormConverter.GetFormList(species, GameInfo.Strings.Types, GameInfo.Strings.forms, GameInfo.GenderSymbolASCII, Latest.Context);
         var prefer = species switch
         {
-          //(ushort)Species.Minior => 7,
+            (ushort)Species.Minior => 10, // Meteor Form is a battle-only form
             (ushort)Species.Gimmighoul => 1, // GO is always Roaming Form
             _ => 0,
         };

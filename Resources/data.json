@@ -50965,7 +50965,7 @@
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
-          "Comment": "One-Star Power Spot Boss"
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
@@ -118197,6 +118197,25 @@
       "Species": 770,
       "Available": true,
       "Data": []
+    },
+    {
+      "Species": 774,
+      "Form": 10,
+      "Available": true,
+      "Data": [
+        {
+          "Start": "2026.10.19",
+          "LocalizedStart": true,
+          "End": "2026.10.24",
+          "HasEndTolerance": true,
+          "Shiny": "Never",
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Minior Shower (Orionids 2026)"
+        }
+      ]
     },
     {
       "Species": 775,

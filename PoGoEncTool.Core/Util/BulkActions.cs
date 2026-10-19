@@ -279,7 +279,7 @@ public static class BulkActions
             Kabuto => 1,
             Hoothoot => 1,
             Shuckle => 2,
-            Sneasel => 1, // verify
+            Sneasel => 2,
             Hitmontop => 3,
             Ralts => 1,
             Sableye => 3,
