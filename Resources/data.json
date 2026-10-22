@@ -19618,6 +19618,17 @@
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon Night Out: Los Angeles)"
         },
         {
+          "Start": "2026.10.31",
+          "End": "2026.11.05",
+          "HasEndTolerance": true,
+          "Type": "MaxBattleGigantamax",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsGigantamax": true,
+          "Comment": "Six-Star Power Spot Boss (D\u00EDa de Muertos 2026, In-Person Event)"
+        },
+        {
           "Start": "2026.11.10",
           "End": "2026.11.10",
           "HasEndTolerance": true,
