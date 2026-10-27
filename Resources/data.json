@@ -97709,7 +97709,19 @@
     {
       "Species": 563,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": "2026.10.28",
+          "LocalizedStart": true,
+          "End": "2026.11.03",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 564,
@@ -113987,7 +113999,19 @@
     {
       "Species": 709,
       "Available": true,
-      "Data": []
+      "Data": [
+        {
+          "Start": "2026.10.28",
+          "LocalizedStart": true,
+          "End": "2026.11.03",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
+        }
+      ]
     },
     {
       "Species": 710,
@@ -119546,6 +119570,17 @@
           "Start": "2026.08.25",
           "LocalizedStart": true,
           "End": "2026.08.25",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.10.28",
+          "LocalizedStart": true,
+          "End": "2026.11.03",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
