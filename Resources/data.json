@@ -90946,12 +90946,24 @@
         {
           "Start": "2020.07.26",
           "LocalizedStart": true,
+          "End": "2023.07.28",
           "HasEndTolerance": true,
           "Shiny": "Never",
           "Type": "SpecialResearch",
           "MinIV": 10,
           "MinLevel": 15,
           "BallRestriction": "Standard",
+          "Comment": "GO Fest 2020: Rocket Straight to Victory"
+        },
+        {
+          "Start": "2020.07.26",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Shiny": "Never",
+          "Type": "SpecialResearch",
+          "MinIV": 10,
+          "MinLevel": 15,
+          "BallRestriction": "OnlyPoke",
           "Comment": "GO Fest 2020: Rocket Straight to Victory"
         },
         {
