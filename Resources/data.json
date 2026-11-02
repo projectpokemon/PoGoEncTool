@@ -3205,6 +3205,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": "2026.11.24",
+          "LocalizedStart": true,
+          "End": "2026.11.30",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss (Twilight Wishes)"
         }
       ]
     },
@@ -5443,6 +5454,17 @@
           "BallRestriction": "OnlyPremier",
           "IsAlwaysSpecialTrade": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon Night Out: London)"
+        },
+        {
+          "Start": "2026.11.30",
+          "LocalizedStart": true,
+          "End": "2026.11.30",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss (Twilight Wishes, No Costume)"
         },
         {
           "Start": "2027.04.11",
@@ -40065,6 +40087,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.30",
+          "LocalizedStart": true,
+          "End": "2026.11.30",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss (Twilight Wishes, No Costume)"
         }
       ]
     },
@@ -40330,6 +40363,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.30",
+          "LocalizedStart": true,
+          "End": "2026.11.30",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss (Twilight Wishes, No Costume)"
         }
       ]
     },
@@ -54519,6 +54563,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": "2026.11.24",
+          "LocalizedStart": true,
+          "End": "2026.11.30",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss (Twilight Wishes)"
         }
       ]
     },
@@ -64675,6 +64730,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": "2026.11.24",
+          "LocalizedStart": true,
+          "End": "2026.11.30",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss (Twilight Wishes)"
         }
       ]
     },
@@ -67067,6 +67133,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Mega Finale, Circuit Plaza)"
+        },
+        {
+          "Start": "2026.11.24",
+          "LocalizedStart": true,
+          "End": "2026.11.30",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss (Twilight Wishes)"
         }
       ]
     },
