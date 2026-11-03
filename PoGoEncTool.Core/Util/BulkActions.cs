@@ -81,6 +81,9 @@ public static class BulkActions
                 MinIV = iv,
                 MinLevel = 20,
                 BallRestriction = OnlyPremier,
+                IsGigantamax = Type == BossType.MaxBattleGigantamax,
+                IsFeaturedGOWildArea = false,
+                IsAlwaysSpecialTrade = false,
             };
 
             // set species as available if this encounter is its debut
