@@ -119651,6 +119651,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.23",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Dynamax Trails"
         }
       ]
     },
@@ -124953,6 +124964,28 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.23",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Dynamax Trails"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.23",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Four-Star Power Spot Boss (Dynamax Trails)"
         }
       ]
     },
@@ -125111,6 +125144,28 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.23",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Dynamax Trails"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.23",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Four-Star Power Spot Boss (Dynamax Trails)"
         }
       ]
     },
@@ -126649,6 +126704,28 @@
           "IsGigantamax": true,
           "IsFeaturedGOWildArea": true,
           "Comment": "Six-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2026: Global)"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.23",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Dynamax Trails"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.23",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Four-Star Power Spot Boss (Dynamax Trails)"
         }
       ]
     },
