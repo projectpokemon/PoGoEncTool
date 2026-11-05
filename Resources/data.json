@@ -7772,6 +7772,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.28",
+          "LocalizedStart": true,
+          "End": "2026.11.28",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Super Mega Raid Boss (Clefable Super Mega Raid Day)"
         }
       ]
     },
