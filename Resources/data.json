@@ -72636,6 +72636,17 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": "2026.11.06",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -97915,7 +97926,7 @@
         {
           "Start": "2026.10.28",
           "LocalizedStart": true,
-          "End": "2026.11.05",
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -100798,6 +100809,17 @@
           "MinLevel": 20,
           "BallRestriction": "StandardMaster",
           "Comment": "Reward Encounter (Pok\u00E9monXP \u0026 2026 Pok\u00E9mon World Championships)"
+        },
+        {
+          "Start": "2026.11.06",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -102599,6 +102621,17 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": "2026.11.06",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -114205,7 +114238,7 @@
         {
           "Start": "2026.10.28",
           "LocalizedStart": true,
-          "End": "2026.11.05",
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -119793,7 +119826,7 @@
         {
           "Start": "2026.10.28",
           "LocalizedStart": true,
-          "End": "2026.11.05",
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
