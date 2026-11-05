@@ -13840,6 +13840,17 @@
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon GO Wild Area 2026: Sendai\u30FBTohoku / Mexico City, No Costume)"
         },
         {
+          "Start": "2026.11.06",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "TimedResearch",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "IsGigantamax": true,
+          "Comment": "GO Wild Area: Gigantamax Machamp Power Up!"
+        },
+        {
           "Start": "2026.11.14",
           "LocalizedStart": true,
           "End": "2026.11.15",
