@@ -130587,6 +130587,17 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Coin Bag (Into the Wild 2026 / Pok\u00E9mon GO Wild Area: Global 2026)"
+        },
+        {
+          "Start": "2026.11.13",
+          "LocalizedStart": true,
+          "End": "2026.11.17",
+          "HasEndTolerance": true,
+          "Type": "GOPass",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "Comment": "GO Pass: Into the Wild 2026"
         }
       ]
     },
