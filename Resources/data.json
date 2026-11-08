@@ -114061,6 +114061,16 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Pok\u00E9mon GO Wild Area 2026: Sendai\u30FBTohoku / Mexico City"
+        },
+        {
+          "Start": "2026.11.06",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "FieldResearch",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Pok\u00E9mon GO Wild Area 2026: Sendai\u30FBTohoku / Mexico City"
         }
       ]
     },
@@ -126748,6 +126758,17 @@
           "Comment": "Pok\u00E9mon GO Wild Area 2026: Sendai\u30FBTohoku / Mexico City"
         },
         {
+          "Start": "2026.11.06",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "SpecialResearch",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "IsGigantamax": true,
+          "Comment": "GO Wild Area: Sendai\u30FBTohoku / Mexico City \u2013 The Suspense Is Building"
+        },
+        {
           "Start": "2026.11.14",
           "LocalizedStart": true,
           "End": "2026.11.15",
@@ -129814,6 +129835,16 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Pok\u00E9mon GO Wild Area 2026: Sendai\u30FBTohoku / Mexico City (Solid as Steel)"
+        },
+        {
+          "Start": "2026.11.06",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "SpecialResearch",
+          "MinIV": 1,
+          "MinLevel": 15,
+          "BallRestriction": "StandardMaster",
+          "Comment": "GO Wild Area: Sendai\u30FBTohoku / Mexico City \u2013 The Suspense Is Building"
         },
         {
           "Start": "2026.11.09",
