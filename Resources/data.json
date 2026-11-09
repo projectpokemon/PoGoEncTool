@@ -433,6 +433,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -472,6 +473,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss (Green Pok\u00E9mon Jet)"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -1372,6 +1383,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -1400,6 +1412,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss (Red Pok\u00E9mon Jet)"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -2321,6 +2343,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -2338,6 +2361,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -2797,6 +2830,17 @@
         },
         {
           "Start": "2025.10.08",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -5062,6 +5106,7 @@
         {
           "Start": "2026.03.09",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -5454,6 +5499,16 @@
           "BallRestriction": "OnlyPremier",
           "IsAlwaysSpecialTrade": true,
           "Comment": "One-Star Raid Boss (Pok\u00E9mon Night Out: London)"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         },
         {
           "Start": "2026.11.30",
@@ -11690,6 +11745,17 @@
         {
           "Start": "2026.02.09",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -12688,6 +12754,17 @@
         },
         {
           "Start": "2025.10.08",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -18957,6 +19034,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -19007,6 +19085,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -20490,6 +20578,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -20540,6 +20629,16 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -23088,6 +23187,7 @@
         {
           "Start": "2026.03.09",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -23105,6 +23205,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -23293,6 +23403,7 @@
         {
           "Start": "2026.03.09",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -23332,6 +23443,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -24453,6 +24574,17 @@
         {
           "Start": "2026.09.14",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -25192,6 +25324,17 @@
         },
         {
           "Start": "2025.10.08",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -27482,6 +27625,17 @@
         {
           "Start": "2026.06.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -27873,6 +28027,17 @@
         },
         {
           "Start": "2026.08.03",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -28907,6 +29072,17 @@
         },
         {
           "Start": "2026.08.17",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -30194,6 +30370,17 @@
         {
           "Start": "2025.11.21",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -31126,6 +31313,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -31154,6 +31342,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -31353,6 +31551,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -31392,6 +31591,16 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -36679,6 +36888,7 @@
         {
           "Start": "2026.06.22",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -36695,6 +36905,16 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -50173,6 +50393,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -50224,6 +50445,16 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
@@ -51134,6 +51365,17 @@
         },
         {
           "Start": "2026.10.19",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -55909,6 +56151,7 @@
         {
           "Start": "2026.08.24",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -55926,6 +56169,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Shadow Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -64780,6 +65033,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -64862,6 +65116,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
         },
         {
           "Start": "2026.11.24",
@@ -68569,6 +68833,17 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Two-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -69376,6 +69651,17 @@
         },
         {
           "Start": "2026.04.06",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -71734,6 +72020,7 @@
         {
           "Start": "2026.07.27",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -71751,6 +72038,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
@@ -74259,6 +74556,7 @@
         {
           "Start": "2025.12.22",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -74286,6 +74584,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -75651,6 +75959,7 @@
         {
           "Start": "2025.06.02",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -75723,6 +76032,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -83253,6 +83572,7 @@
         {
           "Start": "2026.05.25",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -83270,6 +83590,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -92530,6 +92860,17 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -93154,6 +93495,17 @@
         {
           "Start": "2026.01.26",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -93418,6 +93770,7 @@
         {
           "Start": "2025.10.27",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -93446,6 +93799,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -93713,6 +94076,7 @@
         {
           "Start": "2025.06.02",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -93730,6 +94094,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -95548,6 +95922,17 @@
         {
           "Start": "2026.05.04",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -96348,6 +96733,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -96387,6 +96773,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Two-Star Power Spot Boss"
         }
       ]
     },
@@ -98223,6 +98619,17 @@
         },
         {
           "Start": "2025.10.08",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -103510,6 +103917,17 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -105773,6 +106191,7 @@
         {
           "Start": "2026.07.13",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -105790,6 +106209,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -112506,6 +112935,7 @@
         {
           "Start": "2025.11.03",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -112523,6 +112953,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Shadow Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -118224,6 +118664,17 @@
         {
           "Start": "2025.10.13",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -118474,6 +118925,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -118491,6 +118943,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -119677,6 +120139,7 @@
         {
           "Start": "2026.01.05",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -119727,6 +120190,16 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Dynamax Trails"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
@@ -123355,6 +123828,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Shiny": "Never",
           "Type": "MaxBattle",
@@ -123376,22 +123850,23 @@
         {
           "Start": "2026.01.18",
           "LocalizedStart": true,
-          "HasEndTolerance": true,
-          "Type": "Wild",
-          "MinIV": 0,
-          "MinLevel": 1,
-          "BallRestriction": "StandardMaster",
-          "Comment": "January 2026 Community Day"
-        },
-        {
-          "Start": "2026.01.18",
-          "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.01.18",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "January 2026 Community Day"
         },
         {
           "Start": "2026.02.21",
@@ -123414,6 +123889,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -123652,6 +124137,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Shiny": "Never",
           "Type": "MaxBattle",
@@ -123687,6 +124173,17 @@
         {
           "Start": "2026.03.14",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.03.14",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "Wild",
           "MinIV": 0,
@@ -123695,7 +124192,7 @@
           "Comment": "March 2026 Community Day"
         },
         {
-          "Start": "2026.03.14",
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -123917,6 +124414,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Shiny": "Never",
           "Type": "MaxBattle",
@@ -123940,6 +124438,17 @@
         {
           "Start": "2026.07.04",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.07.04",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "Wild",
           "MinIV": 0,
@@ -123948,7 +124457,7 @@
           "Comment": "July 2026 Community Day"
         },
         {
-          "Start": "2026.07.04",
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -124138,6 +124647,17 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -124241,22 +124761,23 @@
         {
           "Start": "2025.07.22",
           "LocalizedStart": true,
-          "HasEndTolerance": true,
-          "Type": "Wild",
-          "MinIV": 0,
-          "MinLevel": 1,
-          "BallRestriction": "StandardMaster",
-          "Comment": "Ultra Unlock 2025: Steel and Scales"
-        },
-        {
-          "Start": "2025.07.22",
-          "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2025.07.22",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Ultra Unlock 2025: Steel and Scales"
         },
         {
           "Start": "2026.04.08",
@@ -124278,6 +124799,16 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -124604,6 +125135,17 @@
         },
         {
           "Start": "2025.10.08",
+          "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
           "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
@@ -125340,6 +125882,17 @@
         {
           "Start": "2026.10.05",
           "LocalizedStart": true,
+          "End": "2026.11.08",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -125821,6 +126374,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Shiny": "Never",
           "Type": "MaxBattle",
@@ -125864,22 +126418,23 @@
         {
           "Start": "2025.11.15",
           "LocalizedStart": true,
-          "HasEndTolerance": true,
-          "Type": "Wild",
-          "MinIV": 0,
-          "MinLevel": 1,
-          "BallRestriction": "StandardMaster",
-          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Fanciful Fairy Hour)"
-        },
-        {
-          "Start": "2025.11.15",
-          "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Power Spot Boss"
+        },
+        {
+          "Start": "2025.11.15",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Pok\u00E9mon GO Wild Area 2025: Global (Fanciful Fairy Hour)"
         },
         {
           "Start": "2026.02.16",
@@ -125913,6 +126468,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -126349,6 +126914,7 @@
         {
           "Start": "2025.10.08",
           "LocalizedStart": true,
+          "End": "2026.11.08",
           "HasEndTolerance": true,
           "Type": "MaxBattle",
           "MinIV": 1,
@@ -126409,6 +126975,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Power Spot Boss"
         }
       ]
     },
