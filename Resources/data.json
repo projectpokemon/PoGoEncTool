@@ -65947,6 +65947,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Mega Finale, Prism Promenade)"
+        },
+        {
+          "Start": "2026.11.09",
+          "LocalizedStart": true,
+          "End": "2026.11.13",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Into the Wild 2026"
         }
       ]
     },
@@ -119234,6 +119245,25 @@
     },
     {
       "Species": 774,
+      "Form": 9,
+      "Available": true,
+      "Data": [
+        {
+          "Start": "2026.11.14",
+          "LocalizedStart": true,
+          "End": "2026.11.19",
+          "HasEndTolerance": true,
+          "Shiny": "Never",
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Minior Shower (Leonids 2026)"
+        }
+      ]
+    },
+    {
+      "Species": 774,
       "Form": 10,
       "Available": true,
       "Data": [
@@ -119248,6 +119278,18 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Minior Shower (Orionids 2026)"
+        },
+        {
+          "Start": "2026.11.14",
+          "LocalizedStart": true,
+          "End": "2026.11.19",
+          "HasEndTolerance": true,
+          "Shiny": "Never",
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Minior Shower (Leonids 2026)"
         }
       ]
     },
