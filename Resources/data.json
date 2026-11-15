@@ -10666,6 +10666,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.24",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
@@ -22906,6 +22917,17 @@
           "Start": "2026.08.05",
           "LocalizedStart": true,
           "End": "2026.08.11",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.24",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -41029,6 +41051,17 @@
           "Start": "2025.08.04",
           "LocalizedStart": true,
           "End": "2025.08.11",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.24",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -92132,6 +92165,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.24",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -97941,6 +97985,17 @@
           "Start": "2025.11.03",
           "LocalizedStart": true,
           "End": "2025.11.04",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.24",
           "HasEndTolerance": true,
           "Type": "Raid",
           "MinIV": 1,
@@ -104817,6 +104872,17 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Mighty Pok\u00E9mon (Pok\u00E9mon GO Wild Area 2025: Global)"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.24",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss"
         }
       ]
     },
@@ -118771,6 +118837,17 @@
           "MinLevel": 8,
           "BallRestriction": "OnlyPremier",
           "Comment": "Team GO Rocket Grunt"
+        },
+        {
+          "Start": "2026.11.16",
+          "LocalizedStart": true,
+          "End": "2026.11.24",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss"
         }
       ]
     },
