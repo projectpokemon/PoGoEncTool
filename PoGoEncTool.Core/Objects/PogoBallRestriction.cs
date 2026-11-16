@@ -4,9 +4,11 @@ public enum PogoBallRestriction
 {
     None = 0,
     StandardMaster = 1,
-    Standard = 2,
-    OnlyPoke = 3,
-    OnlyPremier = 4,
-    OnlyBeast = 5,
-    OnlySafari = 6,
+    StandardMasterNoSafari = 2,
+    Standard = 3,
+    StandardNoSafari = 4,
+    OnlyPoke = 5,
+    OnlyPremier = 6,
+    OnlyBeast = 7,
+    OnlySafari = 8,
 }

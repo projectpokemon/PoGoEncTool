@@ -430,7 +430,7 @@ public partial class Main : Form
                         (>= FieldResearch and <= ReferralBonus) or PremierBallBug or PremierBallBugMythical => "Research",
                         >= GBL and <= GBLEvent => "GO Battle League",
                         >= Shadow and <= ShadowUltraBeast => "Shadow",
-                        >= MaxBattle and <= MaxBattleGigantamax => "Max Battle",
+                        >= MaxBattle and <= MaxBattleUltraBeast => "Max Battle",
                         _ => throw new ArgumentOutOfRangeException(nameof(enc.Type)),
                     };
 

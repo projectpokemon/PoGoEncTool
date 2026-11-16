@@ -47,7 +47,6 @@ public enum PogoType : byte
     MaxBattle = 60,
     MaxBattleMythical,
     MaxBattleUltraBeast,
-    MaxBattleGigantamax,
 
     /// <summary> Pokémon captured from Special Research or Timed Research with a Premier Ball. </summary>
     /// <remarks>

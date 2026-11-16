@@ -139,15 +139,11 @@ public sealed record PogoEntry : IComparable<PogoEntry>
             return true;
         }
 
-        if (newType is PogoType.Raid or PogoType.RaidShadow or PogoType.MaxBattle or PogoType.MaxBattleGigantamax)
+        if (newType is PogoType.Raid or PogoType.RaidShadow or PogoType.MaxBattle)
         {
             MinIV = 1;
             MinLevel = 20;
             BallRestriction = PogoBallRestriction.OnlyPremier;
-
-            if (newType is PogoType.MaxBattleGigantamax)
-                IsGigantamax = true;
-
             return true;
         }
 

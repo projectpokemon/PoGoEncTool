@@ -41,7 +41,6 @@ public static class BulkActions
                 BossType.Raid => Raid,
                 BossType.ShadowRaid => RaidShadow,
                 BossType.MaxBattleDynamax => MaxBattle,
-                BossType.MaxBattleGigantamax => MaxBattleGigantamax,
                 _ => throw new System.ArgumentOutOfRangeException(nameof(Type)),
             };
 
@@ -58,7 +57,7 @@ public static class BulkActions
 
             byte iv = type switch
             {
-                Raid or RaidShadow or MaxBattle or MaxBattleGigantamax => 1,
+                Raid or RaidShadow or MaxBattle => 1,
                 RaidMythical or MaxBattleMythical => 10,
                 RaidShadowMythical => 8,
                 _ => throw new System.ArgumentOutOfRangeException(nameof(type)),
