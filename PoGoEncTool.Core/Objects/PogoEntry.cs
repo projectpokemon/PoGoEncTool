@@ -124,9 +124,18 @@ public sealed record PogoEntry : IComparable<PogoEntry>
 
     public bool InitializeDefaultsForType(PogoType newType)
     {
+        if (newType is PogoType.Wild)
+        {
+            MinIV = 0;
+            MinLevel = 1;
+            BallRestriction = PogoBallRestriction.StandardMaster;
+            return true;
+        }
+
         if (newType is PogoType.Egg)
         {
             MinIV = 1;
+            MinLevel = 1;
             BallRestriction = PogoBallRestriction.OnlyPoke;
             return true;
         }
@@ -205,7 +214,7 @@ public sealed record PogoEntry : IComparable<PogoEntry>
 
         if (newType is PogoType.Shadow)
         {
-            MinIV = 0;
+            MinIV = 1;
             MinLevel = 8;
             BallRestriction = PogoBallRestriction.OnlyPremier;
             return true;
@@ -221,9 +230,25 @@ public sealed record PogoEntry : IComparable<PogoEntry>
 
         if (newType is PogoType.ShadowUltraBeast)
         {
-            MinIV = 8;
+            MinIV = 1;
             MinLevel = 8;
             BallRestriction = PogoBallRestriction.OnlyBeast;
+            return true;
+        }
+
+        if (newType is PogoType.PremierBallBug)
+        {
+            MinIV = 1;
+            MinLevel = 15;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
+            return true;
+        }
+
+        if (newType is PogoType.PremierBallBugMythical)
+        {
+            MinIV = 10;
+            MinLevel = 15;
+            BallRestriction = PogoBallRestriction.OnlyPremier;
             return true;
         }
 

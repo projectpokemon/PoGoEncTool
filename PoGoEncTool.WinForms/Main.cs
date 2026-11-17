@@ -408,19 +408,19 @@ public partial class Main : Form
 
                     var shiny = enc.Shiny switch
                     {
-                        PogoShiny.Random => " (Shiny: Random)",
-                        PogoShiny.Always => " (Shiny: Always)",
-                        _ => " (Shiny:  Never)",
+                        PogoShiny.Random => "Shiny: Random",
+                        PogoShiny.Always => "Shiny: Always",
+                        _ => "Shiny: Never",
                     };
 
                     var gender = enc.Gender switch
                     {
-                        PogoGender.MaleOnly => " (Gender: ♂)",
-                        PogoGender.FemaleOnly => " (Gender: ♀)",
-                        _ => string.Empty,
+                        PogoGender.MaleOnly => "Gender: Male",
+                        PogoGender.FemaleOnly => "Gender: Female",
+                        _ => "Gender: Random",
                     };
 
-                    var method = enc.Type switch
+                    var type = enc.Type switch
                     {
                         Wild => "Wild",
                         Egg => "Egg",
@@ -434,8 +434,7 @@ public partial class Main : Form
                         _ => throw new ArgumentOutOfRangeException(nameof(enc.Type)),
                     };
 
-                    var type = $" ({method}) ".PadRight(20, ' ');
-                    var line = $"{start} to {end}{type}{shiny}{gender} - {enc.Comment}";
+                    var line = $"{start} - {end} | {type, -16} | {shiny, -13} | {gender, -14} | Level: {enc.MinLevel, -2} | IV: {enc.MinIV, -2} | {enc.Comment}";
                     list.Add(line);
                 }
 
