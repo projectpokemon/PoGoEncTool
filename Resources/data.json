@@ -123082,6 +123082,18 @@
           "IsGigantamax": true,
           "IsAlwaysSpecialTrade": true,
           "Comment": "Gigantamax Journey"
+        },
+        {
+          "Start": "2026.12.05",
+          "LocalizedStart": true,
+          "End": "2026.12.05",
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "IsGigantamax": true,
+          "Comment": "Six-Star Power Spot Boss (Gigantamax Inteleon Max Battle Day)"
         }
       ]
     },
