@@ -2316,6 +2316,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.12.11",
+          "LocalizedStart": true,
+          "End": "2027.08.31",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss (Blue Pok\u00E9mon Jet)"
         }
       ]
     },
