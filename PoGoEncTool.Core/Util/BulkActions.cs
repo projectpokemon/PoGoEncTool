@@ -300,7 +300,7 @@ public static class BulkActions
             Trubbish => 1,
             Cryogonal => 3,
             Deino => 3,
-            Espurr => 1, // verify
+            Espurr => 2,
             Inkay => 1,
             Bounsweet => 1,
             Passimian => 3,
