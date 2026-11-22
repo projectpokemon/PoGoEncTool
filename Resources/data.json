@@ -65168,6 +65168,16 @@
           "Comment": "Mega Raid Boss (Raid Day: Mega Mawile)"
         },
         {
+          "Start": "2024.11.05",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "FieldResearch",
+          "MinIV": 1,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Field Research Tasks (Community Meetup Check-In)"
+        },
+        {
           "Start": "2025.04.21",
           "LocalizedStart": true,
           "End": "2025.05.01",
@@ -95972,7 +95982,6 @@
         {
           "Start": "2026.03.03",
           "LocalizedStart": true,
-          "End": "2026.06.02",
           "HasEndTolerance": true,
           "Type": "Wild",
           "MinIV": 0,
@@ -103091,6 +103100,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2024.11.05",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "FieldResearch",
+          "MinIV": 1,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Field Research Tasks (Community Meetup Check-In)"
         },
         {
           "Start": "2024.12.02",
@@ -112958,24 +112977,12 @@
         {
           "Start": "2026.03.03",
           "LocalizedStart": true,
-          "End": "2026.09.08",
           "HasEndTolerance": true,
           "Type": "Wild",
           "MinIV": 0,
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Pok\u00E9mon GO: Memories in Motion / Forever Forward"
-        },
-        {
-          "Start": "2026.07.11",
-          "LocalizedStart": true,
-          "End": "2026.07.12",
-          "HasEndTolerance": true,
-          "Type": "Wild",
-          "MinIV": 0,
-          "MinLevel": 1,
-          "BallRestriction": "StandardMaster",
-          "Comment": "Pok\u00E9mon GO Fest 2026: Global (Dragonflight Summit / Twilight Battlefield)"
         }
       ]
     },
@@ -128041,11 +128048,23 @@
         {
           "Start": "2026.10.13",
           "LocalizedStart": true,
+          "End": "2026.10.19",
           "HasEndTolerance": true,
           "Shiny": "Never",
           "Type": "Wild",
           "MinIV": 0,
           "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Fall Marathon: Buddy Trek"
+        },
+        {
+          "Start": "2026.10.13",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Shiny": "Never",
+          "Type": "FieldResearch",
+          "MinIV": 1,
+          "MinLevel": 15,
           "BallRestriction": "StandardMaster",
           "Comment": "Fall Marathon: Buddy Trek"
         }
