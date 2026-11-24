@@ -47,7 +47,7 @@ public static class BulkActions
             var tier = Type switch
             {
                 BossType.Raid or BossType.ShadowRaid => enc.Tier,
-                BossType.MaxBattleDynamax => GetPowerSpotTier(enc.Species),
+                BossType.MaxBattleDynamax => GetPowerSpotTier(enc.Species, enc.Form),
                 BossType.MaxBattleGigantamax => (byte)6,
                 _ => throw new System.ArgumentOutOfRangeException(nameof(Type)),
             };
@@ -252,7 +252,7 @@ public static class BulkActions
         }
     }
 
-    private static byte GetPowerSpotTier(ushort species)
+    private static byte GetPowerSpotTier(ushort species, byte form)
     {
         if (SpeciesCategory.IsSpecialPokemon(species))
             return 5;
@@ -264,6 +264,7 @@ public static class BulkActions
             Squirtle => 1,
             Caterpie => 1,
             Pikachu => 1,
+            Sandshrew when form == 1 => 1, // verify
             Growlithe => 1,
             Abra => 1,
             Machop => 2,

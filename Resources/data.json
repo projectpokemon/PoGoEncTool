@@ -6566,6 +6566,16 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.12.21",
+          "LocalizedStart": true,
+          "HasEndTolerance": true,
+          "Type": "MaxBattle",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Power Spot Boss"
         }
       ]
     },
@@ -16360,6 +16370,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Mega Finale, Mindworks Canal)"
+        },
+        {
+          "Start": "2026.12.02",
+          "LocalizedStart": true,
+          "End": "2026.12.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -19530,6 +19551,17 @@
           "BallRestriction": "OnlyPremier",
           "IsAlwaysSpecialTrade": true,
           "Comment": "Three-Star Raid Boss (Pok\u00E9mon Night Out: London)"
+        },
+        {
+          "Start": "2026.12.09",
+          "LocalizedStart": true,
+          "End": "2026.12.15",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -53731,6 +53763,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Mega Finale, Iron Frostworks)"
+        },
+        {
+          "Start": "2026.12.16",
+          "LocalizedStart": true,
+          "End": "2026.12.22",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -58043,6 +58086,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (10th Anniversary Celebration / Pok\u00E9mon GO Fest 2026: Global)"
+        },
+        {
+          "Start": "2026.12.23",
+          "LocalizedStart": true,
+          "End": "2026.12.29",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -58325,6 +58379,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (10th Anniversary Celebration / Pok\u00E9mon GO Fest 2026: Global)"
+        },
+        {
+          "Start": "2026.12.16",
+          "LocalizedStart": true,
+          "End": "2026.12.22",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -73601,6 +73666,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Mega Raid Boss (Pok\u00E9mon GO Fest 2026: Mega Finale, Iron Frostworks)"
+        },
+        {
+          "Start": "2026.12.23",
+          "LocalizedStart": true,
+          "End": "2026.12.29",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -88305,6 +88381,17 @@
           "BallRestriction": "OnlyPremier",
           "IsFeaturedGOWildArea": true,
           "Comment": "Five-Star Power Spot Boss (Pok\u00E9mon GO Wild Area 2026: Global, Day 1)"
+        },
+        {
+          "Start": "2026.12.02",
+          "LocalizedStart": true,
+          "End": "2027.01.05",
+          "HasEndTolerance": true,
+          "Type": "RaidShadow",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Shadow Raid Boss"
         }
       ]
     },
@@ -106153,6 +106240,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (Special GO Fest 2026: Global \u2013 Sunday Raid Event, Earthforged Domain)"
+        },
+        {
+          "Start": "2026.12.30",
+          "LocalizedStart": true,
+          "End": "2027.01.05",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -106508,6 +106606,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (Special GO Fest 2026: Global \u2013 Sunday Raid Event, Earthforged Domain)"
+        },
+        {
+          "Start": "2026.12.30",
+          "LocalizedStart": true,
+          "End": "2027.01.05",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -107351,6 +107460,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Raid Boss (Special GO Fest 2026: Global \u2013 Sunday Raid Event, Earthforged Domain)"
+        },
+        {
+          "Start": "2026.12.30",
+          "LocalizedStart": true,
+          "End": "2027.01.05",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
@@ -125400,6 +125520,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Three-Star Raid Boss"
+        },
+        {
+          "Start": "2026.12.30",
+          "LocalizedStart": true,
+          "End": "2027.01.05",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Mega Raid Boss"
         }
       ]
     },
@@ -126698,6 +126829,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "Five-Star Power Spot Boss (Into the Wild 2026, Day 4)"
+        },
+        {
+          "Start": "2026.12.02",
+          "LocalizedStart": true,
+          "End": "2026.12.08",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Five-Star Raid Boss"
         }
       ]
     },
