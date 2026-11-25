@@ -10017,6 +10017,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.12.01",
+          "LocalizedStart": true,
+          "End": "2026.12.07",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss (Tropical Paradise)"
         }
       ]
     },
@@ -98910,6 +98921,17 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Pok\u00E9mon GO: Forever Forward"
+        },
+        {
+          "Start": "2026.12.01",
+          "LocalizedStart": true,
+          "End": "2027.03.01",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Pok\u00E9mon GO: Daydream Destinations"
         }
       ]
     },
@@ -99313,6 +99335,17 @@
           "MinLevel": 1,
           "BallRestriction": "StandardMaster",
           "Comment": "Pok\u00E9mon GO: Forever Forward"
+        },
+        {
+          "Start": "2026.12.01",
+          "LocalizedStart": true,
+          "End": "2027.03.01",
+          "HasEndTolerance": true,
+          "Type": "Wild",
+          "MinIV": 0,
+          "MinLevel": 1,
+          "BallRestriction": "StandardMaster",
+          "Comment": "Pok\u00E9mon GO: Daydream Destinations"
         }
       ]
     },
@@ -100227,6 +100260,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.12.01",
+          "LocalizedStart": true,
+          "End": "2026.12.07",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss (Tropical Paradise)"
         }
       ]
     },
@@ -117918,6 +117962,17 @@
           "MinLevel": 20,
           "BallRestriction": "OnlyPremier",
           "Comment": "One-Star Raid Boss"
+        },
+        {
+          "Start": "2026.12.01",
+          "LocalizedStart": true,
+          "End": "2026.12.07",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "One-Star Raid Boss (Tropical Paradise)"
         }
       ]
     },
@@ -117925,6 +117980,23 @@
       "Species": 770,
       "Available": true,
       "Data": []
+    },
+    {
+      "Species": 771,
+      "Available": true,
+      "Data": [
+        {
+          "Start": "2026.12.01",
+          "LocalizedStart": true,
+          "End": "2026.12.07",
+          "HasEndTolerance": true,
+          "Type": "Raid",
+          "MinIV": 1,
+          "MinLevel": 20,
+          "BallRestriction": "OnlyPremier",
+          "Comment": "Three-Star Raid Boss (Tropical Paradise)"
+        }
+      ]
     },
     {
       "Species": 774,
